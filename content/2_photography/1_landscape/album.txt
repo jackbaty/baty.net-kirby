@@ -1,0 +1,25 @@
+Title: Landscape
+
+----
+
+Cover: 
+
+----
+
+Headline: 
+
+----
+
+Subheadline: Not a lot of portraits here
+
+----
+
+Text: <p>I don't normally seek out landscape photos, but if I see something beautiful, I try to capture it.</p>
+
+----
+
+Tags: landscape, nature
+
+----
+
+Uuid: PjvoKxwSNH1m9vjC
