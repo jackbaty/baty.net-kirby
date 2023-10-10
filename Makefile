@@ -27,6 +27,5 @@ deploy: checkpoint
 			--exclude Makefile \
 			--filter=':- .gitignore' \
 			--exclude .gitignore.swp \
-			--exclude .git/ \
 			$(PUBLIC_DIR) $(SERVER_HOST):$(SERVER_DIR)
 	open raycast://confetti
