@@ -53,7 +53,11 @@ columns:
             type: users
           # Fields types can be added using the shortcut `fieldname: true`
           # (however, you can only use a fieldname once per page and this only makes sense for simple fields without configuration)
-          tags: true
+          tags:
+            label: Tags
+            type: tags
+            options: query
+            query: page.siblings.pluck("tags", ",", true)
       files:
         type: files
         template: blocks/image
