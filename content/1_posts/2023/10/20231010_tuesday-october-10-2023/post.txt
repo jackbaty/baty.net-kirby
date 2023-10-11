@@ -6,7 +6,7 @@ Summary: (link: https://baty.net/posts/2023/10/kirby-it-is text: Baty.net is run
 
 ----
 
-Text: [{"content":{"text":"<p><a href=\"https://baty.net/posts/2023/10/kirby-it-is\">Baty.net is running Kirby</a>, so that's kind of big news around here today. I've decided to run it with the <a href=\"https://getkirby.com/releases/4.0\">Kirby 4 beta</a>. Why relearn a bunch of stuff in a month or two, right? Here we go.</p>"},"id":"47dc3a2a-19c0-4bcb-8bd5-7b8ee6f48989","isHidden":false,"type":"text"}]
+Text: [{"content":{"text":"<p><a href=\"https://baty.net/posts/2023/10/baty-net-is-running-kirby-cms\">Baty.net is running Kirby</a>, so that's kind of big news around here today. I've decided to run it with the <a href=\"https://getkirby.com/releases/4.0\">Kirby 4 beta</a>. Why relearn a bunch of stuff in a month or two, right? Here we go.</p>"},"id":"47dc3a2a-19c0-4bcb-8bd5-7b8ee6f48989","isHidden":false,"type":"text"}]
 
 ----
 
