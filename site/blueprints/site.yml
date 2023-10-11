@@ -33,3 +33,5 @@ columns:
           - home
           - default
           - default.blocks
+      redirects:
+        extends: plugin-redirects
