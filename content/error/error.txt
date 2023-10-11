@@ -1,8 +1,10 @@
-Title: Error
+Title: Missing 😱
 
 ----
 
-Text: This page cannot be found 😱
+Text: Sorry, the page you were looking for isn't here.
+
+There have been a lot of changes around here recently. I'm working on getting things in order. Sorry for the trouble.
 
 ----
 
