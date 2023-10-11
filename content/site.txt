@@ -5,6 +5,10 @@ Title: Baty.net
 Redirects:
 
 - 
-  fromuri: 2023/back-to-org-roam/
+  fromuri: /2023/back-to-org-roam/
   touri: /posts/2023/03/back-to-org-roam
+  code: _301
+- 
+  fromuri: /foo
+  touri: /bar
   code: _301
