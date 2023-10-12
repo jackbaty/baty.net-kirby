@@ -233,7 +233,7 @@ h1, h2, h3, h4, h5, h6 {
   color: inherit;
 }
 .text hr {
-  margin: 6rem 0;
+  margin: 2rem 0;
 }
 .text dt {
   font-weight: 600;
