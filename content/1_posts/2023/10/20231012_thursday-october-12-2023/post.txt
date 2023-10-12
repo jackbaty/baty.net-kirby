@@ -1,0 +1,29 @@
+Title: Thursday, October 12, 2023
+
+----
+
+Summary: 
+
+----
+
+Text: [{"content":{"text":"<p><strong>I'm a grandfather, as of 5:38 this morning</strong></p><p>Lincoln </p><p>22 inches long </p><p>9lbs 12ounces</p><p>Born 5:38am</p>"},"id":"139844b3-859a-4c79-8ee6-bdd7c52cb6ab","isHidden":false,"type":"text"},{"content":[],"id":"fbd8124c-e56a-4846-84a2-aa41e7bbef0f","isHidden":false,"type":"line"},{"content":{"text":"<p>I was wondering if it would be possible to grab each \"block\" in a post and render them as a separate RSS feed. This is how I had built the Daily Notes blog in Tinderbox. I assumed it was not trivial, but I've learned that one can easily loop through each block in a post and render them individually. I can think of a few fun ways to use that, one of which could be to render a separate RSS feed. Neat!</p>"},"id":"d73e8419-5ab0-4a83-b5a3-0f1a9ad1d326","isHidden":false,"type":"text"},{"content":{"text":"<p>Two phrases I think we can be done with: \"This is the way\" and \"Welcome to my TED talk.\"</p>"},"id":"937cf908-97d7-42a1-9237-3dc855faedf8","isHidden":false,"type":"text"}]
+
+----
+
+Cover: 
+
+----
+
+Date: 2023-10-12 10:45:00
+
+----
+
+Author: 
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: oJxpJ5W3I2w7jv6u

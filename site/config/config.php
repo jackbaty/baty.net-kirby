@@ -9,6 +9,7 @@
  */
 return [
     'debug' => true,
+    'home' => 'home',
     'routes' => [
         [
             'pattern' => 'feed',

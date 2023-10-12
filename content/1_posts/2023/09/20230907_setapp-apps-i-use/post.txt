@@ -1,0 +1,29 @@
+Title: SetApp apps I use
+
+----
+
+Summary: 
+
+----
+
+Text: [{"content":{"location":"kirby","image":["file://jAkAMyheEcRnHVVn"],"src":"","alt":"","caption":"The SetApp apps I have installed","link":"","ratio":"","crop":"false"},"id":"2a8b4c46-34cd-4f08-8c30-7b799905f2d9","isHidden":false,"type":"image"},{"content":{"text":"<p>During frequent bouts of Subscription Fatigue, I always glance sideways at <a href=\"https://setapp.com/\">SetApp</a>, thinking that I could cancel my subscription. Then I look at the apps I have installed via SetApp (see above) and once again realize that it might be the most useful $10/month subscription I have. So it stays.</p>"},"id":"1db0193c-7c0a-429d-b07c-c25d0b5f24fe","isHidden":false,"type":"text"}]
+
+----
+
+Cover: 
+
+----
+
+Date: 2023-09-07 11:15:00
+
+----
+
+Author: 
+
+----
+
+Tags: Software
+
+----
+
+Uuid: I3Hf63DJq7w2sGil
