@@ -31,9 +31,23 @@ columns:
         type: textarea
         size: small
         maxlength: 280
+        buttons: false
       text:
         type: blocks
+        fieldsets:
+          - text
+          - markdown
+          - heading
+          - list
+          - image
+          - gallery
+          - code
+          - video
         size: huge
+        default:
+          - type: text
+
+
 
   - width: 1/3
     # This second column holds a fields section with multiple fields
