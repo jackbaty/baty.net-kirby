@@ -39,18 +39,19 @@ $recentPosts = collection('posts')->limit(5);
   <hr>
   <div class="recent-posts">
   <h2>Recent posts</h2>
-  <ul>
-  <?php foreach ($recentPosts as $post): ?>
-  <li class="post-list">
-     <a href="<?= $post->url() ?>"><?= $post->title() ?></a> 
+
+<ul class="grid">
+<?php foreach ($recentPosts as $post): ?>
+  <li class="column" style="--columns: 4">
+      <?php snippet('post-home', ['post' => $post]) ?>
   </li>
   <?php endforeach ?>
-  </ul>
-  </div>
-  
-  <div class="more-posts"><a href="/posts">More posts &rarr;</a></div>
+</ul>
 
+<div class="more-posts"><a href="/posts">More posts &rarr;</a></div>
 </article>
+
+
 
   <?php
   /*

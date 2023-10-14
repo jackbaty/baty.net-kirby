@@ -36,8 +36,8 @@
 
 <ul class="post">
   <?php foreach ($posts as $post): ?>
-  <li class="column" style="--columns: 4">
-      <?php snippet('post', ['post' => $post]) ?>
+  <li>
+      <?php snippet('post-list', ['post' => $post]) ?>
   </li>
   <?php endforeach ?>
 </ul>

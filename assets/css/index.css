@@ -301,7 +301,7 @@ hr {
   --w: 1;
   --h: 1;
   padding-bottom: calc(100% / var(--w) * var(--h));
-  background: var(--color-black);
+  background: var(--color-light);
 }
 .img img,
 .video iframe {
@@ -452,7 +452,7 @@ ul.post li .post-excerpt {
   color: var(--color-text-grey);
   font-size: 0.9em;
   display: block;
-  margin-bottom: 2em;
+  margin-bottom: 1em;
 }
 
 nav.blog-prevnext h2.post-excerpt-title,

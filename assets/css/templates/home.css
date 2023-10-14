@@ -87,16 +87,24 @@
 }
 
 .recent-posts h2 {
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;
   font-size: 1rem;
   font-weight: 600;
 }
 
-.recent-posts li a:hover {
+.recent-posts h2 a:hover {
   text-decoration: underline;
 }
 .recent-posts li {
   margin: 0.7em;
+}
+
+.recent-posts .post-excerpt-text {
+  font-size: 0.8em;
+}
+
+.recent-posts .post-excerpt header {
+  margin-bottom: 0;
 }
 
 .more-posts {
