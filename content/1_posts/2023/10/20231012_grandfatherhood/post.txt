@@ -1,0 +1,29 @@
+Title: Grandfatherhood
+
+----
+
+Summary: 
+
+----
+
+Text: [{"content":{"text":"<p><strong>I'm a grandfather, as of 5:38 this morning 👶 🎉</strong></p><p>My daughter had a baby boy this morning, making me a first-time grandfather.</p>"},"id":"c49ba6d9-4f29-467e-9c03-23ae8125c6fd","isHidden":false,"type":"text"},{"content":{"text":"<ul><li>Name: <strong>Lincoln</strong></li><li>Size: <strong>22 inches</strong></li><li>Weight: <strong>9lbs 12oz</strong> (!!!)</li><li>Born: <strong>5:38am</strong> on Thursday, October 12, 2023</li></ul>"},"id":"afcde18d-0640-4ed4-831b-c4f73bd261a3","isHidden":false,"type":"list"},{"content":{"text":"<p>I'll probably be insufferable about it for a while. Sorry not sorry. This has been a long time coming and I am giddy.</p>"},"id":"475c9fa6-00b2-4481-8b86-c31abfc76251","isHidden":false,"type":"text"}]
+
+----
+
+Cover: 
+
+----
+
+Date: 2023-10-12 14:00:00
+
+----
+
+Author: 
+
+----
+
+Tags: Family
+
+----
+
+Uuid: IBGrpyTdC97AP2Ix

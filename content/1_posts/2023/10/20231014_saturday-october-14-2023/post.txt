@@ -1,0 +1,29 @@
+Title: Saturday, October 14, 2023
+
+----
+
+Summary: I spent the afternoon with my new grandson yesterday. His name is Lincoln.
+
+----
+
+Text: [{"content":{"text":"<p>I spent the afternoon with my new grandson yesterday. His name is Lincoln. His middle name is Jack. She gave him my name and it makes me tear up a little every time I think about it.</p>"},"id":"23cf5aa8-d154-4bd1-b123-555efdf2374c","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://SyEn4JZQyMNQq5jn"],"src":"","alt":"","caption":"Proud grandpa holding Lincoln","link":"","ratio":"","crop":"false"},"id":"71208447-3ab0-4601-8fdd-57e67cbe9126","isHidden":false,"type":"image"}]
+
+----
+
+Cover: 
+
+----
+
+Date: 2023-10-14 11:20:00
+
+----
+
+Author: 
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: vLF59ZU0Kb2YPQ7f
