@@ -23,6 +23,11 @@ class PostPage extends Page
     {
         return $this->content()->cover()->toFile() ?? $this->image();
     }
+    
+    public function assignedCover()
+    {
+    	return $this->content()->cover()->toFile();
+    }
 
     public function published($format = null)
     {

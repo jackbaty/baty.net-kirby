@@ -23,7 +23,7 @@
 ?>
 <?php snippet('header') ?>
 
-<?php if ($cover = $page->cover()): ?>
+<?php if ($cover = $page->assignedCover()): ?>
 <a href="<?= $cover->url() ?>" data-lightbox class="img" style="--w:2; --h:1">
   <img src="<?= $cover->crop(1200, 800)->url() ?>" alt="<?= $cover->alt()->esc() ?>">
 </a>
