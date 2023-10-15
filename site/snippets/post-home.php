@@ -19,7 +19,7 @@
     <?php if (($excerpt ?? true) !== false): ?>
     <div class="post-excerpt-text">
       <?php if ($post->summary()->isEmpty()): ?>
-      	<?= $post->text()->toBlocks()->excerpt(80) ?>
+      	<?= $post->text()->excerpt(140) ?>
       <?php else: ?>
       	<?= $post->summary()->kt() ?>
       <?php endif ?>
