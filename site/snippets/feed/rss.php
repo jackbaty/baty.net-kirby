@@ -15,11 +15,7 @@ echo '<?xml version="1.0" encoding="utf-8"?>';
       <link><?= \Kirby\Toolkit\Xml::encode($item->{$urlfield}()) ?></link>
       <guid><?= \Kirby\Toolkit\Xml::encode($item->url()) ?></guid>
       <pubDate><?= $datefield === 'modified' ? $item->modified('r', 'date') : date('r', $item->{$datefield}()->toTimestamp()) ?></pubDate>
-      <?php if ($item->template() == 'journal'): ?>
-      <description>JOURNAL<![CDATA[<?= $item->{$textfield}()->toBlocks() ?>]]></description>
-      <?php elseif ($item->template() == 'post'): ?>
-      <description>POST<![CDATA[<?= $item->{$textfield}()->kt() ?>]]></description>
-      <?php endif ?>
+      <description>![CDATA[<?= $item->{$textfield}()->kt() ?>]]></description>
     </item>
     <?php endforeach; ?>
   </channel>
