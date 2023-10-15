@@ -12,11 +12,7 @@
 <article class="post-excerpt">
   <a href="<?= $post->url() ?>">
     <header>
-      <figure class="img" style="--w: 16; --h:9">
-        <?php if ($cover = $post->cover()): ?>
-          <img src="<?= $cover->crop(320, 180)->url() ?>" alt="<?= $cover->alt()->esc() ?>">
-        <?php endif ?>
-      </figure>
+
 
       <h2 class="post-excerpt-title"><?= $post->title()->esc() ?></h2>
     </header>
