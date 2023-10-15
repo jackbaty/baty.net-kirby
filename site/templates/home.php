@@ -34,7 +34,7 @@ $recentPosts = collection('posts')->limit(5);
     <?php endif ?>
   </header>
   <div class="post text">
-    <?= $latestPost->text()->toBlocks() ?>
+    <?= $latestPost->text()->kt() ?>
   </div>
   <hr>
   <div class="recent-posts">
