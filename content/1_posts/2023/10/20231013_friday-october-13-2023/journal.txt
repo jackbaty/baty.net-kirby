@@ -6,7 +6,15 @@ Summary:
 
 ----
 
-Text: [{"content":{"text":"<p>Capture One is to Lightroom as Emacs is to Obsidian. It's driving me just as crazy, too. I can't choose just one.</p>"},"id":"a3bb1acc-5118-4ba4-aa6c-17c0a1b28011","isHidden":false,"type":"text"},{"content":{"text":"<p>Well this one hurts...</p>"},"id":"64f127cd-5a6e-45f9-88ae-ae7d4c32a766","isHidden":false,"type":"text"},{"content":{"text":"Woe betide those who live by way of examples! Life is not with them. If you live according to an example, you thus live the life of the example","citation":"Carl Jung The Red Book: A Reader’s Edition, p. 125."},"id":"0eb153ba-a7c5-4c7f-862b-b69a0ebdc255","isHidden":false,"type":"quote"}]
+Text:
+
+Capture One is to Lightroom as Emacs is to Obsidian. It's driving me just as crazy, too. I can't choose just one.
+
+Well this one hurts...
+
+> Woe betide those who live by way of examples! Life is not with them. If you live according to an example, you thus live the life of the example
+> 
+> Carl Jung The Red Book: A Reader’s Edition, p. 125.
 
 ----
 

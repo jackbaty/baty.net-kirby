@@ -6,11 +6,17 @@ Summary: Photo archives. Kirby redirects.
 
 ----
 
-Text: [{"content":{"text":"<p>I've decided to start working through my photo archives and catch up on captions, ratings, keywords, etc. The plan is to do a quick first pass through each folder and flag the selects. Then I'll take a second pass and add captions etc., but only on the selects. It should be fun running into photos I haven't looked at in years, like this one...</p>"},"id":"e4e0291b-fba0-4ff2-8d0a-f002d6361381","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://KbGz3oJlKFLEeQUt"],"src":"","alt":"Man in Naval hat sitting with woman in a boat","caption":"My mom and dad, 1962 (Photo by Richard Baty)","link":"","ratio":"","crop":"false"},"id":"67946487-bdc3-4141-9b81-9c6e5fa8f5f6","isHidden":false,"type":"image"},{"content":{"text":"<p>For the life of me, I can't get redirects working around here via either mod_rewrite or a Kirby plugin. It's frustrating to have so many broken links. The RSS redirect (in .htaccess) seems to be working, but others <em>right next to it</em> do not work. And they validate and test ok. (Later) I'm an idiot. I was editing a local copy of the .htaccess file. </p><p></p>"},"id":"7f4efe53-ecc2-41fb-8340-d0b77f211d73","isHidden":false,"type":"text"}]
+Text:
+
+I've decided to start working through my photo archives and catch up on captions, ratings, keywords, etc. The plan is to do a quick first pass through each folder and flag the selects. Then I'll take a second pass and add captions etc., but only on the selects. It should be fun running into photos I haven't looked at in years, like this one...
+
+(image: mom-and-dad-in-boat.jpg caption: My mom and dad, 1962 (Photo by Richard Baty))
+
+For the life of me, I can't get redirects working around here via either mod_rewrite or a Kirby plugin. It's frustrating to have so many broken links. The RSS redirect (in .htaccess) seems to be working, but others right next to it do not work. And they validate and test ok. (Later) I'm an idiot. I was editing a local copy of the .htaccess file.
 
 ----
 
-Cover: - file://9KDS73JghRZZE6oQ
+Cover: 
 
 ----
 

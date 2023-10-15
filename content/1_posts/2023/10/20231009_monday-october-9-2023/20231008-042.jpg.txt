@@ -1,8 +1,24 @@
-Sort: 1
+Caption: Alice and Gail relaxing on the floor of my office
 
 ----
 
-Caption: 
+Alt: 
+
+----
+
+Photographer: 
+
+----
+
+License: 
+
+----
+
+Link: 
+
+----
+
+Sort: 1
 
 ----
 

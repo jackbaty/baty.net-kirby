@@ -6,7 +6,15 @@ Summary: Kirby, mostly
 
 ----
 
-Text: [{"content":{"location":"kirby","image":["file://yRyRHKBPPB37rTQl"],"src":"","alt":"","caption":"Alice and Gail relaxing on the floor of my office","link":"","ratio":"","crop":"false"},"id":"4cc9f118-e1f2-48e7-b18f-a48d2b0c6ab4","isHidden":false,"type":"image"},{"content":{"text":"I lean too often on a multitude of mediums, techniques, and visuals as a distraction to being brave in just one.","citation":"Jeremy Mann"},"id":"0a8e2e32-0f67-4626-984a-f6ab6bcc1bae","isHidden":false,"type":"quote"},{"content":{"text":"<p>I've spent another day building a site using Kirby CMS. I started with the completely empty \"plainkit\" version but have been pulling stuff over from the full demo as needed. Turns out I need a lot of stuff from there. I may have been better off starting with the full demo and deleting things I <em>don't</em> need. Oh well.</p>"},"id":"3a3b21e2-bfda-4bc9-acac-3951b28f0bdc","isHidden":false,"type":"text"}]
+Text:
+
+(image: 20231008-042.jpg)
+
+> I lean too often on a multitude of mediums, techniques, and visuals as a distraction to being brave in just one.
+> 
+> Jeremy Mann
+
+I've spent another day building a site using Kirby CMS. I started with the completely empty "plainkit" version but have been pulling stuff over from the full demo as needed. Turns out I need a lot of stuff from there. I may have been better off starting with the full demo and deleting things I _don't_ need. Oh well.
 
 ----
 

@@ -6,7 +6,13 @@ Summary: I spent the afternoon with my new grandson yesterday. His name Lincoln
 
 ----
 
-Text: [{"content":{"text":"<p>I spent the afternoon with my new grandson yesterday. His name Lincoln. His middle name is Jack. She gave him my name and that might be the nicest thing anyone has ever done for me.</p>"},"id":"23cf5aa8-d154-4bd1-b123-555efdf2374c","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://SyEn4JZQyMNQq5jn"],"src":"","alt":"","caption":"Proud grandpa holding Lincoln","link":"","ratio":"","crop":"false"},"id":"396b8607-2cb9-4258-8e08-6a91a1833e70","isHidden":false,"type":"image"},{"content":{"text":"<p>The Kirby experiment continues. I did some work on it this morning. You might notice that the home page now shows a grid of recent posts under the latest Journal entry. Also, the Posts page shows a simple list of posts. No covers or anything. I found the cover images made the page too jarring or erratic or something.</p>"},"id":"74d91d97-cce8-4b8b-bd0a-d054c3b75b48","isHidden":false,"type":"text"}]
+Text:
+
+I spent the afternoon with my new grandson yesterday. His name Lincoln. His middle name is Jack. She gave him my name and that might be the nicest thing anyone has ever done for me.
+
+(image: lincoln-and-jack.jpg caption: Proud grandpa holding Lincoln)
+
+The Kirby experiment continues. I did some work on it this morning. You might notice that the home page now shows a grid of recent posts under the latest Journal entry. Also, the Posts page shows a simple list of posts. No covers or anything. I found the cover images made the page too jarring or erratic or something.
 
 ----
 
