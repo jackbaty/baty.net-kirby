@@ -2,8 +2,7 @@
 	return function () {
     return page('posts')
         ->index()
-        ->template('post')
+        ->template('journal')
         ->listed()
-        ->filterBy('tags', 'Journal', ',')
         ->sortBy('date', 'desc');
 };

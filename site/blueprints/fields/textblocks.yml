@@ -1,0 +1,14 @@
+      text:
+        type: blocks
+        fieldsets:
+          - text
+          - markdown
+          - heading
+          - list
+          - image
+          - gallery
+          - code
+          - video
+        size: huge
+        default:
+          - type: text

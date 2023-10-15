@@ -6,7 +6,9 @@ type: pages
 label: Posts
 parent: kirby.page("posts/2023/10")
 info: "{{ page.published }}"
-template: post
+templates:
+  - post
+  - journal
 empty: No posts yet
 sortBy: date desc
 image:

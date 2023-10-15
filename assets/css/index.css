@@ -464,3 +464,15 @@ nav.blog-prevnext h2.post-excerpt-title,
 ul.grid > li {
   list-style: none;
 }
+
+.read-more {
+  margin-top: 1rem;
+  margin-right: 3rem;
+  color: var(--color-text-grey);
+  text-align: right;
+
+}
+
+.read-more a:hover {
+  text-decoration: underline;
+}

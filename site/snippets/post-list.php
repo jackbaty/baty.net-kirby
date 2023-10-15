@@ -19,6 +19,7 @@
       <?php else: ?>
       	<?= $post->summary()->kt() ?>
       <?php endif ?>
+      <div class="read-more"><a href="<?= $post->url() ?>">Read more…</a></div>
     </div>
     <?php endif ?>
 </article>

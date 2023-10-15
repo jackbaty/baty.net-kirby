@@ -9,7 +9,7 @@
 return function () {
     return page('posts')
         ->index()
-        ->template('post')
         ->listed()
+        ->filterBy('template', 'in', ['post', 'journal'])
         ->sortBy('date', 'desc');
 };

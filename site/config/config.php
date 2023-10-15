@@ -10,6 +10,9 @@
 return [
     'debug' => true,
     'home' => 'home',
+    'markdown' => [
+    	'extra' => true
+    ],
     'routes' => [
         [
             'pattern' => 'feed',
@@ -21,9 +24,8 @@ return [
                     'link'        => 'posts',
                     'snippet' => 'feed/rss', // 'feed/json'
                 ];
-                $feed = page('posts')
+                $feed = collection('posts')
 						->index()
-						->template('post')
 						->listed()
 						->sortBy('date', 'desc')->limit(10)->feed($options);
                 return $feed;

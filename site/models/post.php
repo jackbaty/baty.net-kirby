@@ -26,7 +26,7 @@ class PostPage extends Page
     
     public function assignedCover()
     {
-    	return $this->content()->cover()->toFile();
+    	$this->content()->cover()->toFile() ?? null;
     }
 
     public function published($format = null)
