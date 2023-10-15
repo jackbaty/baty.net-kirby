@@ -33,21 +33,9 @@ columns:
         maxlength: 280
         buttons: false
       text:
-        type: blocks
-        fieldsets:
-          - text
-          - markdown
-          - heading
-          - list
-          - image
-          - gallery
-          - code
-          - video
-        size: huge
-        default:
-          - type: text
-
-
+        label: Post Text
+        type: textarea
+        size: large
 
 
   - width: 1/3

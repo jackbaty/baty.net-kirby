@@ -31,7 +31,7 @@
     <?php endif ?>
   </header>
   <div class="post text">
-    <?= $page->text()->toBlocks() ?>
+    <?= $page->text()->kt() ?>
   </div>
   <footer class="post-footer">
     <?php if (!empty($tags)): ?>
