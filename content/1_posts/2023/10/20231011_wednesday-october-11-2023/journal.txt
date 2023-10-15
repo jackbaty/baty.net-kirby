@@ -10,7 +10,7 @@ Text: [{"content":{"text":"<p>I've decided to start working through my photo arc
 
 ----
 
-Cover: 
+Cover: - file://9KDS73JghRZZE6oQ
 
 ----
 
