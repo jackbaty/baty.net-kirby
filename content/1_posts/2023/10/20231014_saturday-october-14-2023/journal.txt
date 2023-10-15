@@ -10,7 +10,7 @@ Text: [{"content":{"text":"<p>I spent the afternoon with my new grandson yesterd
 
 ----
 
-Cover: - file://Dji9Vo7jgnlwXRWX
+Cover: 
 
 ----
 

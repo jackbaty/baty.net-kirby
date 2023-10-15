@@ -6,7 +6,17 @@ Summary: Remember that time I swore I'd stop changing blogging platforms here? Y
 
 ----
 
-Text: [{"content":{"text":"<p>Remember that time I swore I'd stop changing blogging platforms here? Yeah, well, I lied. </p><p>It was only late last week when I decided to once again consolidate my blogs around a single domain. Baty.net has been running Hugo for quite a while, so I just fired that up again, migrated some content, <a href=\"https://baty.net/posts/2023/10/creating-new-hugo-posts-using-emacs\">wrote a little Lisp helper</a>, and figured I was done.</p><p>Then, I read some blog posts about how great <a href=\"https://getkirby.com\">Kirby CMS</a> is and was suddenly determined to try it myself. So I did. You're soaking in it (damn you, <a href=\"https://kevquirk.com/migrating-this-blog-to-kirby\">@kev</a>!).</p><p>I grabbed the Kirby \"starter kit\" and gutted it a <s>little</s> lot. Things are so far from finished that I should never have deployed it, but I'm impatient. If I had to wait until it was perfect it would never get done. So please forgive any rough edges, design oddness, or weird behavior. I'll add content and redirects as soon as I can.</p><p>I will post some details of the process once the dust settles.</p><p></p><p></p><p></p><p></p><p></p>"},"id":"02de610b-9b9d-4466-8d27-a4fcb82eb485","isHidden":false,"type":"text"}]
+Text:
+
+Remember that time I swore I'd stop changing blogging platforms here? Yeah, well, I lied.
+
+It was only late last week when I decided to once again consolidate my blogs around a single domain. Baty.net has been running Hugo for quite a while, so I just fired that up again, migrated some content, [wrote a little Lisp helper](https://baty.net/posts/2023/10/creating-new-hugo-posts-using-emacs), and figured I was done.
+
+Then, I read some blog posts about how great [Kirby CMS](https://getkirby.com) is and was suddenly determined to try it myself. So I did. You're soaking in it (damn you, [@kev](https://kevquirk.com/migrating-this-blog-to-kirby)!).
+
+I grabbed the Kirby "starter kit" and gutted it a little lot. Things are so far from finished that I should never have deployed it, but I'm impatient. If I had to wait until it was perfect it would never get done. So please forgive any rough edges, design oddness, or weird behavior. I'll add content and redirects as soon as I can.
+
+I will post some details of the process once the dust settles.
 
 ----
 

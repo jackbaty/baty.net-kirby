@@ -1,0 +1,15 @@
+Title: Changelog
+
+----
+
+Text:
+
+A running list of changes I've made to this site. Most recent first.
+
+- 2023-10-14 - Removed automatic cover images from posts. They must now be explicitly added to the Cover section.
+- 2023-10-14 - Added grid of recent posts to home page
+- 2023-10-14 - Simplified Posts page (only show title and excerpt
+
+----
+
+Uuid: wdqweScwulK1ZXVe

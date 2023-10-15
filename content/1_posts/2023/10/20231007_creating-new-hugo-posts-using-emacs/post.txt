@@ -2,7 +2,56 @@ Title: Creating new Hugo posts using Emacs but with an option to use bundles
 
 ----
 
-Text: [{"content":{"text":"<p>I create two disinct types of posts here: Regular posts and Journal posts. Each has its own set of metadata and different formats for filenames, so I have two similiar-but-different lisp functions for creating new posts using Emacs. This works fine.</p><p>Journal posts take advantage of Hugo’s page bundle features, so they go in a bundle like so:</p>"},"id":"08a6f28f-6ede-4b25-bf7e-4a0c39078628","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://YA5lZa3HLNdVKDdU"],"src":"","alt":"Image of file tree in Kirby content folder","caption":"","link":"","ratio":"","crop":"false"},"id":"090ea8d5-2f81-4635-8bfb-da5ff718c0b2","isHidden":false,"type":"image"},{"content":{"text":"<p>Regular posts, though, either go in a bundle or can be just standalone Markdown files if there are no images in the post. This means that each time I create a new post, I have to choose whether is should be in new-post.md or /new-post/index.md.</p><p>Now, I usually have no qualms about copying and pasting code when it’s easier and unlikely to cause issues down the road. As Rob Pike said, “A little copying is better than a little dependency.” In this case, though, it felt wrong to simply duplicate the function in order to only change the file name.</p><p>My brain doesn’t get along with Lisp, but I’m using Emacs so that’s what I have to work with. My solution was to add a yes-or-no prompt asking if the new post should be a Bundle, and then create the file based on the response. I fumbled around with this for at least an hour before finally finding something that worked. I have no idea if it’s the best way to do this. Or even if it’s a <em>good</em> way to do it, but here it is:</p>"},"id":"296370bc-7c88-4922-bd3e-05635325174b","isHidden":false,"type":"text"},{"content":{"code":";; Create new hugo post\n;; h/t Jeremy Friesen https://takeonrules.com/2021/05/20/emacs-function-to-rename-hugo-blog-post/\n(defun jab/hugo-new-post (title &optional)\n  \"Create new blog post for TITLE.\"\n  (interactive \"sTitle: \")\n\n  (let* ((slug (s-dashed-words title))\n\t (default-directory (concat \"~/sites/blog/content/posts/\"\n\t\t\t\t    (format-time-string \"%Y/%m-%B/\")))\n\t (fpath (if (y-or-n-p \"Make Bundle?\")\n\t\t    ;; If y create directory using slug and add index.md to path\n\t\t    (progn\n\t\t      (make-directory (concat default-directory (format-time-string \"%Y-%m-%d-\") slug \"/\"))\n\t\t      (concat default-directory (format-time-string \"%Y-%m-%d-\") slug \"/index.md\"))\n\t\t  ;; Otherwise just use the slug for the filename\n\t\t  (progn\n\t\t    (concat default-directory (format-time-string \"%Y-%m-%d-\") slug \".md\")))))\n    \n    (write-region (concat\n                   \"---\"\n                   \"\\ntitle: '\" title \"'\"\n                   \"\\ndate: \" (format-time-string \"%Y-%m-%d %H:%M:%S %z\")\n                   \"\\nslug: \" slug\n                   \"\\ncategories: [\\\"\\\"]\"\n                   \"\\ntags: [\\\"\\\"]\"\n                   \"\\nsummary: \"\n                   \"\\ndraft: true\"\n                   \"\\n---\\n\")\n                  nil (expand-file-name fpath) nil nil nil t)\n    (find-file (expand-file-name fpath))))","language":"lisp"},"id":"623c1c18-823c-470d-99bd-adb8d4695399","isHidden":false,"type":"code"}]
+Summary: 
+
+----
+
+Text:
+
+I create two disinct types of posts here: Regular posts and Journal posts. Each has its own set of metadata and different formats for filenames, so I have two similiar-but-different lisp functions for creating new posts using Emacs. This works fine.
+
+Journal posts take advantage of Hugo’s page bundle features, so they go in a bundle like so:
+
+(image: tree.png)
+
+Regular posts, though, either go in a bundle or can be just standalone Markdown files if there are no images in the post. This means that each time I create a new post, I have to choose whether is should be in new-post.md or /new-post/index.md.
+
+Now, I usually have no qualms about copying and pasting code when it’s easier and unlikely to cause issues down the road. As Rob Pike said, “A little copying is better than a little dependency.” In this case, though, it felt wrong to simply duplicate the function in order to only change the file name.
+
+My brain doesn’t get along with Lisp, but I’m using Emacs so that’s what I have to work with. My solution was to add a yes-or-no prompt asking if the new post should be a Bundle, and then create the file based on the response. I fumbled around with this for at least an hour before finally finding something that worked. I have no idea if it’s the best way to do this. Or even if it’s a _good_ way to do it, but here it is:
+
+```lisp
+;; Create new hugo post
+;; h/t Jeremy Friesen https://takeonrules.com/2021/05/20/emacs-function-to-rename-hugo-blog-post/
+(defun jab/hugo-new-post (title &optional)
+  "Create new blog post for TITLE."
+  (interactive "sTitle: ")
+
+  (let* ((slug (s-dashed-words title))
+	 (default-directory (concat "~/sites/blog/content/posts/"
+					(format-time-string "%Y/%m-%B/")))
+	 (fpath (if (y-or-n-p "Make Bundle?")
+			;; If y create directory using slug and add index.md to path
+			(progn
+			  (make-directory (concat default-directory (format-time-string "%Y-%m-%d-") slug "/"))
+			  (concat default-directory (format-time-string "%Y-%m-%d-") slug "/index.md"))
+		  ;; Otherwise just use the slug for the filename
+		  (progn
+			(concat default-directory (format-time-string "%Y-%m-%d-") slug ".md")))))
+
+	(write-region (concat
+				   "---"
+				   "\ntitle: '" title "'"
+				   "\ndate: " (format-time-string "%Y-%m-%d %H:%M:%S %z")
+				   "\nslug: " slug
+				   "\ncategories: [\"\"]"
+				   "\ntags: [\"\"]"
+				   "\nsummary: "
+				   "\ndraft: true"
+				   "\n---\n")
+				  nil (expand-file-name fpath) nil nil nil t)
+	(find-file (expand-file-name fpath))))
+```
 
 ----
 
