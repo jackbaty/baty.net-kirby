@@ -1,0 +1,37 @@
+Title: Monday, October 16, 2023
+
+----
+
+Summary: 
+
+----
+
+Text:
+
+I've removed all traces of "cover" images in Kirby for now. I find the reliance upon featured images to be too much pressure. Most implementations require an all-or-nothing approach. I tried something different, it didn't work, so I cut it.
+
+After the frustration of failing to do something interesting in Kirby, I did spend some time yesterday considering a move back to Hugo. That felt a bit reactionary, so I calmed down and decided to just keep typing here. Going back to all textarea/markdown/kirbytext for both regular and journal posts reduced my twitchiness about storage formats and having to add conditionals everywhere, so that's something.
+
+****
+
+More
+
+----
+
+Cover: 
+
+----
+
+Date: 2023-10-16 11:20:00
+
+----
+
+Author: 
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: gHfvRenXhKbyGI0R
