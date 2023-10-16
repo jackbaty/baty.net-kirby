@@ -6,6 +6,8 @@ Text: Sorry, the page you were looking for isn't here.
 
 There have been a lot of changes around here recently. I'm working on getting things in order. Sorry for the trouble.
 
+One thing that might help is to head over to <a href="https://v13.baty.net">v13.baty.net</a> and see if what you're looking for is there.
+
 ----
 
 Uuid: dRz7d31JoFrPuWkG
