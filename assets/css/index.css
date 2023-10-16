@@ -482,3 +482,13 @@ ul.grid > li {
 .read-more a:hover {
   text-decoration: underline;
 }
+
+a.reply-by-email {
+    display: block;
+    margin: 1em auto;
+    width: fit-content;
+    background: var(--color-light);
+    padding: 5px 10px;
+    border-radius: 2px;
+    border: 1px solid var(--color-grey);
+}

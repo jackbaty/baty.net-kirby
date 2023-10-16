@@ -45,6 +45,9 @@
     <?php endif ?>
 
     <time class="post-date" datetime="<?= $page->date()->toDate('c') ?>">Published on <?= $page->date()->esc() ?></time>
+    
+    <?php snippet('reply-by-email') ?>
+      
   </footer>
 
   <?php snippet('prevnext') ?>
