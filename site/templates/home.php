@@ -28,7 +28,7 @@ $recentPosts = collection('posts')->limit(5);
 <?php snippet('intro') ?>
 	<strong>Latest journal entry</strong>
   <header class="post-header h1">
-    <h2 class="post-title"><?= $latestPost->title()->esc() ?></h2>
+    <h2 class="post-title"><a href="<?= $latestPost->url() ?>"><?= $latestPost->title()->esc() ?></a></h2>
     <?php if ($latestPost->subheading()->isNotEmpty()): ?>
     <p class="post-subheading"><small><?= $latestPost->subheading()->esc() ?></small></p>
     <?php endif ?>
