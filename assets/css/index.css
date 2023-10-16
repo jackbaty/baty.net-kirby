@@ -234,6 +234,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 .text hr {
   margin: 2rem 0;
+  border: 0;
+  background: currentColor;
+  height: 1px;
+  width: 1.5rem;
+  color: var(--color-text-grey);
 }
 .text dt {
   font-weight: 600;

@@ -26,3 +26,11 @@
   background: var(--color-black);
   color: var(--color-white);
 }
+
+
+/*
+p + p {
+  text-indent: 2em;
+  margin: 0;
+}
+*/
