@@ -1,5 +1,5 @@
-SERVER_HOST=custom-fslm@deploy.us1.frbit.com
-SERVER_DIR=/srv/app/custom-fslm/htdocs
+SERVER_HOST=server01.baty.net
+SERVER_DIR=/home/jbaty/apps/baty.net-kirby/public_html
 PUBLIC_DIR=/Users/jbaty/sites/blog-kirby/
 TARGET=Fortrabbit
 
