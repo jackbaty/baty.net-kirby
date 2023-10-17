@@ -33,3 +33,8 @@ columns:
           - home
           - default
           - default.blocks
+      header:
+        label: Header Images
+        type: files
+        uploads:
+        template: image
