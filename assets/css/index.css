@@ -7,6 +7,8 @@
   --padding: 1.5rem;
   --color-black: #000;
   --color-white: #fff;
+  --color-link: #0000EE;
+  --color-link-visited: #551A8B;
   --color-grey: #777;
   --color-light: #efefef;
   --color-text: var(--color-black);
@@ -149,11 +151,11 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.5em;
 }
 .text a {
-  color: blue;
+  color: var(--color-link);
   text-decoration: underline;
 }
 .text a:visited {
-  color: blueviolet;
+  color: var(--color-link-visited);
 }
 .text :first-child {
   margin-top: 0;

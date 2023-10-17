@@ -1,0 +1,29 @@
+.search-field {
+  width: 80%;
+  padding:10px;
+  margin-bottom: 3rem;
+  border: 1px solid var(--color-grey);
+  box-shadow:0 0 15px 4px rgba(0,0,0,0.06);
+}
+
+.search-button {
+  width: 10%;
+  padding:10px;
+  margin-bottom: 3rem;
+  margin-left: 10px;
+  box-shadow:0 0 15px 4px rgba(0,0,0,0.06);
+}
+
+.search-results li {
+  margin-bottom: 0.6em;
+}
+
+.search-results a {
+  color: var(--color-link);
+}
+.search-results a:visited {
+  color: var(--color-link-visited);
+}
+.search-results a:hover {
+  text-decoration: underline;
+}
