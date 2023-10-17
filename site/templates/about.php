@@ -25,7 +25,7 @@
 
 <article>
   <div class="text">
-    <?= $page->text()->toBlocks() ?>
+    <?= $page->text()->kt() ?>
   </div>
 </article>
 

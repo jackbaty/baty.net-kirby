@@ -27,8 +27,8 @@ tabs:
     label: content
     fields:
       text:
-        type: blocks
-        size: huge
+        type: textarea
+        size: large
   # The contact tab pre-defines a set of address
   # fields for the contact box at the bottom of the about
   # page. Combining modular content from layouts with
