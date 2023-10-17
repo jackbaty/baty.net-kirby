@@ -260,6 +260,19 @@ h1, h2, h3, h4, h5, h6 {
 .text figure {
   margin: 3rem 0;
 }
+
+figure.small-image {
+  margin: 20px;
+  max-width: 200px;
+}
+
+figure.right {
+  float: right;
+}
+figure.left {
+  float: left;
+}
+
 .text figcaption {
   padding-top: .75rem;
   color: var(--color-text-grey);
