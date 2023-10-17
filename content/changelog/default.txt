@@ -6,6 +6,9 @@ Text:
 
 A running list of changes I've made to this site. Most recent first.
 
+- 2023-10-16 Added Reply by Email link to posts
+- 2023-10-16 Moved server back to my DigitalOcean VPS
+- 2023-10-15 Rejiggered templates. Removed cover images because I broke them somehow.
 - 2023-10-14 - Removed automatic cover images from posts. They must now be explicitly added to the Cover section.
 - 2023-10-14 - Added grid of recent posts to home page
 - 2023-10-14 - Simplified Posts page (only show title and excerpt

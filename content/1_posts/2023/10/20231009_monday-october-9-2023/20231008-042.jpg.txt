@@ -1,24 +1,8 @@
-Caption: Alice and Gail relaxing on the floor of my office
-
-----
-
-Alt: 
-
-----
-
-Photographer: 
-
-----
-
-License: 
-
-----
-
-Link: 
-
-----
-
 Sort: 1
+
+----
+
+Caption: 
 
 ----
 
@@ -26,4 +10,4 @@ Uuid: yRyRHKBPPB37rTQl
 
 ----
 
-Template: blocks/image
+Template: image

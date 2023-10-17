@@ -6,4 +6,4 @@ Uuid: eTPTn6uMxMZMhqfI
 
 ----
 
-Template: blocks/image
+Template: image
