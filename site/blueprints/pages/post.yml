@@ -65,4 +65,4 @@ columns:
             query: page.siblings.pluck("tags", ",", true)
       files:
         type: files
-        template: blocks/image
+        template: image
