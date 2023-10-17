@@ -28,6 +28,11 @@
   --font-family-mono: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
 }
 
+@font-face {
+  font-family: 'Oswald';
+  src: url('../fonts/oswald-variable.ttf') format('truetype');
+}
+
 html {
   font-family: var(--font-family-sans);
   color: var(--color-text);
