@@ -132,7 +132,7 @@ small {
   padding: 1rem 2rem;
   margin-right: -1rem;
   margin-left: -1rem;
-  margin-bottom: 4rem;
+  margin-bottom: 1rem;
 }
 
 .logo {
@@ -241,7 +241,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.25em;
 }
 .h1 p {
-  font-size: 0.9em;
+  font-size: 0.8em;
 }
 
 .text h2,

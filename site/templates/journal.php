@@ -30,6 +30,13 @@
     <p class="post-subheading"><small><?= $page->subheading()->esc() ?></small></p>
     <?php endif ?>
   </header>
+  	<?php if ($page->weather()->isNotEmpty()): ?>
+    <div class="post-weather">
+    	Weather: <?= $page->weather() ?>
+    </div>
+    <?php endif ?>
+
+  
   <div class="post text">
     <?= $page->text()->kt() ?>
   </div>
@@ -43,9 +50,6 @@
       <?php endforeach ?>
     </ul>
     <?php endif ?>
-
-    <time class="post-date" datetime="<?= $page->date()->toDate('c') ?>">Published on <?= $page->date()->esc() ?></time>
-    
     <?php snippet('reply-by-email') ?>
       
   </footer>

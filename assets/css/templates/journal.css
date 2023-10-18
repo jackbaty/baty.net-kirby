@@ -34,3 +34,10 @@ p + p {
   margin: 0;
 }
 */
+
+.post-weather {
+  color: var(--color-text-grey);
+  position: relative;
+  top: -3rem; /* snug it up to the header */
+  left: 5px;
+}

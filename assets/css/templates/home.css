@@ -114,6 +114,9 @@
   text-align: right;
 }
 
-header h1, header p {
+header.h1, header p {
   text-align: center;
+}
+header.post-header, header.post-header p {
+  text-align: left;
 }

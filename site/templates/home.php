@@ -17,7 +17,7 @@
 
   More about templates: https://getkirby.com/docs/guide/templates/basics
 */
-$latestPost = collection('journals')->first();
+$latestJournal = collection('journals')->first();
 $recentPosts = collection('posts')->limit(5);
 ?>
 <?php snippet('header') ?>
@@ -28,13 +28,13 @@ $recentPosts = collection('posts')->limit(5);
 <?php snippet('intro') ?>
 	<strong>Latest journal entry</strong>
   <header class="post-header h1">
-    <h2 class="post-title"><a href="<?= $latestPost->url() ?>"><?= $latestPost->title()->esc() ?></a></h2>
-    <?php if ($latestPost->subheading()->isNotEmpty()): ?>
-    <p class="post-subheading"><small><?= $latestPost->subheading()->esc() ?></small></p>
+    <h2 class="post-title"><a href="<?= $latestJournal->url() ?>"><?= $latestJournal->title()->esc() ?></a></h2>
+    <?php if ($latestJournal->subheading()->isNotEmpty()): ?>
+    <p class="post-subheading"><small><?= $latestJournal->subheading()->esc() ?></small></p>
     <?php endif ?>
   </header>
   <div class="post text">
-    <?= $latestPost->text()->kt() ?>
+    <?= $latestJournal->text()->kt() ?>
   </div>
   <hr>
   <div class="recent-posts">
