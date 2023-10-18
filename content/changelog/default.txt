@@ -2,6 +2,10 @@ Title: Changelog
 
 ----
 
+Subheadline: Things change around here
+
+----
+
 Text:
 
 A running list of changes I've made to this site. Most recent first.
