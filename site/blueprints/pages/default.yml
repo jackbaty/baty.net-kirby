@@ -26,6 +26,8 @@ columns:
       fields:
         type: fields
         fields:
+          subheadline:
+            type: text
           text:
             type: textarea
             size: huge

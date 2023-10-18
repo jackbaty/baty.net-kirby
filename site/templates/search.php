@@ -1,4 +1,5 @@
 <?php snippet('header') ?>
+<?php snippet('intro') ?>
 
 <form id="search-form">
   <input type="search" class="search-field" aria-label="Search" name="q" value="<?= html($query) ?>" autofocus>

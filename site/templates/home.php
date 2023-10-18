@@ -25,7 +25,7 @@ $recentPosts = collection('posts')->limit(7);
 
 
 <article class="post home">
-<?php snippet('intro') ?>
+<?php snippet('welcome') ?>
 	<h2 class="color-grey"><strong>Latest journal entry</strong></h2>
   <header class="post-header h1">
     <h2 class="post-title"><a href="<?= $latestJournal->url() ?>"><?= $latestJournal->title()->esc() ?></a></h2>
@@ -53,15 +53,6 @@ $recentPosts = collection('posts')->limit(7);
 <div class="more-posts"><a href="/posts">More posts &rarr;</a></div>
 </article>
 
-
-
-  <?php
-  /*
-    We always use an if-statement to check if a page exists to
-    prevent errors in case the page was deleted or renamed before
-    we call a method like `children()` in this case
-  */
-  ?>
   <?php if (false): ?>
   <?php /* if ($photographyPage = page('photography')): */ ?>
   <ul class="home-grid">

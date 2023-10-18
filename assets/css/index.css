@@ -24,17 +24,27 @@
   --color-code-aqua:        #8abeb7;
   --color-code-blue:        #7e9abf;
   --color-code-purple:      #b294bb;
-  --font-family-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  --font-fallback: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  --font-family-sans: 'GeneralSans';
   --font-family-mono: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
 }
 
 @font-face {
   font-family: 'Oswald';
-  src: url('../fonts/oswald-variable.ttf') format('truetype');
+  src: url('../fonts/oswald-variable.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'GeneralSans';
+  src: url('../fonts/GeneralSans-Variable.woff2') format('woff2'),
+       url('../fonts/GeneralSans-Variable.woff') format('woff');
+  font-display: swap;
+  font-weight: 200 700;
+  font-style: normal;
 }
 
 html {
-  font-family: var(--font-family-sans);
+  font-family: var(--font-family-sans), var(--font-fallback);
   color: var(--color-text);
   background: var(--color-background);
 }
@@ -71,7 +81,7 @@ body {
   color: white;
   line-height: 1em;
   margin-bottom: 0px;
-  font-weight: 800;
+  font-weight: bold;
 }
 .hero-text h3 {
   color: white;
@@ -110,7 +120,7 @@ button {
   cursor: pointer;
 }
 strong, b {
-  font-weight: 600;
+  font-weight: 500;
 }
 small {
   font-size: inherit;
@@ -129,10 +139,12 @@ small {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  padding: 1rem 2rem;
+  padding: 0 2rem;
   margin-right: -1rem;
   margin-left: -1rem;
   margin-bottom: 1rem;
+  background: var(--color-light);
+  border-bottom: 1px solid var(--color-grey);
 }
 
 .logo {
@@ -149,6 +161,7 @@ small {
 .menu a {
   padding: 1rem;
   display: block;
+  font-weight: 600;
 }
 .menu a[aria-current] {
   text-decoration: underline;
@@ -194,6 +207,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .text {
   line-height: 1.5em;
+  font-size: 1.2rem;
 }
 .text a {
   color: var(--color-link);
@@ -237,6 +251,7 @@ h1, h2, h3, h4, h5, h6 {
 .h1,
 .intro {
   font-size: 2rem;
+  margin-top: 2rem;
   margin-bottom: 3rem;
   line-height: 1.25em;
 }
@@ -459,6 +474,9 @@ hr {
 @media screen and (min-width: 60rem) {
   body {
     --padding: 0rem;
+  }
+  .recent-posts .post-excerpt-text {
+    font-size: 0.8em;
   }
 
   .grid {

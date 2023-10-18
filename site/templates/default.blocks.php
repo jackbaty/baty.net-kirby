@@ -19,9 +19,8 @@
 */
 ?>
 <?php snippet('header') ?>
-
+<?php snippet('intro') ?>
 <article>
-  <h1 class="h1"><?= $page->title()->esc() ?></h1>
   <div class="text">
     <?= $page->text()->toBlocks() ?>
   </div>

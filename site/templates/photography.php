@@ -20,8 +20,6 @@
 ?>
 <?php snippet('header') ?>
 
-<p>👉 I'll get around to filling this out eventually</p>
-
 <?php snippet('intro') ?>
 
 <ul class="grid" style="--gutter: 1.5rem">
