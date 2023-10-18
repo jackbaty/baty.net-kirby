@@ -18,7 +18,7 @@
   More about templates: https://getkirby.com/docs/guide/templates/basics
 */
 $latestJournal = collection('journals')->first();
-$recentPosts = collection('posts')->limit(5);
+$recentPosts = collection('posts')->limit(7);
 ?>
 <?php snippet('header') ?>
   
@@ -42,9 +42,11 @@ $recentPosts = collection('posts')->limit(5);
 
 <ul class="grid">
 <?php foreach ($recentPosts as $post): ?>
+	<?php if ($post->url() != $latestJournal->url()): ?>
   <li class="column" style="--columns: 4">
       <?php snippet('post-home', ['post' => $post]) ?>
   </li>
+  <?php endif ?>
   <?php endforeach ?>
 </ul>
 
