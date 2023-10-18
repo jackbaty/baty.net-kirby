@@ -114,3 +114,6 @@
   text-align: right;
 }
 
+header h1, header p {
+  text-align: center;
+}
