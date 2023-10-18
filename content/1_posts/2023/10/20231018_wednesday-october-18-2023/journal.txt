@@ -1,0 +1,29 @@
+Title: Wednesday, October 18, 2023
+
+----
+
+Summary: 
+
+----
+
+Text: I'm having those feelings again that maybe these journal posts are unnecessary. And yet, I'm working on adding a custom Weather field for them. ¯\_(ツ)_/¯.
+
+----
+
+Cover: 
+
+----
+
+Date: 2023-10-18 10:00:00
+
+----
+
+Weather: Low 47.8, High 62.6 - Cloudy
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: LJqRyMu1PRSUmR8y
