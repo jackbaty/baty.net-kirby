@@ -18,6 +18,8 @@ The downside of course is that I can't (well, _shouldn't_) post via my iPad/iPho
 
 ****
 
+Certainly the best way to fix the broken navigation wrapping on mobile is to remove items from the nav so they no longer wrap, right?
+
 ----
 
 Cover: 
