@@ -19,7 +19,6 @@ deploy: checkpoint
 			--checksum \
 			--delete \
 			--no-perms \
-			--exclude content/ \
 			--exclude media/ \
 			--exclude Caddyfile \
 			--exclude .git/ \
