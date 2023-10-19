@@ -17,7 +17,7 @@ Some other pages you can find around here:
 - (link: page://wdqweScwulK1ZXVe text: Changelog) of changes to the site
 - (link: page://kmj2uOxGImDx1pr9 text: Things I Use)
 
-This site is built using [Kirby CMS](https://getkirby.com/). I try to keep an updated .
+This site is built using [Kirby CMS](https://getkirby.com/).
 
 ----
 
