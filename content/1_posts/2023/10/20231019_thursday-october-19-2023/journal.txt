@@ -1,0 +1,35 @@
+Title: Thursday, October 19, 2023
+
+----
+
+Summary: 
+
+----
+
+Text:
+
+The only way I'd pay Musk $1 to join Twitter (X) is if I could mail him a check.
+
+****
+
+I was making changes to Kirby templates and such locally but managing the content via the control panel live on the server. This of course became confusing and I lost some edits due to a mis-configured sync. I've decided to manage the site, _including content_, completely on my local machine, then rsync everything to production using my Makefile. It's one more step in the process, but much less confusing.
+
+----
+
+Cover: 
+
+----
+
+Date: 2023-10-19 09:20:00
+
+----
+
+Weather: Low 49.3, High 56.1 - Moderate rain
+
+----
+
+Tags: Kirby, Blogging
+
+----
+
+Uuid: gMpGevZztTd4hH8T
