@@ -20,7 +20,7 @@ My first app launcher was (link: https://en.wikipedia.org/wiki/Quicksilver_(soft
 
 My first week with Raycast was spent installing extensions and writing little scripts: everything from deploying my websites to resizing images to creating notes. Then, I barely used any of them. The only fancy Raycast extension I use regularly is for resizing images selected in the Finder.
 
-So after getting all huffy about not paying for a Raycast subscription, I considered dropping all the way back to Spotlight. I tried it. It lasted two hours. I don't want to even use a computer if there's no clipboard history. If I need to install another app to get that, then why not just use the one built into the app launcher? 
+So after getting all huffy about not paying for a Raycast subscription, I dropped all the way back to Spotlight. It lasted two hours. I don't want to even use a computer if there's no clipboard history. If I need to install another app to get that, then why not just use the one built into the app launcher? 
 
 As a way to feel better about all this, I'm going to run with Alfred today and see how it feels.
 
