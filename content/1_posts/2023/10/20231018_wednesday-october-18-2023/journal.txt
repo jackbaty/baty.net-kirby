@@ -6,7 +6,13 @@ Summary:
 
 ----
 
-Text: I'm having those feelings again that maybe these journal posts are unnecessary. And yet, I'm working on adding a custom Weather field for them. ¯\_(ツ)_/¯.
+Text:
+
+I'm having those feelings again that maybe these journal posts are unnecessary. And yet, I'm working on adding a custom Weather field for them. `¯_(ツ)_/¯`.
+
+****
+
+I would like there to be more Lightroom vs Capture One discussions that don't fixate on subscription vs perpetual licensing. I dislike subscriptions as much as anyone, but licensing the least important factor to me when it comes to editing and managing my photos.
 
 ----
 
@@ -14,7 +20,7 @@ Cover:
 
 ----
 
-Date: 2023-10-18 10:00:00
+Date: 2023-10-18 11:05:00
 
 ----
 
@@ -26,4 +32,4 @@ Tags: Journal
 
 ----
 
-Uuid: LJqRyMu1PRSUmR8y
+Uuid: CzBlxKHFSlRrVWFm
