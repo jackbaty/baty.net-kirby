@@ -12,7 +12,7 @@ The only way I'd pay Musk $1 to join Twitter (X) is if I could mail him a check.
 
 ****
 
-I was making changes to Kirby templates and such locally but managing the content via the control panel live on the server. This of course became confusing and I lost some edits due to a mis-configured sync. I've decided to manage the site, _including content_, completely on my local machine, then rsync everything to production using my Makefile. It's one more step in the process, but much less confusing.
+I was making changes to Kirby templates and code locally, but managing content via the production site's control panel. This of course became confusing and I lost some edits due to a mis-configured sync. I've decided to manage everything, _including content_, on my local machine, then rsync to production using `make`. It's one more step in the process, but much less confusing.
 
 ----
 
