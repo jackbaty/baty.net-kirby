@@ -336,6 +336,7 @@ figure.left {
 .text figcaption {
   padding-top: 0;
   font-size: 0.9em;
+  text-align: center;
   color: var(--color-text-grey);
 }
 

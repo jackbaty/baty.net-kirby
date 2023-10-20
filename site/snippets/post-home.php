@@ -3,16 +3,22 @@
   Snippets are a great way to store code snippets for reuse
   or to keep your templates clean.
 
-  The note snippet renders an excerpt of a blog article.
+  The post-home snippet renders an excerpt of a blog article on the home page
 
   More about snippets:
   https://getkirby.com/docs/guide/templates/snippets
 */
 ?>
+
 <article class="post-excerpt">
   <a href="<?= $post->url() ?>">
     <header>
 
+<?php if ($cover = $post->cover()): ?>
+<figure>
+          <img src="<?= $cover->crop(320, 180)->url() ?>" alt="<?= $cover->alt()->esc() ?>">
+</figure>
+<?php endif ?>
 
       <h2 class="post-excerpt-title"><?= $post->title()->esc() ?></h2>
     </header>

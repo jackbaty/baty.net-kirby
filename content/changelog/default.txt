@@ -10,6 +10,7 @@ Text:
 
 A running list of changes I've made to this site. Most recent first.
 
+- 2023-10-20 Added cover images back to grid on home page
 - 2023-10-18 Fonts, layout, header graphics, navigation, etc.
 - 2023-10-16 Added Reply by Email link to posts
 - 2023-10-16 Moved server back to my DigitalOcean VPS
