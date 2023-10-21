@@ -21,6 +21,7 @@ deploy: checkpoint
 			--no-perms \
 			--exclude media/ \
 			--exclude Caddyfile \
+			--exclude content/ \
 			--exclude .git/ \
 			--exclude .htaccess \
 			--exclude Makefile \
