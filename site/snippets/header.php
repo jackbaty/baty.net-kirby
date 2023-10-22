@@ -61,7 +61,7 @@
 </div>
   <header class="header">
     <a class="logo" href="<?= $site->url() ?>">
-      <?= $site->title()->esc() ?>
+      Home
     </a>
 
     <nav class="menu">
