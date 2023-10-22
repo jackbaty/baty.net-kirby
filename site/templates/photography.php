@@ -22,6 +22,12 @@
 
 <?php snippet('intro') ?>
 
+<div class="text">
+    <?= $page->text()->kt() ?>
+</div>
+
+    <hr>
+
 <ul class="grid" style="--gutter: 1.5rem">
   <?php foreach ($page->children()->listed() as $project): ?>
   <li class="column" style="--columns: 3">
