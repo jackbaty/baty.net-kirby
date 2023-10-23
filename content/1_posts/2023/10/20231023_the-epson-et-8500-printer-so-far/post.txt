@@ -1,0 +1,46 @@
+Title: The Epson ET-8500 printer so far
+
+----
+
+Summary: I love the Epson ET-8500 photo printer. It works great and the ink seems to last forever.
+
+----
+
+Text:
+
+(image: epson-et-8500.jpeg)
+
+We all know that printers mostly suck and that photo printers in particular are finicky and expensive to run and maintain. I have had several large-format photo printers from Canon and Epson and I hated them. They clog, they fail, and they cost a fortune to run. However, I hate waiting for prints ordered online even more, so I've suffered through it.
+
+
+Earlier this year I bought an (link: https://www.amazon.com/gp/product/B08R57JK88 text: Epson ET-8500 EcoTank) printer[^1]. Setup was simple and worked the first time. I filled it with bottles of ink (not cartridges!) and started printing. Epson's Print Layout software made quick work of what can otherwise be a confusing and error-prone process.
+
+I usually print 8x10 or 5x7 on glossy photo paper. I feel like I've been printing constantly, and here are the ink levels today:
+
+(image: epson.jpg)
+
+It feels like cheating. It's great not thinking about cost every time I want to make a print. 
+
+Dye-based inks are not as archival as pigment inks, but that doesn't matter if I never bother making prints in the first place due to ink costs, right?
+
+[^1]: I didn't get the larger ET-8550 because in actual use I've found that I almost never printed larger than 8x10.
+
+----
+
+Cover: 
+
+----
+
+Date: 2023-10-23 10:15:00
+
+----
+
+Author: 
+
+----
+
+Tags: Photography, Hardware
+
+----
+
+Uuid: 6KKLHMF5pAglFWsl
