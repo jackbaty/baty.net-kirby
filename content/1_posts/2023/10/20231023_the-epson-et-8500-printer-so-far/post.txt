@@ -19,9 +19,13 @@ I usually print 8x10 or 5x7 on glossy photo paper. I feel like I've been printin
 
 (image: epson.jpg)
 
-It feels like cheating. It's great not thinking about cost every time I want to make a print. 
+It feels like cheating. It's great not thinking about cost every time I want to make a print. When every reservoir is empty it will cost less than $100 to refill all of them. I read that it costs around $0.04 per 4x6 print.
 
-Dye-based inks are not as archival as pigment inks, but that doesn't matter if I never bother making prints in the first place due to ink costs, right?
+Dye-based inks are not as archival as pigment inks, but that doesn't matter if I never bother making prints in the first place due to ink costs or a clogged print head, right?
+
+Another surprise was that black and white photos are actually black and white. I've wasted so much time trying to get straight black and white prints out of previous printers. Now I just check a box in the Epson software and black and white prints come out looking pretty darn good.
+
+Anyway, I'm happy with the Epson ET-8500. It feels good to print nice photos and without a constant undercurrent of "Gosh it's expensive and I hope it works."
 
 [^1]: I didn't get the larger ET-8550 because in actual use I've found that I almost never printed larger than 8x10.
 
