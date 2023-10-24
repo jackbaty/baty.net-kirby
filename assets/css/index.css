@@ -317,6 +317,17 @@ h1, h2, h3, h4, h5, h6 {
   font-size: .875rem;
   font-style: italic;
 }
+
+.text blockquote cite {
+  font-size: .875rem;
+  font-style: italic;
+  display: block;
+  text-align: right
+}
+
+.text blockquote cite:before {
+    content: "-- ";
+}
 .text figure {
   margin: 3rem 0;
 }
