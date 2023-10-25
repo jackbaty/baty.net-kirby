@@ -49,9 +49,9 @@
   <meta name=msapplication-TileColor content="#2e2e33">
 
   <?php if ($page->summary()->isEmpty()): ?>
-      <meta property="og:description" content="<?= $page->text()->kt()->excerpt(140) ?>">
+      <meta property="og:description" content="<?= $page->text()->kt()->inline()->excerpt(140) ?>">
   <?php else: ?>
-      <meta property="og:description" content="<?= $page->summary()->kt() ?>">
+      <meta property="og:description" content="<?= $page->summary()->kt()->inline() ?>">
   <?php endif ?>
   <meta property="og:title" content="<?= $page->title() ?>">
   <meta property="og:type" content="website">
