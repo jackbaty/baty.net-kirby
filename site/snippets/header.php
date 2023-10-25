@@ -28,16 +28,16 @@
 
   <?php
   /*
-    Stylesheets can be included using the `css()` helper.
-    Kirby also provides the `js()` helper to include script file.
-    More Kirby helpers: https://getkirby.com/docs/reference/templates/helpers
-  */
+     Stylesheets can be included using the `css()` helper.
+     Kirby also provides the `js()` helper to include script file.
+     More Kirby helpers: https://getkirby.com/docs/reference/templates/helpers
+   */
   ?>
   <?= css([
-    'assets/css/prism.css',
-    'assets/css/lightbox.css',
-    'assets/css/index.css?ver=' . filemtime("assets/css/index.css") . '',
-    '@auto'
+      'assets/css/prism.css',
+      'assets/css/lightbox.css',
+      'assets/css/index.css?ver=' . filemtime("assets/css/index.css") . '',
+      '@auto'
   ]) ?>
 
   <link rel="shortcut icon" type="image/x-icon" href="<?= url('favicon.ico') ?>">
@@ -47,6 +47,23 @@
   <link rel=mask-icon href="<?= url('safari-pinned-tab.svg') ?>">
   <meta name=theme-color content="#2e2e33">
   <meta name=msapplication-TileColor content="#2e2e33">
+
+  <?php if ($page->summary()->isEmpty()): ?>
+      <meta property="og:description" content="<?= $page->text()->kt()->excerpt(140) ?>">
+  <?php else: ?>
+      <meta property="og:description" content="<?= $page->summary()->kt() ?>">
+  <?php endif ?>
+  <meta property="og:title" content="<?= $page->title() ?>">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Baty.net">
+  <meta property="og:url" content="<?= $page->url() ?>">
+  <?php if ($image = $page->image()): ?>
+      <meta property="og:image" content="<?= $page->cover()->url() ?>">
+  <?php else: ?>
+      <meta property="og:image" content="<?= url('assets/images/pipeguy-og.png') ?>">
+  <?php endif ?>
+  <link rel="canonical" href="https://localhost:8000/posts/2023/10/monday-october-23-2023">
+
   
   <link rel=alternate type="application/rss+xml" href="feed">
 </head>
