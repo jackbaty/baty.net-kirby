@@ -54,7 +54,7 @@
     
     <?php snippet('reply-by-email') ?>
       
-      
+    
   </footer>
   
 
