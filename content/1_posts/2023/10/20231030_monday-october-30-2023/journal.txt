@@ -1,0 +1,37 @@
+Title: Monday, October 30, 2023
+
+----
+
+Summary: 
+
+----
+
+Text:
+
+I'm so tired of thinking about organizing things. I enjoy a good organization scheme, but my tendency toward continually *re*-organize things is unhealthy.
+
+The thing I dislike about Obsidian is that there are things like the [Obsidian Omnivore Plugin](https://docs.omnivore.app/integrations/obsidian.html) which make things so easy. It's difficult to ignore the idea of "just use Obsidian and be done with it, Jeez!"
+
+I'm feeling twitchy about Kirby again. I can't put my finger on it. It's a combination of it not being a static site and also that I had to sort of roll my own, which means I'm alone over here when things break. Just a little twitchy about it, is all.
+
+Well, (link: https://omnivore.app/ text: Omnivore) is completely hosed for me. Great.
+
+----
+
+Cover: 
+
+----
+
+Date: 2023-10-30 09:55:00
+
+----
+
+Weather: Low 33.6, High 41.4 - Overcast
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: q1iL05XNHvijJ4Ui
