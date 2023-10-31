@@ -36,6 +36,16 @@ columns:
       text:
         label: Post Text
         type: textarea
+        buttons:
+          - headlines
+          - italic
+          - '|'
+          - code
+          - ul
+          - ol
+          - '|'
+          - link
+          - file
         size: large
 
 
