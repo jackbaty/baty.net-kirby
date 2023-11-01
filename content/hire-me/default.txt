@@ -2,6 +2,10 @@ Title: ✨ Hire Me
 
 ----
 
+Subheadline: 
+
+----
+
 Text:
 
 I co-founded a [successful digital studio](https://fusionary.com/) in 1995. We sold the company in 2020, and I’ve been on a well-earned sabbatical since May, 2021.
@@ -18,7 +22,7 @@ I believe that project documentation and communication are paramount, and I can 
 
 I am honest, reliable, inventive, and fun to work with. I’m serious when I need to be.
 
-Download my resume: **[Jack Baty Resume.pdf](https://baty.net/downloads/JackBatyResume.pdf)**
+Download my resume: (file: jackbatyresume.pdf)
 
 There’s much more to say, so please drop me a line. I’d love to chat.
 
