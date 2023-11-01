@@ -4,7 +4,7 @@
 # More about pages sections: https://getkirby.com/docs/reference/panel/sections/pages
 type: pages
 label: Posts
-parent: kirby.page("posts/2023/10")
+parent: kirby.page("posts/2023/11")
 info: "{{ page.published }}"
 templates:
   - post
