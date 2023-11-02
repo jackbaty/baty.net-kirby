@@ -1,0 +1,29 @@
+Caption: Doom Emacs
+
+----
+
+Alt: 
+
+----
+
+Photographer: 
+
+----
+
+License: 
+
+----
+
+Link: 
+
+----
+
+Sort: 2
+
+----
+
+Uuid: DqwzhGlfjoso4FVQ
+
+----
+
+Template: image
