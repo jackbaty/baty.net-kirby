@@ -22,6 +22,9 @@ deploy: checkpoint
 			--exclude media/ \
 			--exclude Caddyfile \
 			--exclude content/ \
+			--exclude site/config/retour.yml \
+			--exclude /site/plugins/retour/assets/ \
+			--exclude /site/logs/ \
 			--exclude .git/ \
 			--exclude .htaccess \
 			--exclude Makefile \
