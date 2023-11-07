@@ -49,4 +49,5 @@ Icon
 
 /site/config/.license
 
-/site/plugins/retour/assets/retour.sqlite
+/site/config/retour.yml
+/logs/*
