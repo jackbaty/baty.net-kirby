@@ -51,4 +51,5 @@ Icon
 
 /site/config/retour.yml
 /site/plugins/retour/assets/*
-/logs/*
+/site/plugins/retour/assets/retour.sqlite
+/site/logs/*
