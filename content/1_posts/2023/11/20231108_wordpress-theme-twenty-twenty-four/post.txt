@@ -1,0 +1,33 @@
+Title: WordPress theme Twenty Twenty-Four
+
+----
+
+Summary: I'll never understand how to use WordPress "Full-site" editing features.
+
+----
+
+Text:
+
+I took a look at the new (link: https://make.wordpress.org/core/2023/08/24/introducing-twenty-twenty-four/ text: Twenty Twenty-Four theme) released with WordPress 6.4. It has options to make most types of sites. I thought I'd try it, so I picked the "Blogging" template over on my stagnating (link: https://rudimentarylathe.org text: RudimentaryLathe.org blog)[^1]. It's clean and surprisingly simple. But it is all about the full-site editing in WordPress and I cannot seem to get my head around it. They keep improving it, but I still have no idea how to get around and make the changes I want to make. To me, it's just a mess and I don't like it.
+
+[^1]: No guarantees that it'll still be using the theme by the time you see it.
+
+----
+
+Cover: - file://jQ6f8UL0KjILAKaP
+
+----
+
+Date: 2023-11-08 11:30:00
+
+----
+
+Author: 
+
+----
+
+Tags: Blogging, WordPress
+
+----
+
+Uuid: hgtse2w2GQEwI5SA
