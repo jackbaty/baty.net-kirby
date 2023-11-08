@@ -8,8 +8,6 @@ Summary: <p>My list of default apps, end of 2023.</p>
 
 Text:
 
-# App Defaults
-
 C'mon, (link: https://defaults.rknight.me/ text: everyone's doin' it). 
 
 Here is my list of default apps (in alphabetical order by task):
