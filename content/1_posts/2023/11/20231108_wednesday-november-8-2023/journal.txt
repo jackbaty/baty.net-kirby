@@ -12,6 +12,8 @@ I upgraded the (link: https://rudimentarylathe.org text: Rudimentary Lathe) blog
 
 I'm editing this via the Kirby panel in my local installation and I was right, I like it better this way. No confusion about code vs content and which goes where first. I just type or edit, then `make deploy`. Also, I can edit content using Emacs if I choose, which is a nice bonus.
 
+Still wondering if I should make more, small, individual posts rather than bunching things up in these daily posts.
+
 ----
 
 Cover: 

@@ -29,10 +29,8 @@ columns:
     fields:
       summary:
         label: Post Summary
-        type: textarea
-        size: small
+        type: writer
         maxlength: 280
-        buttons: false
       text:
         label: Post Text
         type: textarea
