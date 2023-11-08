@@ -39,7 +39,7 @@ Here is my list of default apps (in alphabetical order by task):
 - **Social Networking**: Mastodon (web UI)
 - **Terminal**: iTerm, Kitty
 - **Text Editor**: Emacs, BBEdit
-- **Task Manager**: Things
+- **Task Manager**: Things, Org-mode (Emacs)
 - **Weather**: Hello Weather
 - **Web Browser**: Arc
 - **Word Processing**: Emacs Org-mode -> LaTeX
