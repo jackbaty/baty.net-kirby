@@ -10,7 +10,7 @@ Text:
 
 I upgraded the (link: https://rudimentarylathe.org text: Rudimentary Lathe) blog to WordPress 6.4 so thought I'd give the (link: page://hgtse2w2GQEwI5SA text: new Twenty Twenty-Four theme a spin). Close, but nope.
 
-I'm editing via the Kirby panel in my local installation and I was right, I like it better this way. No confusion about code vs content and which goes where first. I just type or edit, then `make deploy`.
+I'm editing this via the Kirby panel in my local installation and I was right, I like it better this way. No confusion about code vs content and which goes where first. I just type or edit, then `make deploy`. Also, I can edit content using Emacs if I choose, which is a nice bonus.
 
 ----
 
