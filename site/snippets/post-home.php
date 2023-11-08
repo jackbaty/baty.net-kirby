@@ -1,8 +1,5 @@
 <?php
 /*
-  Snippets are a great way to store code snippets for reuse
-  or to keep your templates clean.
-
   The post-home snippet renders an excerpt of a blog article on the home page
 
   More about snippets:
@@ -27,7 +24,7 @@
       <?php if ($post->summary()->isEmpty()): ?>
       	<?= $post->text()->excerpt(140) ?>
       <?php else: ?>
-      	<?= $post->summary()->kt() ?>
+      	<?= $post->summary()->text() ?>
       <?php endif ?>
     </div>
     <?php endif ?>

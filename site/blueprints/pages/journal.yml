@@ -28,8 +28,7 @@ columns:
     # This columns only has two fields
     fields:
       summary:
-        type: textarea
-        size: small
+        type: writer
         maxlength: 280
         buttons: false
       text:
