@@ -8,9 +8,9 @@ Summary: <p>I often want a list of attached files displayed <em>right in </em>th
 
 Text:
 
-I use org-attach a lot. There's no way to see which files are attached without calling "org-attach-open" or whatever. Apparently something changed in Org-mode years ago that removed the function that did what I want. Found the following [on the mailing list](https://list.orgmode.org/87sg70vsvy.fsf@localhost/)...
+I use (link: https://orgmode.org/manual/Attachments.html text: org-attach) a lot. There's no way to see which files are attached without calling "org-attach-open" or whatever. Apparently something changed in Org-mode years ago that removed the function that did what I want. Found the following [on the mailing list](https://list.orgmode.org/87sg70vsvy.fsf@localhost/)...
 
-```elisp
+```lisp
 (defun org-attach-save-file-list-to-property (dir)
     "Save list of attachments to ORG_ATTACH_FILES property."
     (when-let* ((files (org-attach-file-list dir)))
