@@ -34,7 +34,7 @@
    */
   ?>
   <?= css([
-      'assets/css/prism.css',
+      'assets/css/prism.css?v=20231109',
       'assets/css/lightbox.css',
       'assets/css/index.css?ver=' . filemtime("assets/css/index.css") . '',
       '@auto'
@@ -62,7 +62,7 @@
   <?php else: ?>
       <meta property="og:image" content="<?= url('assets/images/pipeguy-og.png') ?>">
   <?php endif ?>
-  <link rel="canonical" href="https://localhost:8000/posts/2023/10/monday-october-23-2023">
+
 
   
   <link rel=alternate type="application/rss+xml" href="feed">

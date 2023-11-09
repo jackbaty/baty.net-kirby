@@ -23,7 +23,7 @@
   </footer>
 
   <?= js([
-      'assets/js/prism.js',
+      'assets/js/prism.js?v=20231109',
       'assets/js/lightbox.js',
       'assets/js/index.js',
       '@auto'
