@@ -1,0 +1,41 @@
+Title: Display list of org-attach'ed files in buffer property
+
+----
+
+Summary: <p>I often want a list of attached files displayed <em>right in </em>the org-mode file.</p>
+
+----
+
+Text:
+
+I use org-attach a lot. There's no way to see which files are attached without calling "org-attach-open" or whatever. Apparently something changed in Org-mode years ago that removed the function that did what I want. Found the following [on the mailing list](https://list.orgmode.org/87sg70vsvy.fsf@localhost/)...
+
+```elisp
+(defun org-attach-save-file-list-to-property (dir)
+    "Save list of attachments to ORG_ATTACH_FILES property."
+    (when-let* ((files (org-attach-file-list dir)))
+      (org-set-property "ORG_ATTACH_FILES" (mapconcat #'identity files ", "))))
+  (add-hook 'org-attach-after-change-hook #'org-attach-save-file-list-to-property)
+```
+
+Works great.
+
+----
+
+Cover: 
+
+----
+
+Date: 2023-11-09 14:05:00
+
+----
+
+Author: 
+
+----
+
+Tags: Emacs
+
+----
+
+Uuid: OVTw9Q7eQ9LCPS3Q
