@@ -24,7 +24,7 @@ Here is my list of default apps (in alphabetical order by task):
 - **Mail Client**: Apple Mail, notmuch
 - **Mail Server**: Fastmail
 - **Music**: Roon, Qobuz, Apple Music
-- **Notes**: Emacs Org-mode, TiddlyWiki, Tinderbox
+- **Notes**: Org-mode (Emacs), TiddlyWiki, Tinderbox
 - **Password Management**: 1Password
 - **Photo Editor**: Capture One
 - **Photo Management**: Capture One, Apple Photos
