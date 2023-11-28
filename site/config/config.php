@@ -31,6 +31,21 @@ return [
                 return $feed;
             }
         ],
+        [
+            'pattern' => '(:any)',
+            'action'  => function($uid) {
+                $page = page($uid);
+                if(!$page) $page = page('posts/' . $uid);
+                if(!$page) $page = site()->errorPage();
+                return site()->visit($page);
+            }
+        ],
+        [
+            'pattern' => 'posts/(:any)',
+            'action'  => function($uid) {
+                go($uid);
+            }
+        ]
     ],
 ];
 
