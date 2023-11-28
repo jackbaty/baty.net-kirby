@@ -1,0 +1,29 @@
+Title: Kirby 4.0
+
+----
+
+Summary: <p>The new release of Kirby is a good one</p>
+
+----
+
+Text: (link: https://getkirby.com/releases/4.0?party text: Kirby Release 4.0) is a significant release for Kirby CMS. I installed it locally and nothing broke. At least nothing that I'm aware of. Nice work.
+
+----
+
+Cover: - file://42xgFjMeIAserYRF
+
+----
+
+Date: 2023-11-28 10:50:00
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Uuid: yDjugHFWcFqbhiQA
