@@ -26,7 +26,7 @@ $recentPosts = collection('posts')->limit(7);
 
 <article class="post home">
 <?php snippet('welcome') ?>
-	<h2 class="color-grey"><strong>Latest journal entry</strong></h2>
+	<h2 class="uppercase color-grey">Latest journal entry</h2>
   <header class="post-header h1">
     <h2 class="post-title"><a href="<?= $latestJournal->url() ?>"><?= $latestJournal->title()->esc() ?></a></h2>
     <?php if ($latestJournal->subheading()->isNotEmpty()): ?>
@@ -38,7 +38,7 @@ $recentPosts = collection('posts')->limit(7);
   </div>
   <hr>
   <div class="recent-posts">
-  <h2 class="color-grey"><strong>Recent posts</strong></h2>
+  <h2 class="uppercase color-grey">Recent posts</h2>
 
 <ul class="grid">
 <?php foreach ($recentPosts as $post): ?>
