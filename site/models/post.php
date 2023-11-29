@@ -35,6 +35,6 @@ class PostPage extends Page
     }
     public function url($options = null): string
     {
-        return $this->date()->toDate('Y/m') . '/' . $this->slug();
+        return '/' . $this->date()->toDate('Y/m') . '/' . $this->slug();
     }
 }
