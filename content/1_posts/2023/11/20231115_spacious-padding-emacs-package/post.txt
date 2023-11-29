@@ -1,0 +1,43 @@
+Title: Spacious-Padding Emacs package
+
+----
+
+Summary: <p>Prot's Spacious-Padding Emacs package adds some room to breath in Emacs' UI.</p>
+
+----
+
+Text:
+
+Protesilaos Stavrou updated his [spacious-padding package](https://git.sr.ht/~protesilaos/spacious-padding). I’d ignored this earlier but installed it today and it’s a nice, subtle, quality-of-life improvement to Emacs.
+
+> It increases the padding or spacing of frames and windows on demand.
+> 
+> The idea with this package is to provide the means to easily toggle between terse and spacious views, depending on the user’s needs.
+> 
+> [Protesilaos Stavrou](https://protesilaos.com/codelog/2023-06-03-emacs-spacious-padding/)
+
+Here’s a before and after from my config (running the modus-operandi theme, also from Prot)
+
+(image: 20231129-before.png)
+
+(image: 20231129-after.png)
+
+----
+
+Cover: 
+
+----
+
+Date: 2023-11-15 19:25:00
+
+----
+
+Author: 
+
+----
+
+Tags: Emacs
+
+----
+
+Uuid: Ur3xVsMbRN94Bz5z
