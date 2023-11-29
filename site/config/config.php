@@ -19,7 +19,7 @@ return [
             'method' => 'GET',
             'action'  => function () {
                 $options = [
-                    'title'       => 'Baty.net posts',
+                    'title'       => 'Baty.net',
                     'description' => 'From Jack Baty\'s blog',
                     'link'        => 'posts',
                     'snippet' => 'feed/rss', // 'feed/json'
@@ -32,17 +32,19 @@ return [
             }
         ],
         [
-            'pattern' => '(:any)',
-            'action'  => function($uid) {
+            'pattern' => '(:num)/(:num)/(:any)',
+            'action'  => function($year, $month, $slug) {
+                $uid = 'posts/'. $year . '/' . $month . '/' . $slug;
                 $page = page($uid);
-                if(!$page) $page = page('posts/' . $uid);
+                if(!$page) $page = page('posts/'. $uid);
                 if(!$page) $page = site()->errorPage();
                 return site()->visit($page);
             }
         ],
         [
-            'pattern' => 'posts/(:any)',
-            'action'  => function($uid) {
+            'pattern' => 'posts/(:num)/(:num)/(:any)',
+            'action'  => function($year, $month, $slug) {
+            	$uid = $year . '/' . $month . '/' . $slug;
                 go($uid);
             }
         ]
