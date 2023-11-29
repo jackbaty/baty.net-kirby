@@ -16,7 +16,7 @@ Protesilaos Stavrou updated his [spacious-padding package](https://git.sr.ht/~p
 > 
 > [Protesilaos Stavrou](https://protesilaos.com/codelog/2023-06-03-emacs-spacious-padding/)
 
-Here’s a before and after from my config (running the modus-operandi theme, also from Prot)
+Here’s a before and after from my config (running the ef-dark theme, also from Prot)
 
 (image: 20231129-before.png)
 
