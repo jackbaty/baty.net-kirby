@@ -10,6 +10,8 @@ Text:
 
 One thing I wanted to make sure worked if moving the blog back to Kirby was URLs. In Kirby, by default this post would be listed at "/posts/2023/11/kirby-routes-and-my-urls" but I want it to be "/2023/11/kirby-routes-and-my-urls". Every other CMS I've used has made this relatively easy to do. In Kirby, it's... less easy.
 
+(image: kirby-logo.svg)
+
 I needed to add a couple of routes in Kirby's config.php, like so...
 
 ```php
