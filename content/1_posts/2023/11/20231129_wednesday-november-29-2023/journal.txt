@@ -8,7 +8,7 @@ Summary:
 
 Text:
 
-Yes, I'm afraid we're back on Kirby here at baty.net. It's been a tumultuous couple of months, hasn't it? 😁. 
+Yes, I'm afraid we're back on Kirby here at baty.net. Let's not pretend we didn't know this was going to happen. It's been a tumultuous couple of months, hasn't it? 😁. 
 
 It's just that I eventually end up hating WordPress. Every time. Not at first! At first, it's awesome. WordPress is easy to get up and running. Easy to manage. Lots of resources. A million themes. Comments. Stats. Everything one could want! Except, my goodness, it kind of sucks to actually *use*. Everything about it starts to annoy me and I never feel good in there, you know? So I'm sorry if this has been disruptive or annoying for those of you following along. Kirby is good for now. I'm a little uncomfortable with my lack of experience with it. And it feels like I'm mostly on my own, feature and theme-wise. But writing and managing content is pretty sweet, so this feels good today.
 
