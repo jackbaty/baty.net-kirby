@@ -34,7 +34,7 @@ return [
         [
             'pattern' => '(:num)/(:num)/(:any)',
             'action'  => function($year, $month, $slug) {
-                $uid = 'posts/'. $year . '/' . $month . '/' . $slug;
+                $uid = $year . '/' . $month . '/' . $slug;
                 $page = page($uid);
                 if(!$page) $page = page('posts/'. $uid);
                 if(!$page) $page = site()->errorPage();

@@ -33,4 +33,9 @@ class JournalPage extends Page
     {
         return parent::date()->toDate($format ?? 'd M, Y');
     }
+     public function url($options = null): string
+    {
+        return $this->date()->toDate('Y/m') . '/' . $this->slug();
+    }
+
 }
