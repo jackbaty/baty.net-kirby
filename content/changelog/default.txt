@@ -10,6 +10,8 @@ Text:
 
 A running list of changes I've made to this site. Most recent first.
 
+- 2023-11-29 Don't constrain body to 70rem
+- 2023-11-28 Upgrade to Kirby 4.0.0
 - 2023-11-06 Added RSS link to nav
 - 2023-10-22 Changed header/intro text and home link
 - 2023-10-20 Added cover images back to grid on home page
@@ -17,9 +19,9 @@ A running list of changes I've made to this site. Most recent first.
 - 2023-10-16 Added Reply by Email link to posts
 - 2023-10-16 Moved server back to my DigitalOcean VPS
 - 2023-10-15 Rejiggered templates. Removed cover images because I broke them somehow.
-- 2023-10-14 - Removed automatic cover images from posts. They must now be explicitly added to the Cover section.
-- 2023-10-14 - Added grid of recent posts to home page
-- 2023-10-14 - Simplified Posts page (only show title and excerpt
+- 2023-10-14 Removed automatic cover images from posts. They must now be explicitly added to the Cover section.
+- 2023-10-14 Added grid of recent posts to home page
+- 2023-10-14 Simplified Posts page (only show title and excerpt
 
 ----
 
