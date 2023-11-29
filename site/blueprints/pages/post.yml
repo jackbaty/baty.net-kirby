@@ -35,7 +35,7 @@ columns:
         maxlength: 280
       text:
         label: Post Text
-        type: textarea
+        type: markdown
         buttons:
           - headlines
           - italic

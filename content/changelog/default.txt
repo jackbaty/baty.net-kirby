@@ -10,6 +10,7 @@ Text:
 
 A running list of changes I've made to this site. Most recent first.
 
+- 2023-11-29 Added markdown-field plugin
 - 2023-11-29 Don't constrain body to 70rem
 - 2023-11-28 Upgrade to Kirby 4.0.0
 - 2023-11-06 Added RSS link to nav

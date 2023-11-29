@@ -29,7 +29,7 @@ columns:
           subheadline:
             type: text
           text:
-            type: textarea
+            type: markdown
             size: huge
   sidebar:
     width: 1/3
