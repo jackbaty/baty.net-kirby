@@ -6,7 +6,11 @@ Summary:
 
 ----
 
-Text: (image: 2023-roll-127_24.jpg)
+Text:
+
+(image: 2023-roll-127_24.jpg)
+
+I've made a few Kirby changes, so please yell if you spot any issues. I'm using the Markdown Field plugin, now that it's compatible with v4. I also updated the RSS feed to include cover images, when available.
 
 ----
 

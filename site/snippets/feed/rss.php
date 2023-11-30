@@ -16,9 +16,27 @@ echo '<?xml version="1.0" encoding="utf-8"?>';
       <guid><?= \Kirby\Toolkit\Xml::encode($item->url()) ?></guid>
       <pubDate><?= $datefield === 'modified' ? $item->modified('r', 'date') : date('r', $item->{$datefield}()->toTimestamp()) ?></pubDate>
       <?php if ($item->template() == 'journal'): ?>
-      <description><![CDATA[<?= $item->{$textfield}()->kt() ?>]]></description>
+      <description><![CDATA[
+  <?php  if($cover = $item->assignedCover()): ?>
+  <figure>
+    <a href="<?php echo $cover->url() ?>">
+    <img src="<?php echo $cover->url() ?>">
+    </a>
+  </figure>
+<?php endif ?>
+  <?= $item->{$textfield}()->kt() ?>]]></description>
       <?php elseif ($item->template() == 'post'): ?>
-      <description><![CDATA[<?= $item->{$textfield}()->kt() ?>]]></description>
+      <description><![CDATA[
+  <?php  if($cover = $item->assignedCover()): ?>
+  <figure>
+    <a href="<?php echo $cover->url() ?>">
+    <img src="<?php echo $cover->url() ?>">
+    </a>
+  </figure>
+<?php endif ?>
+  <?= $item->{$textfield}()->kt() ?>
+
+]]></description>
       <?php endif ?>
     </item>
     <?php endforeach; ?>
