@@ -12,6 +12,10 @@ Text:
 
 I've made a few Kirby changes, so please yell if you spot any issues. I'm using the Markdown Field plugin, now that it's compatible with v4. I also updated the RSS feed to include cover images, when available.
 
+I'm already tired of the Kissinger takes.
+
+Received an email from Arc support that today's release fixes the bug I (and probably others) reported recently. Downloads were being saved to the Desktop rather than the folder configured Arc's settings (~/Downloads). Nice.
+
 ----
 
 Cover: 
