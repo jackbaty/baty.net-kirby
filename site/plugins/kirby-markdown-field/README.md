@@ -18,7 +18,7 @@ Enhanced, extensible Markdown field for Kirby CMS. Now available in version 2!
 
 💡 **TL;DR:** The Markdown field, you all have been waiting for!
 
-![screenshot](https://user-images.githubusercontent.com/7975568/177973223-7b2cb8f0-5802-49d4-9a6b-f3b74955080e.png)
+![Screenshot of the editor field](https://github.com/fabianmichael/kirby-markdown-field/assets/395617/590ebc77-fe2e-46ae-98f4-e565f86fc82f)
 
 ## Overview
 
@@ -55,7 +55,7 @@ Enhanced, extensible Markdown field for Kirby CMS. Now available in version 2!
 
 ## 1. Installation
 
-This version of the plugin requires PHP 8.0 and Kirby 4.0.0 or higher. The recommended way of installing is by using Composer:
+This version of the plugin requires PHP 8.1 and Kirby 4.0.0 or higher. The recommended way of installing is by using Composer:
 
 ```
 $ composer require fabianmichael/kirby-markdown-field
