@@ -8,7 +8,7 @@ Summary:
 
 Text:
 
-Lots of discussion about the (link: https://ia.net/topics/ia-writer-7 text: new version of iA Writer) and its "Authorship" features meant as a way to indicate AI vs. Human writing. They've obviously spent a lot of time thinking about it, but I'm not sure I get it, yet. Of course I never use LLM-generated text for anything I write, so it's probably not meant for me.
+Lots of discussion about the (link: https://ia.net/topics/ia-writer-7 text: new version of iA Writer) and its "Authorship" features meant as a way to indicate AI vs. Human writing. They've obviously spent a lot of time thinking about it, but I'm not sure I get it, yet. Of course I never use LLM-generated text for anything I write, so it's probably not meant for me. Writer is a great app even without Authorship features.
 
 Some days I want to self-host everything. It's all mine mine MINE! Other days, I never want to log into a server again. Today is the second kind of day. I'm side-eyeing my Gitea instance. I'd like to avoid Github, even though it's free. There's also sourcehut, which is weird, but $2/month and works fine.
 

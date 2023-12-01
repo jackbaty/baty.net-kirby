@@ -1,0 +1,43 @@
+Title: Editing posts in Kirby
+
+----
+
+Summary: 
+
+----
+
+Text:
+
+It's such a pleasant change to be editing posts in Kirby rather than WordPress. The panel is fast, clean, and simple. It's also easily customizable using Blueprints.
+
+Here's what today's journal post looks like in Kirby's panel:
+
+(image: 20231201-kirby.png)
+
+Nice, right?
+
+But, when I feel like dropping back to plain text, I can use Emacs just as easily, like so:
+
+(image: 20231201-emacs.png caption: The same post, but in Emacs)
+
+It's nice when the options for editing blog posts fit my mood and preferences. And it's nice not fighting with that other platform's editor :).
+
+----
+
+Cover: 
+
+----
+
+Date: 2023-12-01 12:10:00
+
+----
+
+Author: 
+
+----
+
+Tags: Blogging, Kirby
+
+----
+
+Uuid: uBtEkudDfE6rtvaM

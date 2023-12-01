@@ -1,0 +1,29 @@
+Caption: Editing a blog post in the Kirby panel
+
+----
+
+Alt: 
+
+----
+
+Photographer: 
+
+----
+
+License: 
+
+----
+
+Link: 
+
+----
+
+Sort: 2
+
+----
+
+Uuid: 9IEXBEItdIw6phGo
+
+----
+
+Template: image
