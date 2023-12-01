@@ -11,7 +11,11 @@
 ?>
 <article class="post-excerpt">
 <h2 class="post-excerpt-title"><a href="<?= $post->url() ?>"><?= $post->title()->esc() ?></a></h2>
-<time class="post-excerpt-date" datetime="<?= $post->published('c') ?>"><?= $post->published() ?><?php if (!empty($post->tags())): ?> | Tags: <?= $post->tags() ?><?php endif ?></time> 
+<?php if ($post->template() == 'journal'): ?>
+  <div class="post-excerpt-date"><?= $post->weather() ?></div>
+  <?php else: ?>
+<time class="post-excerpt-date" datetime="<?= $post->published('c') ?>"><?= $post->published() ?><?php if (!empty($post->tags())): ?> | Tags: <?= $post->tags() ?><?php endif ?></time>
+<?php endif ?>
     <?php if (($excerpt ?? true) !== false): ?>
     <div class="post-excerpt-text">
       <?php if ($post->summary()->isEmpty()): ?>

@@ -6,7 +6,13 @@ Summary:
 
 ----
 
-Text: Lots of discussion about the (link: https://ia.net/topics/ia-writer-7 text: new version of iA Writer) and its "Authorship" features meant as a way to indicate AI vs. Human writing. They've obviously spent a lot of time thinking about it, but I'm not sure I get it, yet. Of course I never use LLM-generated text for anything I write, so it's probably not meant for me.
+Text:
+
+Lots of discussion about the (link: https://ia.net/topics/ia-writer-7 text: new version of iA Writer) and its "Authorship" features meant as a way to indicate AI vs. Human writing. They've obviously spent a lot of time thinking about it, but I'm not sure I get it, yet. Of course I never use LLM-generated text for anything I write, so it's probably not meant for me.
+
+Some days I want to self-host everything. It's all mine mine MINE! Other days, I never want to log into a server again. Today is the second kind of day. I'm side-eyeing my Gitea instance. I'd like to avoid Github, even though it's free. There's also sourcehut, which is weird, but $2/month and works fine.
+
+A couple of site changes today. The (link: /@/page/ZWZVZSlNpA6VJzXZ text: Posts) page now shows *all* posts. It no longer paginates them. I mean, it's just text, so size isn't an issue. Plus, I like using Command-f more than the site search most of the time. Second, I'm displaying the weather instead of the date on journal posts in the posts list. Showing the date was redundant. I don't know why anyone cares about the weather, but I do it anyway.
 
 ----
 
@@ -22,7 +28,7 @@ Weather: Low 27.7, High 34.9 - Light freezing rain
 
 ----
 
-Tags: 
+Tags: Journal
 
 ----
 

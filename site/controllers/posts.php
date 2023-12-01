@@ -26,7 +26,7 @@ return function ($page) {
 
     return [
         'tag'   => $tag,
-        'posts' => $posts->paginate(10)
+        'posts' => $posts->paginate(2000)
     ];
 
 };
