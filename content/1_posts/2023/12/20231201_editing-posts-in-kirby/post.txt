@@ -8,7 +8,7 @@ Summary:
 
 Text:
 
-It's such a pleasant change to be editing posts in Kirby rather than WordPress. The panel is fast, clean, and simple. It's also easily customizable using Blueprints.
+It's such a pleasant change to be editing posts in Kirby rather than WordPress. The panel is fast, clean, and simple. It's also easily customizable using (link: https://getkirby.com/docs/guide/blueprints/introduction text: Blueprints).
 
 Here's what today's journal post looks like in Kirby's panel:
 
