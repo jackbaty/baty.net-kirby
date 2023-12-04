@@ -1,23 +1,31 @@
 <?php
 /*
-  Templates render the content of your pages.
+   Templates render the content of your pages.
 
-  They contain the markup together with some control structures
-  like loops or if-statements. The `$page` variable always
-  refers to the currently active page.
+   They contain the markup together with some control structures
+   like loops or if-statements. The `$page` variable always
+   refers to the currently active page.
 
-  To fetch the content from each field we call the field name as a
-  method on the `$page` object, e.g. `$page->title()`.
+   To fetch the content from each field we call the field name as a
+   method on the `$page` object, e.g. `$page->title()`.
 
-  This home template renders content from others pages, the children of
-  the `photography` page to display a nice gallery grid.
+   This home template renders content from others pages, the children of
+   the `photography` page to display a nice gallery grid.
 
-  Snippets like the header and footer contain markup used in
-  multiple templates. They also help to keep templates clean.
+   Snippets like the header and footer contain markup used in
+   multiple templates. They also help to keep templates clean.
 
-  More about templates: https://getkirby.com/docs/guide/templates/basics
-*/
+   More about templates: https://getkirby.com/docs/guide/templates/basics
+ */
 $latestJournal = collection('journals')->first();
+$latestJournalDay = $latestJournal->date()->toDate('Y-m-d');
+
+if ($latestJournalDay == date('Y-m-d')) {
+    $dayHeading = 'Today';
+ } else {
+    $dayHeading = 'Latest Journal Entry';
+}
+
 $recentPosts = collection('posts')->limit(7);
 ?>
 <?php snippet('header') ?>
@@ -26,7 +34,8 @@ $recentPosts = collection('posts')->limit(7);
 
 <article class="post home">
 <?php snippet('welcome') ?>
-	<h2 class="uppercase color-grey">Latest journal entry</h2>
+
+	<h2 class="uppercase color-grey"><?= $dayHeading ?></h2>
   <header class="post-header h1">
     <h2 class="post-title"><a href="<?= $latestJournal->url() ?>"><?= $latestJournal->title()->esc() ?></a></h2>
     <?php if ($latestJournal->subheading()->isNotEmpty()): ?>
