@@ -76,4 +76,5 @@ columns:
             query: page.siblings.pluck("tags", ",", true)
       files:
         type: files
-        template: image
+        uploads:
+          template: image
