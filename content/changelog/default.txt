@@ -10,6 +10,7 @@ Text:
 
 A running list of changes I've made to this site. Most recent first.
 
+- 2023-12-04 Show "TODAY" on home if latest journal is from today
 - 2023-12-01 Show weather instead of date on journal posts on posts/ page
 - 2023-12-01 No longer paginate posts/ page
 - 2023-11-29 Added markdown-field plugin
