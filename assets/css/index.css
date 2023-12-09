@@ -39,7 +39,7 @@
   src: url('../fonts/GeneralSans-Variable.woff2') format('woff2'),
        url('../fonts/GeneralSans-Variable.woff') format('woff');
   font-display: swap;
-  font-weight: 200 700;
+  font-weight: 300 700;
   font-style: normal;
 }
 
@@ -207,7 +207,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .text {
   line-height: 1.5em;
-  font-size: 1.2rem;
+  font-size: 1.0rem;
 }
 .text a {
   color: var(--color-link);
