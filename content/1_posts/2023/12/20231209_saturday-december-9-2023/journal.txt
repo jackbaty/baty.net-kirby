@@ -8,13 +8,15 @@ Summary:
 
 Text:
 
+(image: 20231209-001-1.jpg)
+
 I've spent several hours over the past two days bringing my early photos into Lightroom Desktop. Its new ability to browse and edit local files before sending a selection of them to cloud storage tipped me toward trying Lightroom instead of Capture One. 
 
 It's been tedious and this morning I started questioning the entire enterprise. All these old photos are *already* in my Apple Photos library, so as far as synching to devices go, I'm set. I could simply spend the time cleaning up Photos instead. Plus, edits in C1 are better to my eyes in most cases. Sometimes I get lazy and let ease and convenience trump quality. Convenience is seldom the right priority over the long term.
 
 ----
 
-Cover: - file://1UHeGDpNCwBh1m8y
+Cover: 
 
 ----
 
