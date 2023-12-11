@@ -16,6 +16,8 @@ I don't agree with DHH often these days, but (link: https://world.hey.com/dhh/wh
 
 Tinkering with Google's (link: https://notebooklm.google.com/ text: NotebookLM) this morning. Apparently Steven Johnson was involved with the project, which makes it especially interesting.
 
+I was struggling with the (non-existent) date formatting in AppleScript so I threw up my hands and asked ChatGPT to write the entire thing for me from scratch. It did, and it only needed a fix on one line. Saved me hours. Argue all day about what LLMs *are* or *are not*, but good grief they come in handy in real life all the time.
+
 ----
 
 Cover: 
