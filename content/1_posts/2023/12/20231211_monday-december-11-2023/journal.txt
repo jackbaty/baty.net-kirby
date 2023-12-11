@@ -8,9 +8,9 @@ Summary:
 
 Text:
 
-I spend too much time putting other peoples' thoughts into my head.
+I spend too much time letting other peoples' thoughts into my head.
 
-Until *everyone* else also lives in plain text, it's difficult for me to live there.
+Until everyone else also lives in plain text, it's difficult for me to live there.
 
 ----
 
