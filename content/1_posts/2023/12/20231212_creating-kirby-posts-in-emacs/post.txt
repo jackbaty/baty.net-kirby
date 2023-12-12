@@ -37,7 +37,7 @@ Sometimes I'm just chugging along with something in Emacs and I want to start a 
 
 This prompts me for a title, sluggifies it, then creates a new file in `./1_posts/YYYY/MM/YYYYMMDD_slug/post.txt`
 
-I'm sure there's a cleaner way to do this, but it works and I can get right to writing. Note that it skips putting the new post in the drafts folder. Since I write locally and rsync to the server, I don't use the draft status.
+I'm sure there's a cleaner way to do this. I should probably not hard-code the blog's path, but this works and I can get right to writing. Note that it skips putting the new post in the drafts folder. Since I write locally and rsync to the server, I don't use the draft status.
 
 ----
 
