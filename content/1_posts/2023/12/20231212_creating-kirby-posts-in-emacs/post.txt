@@ -12,7 +12,7 @@ Sometimes I'm just chugging along with something in Emacs and I want to start a 
 
 ```lisp
 (defun jab/kirby-new-post (title &optional)
-  "Create and visit a new draft blog post for the prompted TITLE."
+  "Create and visit a new blog post for the prompted TITLE."
   (interactive "sTitle: ")
 
   (let* ((slug (s-dashed-words title))
