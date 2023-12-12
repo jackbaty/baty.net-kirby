@@ -1,0 +1,58 @@
+Title: Creating Kirby posts in Emacs
+
+----
+
+Summary: <p>A small lisp function to create a Kirby post from within Emacs.</p>
+
+----
+
+Text:
+
+Sometimes I'm just chugging along with something in Emacs and I want to start a new Kirby post. Instead of always finding my way to the Kirby panel, I modified the small lisp function I wrote for creating Hugo posts. It looks like this:
+
+```lisp
+(defun jab/kirby-new-post (title &optional)
+  "Create and visit a new draft blog post for the prompted TITLE."
+  (interactive "sTitle: ")
+
+  (let* ((slug (s-dashed-words title))
+         (default-directory (concat "~/sites/blog-kirby/content/1_posts/"
+                            (format-time-string "%Y/%m/")
+                            (format-time-string "%Y%m%d_")
+                            slug "/"))
+         (fpath (concat default-directory "/post.txt")))
+
+         (make-directory default-directory)
+
+    (write-region (concat
+                   "Title: " title
+                   "\n\n----\n\nSummary: "
+                   "\n\n----\n\nDate: " (format-time-string "%Y-%m-%d %H:%M:%S")
+                   "\n\n----\n\nText: "
+                   "\n\n----\n\nTags: ")
+                  nil (expand-file-name fpath) nil nil nil t)
+    (find-file (expand-file-name fpath))))
+
+```
+
+I'm sure there's a cleaner way to do this, but it works and I can get right to writing.
+
+----
+
+Cover: 
+
+----
+
+Date: 2023-12-12 10:25:00
+
+----
+
+Author: 
+
+----
+
+Tags: Emacs, Kirby
+
+----
+
+Uuid: ILRpHAcPp98JWnlO
