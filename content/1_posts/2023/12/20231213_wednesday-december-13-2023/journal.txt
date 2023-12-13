@@ -15,7 +15,7 @@ adjective
   ‣ decline; lacking vitality or vigor
   ‣ being in a state of inactivity or obsolescence
 
-I like Kirby, but I miss the collect-individual-notes-into-a-daily-post that I'd built for (link: https://daily.baty.net text: daily.baty.net) in Tinderbox.
+I like Kirby, but I miss the collect-individual-notes-into-a-daily-post that I'd built for (link: https://daily.baty.net text: daily.baty.net) in Tinderbox. I bet there's a way to build something similar using Kirby, but I'm not sure I know enough about Kirby yet to pull it off.
 
 ## Emacs is neat
 
