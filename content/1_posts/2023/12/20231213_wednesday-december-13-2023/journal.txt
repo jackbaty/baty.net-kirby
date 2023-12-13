@@ -20,7 +20,7 @@ adjective
 
 I finally found a use for using (link: https://www.gnu.org/software/emacs/manual/html_node/emacs/Indirect-Buffers.html text: indirect buffers) in Emacs. Kirby content files are text, but not formatted using "normal" YAML. This puts the "Text:" field in the middle of the other fields, making it less convenient to edit. So, I can just mark the Text: field and run `edit-indirect-region` and poof, I'm off in a new buffer containing only that section of the original file. Emacs is neat. All that's left is to force visual-line-mode and markdown-mode in the new buffer.
 
-Oh, I'd forgotten about `narrow-to-region` which is even better for this. I narrow to Org-mode headings all the time, but didn't using it here by selecting the "Text:" field and narrowing to just that region. This way, all of my settings remain intact and I don't have to worry about restoring them in the indirect buffer.
+Oh, I'd forgotten about `narrow-to-region` which is even better for this. I narrow to Org-mode headings all the time, but didn't consider using it here by selecting the "Text:" field and narrowing to just that region. This way, all of my settings remain intact and I don't have to worry about restoring them in the indirect buffer.
 
 
 ----
