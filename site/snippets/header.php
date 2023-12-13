@@ -34,11 +34,15 @@
    */
   ?>
   <?= css([
-      'assets/css/prism.css?v=20231109',
-      'assets/css/lightbox.css',
-      'assets/css/index.css?ver=' . filemtime("assets/css/index.css") . '',
-      '@auto'
+    'assets/css/prism.css?v=20231109',
+    'assets/css/lightbox.css',
+    'assets/css/index.css?ver=' . filemtime("assets/css/index.css") . '',
+    '@auto'
   ]) ?>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap" rel="stylesheet">
 
   <link rel="shortcut icon" type="image/x-icon" href="<?= url('favicon.ico') ?>">
   <link rel="icon" type="image/png" sizes="16x16" href="<?= url('favicon-16x16.png')?>">
