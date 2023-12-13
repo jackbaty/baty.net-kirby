@@ -39,7 +39,7 @@ $recentPosts = collection('posts')->limit(7);
   <header class="post-header h1">
     <h2 class="post-title"><a href="<?= $latestJournal->url() ?>"><?= $latestJournal->title()->esc() ?></a></h2>
     <?php if ($latestJournal->subheading()->isNotEmpty()): ?>
-    <p class="post-subheading"><small><?= $latestJournal->subheading()->esc() ?></small></p>
+        <p class="post-subheading"><small><?= $latestJournal->subheading()->esc() ?></small></p>
     <?php endif ?>
   </header>
   <div class="post text">
@@ -63,7 +63,7 @@ $recentPosts = collection('posts')->limit(7);
 </article>
 
   <?php if (false): ?>
-  <?php /* if ($photographyPage = page('photography')): */ ?>
+  <?php /*if ($photographyPage = page('photography')): */ ?>
   <ul class="home-grid">
     <?php foreach ($photographyPage->children()->listed() as $album): ?>
     <li>

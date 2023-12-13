@@ -6,11 +6,9 @@ Summary:
 
 ----
 
-Date: 2023-12-13 05:06:09
+Text:
 
-----
-
-Text: Today's word:
+(image: cabo-dog-bw.jpg)
 
 **moribund** | ˈmôrəˌbənd |
 adjective
@@ -19,8 +17,20 @@ adjective
 
 ----
 
+Cover: - file://sTvsImWzHxflZLxa
+
+----
+
+Date: 2023-12-13 05:05:00
+
+----
+
 Weather: Low 27.3, High 37.8 - Sunny
 
 ----
 
 Tags: Journal
+
+----
+
+Uuid: WRw70xAMUnqtw1Mn
