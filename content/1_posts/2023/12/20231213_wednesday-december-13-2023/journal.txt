@@ -19,7 +19,7 @@ I like Kirby, but I miss the collect-individual-notes-into-a-daily-post that I'd
 
 Well, the most recent position I applied for, and one for which I'm more than qualified for, is "going to move ahead with another candidate". Disappointing, but onward, I guess.
 
-I paid $75 for the OmniFocus 4 upgrade from v3. I figure I'd give the old OF another run. It's a very powerful app, but suffers because of it. Still, I love the built-in review feature. Also, I'm trying to move tasks out of Org-mode, so this was incentive.
+I paid $75 for the OmniFocus 4 upgrade from v3. I figure I'd give the old OF another run. It's a very powerful app, but suffers because of it. Still, I love the built-in review feature. Also, I'm trying to move tasks out of Org-mode, so this was incentive. At the rate that OmniGroup updates OmniFocus, that $75 should last me three or four years.
 
 ## Emacs is neat
 
