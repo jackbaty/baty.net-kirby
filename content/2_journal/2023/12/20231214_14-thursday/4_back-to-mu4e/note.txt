@@ -1,0 +1,21 @@
+Title: Back to Mu4e
+
+----
+
+Showtitle: false
+
+----
+
+Text: I have been using (link: https://notmuchmail.org/ text: notmuch) for email in Emacs for a long time. It's great for searching and organizing a giant email archive. It's less great for actual day-to-day email management. So, I'm back to (link: https://djcbsoftware.nl/code/mu/mu4e.html text: Mu4e) for now. I'll keep indexing my ~/Mail with Notmuch so I can also use the fancy searches, just in case.
+
+----
+
+Date: 2023-12-14
+
+----
+
+Tags: Emacs
+
+----
+
+Uuid: 27jvo9cOdc4CgxBh
