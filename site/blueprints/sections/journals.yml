@@ -1,0 +1,16 @@
+# This section blueprint defines a pages section that can be reused across multiple blueprints
+# or multiple times within the same blueprint, see `/site/blueprints/pages/posts.yml` and `/site/blueprints/site.yml`
+# Sections can have different layouts and display additional information or a preview image
+# More about pages sections: https://getkirby.com/docs/reference/panel/sections/pages
+type: pages
+label: Journals
+templates:
+  - journal
+empty: No journals yet
+query: site.index.filterBy("template", "in", ["journal"])
+sortBy: date desc
+limit: 10
+image:
+  query: page.cover
+  cover: true
+  ratio: 3/2

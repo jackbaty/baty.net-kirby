@@ -1,0 +1,43 @@
+
+title: Daily Note
+
+
+icon: 📝
+
+create:
+  status: listed
+  template: note
+
+columns:
+  main:
+    width: 2/3
+    sections:
+      # Fields section: https://getkirby.com/docs/reference/panel/sections/fields
+      fields:
+        type: fields
+        fields:
+          showtitle:
+            label: Show title?
+            type: toggle
+            text:
+              - "no"
+              - "yes"
+          text:
+            type: markdown
+            size: large
+  sidebar:
+    width: 1/3
+    sections:
+      meta:
+        type: fields
+        fields:
+          date:
+            label: Date
+            type: date
+            default: now
+          tags:
+            label: Tags
+            type: tags
+      files:
+        type: files
+        template: image

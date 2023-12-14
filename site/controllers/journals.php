@@ -17,18 +17,16 @@ return function ($page) {
      * More about collections:
      * https://getkirby.com/docs/guide/templates/collections
      */
-    
+    $journals = collection('journals');
 
     $tag = param('tag');
     if (empty($tag) === false) {
-        $posts = collection('posts-and-notes')->filterBy('tags', $tag, ',');
-    } else {
-    	$posts = collection('posts');
+        $journals = $journals->filterBy('tags', $tag, ',');
     }
 
     return [
         'tag'   => $tag,
-        'posts' => $posts->paginate(2000)
+        'journals' => $journals->paginate(2000)
     ];
 
 };

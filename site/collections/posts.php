@@ -10,6 +10,6 @@ return function () {
     return page('posts')
         ->index()
         ->listed()
-        ->filterBy('template', 'in', ['post', 'journal'])
+        ->filterBy('template', 'in', ['post','note'])
         ->sortBy('date', 'desc');
 };

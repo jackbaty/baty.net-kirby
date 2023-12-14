@@ -1,0 +1,17 @@
+Title: Adding a note via the panel
+
+----
+
+Text: I've added this note in Kirby's panel using the new "Note.yml" blueprint, Huzzah!
+
+----
+
+Date: 2023-12-14
+
+----
+
+Tags: Kirby
+
+----
+
+Uuid: aElnwewLaGmd46bC

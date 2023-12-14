@@ -532,34 +532,57 @@ ul.post li .post-excerpt {
   padding-bottom: 2em;
   /* border-bottom: 1px solid  var(--color-text-grey); */
 }
-.post-title {
+ul.note li .note-excerpt {
+  margin-bottom: 1em;
+  padding-bottom: 1em;
+}
+.post-title, .note-title {
   font-family: Oswald;
 }
-.post-excerpt {
+.post-excerpt, .note-excerpt {
   line-height: 1.5em;
   max-width: 45rem;
   margin: 0 auto;
 }
-.post-excerpt header {
+.post-excerpt header, .note-excerpt header {
   margin-bottom: 1.5rem;
 }
-.post-excerpt figure {
+.post-excerpt figure, .note-excerpt figure {
   margin-bottom: .5rem;
 }
-.post-excerpt-title {
+.post-excerpt-title, .note-excerpt-title {
   font-family: Oswald;
   font-weight: 400;
   font-size: 1.5em;
 }
 
-.post-excerpt-title:hover {
+.note-excerpt-title {
+  margin-bottom: 1rem;
+}
+
+.post-excerpt-title:hover, .note-excerpt-title:hover {
   text-decoration: underline;
 }
-.post-excerpt-date {
+.post-excerpt-date, .note-excerpt-date {
   color: var(--color-text-grey);
   font-size: 0.9em;
   display: block;
   margin-bottom: 1em;
+}
+.note-excerpt-date {
+  font-size: 16px;
+}
+.note-excerpt-date a:hover {
+  text-decoration: underline;
+}
+.permalink-hash a {
+  float: left;
+  margin-left: -1.0em;
+  opacity: 0.3;
+  font-weight: normal;
+  font-size: 14px;
+  cursor: pointer;
+  text-decoration: none;
 }
 
 

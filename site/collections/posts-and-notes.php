@@ -7,9 +7,9 @@
  * https://getkirby.com/docs/guide/templates/collections
  */
 return function () {
-    return page('journal')
+    return site()
         ->index()
         ->listed()
-        ->filterBy('template', 'in', ['journal'])
+        ->filterBy('template', 'in', ['post','note'])
         ->sortBy('date', 'desc');
 };

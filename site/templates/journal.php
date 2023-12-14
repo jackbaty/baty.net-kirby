@@ -40,6 +40,16 @@
   <div class="post text">
     <?= $page->text()->kt() ?>
   </div>
+
+<ul class="note">
+  <?php foreach($page->children() as $note): ?>
+  <li>
+    <?php snippet('note-list', ['note' => $note]) ?>
+  </li>
+  <?php endforeach ?>
+</ul>
+
+	
   <footer class="post-footer">
     <?php if (!empty($tags)): ?>
     <ul class="post-tags">

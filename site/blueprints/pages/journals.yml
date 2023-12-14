@@ -1,0 +1,29 @@
+# Each page blueprint must have a title, the title may be different from the file name
+title: Posts
+
+# Each page can have an icon that is shown in page listings when no preview image is available.
+icon: 📖
+
+# Define the form layout with two columns
+# More about columns: https://getkirby.com/docs/guide/blueprints/layout#defining-columns
+
+
+# In the first column, we reuse the `posts` section
+# (defined in `/site/blueprints/sections/posts.yml` twice with different page status and headline
+sections:
+  drafts:
+    extends: sections/journals
+    label: Drafts
+    status: draft
+
+
+# In the second column, we reuse the same section, this time for listed pages and with a different headline
+sections:
+  listed:
+    extends: sections/journals
+    label: Published
+    status: listed
+    layout: list
+    query: kirby.collection("journals")
+
+# More about pages sections: https://getkirby.com/docs/reference/panel/sections/pages

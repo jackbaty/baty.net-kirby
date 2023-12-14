@@ -45,6 +45,15 @@ $recentPosts = collection('posts')->limit(7);
   <div class="post text">
     <?= $latestJournal->text()->kt() ?>
   </div>
+  
+<ul class="note">
+  <?php foreach($latestJournal->children() as $note): ?>
+  <li>
+    <?php snippet('note-list', ['note' => $note]) ?>
+  </li>
+  <?php endforeach ?>
+</ul>  
+  
   <hr>
   <div class="recent-posts">
   <h2 class="uppercase color-grey">Recent posts</h2>

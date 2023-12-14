@@ -7,7 +7,7 @@ num: date
 
 # Each page can have an icon that is shown in page listings when no preview image is available.
 icon: 📖
-
+icon: 🗓️
 create:
   status: listed
   fields:
@@ -29,26 +29,33 @@ status:
 # Define the form layout with two columns
 columns:
   - width: 2/3
-    # This columns only has two fields
-    fields:
-      summary:
-        type: writer
-        maxlength: 280
-        buttons: false
-      text:
-        label: Post Text
-        type: markdown
-        buttons:
-          - headlines
-          - italic
-          - '|'
-          - code
-          - ul
-          - ol
-          - '|'
-          - link
-          - file
-        size: large
+    sections:
+      content:
+        type: fields
+        fields:
+          summary:
+            type: writer
+            maxlength: 280
+            buttons: false
+          text:
+            label: Post Text
+            type: markdown
+            buttons:
+              - headlines
+              - italic
+              - '|'
+              - code
+              - ul
+              - ol
+              - '|'
+              - link
+              - file
+            size: small
+      daily-notes:
+        type: pages
+        label: Notes for today
+        template: note
+        info: "{{ page.tags }} | Title: {{ page.ShowTitle }}"
 
 
   - width: 1/3
@@ -78,3 +85,5 @@ columns:
         type: files
         uploads:
           template: image
+
+
