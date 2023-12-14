@@ -19,6 +19,8 @@ I like Kirby, but I miss the collect-individual-notes-into-a-daily-post that I'd
 
 Well, the most recent position I applied for, and one for which I'm more than qualified for, is "going to move ahead with another candidate". Disappointing, but onward, I guess.
 
+I paid $75 for the OmniFocus 4 upgrade from v3. I figure I'd give the old OF another run. It's a very powerful app, but suffers because of it. Still, I love the built-in review feature. Also, I'm trying to move tasks out of Org-mode, so this was incentive.
+
 ## Emacs is neat
 
 I finally found a case for using (link: https://www.gnu.org/software/emacs/manual/html_node/emacs/Indirect-Buffers.html text: indirect buffers) in Emacs. Kirby content files are text, but not formatted using "normal" YAML. This puts the "Text:" field in the middle of the other fields, making it less convenient to edit. So, I can just mark the Text: field and run `edit-indirect-region` and poof, I'm off in a new buffer containing only that section of the original file. Emacs is neat. All that's left is to force visual-line-mode and markdown-mode in the new buffer.
