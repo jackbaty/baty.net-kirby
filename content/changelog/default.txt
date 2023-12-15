@@ -1,1 +1,39 @@
-Uuid: a4Ij08MCgkDTbk7Q
+Title: Changelog
+
+----
+
+Subheadline: Things change around here
+
+----
+
+Text:
+
+A running list of changes I've made to this site. Most recent first.
+
+- 2023-12-15 Add cover image to individual notes and journal posts
+- 2023-12-15 Tweak CSS to help with smaller screens. More to do here.
+- 2023-12-15 RSS feed now includes types "post" and "note"
+- 2023-12-14 Journal posts are now comprised of individual notes
+- 2023-12-13 Oswald font is now loaded from Google because I couldn't make it look right with the variable font locally
+- 2023-12-09 Reduced post font size from 1.2rem to 1.0rem
+- 2023-12-09 Move social links to footer
+- 2023-12-04 Show "TODAY" on home if latest journal is from today
+- 2023-12-01 Show weather instead of date on journal posts on posts/ page
+- 2023-12-01 No longer paginate posts/ page
+- 2023-11-29 Added markdown-field plugin
+- 2023-11-29 Don't constrain body to 70rem
+- 2023-11-28 Upgrade to Kirby 4.0.0
+- 2023-11-06 Added RSS link to nav
+- 2023-10-22 Changed header/intro text and home link
+- 2023-10-20 Added cover images back to grid on home page
+- 2023-10-18 Fonts, layout, header graphics, navigation, etc.
+- 2023-10-16 Added Reply by Email link to posts
+- 2023-10-16 Moved server back to my DigitalOcean VPS
+- 2023-10-15 Rejiggered templates. Removed cover images because I broke them somehow.
+- 2023-10-14 Removed automatic cover images from posts. They must now be explicitly added to the Cover section.
+- 2023-10-14 Added grid of recent posts to home page
+- 2023-10-14 Simplified Posts page (only show title and excerpt
+
+----
+
+Uuid: wdqweScwulK1ZXVe
