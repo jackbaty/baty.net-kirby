@@ -10,6 +10,8 @@ Text:
 
 A running list of changes I've made to this site. Most recent first.
 
+- 2023-12-15 Changed text font to Ubuntu. I thought GeneralSans was too, well, flimsy somehow.
+- 2023-12-15 Reduced width of content (except on Home, so far)
 - 2023-12-15 Add cover image to individual notes and journal posts
 - 2023-12-15 Tweak CSS to help with smaller screens. More to do here.
 - 2023-12-15 RSS feed now includes types "post" and "note"
