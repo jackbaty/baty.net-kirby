@@ -42,9 +42,11 @@ $recentPosts = collection('posts')->limit(7);
         <p class="post-subheading"><small><?= $latestJournal->subheading()->esc() ?></small></p>
     <?php endif ?>
   </header>
+  <?php if ($latestJournal->text()->isNotEmpty()): ?>
   <div class="post text">
     <?= $latestJournal->text()->kt() ?>
   </div>
+  <?php endif ?>
   
 <ul class="note">
   <?php foreach($latestJournal->children() as $note): ?>
