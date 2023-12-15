@@ -6,11 +6,7 @@ Showtitle: false
 
 ----
 
-Text:
-
-(image: 20231214-231.jpg)
-
-I went bowling last night. Now my back hurts, my knee and hip hurts, and I can barely move my wrist or middle finger. Who says bowling isn't a sport?
+Text: I went bowling last night. Now my back hurts, my knee and hip hurts, and I can barely move my wrist or middle finger. Who says bowling isn't a sport?
 
 ----
 
@@ -19,6 +15,14 @@ Date: 2023-12-15
 ----
 
 Tags: 
+
+----
+
+Cover: - file://NXuMluyyWF1YIFnF
+
+----
+
+Smallimage: 
 
 ----
 

@@ -1,4 +1,8 @@
-Title: Daily Notes
+Title: Journal
+
+----
+
+Subheadline: My daily notes
 
 ----
 
