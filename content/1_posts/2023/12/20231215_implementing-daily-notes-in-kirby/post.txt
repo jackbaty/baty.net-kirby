@@ -8,7 +8,7 @@ Summary: <p>How I reimplemented my Daily Notes feature from my Tinderbox blog to
 
 Text:
 
-Dave Winer's (link: http://fargo.io/ text: Fargo blogging tool) worked exactly how I wanted my blog to work. It collected a bunch of individual posts into a single group for each day (Dave's site still does this at (link: http://scripting.com/ text: scripting.com)). Fargo was great, but support waned and Dave's attention moved elsewhere, so I felt it was best to move on.
+Dave Winer's (link: http://fargo.io/ text: Fargo blogging tool) worked exactly how I wanted my blog to work. It collected a bunch of individual posts into a single group for each day, with each post also linked to its own page. (Dave's site still does this at (link: http://scripting.com/ text: scripting.com)). Fargo was great, but support waned and Dave's attention went elsewhere, so I felt it was best to move on.
 
 When I began using Tinderbox to build my (link: https://daily.baty.net text: Daily Notes blog), I reimplemented most of my favorite features from Fargo. The big one was the daily container of notes. Another was the small icon shown on the right of individual posts. I now have both of these here at baty.net, using (link: https://getkirby.com/ text: Kirby).
 
@@ -16,7 +16,7 @@ Here's the (abridged version of) how I did it.
 
 Since Kirby's static content model reflects the underlying folder structure, individual notes go right in the day's journal folder. That way, listing the notes on a day's journal page is simple as looping through `$page->children()`. 
 
-Of course getting the notes where they belong is best done via Kirby's panel, so this meant creating Blueprints. Kirby's Blueprints are so cool. They're YAML files that define the UI and properties for content in the panel. As simple as they are, I am still struggling to wrap my brain around how they work. There's a *lot* of trial and error before I get things right. Eventually, my Journal Blueprint worked, and the relevant bit looks like this:
+Of course getting the notes where they belong is best done via Kirby's panel, so this meant creating Blueprints. Kirby's Blueprints are pretty cool. They're YAML files that define the UI and properties for content in the panel. As simple as they are, I am still struggling to wrap my brain around how they work. There's a *lot* of trial and error before I get things right. Eventually, my Journal Blueprint worked, and the relevant bit looks like this:
 
 ```yaml
      daily-notes:
@@ -121,6 +121,8 @@ All that remained was to render all this in the Journal template.
 ```
 
 This has been an over-simplified account of the process, but hopefully you get the gist. It took me the better part of a day to get this in place, but most of that time was me fumbling around because I'm new to Kirby. Overall, it was easy and working with Kirby is darn pleasant.
+
+I'm sure I'll tweak this incessantly as I learn more, but so far I'm happy with what I was able to put together in short order.
 
 ----
 
