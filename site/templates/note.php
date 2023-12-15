@@ -5,6 +5,11 @@
 ?>
 <?php snippet('header') ?>
 
+<?php if ($cover = $page->assignedCover()): ?>
+<a href="<?= $cover->url() ?>" data-lightbox class="img" style="--w:2; --h:1">
+  <img src="<?= $cover->url() ?>" alt="<?= $cover->alt()->esc() ?>">
+</a>
+<?php endif ?>
 <article class="post">
 <header class="post-header h1"><h1 class="post-title"><?= $page->title()->esc() ?></h1>
     <time class="note-excerpt-date">Daily Note: <a href="<?= $page->parent()->url() ?>"><?= html($page->parent()->title()) ?></a></time>

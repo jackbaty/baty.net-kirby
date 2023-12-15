@@ -38,6 +38,7 @@ columns:
           tags:
             label: Tags
             type: tags
+          cover: fields/cover
           smallimage:
             label: Small image
             type: files
@@ -47,3 +48,4 @@ columns:
       files:
         type: files
         template: image
+

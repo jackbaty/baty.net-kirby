@@ -15,7 +15,9 @@
 	<?php endif ?>
 	<?php snippet('small-image',['note' => $note]) ?>
   <div class="note text">
-		<?php if ($note->Showtitle()->toBool() === false): ?><span class="permalink-hash"><a href="<?= $note->url() ?>">#</a></span><?php endif ?>
+		<?php if ($note->Showtitle()->toBool() === false): ?>
+			<span class="permalink-hash"><a href="<?= $note->url() ?>">#</a></span>
+		<?php endif ?>
 		<?= $note->text()->kt() ?>
 	</div>
 </article>
