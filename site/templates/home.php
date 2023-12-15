@@ -42,6 +42,11 @@ $recentPosts = collection('posts')->limit(7);
         <p class="post-subheading"><small><?= $latestJournal->subheading()->esc() ?></small></p>
     <?php endif ?>
   </header>
+  <?php if ($cover = $latestJournal->assignedCover()): ?>
+<a href="<?= $cover->url() ?>" data-lightbox class="img" style="--w:2; --h:1">
+  <img src="<?= $cover->crop(1200, 800)->url() ?>" alt="<?= $cover->alt()->esc() ?>">
+</a>
+<?php endif ?>
   <?php if ($latestJournal->text()->isNotEmpty()): ?>
   <div class="post text">
     <?= $latestJournal->text()->kt() ?>
