@@ -1,0 +1,21 @@
+Title: RSS feed changes
+
+----
+
+Showtitle: false
+
+----
+
+Text: I have changed the RSS feed here to include each individual note instead of one longer daily note per day. Now that I have individual daily notes, I wanted to use them. I hope this doesn't feel too noisy.
+
+----
+
+Date: 2023-12-15
+
+----
+
+Tags: Kirby
+
+----
+
+Uuid: 3cLlbzzOc8lydlJs

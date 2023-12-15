@@ -1,0 +1,21 @@
+Title: Bowling is hard
+
+----
+
+Showtitle: false
+
+----
+
+Text: I went bowling last night. Now my back hurts, me knee and hip hurts, and I can barely move my wrist and middle finger. Who says bowling isn't a sport?
+
+----
+
+Date: 2023-12-15
+
+----
+
+Tags: 
+
+----
+
+Uuid: 45HJtjuYzRoT8qJm
