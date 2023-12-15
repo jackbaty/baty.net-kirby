@@ -1,4 +1,4 @@
-Caption: The day's Journal entry in the Kirby panel.
+Caption: The smallimages area of site.yml
 
 ----
 
@@ -18,11 +18,11 @@ Link:
 
 ----
 
-Sort: 1
+Sort: 3
 
 ----
 
-Uuid: nhmD9BtjSdmHqmGv
+Uuid: KvuaTPdzT6p1NWYz
 
 ----
 

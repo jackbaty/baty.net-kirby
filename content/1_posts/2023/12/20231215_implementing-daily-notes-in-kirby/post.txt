@@ -86,7 +86,23 @@ Note that the text, files and cover fields are vestigial and will be removed eve
 
 The showtitle field is a toggle that determines whether to show the note's title when rendering the note. I use this for longer, multi-paragraph notes so (I think) things are easier to scan.
 
-The "smallimage" field is fun. It's a Files field that lets me upload a small image to be floated at the right of the note's text. I don't know why, but I really like this. The trick here is that I don't want to upload the same image multiple times, so I created an area on the Site.yml blueprint that allows me to upload them to a central location, then I can just pick one when adding a note.
+The "smallimage" field is fun. It's a Files field that lets me upload a small image to be floated at the right of the note's text. I don't know why, but I really like this. The trick here is that I don't want to upload the same image multiple times, so I created an area on the site.yml blueprint that allows me to upload them to a central location, then I can just pick one when adding a note.
+
+Here's the blueprint section:
+
+```yaml
+# site.yml section
+smallimages:
+  label: Small Images
+  type: files
+  uploads:
+  template: smallimage
+  parent: page('small-images')
+```
+
+And here's that section on the Site Panel page:
+
+(image: 20231215-site-yaml.png)
 
 Here's what the Note page in the panel looks like:
 
