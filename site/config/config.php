@@ -20,11 +20,11 @@ return [
             'action'  => function () {
                 $options = [
                     'title'       => 'Baty.net',
-                    'description' => 'From Jack Baty\'s blog',
+                    'description' => 'Jack Baty\'s blog',
                     'link'        => 'posts',
                     'snippet' => 'feed/rss', // 'feed/json'
                 ];
-                $feed = collection('posts')
+                $feed = collection('posts-and-notes')
 						->index()
 						->listed()
 						->sortBy('date', 'desc')->limit(10)->feed($options);

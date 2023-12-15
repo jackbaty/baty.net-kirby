@@ -15,7 +15,7 @@ echo '<?xml version="1.0" encoding="utf-8"?>';
       <link><?= \Kirby\Toolkit\Xml::encode($item->{$urlfield}()) ?></link>
       <guid><?= \Kirby\Toolkit\Xml::encode($item->url()) ?></guid>
       <pubDate><?= $datefield === 'modified' ? $item->modified('r', 'date') : date('r', $item->{$datefield}()->toTimestamp()) ?></pubDate>
-      <?php if ($item->template() == 'journal'): ?>
+      <?php if ($item->template() == 'note'): ?>
       <description><![CDATA[
   <?php  if($cover = $item->assignedCover()): ?>
   <figure>
