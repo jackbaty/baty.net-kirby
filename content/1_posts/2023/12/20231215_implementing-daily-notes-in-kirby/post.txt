@@ -16,6 +16,8 @@ Here's the (abridged version of) how I did it.
 
 Since Kirby's static content model reflects the underlying folder structure, individual notes go right in the day's journal folder. That way, listing the notes on a day's journal page is simple as looping through `$page->children()`. 
 
+(image: 20231215-content.png)
+
 Of course getting the notes where they belong is best done via Kirby's panel, so this meant creating Blueprints. Kirby's Blueprints are pretty cool. They're YAML files that define the UI and properties for content in the panel. As simple as they are, I am still struggling to wrap my brain around how they work. There's a *lot* of trial and error before I get things right. Eventually, my Journal Blueprint worked, and the relevant bit looks like this:
 
 ```yaml
