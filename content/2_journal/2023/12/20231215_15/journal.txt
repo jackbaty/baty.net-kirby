@@ -10,7 +10,7 @@ Text:
 
 ----
 
-Cover: 
+Cover: - file://BfBhbCVyZdt1S12R
 
 ----
 
