@@ -10,6 +10,7 @@
     <time class="note-excerpt-date">Daily Note: <a href="<?= $page->parent()->url() ?>"><?= html($page->parent()->title()) ?></a></time>
 </header>
   <div class="post text">
+  	<?php snippet('small-image',['note' => $page]) ?>
     <?= $page->text()->kt() ?>
   </div>
   <footer class="post-footer">

@@ -11,6 +11,18 @@ columns:
   - width: 1/2
     sections:
       albums: sections/albums
+      header:
+        label: Header Images
+        type: files
+        uploads:
+        template: image
+      smallimages:
+        label: Small Images
+        type: files
+        uploads:
+        template: smallimage
+        parent: page('small-images')
+
 
   # The second column has two sections, `posts` and `pages`
   - width: 1/2
@@ -29,8 +41,3 @@ columns:
           - home
           - default
           - default.blocks
-      header:
-        label: Header Images
-        type: files
-        uploads:
-        template: image

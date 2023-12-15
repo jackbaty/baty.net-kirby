@@ -621,3 +621,8 @@ a.reply-by-email {
 .uppercase {
   text-transform: uppercase;
 }
+
+img.small-image-right {
+  float:right;
+  padding: 10px 0px 10px 10px;
+}

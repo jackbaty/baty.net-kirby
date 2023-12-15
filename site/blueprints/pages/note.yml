@@ -38,6 +38,12 @@ columns:
           tags:
             label: Tags
             type: tags
+          smallimage:
+            label: Small image
+            type: files
+            max: 1
+            multiple: false
+            query: page('small-images').images
       files:
         type: files
         template: image

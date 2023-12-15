@@ -1,0 +1,13 @@
+Alt: Kirby logo
+
+----
+
+Sort: 3
+
+----
+
+Uuid: M9FEHMuXqFyOc6QD
+
+----
+
+Template: smallimage

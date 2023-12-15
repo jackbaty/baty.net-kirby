@@ -13,6 +13,7 @@
 	<?php if ($note->Showtitle()->toBool() === true): ?>
 		<h2 class="note-excerpt-title"><a href="<?= $note->url() ?>"><?= $note->title()->esc() ?></a></h2>
 	<?php endif ?>
+	<?php snippet('small-image',['note' => $note]) ?>
   <div class="note text">
 		<?php if ($note->Showtitle()->toBool() === false): ?><span class="permalink-hash"><a href="<?= $note->url() ?>">#</a></span><?php endif ?>
 		<?= $note->text()->kt() ?>
