@@ -569,6 +569,7 @@ ul.note li .note-excerpt {
 
 .note-excerpt-title {
   margin-bottom: 1rem;
+  font-size: 1.2rem;
 }
 
 .post-excerpt-title:hover, .note-excerpt-title:hover {

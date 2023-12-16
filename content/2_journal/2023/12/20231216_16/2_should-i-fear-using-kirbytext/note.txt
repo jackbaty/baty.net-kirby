@@ -2,7 +2,7 @@ Title: Should I fear using KirbyText?
 
 ----
 
-Showtitle: false
+Showtitle: true
 
 ----
 
