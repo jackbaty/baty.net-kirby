@@ -2,11 +2,11 @@ Title: Should I fear using KirbyText?
 
 ----
 
-Showtitle: true
+Text: I use Markdown to write posts here in Kirby's panel. The resulting content files don't use YAML front matter like Hugo and others, but I'm fine with that, honestly. I'm sure there's a little Python or whatever script out there that would help convert them. What I'm concerned with today, though, is my use of (link: https://getkirby.com/docs/reference/text/kirbytags text: KirbyText) within content. For example, a link looks like this: `( link: https://baty.net text: My Blog )`. (I added spaces so it wouldn't actually render as a link.) On one hand, KirbyText is actually easier to write than Markdown. On the other hand, it makes the content dependent on Kirby. Normally this would set me to twitching, but I used to use things like Hugo shortcodes without blinking, so I think it'll be fine. The regular expressions to find/replace KirbyText with normal Markdown shouldn't be difficult to write, either. Conclusion: I think using KirbyText will be fine.
 
 ----
 
-Text: I use Markdown to write posts here in Kirby's panel. The resulting content files don't use YAML front matter like Hugo and others, but I'm fine with that, honestly. I'm sure there's a little Python or whatever script out there that would help convert them. But what I'm concerned with today is my use of (link: https://getkirby.com/docs/reference/text/kirbytags text: KirbyText) within content. For example, a link looks like this: `( link: https://baty.net text: My Blog )`. (I added spaces so it wouldn't actually render as a link.) On one hand, KirbyText is actually easier to write than Markdown. On the other hand, it makes the content dependent on Kirby. Normally this would set me to twitching, but I used to use things like Hugo shortcodes without blinking, so I think it'll be fine. The regular expressions to find/replace KirbyText with normal Markdown shouldn't be difficult to write, either. Conclusion: I think using KirbyText will be fine.
+Showtitle: true
 
 ----
 

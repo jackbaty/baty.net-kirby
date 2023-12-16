@@ -16,12 +16,6 @@ columns:
       fields:
         type: fields
         fields:
-          showtitle:
-            label: Show title?
-            type: toggle
-            text:
-              - "no"
-              - "yes"
           text:
             type: markdown
             size: large
@@ -31,6 +25,12 @@ columns:
       meta:
         type: fields
         fields:
+          showtitle:
+            label: Show title?
+            type: toggle
+            text:
+              - "no"
+              - "yes"
           date:
             label: Date
             type: date
