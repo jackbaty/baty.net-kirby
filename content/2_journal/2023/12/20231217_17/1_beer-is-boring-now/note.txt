@@ -1,0 +1,29 @@
+Title: Beer is boring now
+
+----
+
+Text: Something I've realized about myself recently is that I no longer care about beer. I still love drinking beer, but I've settled on a couple of boring IPAs and otherwise stopped thinking about it. (Two Hearted and All Day with Zombie Dust thrown in if it's on tap). I no longer seek out special editions or try everything available. I'm not standing in lines outside of Founders or wherever. I just order a Two Hearted and enjoy my dinner.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2023-12-17
+
+----
+
+Tags: 
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: VHgIOhYNCP8CW3AB
