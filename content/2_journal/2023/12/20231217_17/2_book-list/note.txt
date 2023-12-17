@@ -1,0 +1,29 @@
+Title: Book list
+
+----
+
+Text: I've changed the system I use to keep track of the books I've read so many times it's not worth listing them. The only one I've found that always works is, of course, also the simplest. It's a markdown file with a bulleted list of books. I've been keeping this for a long time and it's the only one I feel like updating. (link: https://books.baty.net text: books.baty.net)
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2023-12-17
+
+----
+
+Tags: Books
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: RvYhBGC4KVpGpMB1
