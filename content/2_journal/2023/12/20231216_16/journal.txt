@@ -10,7 +10,7 @@ Text:
 
 ----
 
-Cover: 
+Cover: - file://tj8CXQrJPgXMYtOE
 
 ----
 
