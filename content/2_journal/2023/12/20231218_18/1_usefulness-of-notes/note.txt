@@ -1,0 +1,29 @@
+Title: Usefulness of notes
+
+----
+
+Text: I estimate that 80% of the notes I take are never looked at again. Another 10% are reviewed occasionally. But the notes in the last 10% are critical. If I could predict which notes were going to end up in that last 10% it would save me so much time.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2023-12-18
+
+----
+
+Tags: Notetaking
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: JjYDBEj59BDyXoQD
