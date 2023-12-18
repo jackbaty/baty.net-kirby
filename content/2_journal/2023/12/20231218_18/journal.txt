@@ -1,0 +1,29 @@
+Title: Monday, December 18, 2023
+
+----
+
+Summary: 
+
+----
+
+Text: Something neat about the way I'm building this site is that I can write directly in each journal post and it shows up alongside the individual notes on the day's page (this paragraph, for example), but it's not included in RSS or anything, so it could be useful for meta commentary or easter eggs.
+
+----
+
+Cover: 
+
+----
+
+Date: 2023-12-18 10:55:00
+
+----
+
+Weather: Low 26.9, High 35.4 - Blowing snow
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: Ea10bgGJ2T03T9Wz
