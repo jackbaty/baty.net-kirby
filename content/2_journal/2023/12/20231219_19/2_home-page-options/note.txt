@@ -1,0 +1,29 @@
+Title: Home page options
+
+----
+
+Text: I'm considering a change to the way the home page is displayed here. I think I'll show full journal entries for the past, say, seven days. Or maybe I'll just merge journal and regular posts into a "normal" stream.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2023-12-19
+
+----
+
+Tags: Blogging, Meta
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: AOMgsL80pcQg3eZr
