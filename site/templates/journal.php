@@ -50,7 +50,7 @@
 <ul class="note">
   <?php foreach($page->children() as $note): ?>
   <li>
-    <?php snippet('note-list', ['note' => $note]) ?>
+    <?php snippet('note-list-item', ['note' => $note]) ?>
   </li>
   <?php endforeach ?>
 </ul>

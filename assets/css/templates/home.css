@@ -76,13 +76,23 @@
   }
 }
 
+article.post.home {
+  margin-top: 2rem;
+  padding-bottom: 2rem;
+  /* padding: 2rem; */
+  box-shadow: var(--card-box-shadow);
+}
+
 .home .post-title {
   font-size: 0.85em;
 }
 
 .recent-posts {
   margin-top: 2rem;
-  padding-top: 1rem;
+  padding: 1rem;
+  border: 1px solid var(--color-grey);
+  background-color: var(--color-light);
+
 }
 
 .recent-posts h2 {
@@ -103,16 +113,17 @@
   margin-bottom: 0;
 }
 
+
 .more-posts {
   margin-top: 15px;
-  font-weight: 600;
-  width: 90%;
+  font-weight: 400;
+  width: 95%;
   text-align: right;
 }
 
-.home header.welcome {
+header.welcome {
   margin-top: 2rem;
-  margin-bottom: 3rem;
+  margin-bottom: 2rem;
   text-align: center;
 }
 .welcome h1 {
@@ -124,8 +135,11 @@
 
 .post-header.h1 {
   margin-top: 0;
+  padding: 1rem;
+  background-color: #fbfbfc;
+  border-bottom: 1px solid rgb(237, 240, 243);
 }
 
-ul.note {
-  margin-top: 2rem;
+ul.note, div.post.text {
+  margin: 2rem;
 }

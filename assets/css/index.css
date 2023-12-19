@@ -24,8 +24,9 @@
   --color-code-aqua:        #8abeb7;
   --color-code-blue:        #7e9abf;
   --color-code-purple:      #b294bb;
+  --card-box-shadow: 0 0.125rem 1rem rgba(0, 0, 0, 0.06), 0 0.125rem 2rem rgba(0, 0, 0, 0.12), 0 0 0 0.0625rem rgba(0, 0, 0, 0.036);
   --font-fallback: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  --font-family-sans: 'GeneralSans';
+  --font-family-sans: 'Ubuntu';
   --font-family-mono: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
 }
 
@@ -581,6 +582,16 @@ ul.note li .note-excerpt {
   display: block;
   margin-bottom: 1em;
 }
+
+.post-list-date {
+  color: var(--color-text-grey);
+  font-size: 0.9em;
+}
+.post-list-title a:hover {
+  text-decoration: underline;
+}
+
+
 .note-excerpt-date {
   font-size: 16px;
 }

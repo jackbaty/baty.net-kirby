@@ -18,26 +18,26 @@
    More about templates: https://getkirby.com/docs/guide/templates/basics
  */
 $latestJournal = collection('journals')->first();
+$recentJournals = collection('journals')->limit(7);
 $latestJournalDay = $latestJournal->date()->toDate('Y-m-d');
 
 if ($latestJournalDay == date('Y-m-d')) {
-    $dayHeading = 'Today';
+    $dayHeading = 'Today,';
  } else {
-    $dayHeading = 'Latest Journal Entry';
+    $dayHeading = '';
 }
 
-$recentPosts = collection('posts')->limit(7);
+$recentPosts = collection('posts')->limit(5);
 ?>
+
 <?php snippet('header') ?>
   
-
-
-<article class="post home">
 <?php snippet('welcome') ?>
 
-	<h2 class="uppercase color-grey"><?= $dayHeading ?></h2>
+<!-- <h2 class="uppercase color-grey"><?= $dayHeading ?></h2> -->
+<article class="post home">
   <header class="post-header h1">
-    <h2 class="post-title"><a href="<?= $latestJournal->url() ?>"><?= $latestJournal->title()->esc() ?></a></h2>
+    <h2 class="post-title"><?= $dayHeading ?> <a href="<?= $latestJournal->url() ?>"><?= $latestJournal->title()->esc() ?></a></h2>
     <?php if ($latestJournal->subheading()->isNotEmpty()): ?>
         <p class="post-subheading"><small><?= $latestJournal->subheading()->esc() ?></small></p>
     <?php endif ?>
@@ -56,57 +56,55 @@ $recentPosts = collection('posts')->limit(7);
 <ul class="note">
   <?php foreach($latestJournal->children() as $note): ?>
   <li>
-    <?php snippet('note-list', ['note' => $note]) ?>
+    <?php snippet('note-list-item', ['note' => $note]) ?>
   </li>
   <?php endforeach ?>
-</ul>  
+</ul>
+</article>
   
-  <hr>
-  <div class="recent-posts">
-  <h2 class="uppercase color-grey">Recent posts</h2>
+<div class="recent-posts">
+  <h2 class="uppercase color-grey">Recent blog posts</h2>
 
-<ul class="grid">
+<ul>
 <?php foreach ($recentPosts as $post): ?>
 	<?php if ($post->url() != $latestJournal->url()): ?>
-  <li class="column" style="--columns: 4">
-      <?php snippet('post-home', ['post' => $post]) ?>
-  </li>
+      <?php snippet('post-list-home', ['post' => $post]) ?>
   <?php endif ?>
   <?php endforeach ?>
 </ul>
 
 <div class="more-posts"><a href="/posts">More posts &rarr;</a></div>
-</article>
+</div>
 
-  <?php if (false): ?>
-  <?php /*if ($photographyPage = page('photography')): */ ?>
-  <ul class="home-grid">
-    <?php foreach ($photographyPage->children()->listed() as $album): ?>
-    <li>
-      <a href="<?= $album->url() ?>">
-        <figure>
-          <?php
-          /*
-            The `cover()` method defined in the `album.php`
-            page model can be used everywhere across the site
-            for this type of page
+<ul>
+  <?php foreach ($recentJournals as $journal): ?>
+	  <?php if ($journal->url() != $latestJournal->url()): ?>
 
-            We can automatically resize images to a useful
-            size with Kirby's built-in image manipulation API
-          */
-          ?>
-          <?php if ($cover = $album->cover()): ?>
-          <img src="<?= $cover->resize(1024, 1024)->url() ?>" alt="<?= $cover->alt()->esc() ?>">
-          <?php endif ?>
-          <figcaption>
-            <span>
-              <span class="example-name"><?= $album->title()->esc() ?></span>
-            </span>
-          </figcaption>
-        </figure>
-      </a>
-    </li>
-    <?php endforeach ?>
-  </ul>
+
+<article class="post home">
+  <header class="post-header h1">
+    <h2 class="post-title"><a href="<?= $journal->url() ?>"><?= $journal->title()->esc() ?></a></h2>
+    <?php if ($journal->subheading()->isNotEmpty()): ?>
+        <p class="post-subheading"><small><?= $journal->subheading()->esc() ?></small></p>
+    <?php endif ?>
+  </header>
+  <?php if ($journal->text()->isNotEmpty()): ?>
+  <div class="post text">
+    <?= $journal->text()->kt() ?>
+  </div>
   <?php endif ?>
+
+<ul class="note">
+  <?php foreach($journal->children() as $note): ?>
+  <li>
+    <?php snippet('note-list-item', ['note' => $note]) ?>
+  </li>
+  <?php endforeach ?>
+</ul>
+</article>
+    <?php endif ?>
+  <?php endforeach ?>
+</ul>
+
+
 <?php snippet('footer') ?>
