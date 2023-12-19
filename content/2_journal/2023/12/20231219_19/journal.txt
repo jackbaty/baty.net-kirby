@@ -22,7 +22,7 @@ Weather: Low 25.7, High 33.5 - Cloudy
 
 ----
 
-Tags: 
+Tags: Journal
 
 ----
 
