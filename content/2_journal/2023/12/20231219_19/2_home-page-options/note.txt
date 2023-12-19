@@ -2,7 +2,7 @@ Title: Home page options
 
 ----
 
-Text: I'm considering a change to the way the home page is displayed here. I think I'll show full journal entries for the past, say, seven days. Or maybe I'll just merge journal and regular posts into a "normal" stream.
+Text: I've changed way the home page is displayed here. I'm showing full journal entries for the past 7 days. I squeeze in a list of the most recent blog posts after today's entry. Also, I've boxed in each journal entry with a lovely box shadow.
 
 ----
 

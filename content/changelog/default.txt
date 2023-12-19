@@ -10,6 +10,7 @@ Text:
 
 A running list of changes I've made to this site. Most recent first.
 
+- 2023-12-19 Revamped home page. Showing week of journal entries and moved recent posts to a concise list of the most recent 5.
 - 2023-12-15 Changed text font to Ubuntu. I thought GeneralSans was too, well, flimsy somehow.
 - 2023-12-15 Reduced width of content (except on Home, so far)
 - 2023-12-15 Add cover image to individual notes and journal posts
