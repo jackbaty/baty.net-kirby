@@ -22,7 +22,7 @@ Cover:
 
 ----
 
-Smallimage: 
+Smallimage: - file://B5cudOw3UMveu50b
 
 ----
 
