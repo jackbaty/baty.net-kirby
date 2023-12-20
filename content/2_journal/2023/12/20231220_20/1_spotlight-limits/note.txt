@@ -1,0 +1,29 @@
+Title: Spotlight limits
+
+----
+
+Text: I cannot get Spotlight on my Mac to index Textbundle (.textbundle) files or Bike (.bike) files. This is causing me grief, because both formats are used by apps I use regularly. Being unable to search for stuff from outside those apps is kind of a bummer.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2023-12-20
+
+----
+
+Tags: Software, macOS
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: DUv92vrqox4Ghjby
