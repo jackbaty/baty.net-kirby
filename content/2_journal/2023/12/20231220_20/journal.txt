@@ -6,7 +6,7 @@ Summary:
 
 ----
 
-Text: I've been back to using Safari as my default browser. (link: /@/page/5cSJaFBkQlpOkTZr text: More here).
+Text: I've been back to using Safari as my default browser. (link: /2023/12/safari-and-arc text: More here).
 
 ----
 
