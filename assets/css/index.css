@@ -162,6 +162,7 @@ small {
 
 .menu {
   display: flex;
+  margin: auto;
 }
 .menu a {
   padding: 1rem;

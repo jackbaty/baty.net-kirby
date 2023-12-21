@@ -82,10 +82,6 @@
   <?php if($extraImg = $site->image('extra.png')): ?><img id="extra-image" src="<?= $extraImg->url() ?>"><?php endif ?>
 </div>
   <header class="header">
-    <a class="logo" href="<?= $site->url() ?>">
-      Home
-    </a>
-
     <nav class="menu">
       <?php foreach ($site->children()->listed() as $item): ?>
       <a <?php e($item->isOpen(), 'aria-current="page"') ?> href="<?= $item->url() ?>"><?= $item->title()->esc() ?></a>
