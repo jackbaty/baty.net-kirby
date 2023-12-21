@@ -1,0 +1,29 @@
+Title: Improvements here on small screens
+
+----
+
+Text: I rarely look at my blog on my phone, but it was bugging me that things rendered kind of wonky there. I've made some improvements that should help the experience. I'm not good at CSS so I mostly just tweak what's there and hope for the best. Yell if I've broken anything.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2023-12-21
+
+----
+
+Tags: Meta
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: gBKUSAlVjFSq7PLM
