@@ -518,6 +518,9 @@ hr {
   a.logo {
     display: none;
   }
+  .main {
+      padding: 0;
+  }
 }
 
 .pagination {
