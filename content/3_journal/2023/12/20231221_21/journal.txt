@@ -6,7 +6,11 @@ Summary:
 
 ----
 
-Text: The AppleTV lost its network connection half-way through my Fitness+ yoga workout. I took it as a sign and quit the session early :).
+Text:
+
+The AppleTV lost its network connection half-way through my Fitness+ yoga workout. I took it as a sign and quit the session early :).
+
+Saying "Thanks for coming to my TED Talk" stopped being funny at least a year ago.
 
 ----
 
