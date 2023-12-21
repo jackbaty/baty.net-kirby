@@ -519,7 +519,12 @@ hr {
     display: none;
   }
   .main {
-      padding: 0;
+      padding: 0 10px;
+  }
+  .menu a {
+    padding: 5px;
+    font-weight: 400;
+    font-size: 0.9em;
   }
 }
 
