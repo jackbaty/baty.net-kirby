@@ -1,0 +1,29 @@
+Title: Subscriptions
+
+----
+
+Text: People are sharing there list of subscriptions, so I posted mine here: (link: /subscriptions text: Subscriptions).
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2023-12-23
+
+----
+
+Tags: Software
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: WCeIRc3EmBuukv2n

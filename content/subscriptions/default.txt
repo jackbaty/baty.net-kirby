@@ -2,7 +2,7 @@ Title: Subscriptions
 
 ----
 
-Subheadline: Things that cost me every month
+Subheadline: Things I pay for every month
 
 ----
 
@@ -10,7 +10,7 @@ Text:
 
 I don't like subscriptions, but some things don't have free options that are worth the trouble, so here we are.
 
-I keep my list of subscriptions in an Org-mode file so I'll just copy and paste the table here. 
+I keep my list of subscriptions in an Org-mode file so I'll just copy and paste the table here. I'm sure I've missed some. Not all of these are actually paid for monthly. Some I pay for annually, but have calculated the monthly costs here.
 
 ```
 | Service           | Monthly Fee | Live without? |
