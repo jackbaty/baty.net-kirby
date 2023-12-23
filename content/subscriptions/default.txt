@@ -8,7 +8,7 @@ Subheadline: Things I pay for every month
 
 Text:
 
-I don't like subscriptions, but some things don't have either free or pay-and-keep options that are worth the trouble, so here we are.
+I prefer to avoid paying subscriptions. The problem is that some things don't have free or pay-and-keep options. Or if they do they're not worth the trouble, so here we are.
 
 I keep my list of subscriptions in an Org-mode file so I'll just copy and paste the table here. I'm sure I've missed a few. 
 
