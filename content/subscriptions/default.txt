@@ -1,0 +1,54 @@
+Title: Subscriptions
+
+----
+
+Subheadline: Things that cost me every month
+
+----
+
+Text:
+
+I don't like subscriptions, but some things don't have free options that are worth the trouble, so here we are.
+
+I keep my list of subscriptions in an Org-mode file so I'll just copy and paste the table here. 
+
+```
+| Service           | Monthly Fee | Live without? |
+|-------------------+-------------+---------------|
+|                   |             |      <c>      |
+| Adobe             |          11 |               |
+| Amazon AWS        |           2 |               |
+| Amazon Prime      |           9 |               |
+| Apple One         |          37 |               |
+| Capture One       |          15 |               |
+| Day One           |           2 |               |
+| DigitalOcean      |          15 |               |
+| Fastmail          |           5 |               |
+| Flickr            |           6 |               |
+| Glass             |           3 |       X       |
+| Hulu              |          12 |       X       |
+| Max (HBO)         |          18 |       X       |
+| Neatnik (omg.lol) |           2 |               |
+| Netflix           |          17 |       X       |
+| NYTimes           |          25 |               |
+| Photomator        |           3 |       X       |
+| Photoscan         |           4 |       X       |
+| Put.io            |          10 |               |
+| Qobuz             |          11 |       X       |
+| SetApp            |          10 |               |
+| Sourcehut         |           2 |       X       |
+| Spotify           |          15 |               |
+| The Atlantic      |           6 |               |
+| TheBrain          |          14 |               |
+| Tinderbox         |           8 |               |
+| Tinylitics        |           5 |               |
+| YouTube Premium   |          18 |               |
+|-------------------+-------------+---------------|
+| Total:            |         285 |               |
+#+TBLFM: @>$2=vsum(@I..@II)
+
+```
+
+----
+
+Uuid: zxyu49j46fglrkOS
