@@ -26,7 +26,7 @@ I totally get, and agree with, the concept of getting our stuff out of social ne
 
 My current thinking is that our little blogging society doesn't need secrecy, it needs visibility.
 
-RSS Club is a fun idea and I do like the "it's like a newsletter delivered to your feed reader..." bit. What I don't love is that feels like advocating for RSS (a good thing) by limiting the visibility of cool content (not a good thing).
+RSS Club is a fun idea and I do like the "it's like a newsletter delivered to your feed reader..." bit. What I don't love is it feels like it's advocating for RSS (a good thing) by limiting the visibility of cool content (not a good thing, IMO).
 
 There's also some hypocrisy on my part here. I've created a way in my blog to publish things on the home page that never appear anywhere else, including the RSS feed. You need to actually visit my site in order to read it. Perhaps that's what the RSS-only content is meant to be, too.
 
