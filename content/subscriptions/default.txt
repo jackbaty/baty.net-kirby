@@ -12,7 +12,7 @@ I prefer to avoid paying subscriptions. The problem is that some things don't ha
 
 I keep my list of subscriptions in an Org-mode file so I'll just copy and paste the table here. I'm sure I've missed a few. 
 
-Not all of these are actually paid for monthly. Some I pay for annually, but have calculated the monthly costs here.
+Not all of these are actually paid for monthly. Some I pay for annually, but have calculated the monthly costs here (in USD).
 
 ```
 | Service           | Monthly Fee | Live without? |
