@@ -1,0 +1,29 @@
+Caption: Hazel rules for renaming new files using Denote conventions.
+
+----
+
+Alt: 
+
+----
+
+Photographer: 
+
+----
+
+License: 
+
+----
+
+Link: 
+
+----
+
+Sort: 2
+
+----
+
+Uuid: znv1JdziSUXQhm4h
+
+----
+
+Template: image

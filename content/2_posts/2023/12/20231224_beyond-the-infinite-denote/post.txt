@@ -1,0 +1,49 @@
+Title: Beyond the Infinite Denote
+
+----
+
+Summary: <p>I'm using using Denote's "silo" feature for accessing my Beyond the Infinite folder</p>
+
+----
+
+Text:
+
+My [Beyond the Infinite folder](https://v13.baty.net/2022/beyond-the-infinite/) is now its own [Denote silo](https://protesilaos.com/emacs/denote#h:15719799-a5ff-4e9a-9f10-4ca03ef8f6c5).
+
+Denote silos are just folders containing a .dir-locals.el file that sets a couple of Denote variables. This causes Denote commands to look only in that folder (and subfolders). Since I use the Beyond the Infinite folder so differently than my main set of notes, a separate silo seems appropriate.
+
+So far, my .dir-locals.el file is very basic...
+
+```emacs-lisp
+;;; Directory Local Variables.
+
+((nil . ((denote-directory . "~/Desktop/Beyond the Infinite"))))
+```
+
+To make things easier, I added a Hazel rule that watches the "Beyond the Infinite" folder and renames new files using Denote's conventions.
+
+(image: 20231224-hazel-rules-for-denote.png)
+
+I haven't created any custom commands for switching between silos yet. The Beyond the Infinite folder is bookmarked in Emacs so it's already easy to get to.
+
+Denote has become the place where I put everything. I really like it.
+
+----
+
+Cover: 
+
+----
+
+Date: 2023-12-24 14:05:00
+
+----
+
+Author: 
+
+----
+
+Tags: Emacs, Denote
+
+----
+
+Uuid: akeqH4Qi657aB5Mi
