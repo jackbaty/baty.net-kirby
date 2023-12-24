@@ -2,7 +2,7 @@ Title: Beyond the Infinite Denote
 
 ----
 
-Summary: <p>I'm using using Denote's "silo" feature for accessing my Beyond the Infinite folder</p>
+Summary: <p>I'm using using Denote's silo feature for accessing my Beyond the Infinite folder</p>
 
 ----
 
