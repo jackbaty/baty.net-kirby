@@ -1,0 +1,29 @@
+Title: Cross-platform is a mistake
+
+----
+
+Text: The worst thing for my productivity is to try and use multiple platforms for the same tasks. I realized this after installing Linux on an old NUC yesterday. It would take me a year to make everything work the way I want it to work everywhere. I'm not doing that.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2023-12-24
+
+----
+
+Tags: Workflow
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: Ym0CMsuDLVUOs2Xp
