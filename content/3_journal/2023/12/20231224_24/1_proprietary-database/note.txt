@@ -1,0 +1,29 @@
+Title: Proprietary Database
+
+----
+
+Text: I often hear people say things like, "I don't want my data in some proprietary database!" and what they're referring to usually means SQLite so not really. What they mean is that they don't want their data in a proprietary *format* but even that isn't really what's happening. It's SQL.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2023-12-24
+
+----
+
+Tags: 
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: 1jGcmoBzHkgLc8vX
