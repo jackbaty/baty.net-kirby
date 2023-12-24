@@ -28,7 +28,7 @@ To make things easier, I added a Hazel rule that watches the "Beyond the Infinit
 
 I haven't created any custom commands for switching between silos yet. The Beyond the Infinite folder is bookmarked in Emacs so it's already easy to get to.
 
-Denote has become the place where I put everything. I really like it.
+Denote has become the place where I put nearly everything. I really like it.
 
 ----
 
