@@ -10,7 +10,9 @@ Text:
 
 My [Beyond the Infinite folder](https://v13.baty.net/2022/beyond-the-infinite/) is now its own [Denote silo](https://protesilaos.com/emacs/denote#h:15719799-a5ff-4e9a-9f10-4ca03ef8f6c5).
 
-Denote silos are just folders containing a .dir-locals.el file that sets a couple of Denote variables. This causes Denote commands to look only in that folder (and subfolders). Since I use the Beyond the Infinite folder so differently than my main set of notes, a separate silo seems appropriate.
+Denote silos are just folders containing a .dir-locals.el file that sets a couple of Denote variables. This causes Denote commands to look only in that folder (and subfolders) rather than the default Denote folder. It's like opening a separate "vault" in Obsidian, etc. 
+
+Since I use the Beyond the Infinite folder so differently than my main set of notes, a separate silo seems appropriate.
 
 So far, my .dir-locals.el file is very basic...
 
