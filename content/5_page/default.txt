@@ -10,6 +10,7 @@ Text:
 
 - (link: page://zxyu49j46fglrkOS text: Subscriptions) - Things I pay for
 - (link: /@/page/EgfXk155nyUvqqA1 text: Photography) (unfinished)
+- (link: /@/page/kmj2uOxGImDx1pr9 text: Things I use) - My live stack.
 
 ----
 

@@ -6,7 +6,11 @@ Summary:
 
 ----
 
-Text: It's Christmas. I'm just killing time until everyone is up and around and ready to enjoy the day. I hope you all enjoy yours! 🎄
+Text:
+
+It's Christmas. I'm just killing time until everyone is up and around and ready to enjoy the day. I hope you all enjoy yours! 🎄
+
+I replaced the Photography link with a (link: /@/page/7no1oEYUm2YOO06d text: More) link in the navigation. The photo area is unfinished so I've made it a bit less visible for now.
 
 ----
 
