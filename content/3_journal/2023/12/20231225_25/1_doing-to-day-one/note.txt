@@ -1,0 +1,29 @@
+Title: Doing to Day One
+
+----
+
+Text: TIL that Brett added an output format to (link: https://brettterpstra.com/projects/doing/ text: Doing) which (link: https://github.com/ttscoff/doing/wiki/Exporting-to-Day-One text: sends entries directly to Day One). This nicely replaces my own convoluted shell scripts which did the same thing, but badly.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2023-12-25
+
+----
+
+Tags: Software
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: 88nJp8pzbm5RfzpU
