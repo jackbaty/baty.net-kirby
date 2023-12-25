@@ -8,9 +8,8 @@ Subheadline: A few things I've left lying about
 
 Text:
 
-- (link: page://zxyu49j46fglrkOS text: Subscriptions)
+- (link: page://zxyu49j46fglrkOS text: Subscriptions) - Things I pay for
 - (link: /@/page/EgfXk155nyUvqqA1 text: Photography) (unfinished)
--
 
 ----
 
