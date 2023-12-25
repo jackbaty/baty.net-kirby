@@ -1,0 +1,22 @@
+Title: Now
+
+----
+
+Subheadline: What I'm doing now
+
+----
+
+Text:
+
+Here are a few things I'm doing or learning or playing with these days.
+
+- Learning to use (link: https://getkirby.com text: Kirby CMS) to publish this website
+- Reading "The Creative Act: A Way of Being" by Rick Rubin
+- Watching "Colin from Accounts" and it's hilarious
+
+
+(Inspired by (link: https://nownownow.com text: NowNowNow.com))
+
+----
+
+Uuid: W8nCy5x9LE2JqtiL
