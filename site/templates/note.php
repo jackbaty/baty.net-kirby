@@ -29,11 +29,12 @@
     </ul>
     <?php endif ?>
     
-    <?php snippet('reply-by-email') ?>
-      
+
     
   </footer>
   
 </article>
+
+    <?php snippet('reply-by-email') ?>
 
 <?php snippet('footer') ?>
