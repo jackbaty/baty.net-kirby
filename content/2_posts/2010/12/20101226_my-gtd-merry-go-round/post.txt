@@ -1,0 +1,49 @@
+Title: My GTD Merry-Go-Round
+
+----
+
+Summary: 
+
+----
+
+Text:
+
+My approach to Getting Things Done (GTD) is cyclical, and goes like this…
+
+## Phase One — Go all in.
+
+I keep forgetting to do things. Stuff is not getting done. Time for some serious GTD. Time to bring out the big gun, OmniFocus. This is followed by 4 hours of brain dumps, project organization, and inbox cleanup. I create perspectives, set repeating tasks and basically prepare for war. Stuff gets done, dammit! This phase lasts for about two months.
+
+## Phase Two — Simplify
+
+After a couple of months of religiously doing project reviews, capture, and inbox processing, I start to get bored with it. “Omnifocus is just too fussy and complicated,” I say. Thinking it’s the tool’s fault, I move everything over to Things. Things is so much cleaner and simpler! No more wasting time with perspectives, nested tasks, folders, contexts and all that nonsense. Spending less time on the “system” has gotta be good, right?
+
+## Phase Three — Going retro
+
+Using Things is so simple that I become enamored with the idea of making the system even simpler. So simple in fact, that I don’t need some stinking computer program telling my how to run my life. I then move everything into one of those awesome Moleskine notebooks. Think of it, just a pen and paper! What could be easier? Plus, I probably need a new pen. No more worrying about syncing or futzing around with software. This is definitely all I need. Why I bothered with those silly other systems is a mystery.
+
+## Phase Four — Return to Phase One
+
+I love my notebook, but it’s hard to capture everything. Writing by hand is work, so I don’t always bother. I then promptly start forgetting things. Or I accidentally leave the notebook at home. And copying unfinished tasks forward manually is such a pain. That’s what computers are for, right? Time to go all in, and I need something serious, so I install OmniFocus and get to work.
+
+## Repeat.
+
+----
+
+Cover: 
+
+----
+
+Date: 2010-12-26 16:55:00
+
+----
+
+Author: 
+
+----
+
+Tags: Workflow
+
+----
+
+Uuid: OjfhpMXotASW6yGD
