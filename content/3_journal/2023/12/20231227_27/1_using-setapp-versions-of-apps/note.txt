@@ -1,0 +1,29 @@
+Title: Using SetApp versions of apps
+
+----
+
+Text: Brett Terpstra, in "(link: https://brettterpstra.com/2019/04/22/so-you-got-setapp-dot-dot-dot-make-the-most-of-it/ text: So you got Setapp… make the most of it)", provides a script for finding the apps that have been installed but that are also available as part of (link: https://setapp.com/ text: SetApp). It found 11 of them on my machine.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2023-12-27
+
+----
+
+Tags: Software
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: DzzslzLXe6dQTHh4
