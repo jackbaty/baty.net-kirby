@@ -1,0 +1,29 @@
+Title: The Org-mode Island
+
+----
+
+Text: The more I lean into using Org-mode files for everything, the more isolated I'm feeling. It may be irrational, because "plain text", but having to export or otherwise translate everything when I post to my blog or other tools is becoming less fun.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2023-12-28
+
+----
+
+Tags: Emacs
+
+----
+
+Cover: 
+
+----
+
+Smallimage: - file://glmIGDCfOcc4VIXz
+
+----
+
+Uuid: boCkBDMwdIalAmvp
