@@ -20,7 +20,7 @@ And here's the one for only the month of January.
 
 (image: pcal-month.png)
 
-I like that I can include a little note in the footer (e.g. "Reduce and Simplify".
+I like that I can include a little note in the footer (e.g. "Reduce and Simplify").
 
 The output for the monthly PDF looks like this:
 
