@@ -1,4 +1,4 @@
-Title: More on the Org-mode Island
+Title: More about Org-mode Island
 
 ----
 
