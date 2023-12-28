@@ -2,7 +2,7 @@ Title: The Org-mode Island
 
 ----
 
-Text: The more I lean into using Org-mode files for everything, the more isolated I'm feeling. It may be irrational, because "plain text", but having to export or otherwise translate everything when I post to my blog or other tools is becoming less fun.
+Text: The more I lean into using Org-mode files for everything, the more isolated I'm feeling. It may be irrational, because "plain text", but having to export or otherwise translate everything when I post to my blog or other tools is becoming less fun. Org-mode Island is beautiful, but lonely.
 
 ----
 
