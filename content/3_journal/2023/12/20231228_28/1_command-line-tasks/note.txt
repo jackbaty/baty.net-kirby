@@ -2,7 +2,7 @@ Title: Command Line Tasks
 
 ----
 
-Text: [Mike's post](https://mike.puddingtime.org/posts/2023-12-27-daily-notes/#todos-and-agenda-with-kitty) about using the command line to view his agenda/tasks reminded me of the heady days when I lived in [Mutt](http://www.mutt.org), [Taskwarrior](https://taskwarrior.org), and [VimWiki](https://github.com/vimwiki/vimwiki). I was just thinking about all this yesterday as I jumped between task management tools seemingly at random. It was a good system. help
+Text: [Mike's post](https://mike.puddingtime.org/posts/2023-12-27-daily-notes/#todos-and-agenda-with-kitty) about using the command line to view his agenda/tasks reminded me of the heady days when I lived in [Mutt](http://www.mutt.org), [Taskwarrior](https://taskwarrior.org), and [VimWiki](https://github.com/vimwiki/vimwiki). I was just thinking about all this yesterday as I jumped between task management tools seemingly at random. It was a good system.
 
 ----
 
@@ -14,7 +14,7 @@ Date: 2023-12-28
 
 ----
 
-Tags: Workflow, Mutt
+Tags: Workflow, Mutt, Vim
 
 ----
 
