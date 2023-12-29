@@ -1,0 +1,29 @@
+Title: Running an OpenBSD Server
+
+----
+
+Text: Derek Sivers has this (link: https://sive.rs/ti text: Technological Independence) thing meant to help people run a little server for all their services. I don't need it, but it's been so long since I've run a BSD server that I gave it a whirl. It's fun! I now have a $5 VPS at Vultr running web, mail, CalDAV, CardDAV, and storage.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2023-12-29
+
+----
+
+Tags: Web
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: bjdqXhk1PhSmBhDF
