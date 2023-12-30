@@ -1,0 +1,35 @@
+Title: Jackbaty.com
+
+----
+
+Text:
+
+I registered "jackbaty.com" in 1999. It was the home of my blog for years, until the blog moved to baty.net. I let the domain languish until recently when I wanted to play with the (link: https://omg.lol text: omg.lol) page thing. That worked fine, and OMG.lol is great, but I've decided that my personal landing page should be on my own server, under my control. 
+
+So I started over this morning. https://jackbaty.com/ is now a static HTML page running on my new (link: https://www.openbsd.org/index.html text: OpenBSD) server at (link: https://www.vultr.com/ text: Vultr). 
+
+The actual page is completely plain and boring for now, but it's the simplest thing that could possibly work and I think that makes it beautiful.
+
+----
+
+Showtitle: true
+
+----
+
+Date: 2023-12-30
+
+----
+
+Tags: Blogging, Web
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: WmvfWZWbNUq1JJHZ
