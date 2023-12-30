@@ -10,6 +10,8 @@ So I started over this morning. https://jackbaty.com/ is now a static HTML page 
 
 The actual page is completely plain and boring for now, but it's the simplest thing that could possibly work and I think that makes it beautiful.
 
+As tempting as it is to build the page using hand-edited HTML, I'm using an Org-mode file and exporting that to HTML. Close enough!
+
 ----
 
 Showtitle: true
