@@ -2,11 +2,7 @@ Title: Sunday, December 31, 2023
 
 ----
 
-Weather: Low 32.3, High 36.1 - Patchy rain possible
-
-----
-
-Uuid: SPDEe0rFm3sGG17h
+Summary: 
 
 ----
 
@@ -18,8 +14,16 @@ Cover:
 
 ----
 
-Date: 2023-12-31 11:35:40
+Date: 2023-12-31 11:35:00
 
 ----
 
-Tags: 
+Weather: Low 32.3, High 36.1 - Patchy rain possible
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: SPDEe0rFm3sGG17h
