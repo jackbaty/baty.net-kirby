@@ -18,7 +18,7 @@ The "simplify" part means I should choose the simple option. An example of this 
 
 ----
 
-Showtitle: false
+Showtitle: true
 
 ----
 
