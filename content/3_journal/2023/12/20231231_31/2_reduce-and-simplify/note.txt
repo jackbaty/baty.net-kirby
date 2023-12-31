@@ -1,0 +1,35 @@
+Title: Reduce and Simplify
+
+----
+
+Text:
+
+If forced to come up with a theme for 2024, I'm going with "Reduce & Simplify".
+
+(image: reduce-and-simplify.jpg)
+
+I haven't formally defined it yet, but the gist of it is to use what I already have, remove what I don't, and rely on fewer, simpler things.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2023-12-31
+
+----
+
+Tags: Workflow
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: qVzyuMWT8DJiHVpR
