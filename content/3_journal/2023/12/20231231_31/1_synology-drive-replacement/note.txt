@@ -4,7 +4,7 @@ Title: Synology drive replacement
 
 Text:
 
-A few months ago I became twitchy about my aging Synology and replaced it with an old Mac Mini. The idea was that I understand how Macs work and if something breaks I can more easily deal with it.
+A few months ago I became twitchy about my aging Synology so I replaced it with an old Mac Mini. The idea was that I understand how Macs work and if something breaks I can more easily deal with it.
 
 I never unplugged the Synology, though. You know, just in case.
 
