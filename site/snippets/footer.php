@@ -15,7 +15,7 @@
     <div class="grid">
       <div class="column" style="--columns: 8">
           <p>
-              Copyright © 2000-2023 Jack Baty
+              Copyright © 2000-2024 Jack Baty
           </p>
   <p>
   <a rel="me" href="https://social.lol/@jbaty" aria-label="Follow me on Mastodon">
