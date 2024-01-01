@@ -1,0 +1,42 @@
+Title: Formatting dates in org-capture templates
+
+----
+
+Text:
+
+I track my weight in an Org-mode table. New entries are added using an Org-mode capture template. It was bugging me that the date format was a full-on Org-mode inactive timestamp like `[2024-01-01 Mon]`. I just wanted the `YYYY-MM-DD` portion, but Org's expansion templates don't have an option for that. 
+
+I learned today that I can use any Emacs (link: https://www.gnu.org/software/emacs/manual/html_node/elisp/Time-Parsing.html#index-format_002dtime_002dstring text: date format) string in the capture template. I'm using `%<%F>` which displays the ISO 8601 date, just like I want.
+
+```lisp
+("W" "Weight" table-line
+    (file+olp "~/org/daybook.org" "Weight Tracking" "Data")
+     "| %<%F> | %? | | |"
+     :unnarrowed t)
+```
+
+I learn something every day.
+
+----
+
+Showtitle: true
+
+----
+
+Date: 2024-01-01
+
+----
+
+Tags: Orgmode, Emacs
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: mVqbX5A5Mj1woE8V
