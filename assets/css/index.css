@@ -290,7 +290,7 @@ h1, h2, h3, h4, h5, h6 {
   /* color: var(--color-black); */
 }
 .text pre {
-  margin: 3rem 0;
+  margin: 1rem 0;
   /* background: var(--color-black); */
   /* color: var(--color-white); */
   padding: 1.5rem;
