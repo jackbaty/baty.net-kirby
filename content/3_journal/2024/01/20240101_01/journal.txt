@@ -12,6 +12,8 @@ Text:
 
 Yesterday I was convinced that I should keep tasks out of Org-mode and use OmniFocus instead. I need my todos on mobile right? Now I'm not sure. I need reminders on mobile, but not my giant todo list. I'll need to figure this out, today.
 
+On the (link: /journal text: Journal) page, I'm now showing a list of the notes created on that day in addition to any post text. Hoping this helps keep stuff from getting buried.
+
 ----
 
 Cover: 
@@ -26,7 +28,7 @@ Weather: Low 27.3, High 35.7 - Light freezing rain
 
 ----
 
-Tags: Journal, Workflow
+Tags: Journal, Workflow, Meta
 
 ----
 

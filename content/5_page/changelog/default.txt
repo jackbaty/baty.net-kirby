@@ -10,6 +10,7 @@ Text:
 
 A running list of changes I've made to this site. Most recent first. The source is at https://git.baty.net/jbaty/baty.net-kirby. Feel free to suggest improvements.
 
+- 2024-01-01 Show individual notes on Journal listing page
 - 2023-12-25 Replaced Photography with More in nav.
 - 2023-12-21 Centered navigation (per suggestion from Alex)
 - 2023-12-19 Revamped home page. Showing week of journal entries and moved recent posts to a concise list of the most recent 5.
