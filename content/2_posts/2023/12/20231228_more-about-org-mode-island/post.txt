@@ -19,7 +19,7 @@ Jeremy Friesen reacted to my post with his own thoughtful take on the isolation 
 > 
 > I’m alone during my Org-Mode usage, but I don’t feel lonely in being here.
 
-I quite like that, and it made me think about what I meant by  "lonely". Using Org-mode pretty much requires that I also use Emacs. I love Emacs, but I often like to change the apps I use. With Org-mode, that's not feasible. 
+I quite like that, and it made me think about what I meant by  "lonely". Using Org-mode pretty much requires that I also use Emacs. I love Emacs, but I love other apps, too, and often like to change what I use. With Org-mode, that's not feasible. 
 
 So, maybe "isolated" or "lonely" aren't the right words for how I'm feeling. Maybe it's "restricted" or "confined". Maybe it's not "Org-mode Island" making me feel lonely, but rather "Emacs Prison" making me feel trapped 😅.
 

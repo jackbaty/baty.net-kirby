@@ -6,7 +6,11 @@ Summary:
 
 ----
 
-Text: (image: 20240101-notebook.jpg)
+Text:
+
+(image: 20240101-notebook.jpg)
+
+Yesterday I was convinced that I should keep tasks out of Org-mode and use OmniFocus instead. I need my todos on mobile right? Now I'm not sure. I need reminders on mobile, but not my giant todo list. I'll need to figure this out, today.
 
 ----
 
@@ -22,7 +26,7 @@ Weather: Low 27.3, High 35.7 - Light freezing rain
 
 ----
 
-Tags: Journal
+Tags: Journal, Workflow
 
 ----
 
