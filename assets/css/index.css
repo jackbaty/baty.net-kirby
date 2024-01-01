@@ -662,3 +662,15 @@ img.small-image-right {
   float:right;
   padding: 10px 0px 10px 10px;
 }
+
+.compact-note-list {
+    padding: 10px;
+    margin-left: 5px;
+  
+}
+ul.compact-note-list li {
+  list-style: disc;
+}
+.compact-note-list a {
+    text-decoration: underline;
+}

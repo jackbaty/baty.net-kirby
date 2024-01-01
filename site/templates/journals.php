@@ -37,7 +37,7 @@
 <ul class="post">
   <?php foreach ($journals as $journal): ?>
   <li>
-      <?php snippet('post-list', ['post' => $journal]) ?>
+      <?php snippet('journal-list', ['post' => $journal]) ?>
   </li>
   <?php endforeach ?>
 </ul>
