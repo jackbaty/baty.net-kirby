@@ -4,13 +4,15 @@
 # More about pages sections: https://getkirby.com/docs/reference/panel/sections/pages
 type: pages
 label: Posts
-parent: kirby.page("posts/2023/12")
+parent: kirby.page("posts/2024/01")
 info: "{{ page.published }}"
+query: site.index.filterBy("template", "in", ["post"])
 templates:
   - post
   - journal
 empty: No posts yet
 sortBy: date desc
+limit: 10
 image:
   query: page.cover
   cover: true
