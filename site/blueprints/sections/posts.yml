@@ -6,7 +6,6 @@ type: pages
 label: Posts
 parent: kirby.page("posts/2024/01")
 info: "{{ page.published }}"
-query: site.index.filterBy("template", "in", ["post"])
 templates:
   - post
   - journal
