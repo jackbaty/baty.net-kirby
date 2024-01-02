@@ -8,6 +8,8 @@ Summary:
 
 Text:
 
+(image: alice-in-field.jpg)
+
 Sometimes the deer stay put  
 We watch each other as I walk by  
 But mostly they run away
