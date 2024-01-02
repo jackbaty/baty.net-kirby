@@ -1,0 +1,29 @@
+Title: Fish Shell
+
+----
+
+Text: I've been using (link: https://fishshell.com/ text: Fish Shell) for a long time. Before that I used ZSH with oh-my-zsh on top. As much as I like Fish, it's different enough that I sometimes get stung by little terminal and scripting differences. I'm thinking of going back to ZSH and (possibly oh-my-zsh). That idea feels both comforting (for using the common/default option) and unsettling (for needing to layer a bunch of oh-my-zsh stuff on it).
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2024-01-02
+
+----
+
+Tags: Tech, Workflow, CLI
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: W1umwS7kkXEpdQmz
