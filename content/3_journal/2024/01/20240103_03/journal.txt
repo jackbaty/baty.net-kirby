@@ -12,6 +12,8 @@ Text:
 
 New post: (link: /2024/01/the-care-and-feeding-of-my-system text: The care and feeding of my system) in which I whine about what I've done to myself.
 
+And of course now Emacs is crashing regularly. Might be a tipping point.
+
 ----
 
 Cover: 
