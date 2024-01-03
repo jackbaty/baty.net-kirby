@@ -6,7 +6,11 @@ Summary:
 
 ----
 
-Text: (image: 2024-roll-130_33.jpeg)
+Text:
+
+(image: 2024-roll-130_33.jpeg)
+
+New post: (link: /@/page/oeXJlE5iL84HtwEw text: The care and feeding of my system)
 
 ----
 
