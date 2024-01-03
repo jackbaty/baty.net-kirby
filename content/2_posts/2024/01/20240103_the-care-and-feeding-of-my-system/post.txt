@@ -18,7 +18,7 @@ I'm not blaming Emacs, specifically, although Emacs is frequently the day's scap
 
 Sure, much of this is self-imposed because I tweak. But I'm beginning to tire of *having* to babysit the things that should just be basic infrastructure. I've gotten myself into this mess, and it's my problem to fix, but how? Maybe it'll mean declaring config bankruptcy in Emacs. Maybe it'll mean dropping all my "fancy" tools and going with the simple, stable ones (are there such things?). 
 
-I'm still noodling on it. I just wanted to vent a little.
+I'm still noodling on it. It's all related to my grand [Reduce & Simplify](https://baty.net/journal/2023/12/31/reduce-and-simplify) plans for this year. I just wanted to vent a little.
 
 ----
 
