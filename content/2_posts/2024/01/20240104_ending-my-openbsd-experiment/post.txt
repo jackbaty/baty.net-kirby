@@ -1,4 +1,4 @@
-Title: Ending my OpenBSD experiment
+Title: Ending my OpenBSD experiment (Almost)
 
 ----
 
@@ -18,7 +18,11 @@ However, I don't need another server to manage. I don't need to run my own mail 
 
 I'll be deleting the OpenBSD server once I've moved the few sites I'd migrated there back to Digital Ocean. 
 
-Remember, [Reduce and Simplify](/journal/2023/12/31/reduce-and-simplify)
+Remember, [Reduce and Simplify](/journal/2023/12/31/reduce-and-simplify).
+
+I may try again later with stock OpenBSD and Caddy, without all of the Sivers' stuff.
+
+2 hours later: I was right. I spun up a fresh OpenBSD server at Vultr and configured it myself. No services running but relayd->httpd and so far the only site it's running is [jackbaty.com](https://jackbaty.com). I like the *idea* of BSD so much that I couldn't give up quite yet.
 
 ----
 

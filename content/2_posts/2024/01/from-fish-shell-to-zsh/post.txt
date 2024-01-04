@@ -1,0 +1,29 @@
+Title: From Fish shell to zsh
+
+----
+
+Summary: 
+
+----
+
+Text: Years ago I switched from using ZSH to [Fish Shell](https://fishshell.com). I don't recall why, other than I'd heard good things and wanted to try it.
+
+----
+
+Cover: 
+
+----
+
+Date: 2024-01-04 17:20:00
+
+----
+
+Author: 
+
+----
+
+Tags: Software, macOS, ZSH
+
+----
+
+Uuid: 5ZWGSLSHNt07Uqqj
