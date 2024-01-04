@@ -6,7 +6,11 @@ Summary:
 
 ----
 
-Text: (image: 20240103-004-1024.jpg)
+Text:
+
+(image: 20240103-004-1024.jpg)
+
+New post: [Ending my OpenBSD Experiment](/2024/01/ending-my-openbsd-experiment)
 
 ----
 

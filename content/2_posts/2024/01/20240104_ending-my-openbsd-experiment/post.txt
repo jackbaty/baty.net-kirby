@@ -1,0 +1,41 @@
+Title: Ending my OpenBSD experiment
+
+----
+
+Summary: <p>I tried OpenBSD. It's nice. I don't need it right now.</p>
+
+----
+
+Text:
+
+I did (link: /journal/2023/12/29/running-an-openbsd-server text: this fun thing) from Derek Sivers because I wanted to play with [OpenBSD](https://www.openbsdfoundation.org) and with [Vultr](https://www.vultr.com/) for hosting.
+
+Well, I played with it. It was fun. I got to see how [Dovecot](https://dovecot.org/) works and I learned how to configure Relayd and the OpenBSD httpd server.
+
+I think I'd end up liking it. BSD feels lighter and simpler and therefore probably more secure than the Ubuntu servers I'm running. 
+
+However, I don't need another server to manage. I don't need to run my own mail server or CalDAV server. My VPS at Digital Ocean has been running (::knocks wood::) smoothly for years and I've got the configuration down. 
+
+I'll be deleting the OpenBSD server once I've moved the few sites I'd migrated there back to Digital Ocean. 
+
+Remember, [Reduce and Simplify](/journal/2023/12/31/reduce-and-simplify)
+
+----
+
+Cover: 
+
+----
+
+Date: 2024-01-04 12:05:00
+
+----
+
+Author: 
+
+----
+
+Tags: OpenBSD, Tech
+
+----
+
+Uuid: Nhntwv5IzKplu103
