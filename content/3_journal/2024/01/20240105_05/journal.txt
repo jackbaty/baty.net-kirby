@@ -6,7 +6,11 @@ Summary:
 
 ----
 
-Text: Now that I've had my "ideal" configuration for blog posts for a few weeks, I'm realizing that I've added friction and I'm not sure how to feel about that. I can write in the main daily note entry, or a note attached to a daily note entry, or a full-on individual Post. This means I have to decide where to put everything I want to write. I've half a mind to either go back to everything just being a post or else putting everything, including posts, as part of each Daily note. Careful what you ask for, is what I'm saying.
+Text:
+
+Now that I've had my "ideal" configuration for blog posts for a few weeks, I'm realizing that I've added friction and I'm not sure how to feel about that. I can write in the main daily note entry, or a note attached to a daily note entry, or a full-on individual Post. This means I have to decide where to put everything I want to write. I've half a mind to either go back to everything just being a post or else putting everything, including posts, as part of each Daily note. Careful what you ask for, is what I'm saying.
+
+Also, it's nice having a place to just stream-of-consciousness it throughout the day without worrying about polluting anyone's RSS feed or social media timeline. It feels like a Members' Only thing, since one has to actually visit the site in order to read this.
 
 ----
 
