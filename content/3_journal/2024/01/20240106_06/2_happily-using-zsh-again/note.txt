@@ -2,7 +2,7 @@ Title: Happily using ZSH again
 
 ----
 
-Text: I moved back to ZSH from Fish Shell a couple days ago and so far I'm quite happy about it. Things are no longer in "weird" places that I have to think through any time I make a change. I just pop open .zshrc and it's there. $PATH is normal, aliases are normal, etc. etc. I am cheating by using oh-my-zsh but just a couple of plugins and I have all of the features I liked about Fish. Reduce & Simplify!
+Text: I moved back to ZSH from Fish Shell a couple days ago and so far I'm quite happy about it. Things are no longer in "weird" places that I have to think through any time I make a change. I just pop open .zshrc and it's there. $PATH is normal, aliases are normal, etc. etc. Using oh-my-zsh goes against my "Reduce & Simplify" directive, but with just a couple of plugins and no configuration I have all of the features I liked about Fish.
 
 ----
 
