@@ -1,0 +1,29 @@
+Title: OpenBSD on a laptop is eluding me
+
+----
+
+Text: After supposedly [ending then not ending](https://baty.net/2024/01/ending-my-openbsd-experiment) my tinkering with OpenBSD, I tried installing it on a spare ThinkPad. It was wildly frustrating and I slammed the thing shut after two hours of not being able to bootstrap wifi. Oh well.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2024-01-06
+
+----
+
+Tags: OpenBSD
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: cWd0SZqJi1cFXda8
