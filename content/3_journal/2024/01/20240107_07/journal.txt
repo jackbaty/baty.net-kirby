@@ -1,0 +1,29 @@
+Title: Sunday, January 7, 2024
+
+----
+
+Summary: 
+
+----
+
+Text: I now have OpenBSD running on a laptop. I think OpenBSD on a laptop might be the wrong choice for anything beyond, "Cool, I'm running OpenBSD on a laptop!"
+
+----
+
+Cover: 
+
+----
+
+Date: 2024-01-07 11:50:00
+
+----
+
+Weather: Low 29.2, High 36.0 - Moderate snow
+
+----
+
+Tags: Journal, OpenBSD
+
+----
+
+Uuid: MvLStOZuNOP3qRS1
