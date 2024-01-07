@@ -6,7 +6,11 @@ Summary:
 
 ----
 
-Text: I now have OpenBSD running on a laptop. I think OpenBSD on a laptop might be the wrong choice for anything beyond, "Cool, I'm running OpenBSD on a laptop!"
+Text:
+
+I now have OpenBSD running on a laptop. I think OpenBSD on a laptop might be the wrong choice for anything beyond, "Cool, I'm running OpenBSD on a laptop!"
+
+Repeatedly asserting something, I don't care how many times, doesn't make it true.
 
 ----
 
