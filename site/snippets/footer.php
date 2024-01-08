@@ -27,7 +27,7 @@
   </a>
 
   <a rel="me" href="/feed" aria-label="Subscribe to RSS feed">
-    <?= svg('assets/icons/rss.svg') ?>
+      <?= svg('assets/icons/rss.svg') ?>
   </a>
   </p>
 
@@ -42,7 +42,6 @@
       'assets/js/index.js',
       '@auto'
   ]) ?>
-
-  <script src="https://tinylytics.app/embed/uyf-fc8iNz6N3kmnRreZ.js?kudos" defer></script>
+  <script src="https://tinylytics.app/embed/uyf-fc8iNz6N3kmnRreZ.js" defer></script>
 </body>
 </html>

@@ -68,7 +68,6 @@
       <meta property="og:image" content="<?= url('assets/images/pipeguy-og.png') ?>">
   <?php endif ?>
 
-<script defer data-domain="baty.net" src="https://plausible.io/js/script.js"></script>
   <link rel=alternate type="application/rss+xml" href="/feed">
 </head>
 <body>
