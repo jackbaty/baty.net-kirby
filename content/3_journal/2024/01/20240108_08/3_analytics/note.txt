@@ -1,0 +1,29 @@
+Title: Analytics
+
+----
+
+Text: I just moved 5 sites from [Tinylytics](https://tinylytics.app/) to [Plausible.io](https://plausible.io)... for like ten minutes. I don't know what came over me. I was bored, I guess. I used Plausible for a long time, but wanted to support Vincent's Tinylytics, so moved my sites there a year or so ago. I have no complaints about Tinylytics, so I sat there and started at the Plausible dashboard for old time's sake, then moved everything back.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2024-01-08
+
+----
+
+Tags: 
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: aEaYIjvmJmF2zCF4
