@@ -1,0 +1,29 @@
+Title: Multitudes
+
+----
+
+Text: I may contain multitudes, but there's only room for like two.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2024-01-08
+
+----
+
+Tags: 
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: YS7dFiouopYBbtbB

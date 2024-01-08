@@ -2,7 +2,7 @@ Title: Prose.sh
 
 ----
 
-Text: I don't need a new blogging platform, but if I did, I'd certainly be looking at (link: https://prose.sh/ text: Prose.sh). It's blogging via sftp and rsync, which is awesome.
+Text: I don't need a new blogging platform, but if I did, I'd certainly be looking at (link: https://prose.sh/ text: Prose.sh). It's blogging via sftp and rsync, which sounds awesome.
 
 ----
 
