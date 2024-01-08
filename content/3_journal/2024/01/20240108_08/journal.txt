@@ -1,0 +1,29 @@
+Title: Monday, January 8, 2024
+
+----
+
+Summary: 
+
+----
+
+Text: I remain tempted to keep writing directly in the freeform area of each daily note and making the individual (sub)notes the only other posts. In other words, I'd eliminate the main Posts section as their own content things. The Posts page would show every individual daily note, uh, note. This is how the old daily.baty.net works and I still like it. The problem is that what I write here is not included in the RSS feed. This is by design, but perhaps that needs to change.
+
+----
+
+Cover: 
+
+----
+
+Date: 2024-01-08 10:15:00
+
+----
+
+Weather: Low 31.7, High 35.9 - Overcast
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: WbZlBsltQsz9Lu63
