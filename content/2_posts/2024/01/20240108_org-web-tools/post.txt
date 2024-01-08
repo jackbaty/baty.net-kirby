@@ -18,6 +18,8 @@ I ran the above function, and org-web-tools grabbed the page, formatted everythi
 
 Nice!
 
+There are a number of other helpful functions in the same vein. If you frequently save links or other web content in Org-mode, it's worth checking out.
+
 ----
 
 Cover: 
