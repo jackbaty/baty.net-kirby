@@ -6,7 +6,11 @@ Summary:
 
 ----
 
-Text: I remain tempted to keep writing directly in the freeform area of each daily note and make the individual (sub)notes the only other posts. In other words, I'd eliminate the main Posts section as their own content things. The Posts page would show every individual daily note, uh, note. This is how the old daily.baty.net works and I still like it. The problem is that what I write here is not included in the RSS feed. This is by design, but perhaps that needs to change.
+Text:
+
+I remain tempted to keep writing directly in the freeform area of each daily note and make the individual (sub)notes the only other posts. In other words, I'd eliminate the main Posts section as their own content things. The Posts page would show every individual daily note, uh, note. This is how the old daily.baty.net works and I still like it. The problem is that what I write here is not included in the RSS feed. This is by design, but perhaps that needs to change.
+
+Blog post: [Org-web-tools](/2024/01/org-web-tools).
 
 ----
 
