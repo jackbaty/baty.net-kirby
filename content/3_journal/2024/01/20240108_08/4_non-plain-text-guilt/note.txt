@@ -1,0 +1,29 @@
+Title: Non-plain-text guilt
+
+----
+
+Text: Accompanying my rash of plain-text shinanigans this week is a nagging unease about using Kirby for the website. Sure Kirby uses text files as data, but there's all that PHP and whatnot needed to actually *render* stuff. I kind of like the fire-and-forget feeling of a truly plain-text static website. Just noting the feeling here.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2024-01-09
+
+----
+
+Tags: Blogging, Plaintext
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: KkBbVZLgfPWAuRhu
