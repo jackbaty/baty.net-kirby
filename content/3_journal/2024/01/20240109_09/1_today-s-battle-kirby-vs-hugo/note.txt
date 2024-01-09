@@ -1,0 +1,29 @@
+Title: Today's battle, Kirby vs Hugo
+
+----
+
+Text: I've been feeling itchy about not having a completely static blog. The caused me to spend 2 hours this morning dusting off my old Hugo version of baty.net and giving it a nice, fresh theme. After which, I came to my senses and decided to stop. I'm finally happy with my (Kirby) blog, so what the hell was I thinking? Then, as a test of "simplicity" I thought I'd see how easy it would be to get PHP and Kirby running on the OpenBSD server, since I'm considering moving everything there. This meant more time futzing with OpenBSD, PHP, httpd, etc. Installing PHP was a breeze, but Kirby won't run with OpenBSD's built-in httpd server. Now I'm mad at Kirby and back to eyeballing Hugo.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2024-01-09
+
+----
+
+Tags: Hugo, Blogging, Kirby
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: 9OAdzKEDO2rvqIhk
