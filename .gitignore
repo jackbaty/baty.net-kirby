@@ -53,3 +53,5 @@ Icon
 /site/plugins/retour/assets/*
 /site/plugins/retour/assets/retour.sqlite
 /site/logs/*
+
+/Kirby.bbprojectd
