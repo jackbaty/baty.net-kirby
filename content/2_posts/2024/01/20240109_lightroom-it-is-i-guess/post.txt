@@ -8,7 +8,7 @@ Summary:
 
 Text:
 
-I canceled my [Capture One](https://captureone.com/) subscription this morning, before they charged me $180 for another year.
+I canceled my [Capture One](https://captureone.com/) subscription this morning, before they charged me $180 for another year.
 
 I hadn’t planned to do this. The plan was to cancel my Lightroom subscription ($10/month) and run with C1 for the year. Capture One has more to offer, and I like the files I get from it better than from Lightroom. So what happened?
 
