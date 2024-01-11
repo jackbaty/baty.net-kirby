@@ -125,7 +125,7 @@ button {
   cursor: pointer;
 }
 strong, b {
-  font-weight: 500;
+  font-weight: 700;
 }
 small {
   font-size: inherit;
@@ -668,7 +668,7 @@ img.small-image-right {
 .compact-note-list {
     padding: 10px;
     margin-left: 5px;
-  
+
 }
 ul.compact-note-list li {
   list-style: disc;
