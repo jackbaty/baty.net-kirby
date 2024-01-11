@@ -6,7 +6,11 @@ Summary:
 
 ----
 
-Text: Alice was up at 3:30 which is a little early, but at least we got to have a nice long walk through a beautiful blanket of fresh snow.
+Text:
+
+(image: shade.jpg)
+
+Alice was up at 3:30 which is a little early, but at least we got to have a nice long walk through a beautiful blanket of fresh snow.
 
 ----
 
@@ -22,7 +26,7 @@ Weather: Low 24.2, High 33.7 - Heavy snow
 
 ----
 
-Tags: Journal, Kirby
+Tags: Journal
 
 ----
 
