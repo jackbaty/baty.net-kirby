@@ -1,0 +1,29 @@
+Title: Dodged the Hugo bullet
+
+----
+
+Text: I spent hours yesterday dusting off the Hugo version of this blog and moving it back to the PaperMod theme and adding some of the posts from Kirby. It felt good to be in Emacs with normal YAML front matter and a fully static website. I want a fully static website, but after struggling with how I'd deal with breaking all the journal links and futzing with Hugo's opaque (to me) templating, I realized that I kind of like what I've built here in Kirby. The price is that it's not completely static and its content files are not "normal". On the other hand, I get a sweet control panel for managing everything, easy to edit templates, and a layout and behavior that I quite like. Seems reasonable, so I've stopped the Hugo migration for now.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2024-01-11
+
+----
+
+Tags: Hugo, Kirby, Meta
+
+----
+
+Cover: 
+
+----
+
+Smallimage: - file://M9FEHMuXqFyOc6QD
+
+----
+
+Uuid: NPSFEy7kJojvqrfK

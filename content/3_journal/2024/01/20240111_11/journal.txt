@@ -8,8 +8,6 @@ Summary:
 
 Text: Alice was up at 3:30 which is a little early, but at least we got to have a nice long walk through a beautiful blanket of fresh snow.
 
-I spent hours yesterday dusting off the Hugo version of this blog and moving it back to the PaperMod theme and adding some of the posts from Kirby. It felt good to be in Emacs with normal YAML front matter and a fully static website. I want a fully static website, but after struggling with how I'd deal with breaking all the journal links and futzing with Hugo's opaque (to me) templating, I realized that I kind of like what I've built here in Kirby. The price is that it's not completely static and I have to edit it's unique text formatted content files. On the other hand, I get a sweet control panel for managing everything, easy to edit templates, and a layout and behavior that I quite like. Seems reasonable, so I've stopped the Hugo migration for now.
-
 ----
 
 Cover: 
