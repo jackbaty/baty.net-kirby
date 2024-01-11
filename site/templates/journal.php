@@ -55,7 +55,6 @@
   <?php endforeach ?>
 </ul>
 
-	
   <footer class="post-footer">
     <?php if (!empty($tags)): ?>
     <ul class="post-tags">
