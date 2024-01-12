@@ -1,0 +1,29 @@
+Title: Sync is where it gets tricky
+
+----
+
+Text: My OpenBSD experiment that I (almost) ended has been going surprisingly well. I've got most of the basic settings configured and I have a real window manager (xfce) running. The whole idea of setting up the laptop is that it will be a bare-bones system for mostly writing/blogging/browsing. Should be easy, right? Just Emacs and my org directory. Except no. I need a bunch of dotfiles, passwords, git, and some shell scripts all synched. Lots of work still to do, it seems. Syncthing is running, but that was a trick. Now to work on dotfiles, since I hadn't been worrying about synching those for years now.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2024-01-12
+
+----
+
+Tags: OpenBSD
+
+----
+
+Cover: 
+
+----
+
+Smallimage: - file://560ZXhvG6FHMa2Nj
+
+----
+
+Uuid: QGCEcST5GHwV2roA
