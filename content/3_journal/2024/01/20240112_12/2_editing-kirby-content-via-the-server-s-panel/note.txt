@@ -1,0 +1,29 @@
+Title: Editing Kirby content via the server's panel
+
+----
+
+Text: I can't remember why I switched to managing the blog via a local Kirby instance. Probably because I was doing so much customization that the content vs code syncing was confusing me. Now that development changes have settled down, I'm using the server panel for publishing. I'll cross the how-to-sync-code-vs-content-changes bridge with I get to it.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2024-01-12
+
+----
+
+Tags: Kirby
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: NRrNXsyJyjoRU3rQ
