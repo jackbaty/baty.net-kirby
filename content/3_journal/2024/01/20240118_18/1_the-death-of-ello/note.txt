@@ -16,7 +16,7 @@ Ello was fun for a while, but like so many others became just another reminder t
 
 ----
 
-Showtitle: false
+Showtitle: true
 
 ----
 
