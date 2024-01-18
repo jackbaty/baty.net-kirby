@@ -6,7 +6,13 @@ Summary:
 
 ----
 
-Text: (image: sun-on-snow.jpg)
+Text:
+
+(image: sun-on-snow.jpg)
+
+I take a photo of this loading bay every time I go to founders, usually with a film camera. Today I only had the GRIII so I used that and applied my HP5 preset in Capture One. Saved me a lot of time, actually.
+
+(image: founders-web.jpg)
 
 ----
 
@@ -22,7 +28,7 @@ Weather: Low 15.0, High 23.7 - Light snow
 
 ----
 
-Tags: 
+Tags: Photography, Ricoh GRIII
 
 ----
 
