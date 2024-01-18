@@ -1,0 +1,39 @@
+Title: The death of Ello
+
+----
+
+Text:
+
+Andy Baio (link: https://waxy.org/2024/01/the-quiet-death-of-ellos-big-dreams/ text: The Quiet Death of Ello’s Big Dreams):
+
+> In June 2023, the servers just started returning errors, making nine years of member contributions inaccessible, apparently forever — every post, artwork, song, portfolio, and the community built there was gone in an instant.
+> 
+> How did this happen? What happened between the idealistic manifesto above and the sudden shutdown?
+> 
+> It’s a story so old and familiar...
+
+Ello was fun for a while, but like so many others became just another reminder that manifestos and good intentions are often meaningless in the long run.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2024-01-18
+
+----
+
+Tags: Social
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: 35bHo1SxHxWBcMhS
