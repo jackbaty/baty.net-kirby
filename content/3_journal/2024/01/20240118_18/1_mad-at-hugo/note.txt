@@ -30,7 +30,7 @@ Cover:
 
 ----
 
-Smallimage: 
+Smallimage: - file://M9FEHMuXqFyOc6QD
 
 ----
 
