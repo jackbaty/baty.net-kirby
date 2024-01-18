@@ -1,0 +1,29 @@
+Caption: I'm on assignment
+
+----
+
+Alt: 
+
+----
+
+Photographer: 
+
+----
+
+License: 
+
+----
+
+Link: 
+
+----
+
+Sort: 2
+
+----
+
+Uuid: h33xLSEilqxz6Exy
+
+----
+
+Template: image

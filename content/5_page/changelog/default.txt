@@ -10,6 +10,10 @@ Text:
 
 A running list of changes I've made to this site. Most recent first. The source is at https://git.baty.net/jbaty/baty.net-kirby. Feel free to suggest improvements.
 
+- 2024-01-18: Back to Kirby
+- 2024-01-16: Centered welcome text on home page
+- 2024-01-16: Created Changelog page
+- 2024-01-15: Move to Hugo with PaperMod theme
 - 2024-01-11 Increased content width of posts
 - 2024-01-01 Show individual notes on Journal listing page
 - 2023-12-25 Replaced Photography with More in nav.
@@ -40,6 +44,16 @@ A running list of changes I've made to this site. Most recent first. The source 
 - 2023-10-14 Removed automatic cover images from posts. They must now be explicitly added to the Cover section.
 - 2023-10-14 Added grid of recent posts to home page
 - 2023-10-14 Simplified Posts page (only show title and excerpt
+- 2023-10-10: Move to Kirby CMS
+- 2023-10-06: Move to Hugo
+- 2023-06-06: Move to WordPress
+- 2023-05-24: Move to Blot
+- 2022-12-07: Move to WordPress
+- 2022-11-09: Switch Hugo theme to Congo
+- 2022-04-06: Back to Hugo
+- 2021-01-01: Archived everything from 2000-2020 at archive.baty.net
+- 2000-2020: A million platforms: Textpattern, Blosxom, Movable Type, WordPress, Jekyll, Ghost
+- 2000-08-10: First post
 
 ----
 

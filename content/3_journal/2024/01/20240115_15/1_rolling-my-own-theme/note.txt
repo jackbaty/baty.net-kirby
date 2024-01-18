@@ -1,0 +1,37 @@
+Title: Rolling my own theme?
+
+----
+
+Text:
+
+I like the [PaperMod theme](https://github.com/adityatelange/hugo-PaperMod/), but I don’t want it to _look_ like the PaperMod theme. Or at least not like everyone else’s PaperMod theme. It’s just that I suck at layout/CSS so if I decide to dive in I’ll get frustrated and things will break.
+
+Right now I’ve installed the theme as a Hugo “module”. This is an easy way to do it, but it might be too much an abstraction for my taste. Another option is to check it out as a git submodule, but that has its own issues.
+
+A third option, and the one I’m considering, is to install the theme in my themes/ folder but not as a submodule. I’ll just roll it right into my repo and pretend it’s mine :). This makes updates more work since it’ll no longer be a simple “hugo mod -u” or “git submodule update –recursive –remote”. I’ll need to diff and merge by hand. This is fine, since sometimes themes break after updates.
+
+This way I’ll have local copies of all of the theme’s templates and I can edit them at will.
+
+----
+
+Showtitle: true
+
+----
+
+Date: 2024-01-15
+
+----
+
+Tags: Hugo
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: w4LtQfNkSmQzJNjl

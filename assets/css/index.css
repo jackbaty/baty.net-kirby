@@ -350,6 +350,7 @@ figure.small-image {
 
 figure.right {
   float: right;
+    margin: 0 10px;
 }
 figure.left {
   float: left;

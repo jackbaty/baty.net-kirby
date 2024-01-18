@@ -1,0 +1,45 @@
+Title: I've lost interest in everything
+
+----
+
+Text:
+
+Please allow me to gripe for a moment.
+
+Over the past month or so, I’ve noticed that my reactions to things are generally, “Meh”.
+
+I used to eagerly fire up my RSS reader to see what fun, cool things I could learn about. Lately, I just scroll aimlessly through my feeds, skim a couple of posts, shrug, and move on. Nothing is interesting enough to stop me in my tracks and send me on an adventure. That used to happen at least once or twice a day.
+
+I roll my eyes at each new “crisis” on social media. Not because I don’t care about things, but I’m weary of people posting their (typically uninformed) takes on every little thing.
+
+I haven’t picked up a camera in weeks. My photos are boring. And I’m finding other people’s photos boring as well, and that never happens.
+
+Finding a show or movie to watch is an exercise in time wasting and scrolling and watching trailers. I’ll find something, watch ten minutes of it, and quit. Same thing with books, and I _love_ books.
+
+The only reason I’m still blogging every day is for lack of anything better to do. I [switch blogging platforms](http://localhost:1313/2024/01/from-kirby-to-hugo/) all the time, but it’s just a distraction with no real goal.
+
+Winter doesn’t bother me. The short days are fine with me. I can’t blame the weather. I’m just in a funk and I need to pull out of it because this isn’t much fun.
+
+----
+
+Showtitle: true
+
+----
+
+Date: 2024-01-15
+
+----
+
+Tags: Life
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: PFO9ofOtHHXmV0Zm
