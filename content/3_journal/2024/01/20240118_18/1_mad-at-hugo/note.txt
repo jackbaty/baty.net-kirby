@@ -1,0 +1,37 @@
+Title: Mad at Hugo. Not mad at Kirby.
+
+----
+
+Text:
+
+So a few days ago I moved this blog back to Hugo. I like Kirby, but I missed the "standard" Markdown frontmatter and my old Emacs workflow. I prefer a fully static website, so Hugo makes sense.
+
+Except no. Hugo would be perfect if all I wanted was to grab a theme, render static pages and push them to a web server. But heaven forbid I want to make any changes to the site's behavior. Even after *years* of using it, I find Hugo's template system and language to be an unfathomable and confusing mess. Maybe I have a mental block, but nothing I do works on the first (or second or third...) try. There's a lot of documentation, but I can't make sense of it.
+
+One thing that put me off Kirby CMS was that it's "Kirbytext" markup enhancements to Markdown would make the content less portable. Thing is, Hugo suffers the same problem because every theme developer uses their own front matter variables. Is it "cover" or "featuredImage" or "feature" or what? And Hugo's shortcodes are just as much a risk of lock-in as Kirbytext. Hugo's advantage here isn't as great as I thought it was.
+
+So, you may have noticed I've rolled back to using Kirby. Even though I had to build most of it myself, I feel like I understand it. Also, I like the design and behavior more than that bare-boned theme I was using. And if I want to change something, I'm not afraid to try.
+
+----
+
+Showtitle: true
+
+----
+
+Date: 2024-01-18
+
+----
+
+Tags: Hugo, Blogging
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: Fw7QGyrkIap8MPpx
