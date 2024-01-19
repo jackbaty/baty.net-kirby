@@ -1,0 +1,33 @@
+Title: Friday, January 19, 2024
+
+----
+
+Summary: 
+
+----
+
+Text:
+
+I sat down at the computer and fired up a new post for Hugo in Emacs, forgetting that yesterday I switched back to Kirby. So it's going to be that kind of day, I guess.
+
+Just because you don't like something, doesn't mean it's bad.
+
+----
+
+Cover: 
+
+----
+
+Date: 2024-01-19 10:40:00
+
+----
+
+Weather: Low -5.1, High 16.2 - Moderate snow
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: frdAZdkd7yZPGhJR
