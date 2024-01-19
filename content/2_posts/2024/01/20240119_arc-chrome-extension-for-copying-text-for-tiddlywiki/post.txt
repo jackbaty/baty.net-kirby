@@ -8,6 +8,8 @@ Summary:
 
 Text:
 
+(image: tiddlywiki.png class: right)
+
 I used to (link: https://wiki.baty.net/#Bookmarklet%20for%20quoting%20to%20TiddlyWiki text: have a bookmarklet) that would take selected text on a web page and generate a quoted block and link in markup suitable for use in TiddlyWiki.
 
 Arc Browser doesn't support bookmarklets for some strange reason, so I (finally) converted my bookmarklet to a Chrome extension using [this tool](https://sandbox.self.li/bookmarklet-to-extension/).
