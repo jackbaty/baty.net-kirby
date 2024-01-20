@@ -4,6 +4,8 @@ Title: Logseq is so close
 
 Text:
 
+(image: its-all-emacs.png)
+
 I've spent some time this week toying with the idea of using Logseq for my daily logging. I prefer writing in outliners and Logseq's outline-based blocks are handy and easy to deal with. Linking is fast and easy. There are queries for when I need to get fancy. Easy, automatic daily notes makes Logseq a tool well-suited to keeping a daily log. Plus, it creates .org files natively. 
 
 I even put my Logseq vault folder inside my ~/org folder so it's right there with everything else in Emacs and Org-mode.

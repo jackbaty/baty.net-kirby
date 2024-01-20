@@ -1,0 +1,43 @@
+Title: My wiki is priceless
+
+----
+
+Text:
+
+Here, I think out loud about my wiki [wiki.baty.net](https://wiki.baty.net). 
+
+The wiki (built using TiddlyWiki) is chock full of old notes and ideas and journal entries. 3,674 of them since 2018, to be precise.
+
+I need to remember this whenever I drift away from using it as a place for dumping links and quotes and conversations and *anything* else. Click the "random tiddler" link a few times. Wow, how fun!
+
+Here's the thing: Emacs.
+
+Once I started putting *everything* in Emacs, it no longer made sense to duplicate those things in TiddlyWiki. Except what I'm finding is that I prefer dropping little one-off notes in the wiki to creating a org-mode file using Denote  in Emacs. And I also quite often prefer browsing and finding things in the wiki.
+
+This is a problem. My system has grown to depend on everything being in my ~/org folder. Wiki stuff isn't. I don't think I care anymore. The stuff I put in the wiki is just as findable and future-proof, and it's potentually more *valuable* because I like using it there and it's also public so someone might find a helpful nugget or two.
+
+I guess what I'm saying is that I'd like to go back to putting my notes that can be public in the wiki instead of org-mode.
+
+----
+
+Showtitle: true
+
+----
+
+Date: 2024-01-20
+
+----
+
+Tags: TiddlyWiki
+
+----
+
+Cover: 
+
+----
+
+Smallimage: - file://fvQYWEK5lJcsWozP
+
+----
+
+Uuid: RJ8WQlhoFlW9paEZ
