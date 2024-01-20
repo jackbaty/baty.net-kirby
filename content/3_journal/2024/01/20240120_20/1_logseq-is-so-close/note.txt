@@ -1,0 +1,39 @@
+Title: Logseq is so close
+
+----
+
+Text:
+
+I've spent some time this week toying with the idea of using Logseq for my daily logging. I prefer writing in outliners and Logseq's outline-based blocks are handy and easy to deal with. Linking is fast and easy. There are queries for when I need to get fancy. Easy, automatic daily notes makes Logseq a tool well-suited to daily notes. Plus, it creates .org files natively. 
+
+I even put my Logseq vault folder right inside my ~/org folder so everything is right there in Emacs and Org-mode.
+
+The problem is that I have come to love and standardize on using [Denote](https://github.com/protesilaos/denote) for notes and file naming. Logseq's file names and linking syntax don't work with Denote. I imagine one might be able to create a combination of Denote hooks and Logseq plugins to make them work together but that feels like too much.
+
+I thought about using Logseq *only* for the daybook-style logging. The problem is that Logseq practically begs one to add links and backlinks and related notes and TODOs and the rest. Using it as a nothing more than a competent outliner front end for org-mode files feels wasteful or unnecessary and asking for trouble down to line. 
+
+So for now I'm tabling the Logseq idea and sticking with my life in Emacs full-time.
+
+----
+
+Showtitle: true
+
+----
+
+Date: 2024-01-20
+
+----
+
+Tags: Logseq, Notetaking, Denote
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: V4dHAInHBnLnUNJ1

@@ -1,0 +1,29 @@
+Title: Saturday, January 20, 2024
+
+----
+
+Summary: 
+
+----
+
+Text: I've spent some time this week toying with the idea of using Logseq for my daily logging. I prefer writing in outliners and Logseq's outline-based blocks are handy and easy to deal with. Linking is fast and easy. There are queries for when I need to get fancy. Easy, automatic daily notes makes Logseq a tool well-suited to daily notes.
+
+----
+
+Cover: 
+
+----
+
+Date: 2024-01-20 12:10:00
+
+----
+
+Weather: Low -11.2, High 23.7 - Moderate or heavy snow showers
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: zqAHU0upmko6TwPL
