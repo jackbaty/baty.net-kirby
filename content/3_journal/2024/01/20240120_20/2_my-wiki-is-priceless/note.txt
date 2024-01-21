@@ -4,7 +4,7 @@ Title: My wiki is priceless
 
 Text:
 
-Here, I think out loud about my wiki [wiki.baty.net](https://wiki.baty.net). 
+Today I think out loud about my wiki [wiki.baty.net](https://wiki.baty.net). 
 
 The wiki (built using TiddlyWiki) is chock full of old notes and ideas and journal entries. 3,674 of them since 2018, to be precise.
 
@@ -16,7 +16,7 @@ Once I started putting *everything* in Emacs, it no longer made sense to duplica
 
 This is a problem. My system has grown to depend on everything being in my ~/org folder. Wiki stuff isn't. I don't think I care anymore. The stuff I put in the wiki is just as findable and future-proof, and it's potentually more *valuable* because I like using it there and it's also public so someone might find a helpful nugget or two.
 
-I guess what I'm saying is that I'd like to go back to putting my notes that can be public in the wiki instead of org-mode.
+I guess what I'm saying is that I'd like to go back to putting my notes that can be public in the wiki instead of org-mode. I'm not sure how to do that without re-introducing the where-do-I-write-this? dilemma.
 
 ----
 
