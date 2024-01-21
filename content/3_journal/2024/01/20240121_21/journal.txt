@@ -1,0 +1,29 @@
+Title: Sunday, January 21, 2024
+
+----
+
+Summary: 
+
+----
+
+Text: Spent time this morning taking baby steps toward running this (Kirby) blog on OpenBSD using httpd. I can get the home page to load, but nothing else works (images/links/etc). I've posted a (link: https://forum.getkirby.com/t/running-kirby-on-openbsd-using-httpd/30552?u=jbaty text: question on the forums) so we'll see if that gets me anywhere.
+
+----
+
+Cover: 
+
+----
+
+Date: 2024-01-21 13:40:00
+
+----
+
+Weather: Low 1.8, High 23.2 - Freezing fog
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: y0rl8S90E28JyGHt
