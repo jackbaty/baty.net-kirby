@@ -1,0 +1,29 @@
+Title: Paisa
+
+----
+
+Text: As a fan of using plain text [Ledger](https://ledger-cli.org/) files for tracking my finances, I can't believe I've never heard of [Paisa](https://paisa.fyi/). It's essentially a wrapper around a stock Ledger file. There's an editor and really nice dashboards/reporting pages. Definitely worth a look if you're into that sort of thing.
+
+----
+
+Showtitle: true
+
+----
+
+Date: 2024-01-22
+
+----
+
+Tags: Software
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: YWQDmV4Net9Li90D
