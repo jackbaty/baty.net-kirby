@@ -6,7 +6,11 @@ Summary:
 
 ----
 
-Text: Spent time this morning taking baby steps toward running this (Kirby) blog on OpenBSD using httpd. I can get the home page to load, but nothing else works (images/links/etc). I've posted a (link: https://forum.getkirby.com/t/running-kirby-on-openbsd-using-httpd/30552?u=jbaty text: question on the forums) so we'll see if that gets me anywhere.
+Text:
+
+Spent time this morning taking baby steps toward running this (Kirby) blog on OpenBSD using httpd. I can get the home page to load, but nothing else works (images/links/etc). I've posted a (link: https://forum.getkirby.com/t/running-kirby-on-openbsd-using-httpd/30552?u=jbaty text: question on the forums) so we'll see if that gets me anywhere.
+
+Bragging about blocking someone or being blocked by someone on social media is something I just can't understand.
 
 ----
 
