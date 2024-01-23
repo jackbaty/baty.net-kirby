@@ -6,7 +6,11 @@ Summary:
 
 ----
 
-Text: I spun up a WordPress "pod" at [PikaPods](https://www.pikapods.com/) because I wanted to take a peek at the refreshed (link: https://wordpress.org/themes/kubrick-2024/ text: Kubrick (2024)) theme. I'm not linking to it because it'll almost certainly be gone in a week.
+Text:
+
+I spun up a WordPress "pod" at [PikaPods](https://www.pikapods.com/) because I wanted to take a peek at the refreshed (link: https://wordpress.org/themes/kubrick-2024/ text: Kubrick (2024)) theme. I'm not linking to it because it'll almost certainly be gone in a week.
+
+I pine for the days when people would say, "Thank you. I accept your apology".
 
 ----
 
