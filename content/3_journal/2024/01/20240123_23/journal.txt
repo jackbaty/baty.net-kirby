@@ -1,0 +1,29 @@
+Title: Tuesday, January 23, 2024
+
+----
+
+Summary: 
+
+----
+
+Text: I spun up a WordPress "pod" at [PikaPods](https://www.pikapods.com/) because I wanted to take a peek at the refreshed (link: https://wordpress.org/themes/kubrick-2024/ text: Kubrick (2024)) theme. I'm not linking to it because it'll almost certainly be gone in a week.
+
+----
+
+Cover: 
+
+----
+
+Date: 2024-01-23 10:00:00
+
+----
+
+Weather: Light freezing rain 32.0. Low 30.0, High 33.5
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: P8UDIqKwEn2yxvZG
