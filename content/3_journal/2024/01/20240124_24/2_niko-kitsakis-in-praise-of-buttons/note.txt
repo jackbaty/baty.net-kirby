@@ -1,0 +1,34 @@
+Title: Niko Kitsakis - In Praise of buttons
+
+----
+
+Text:
+
+[Niko Kitsakis, In Praise of Buttons – Part One](https://www.nubero.ch/blog/009/)
+> Critics of my position may point to what they believe is some sort of sentimentalism for old user interfaces on my part. It’s true that the problems I point to in this piece are of the kind that I consider solved in many of the older user interfaces. That has nothing to do with being sentimental however. Products have to work properly. If a button is the right choice, use a button. If it’s not, don’t. But if you are going to implement a design element that works like a button, it should look like one too.
+
+Yes please. I miss buttons, and not because they remind me of some arbitrary "good old days," but rather because they are the correct answer.
+
+----
+
+Showtitle: true
+
+----
+
+Date: 2024-01-24
+
+----
+
+Tags: UX
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: Vd2TYootm8haIgXA
