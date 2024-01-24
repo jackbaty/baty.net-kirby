@@ -1,0 +1,34 @@
+Title: Your everyday AI companion
+
+----
+
+Text:
+
+> It is your everyday AI companion.
+> It helps you to create content faster and more efficiently.
+
+Because that's what we all need: To crank out more content, faster, with less thought.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2024-01-24
+
+----
+
+Tags: 
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: FOBpD2nFrsi6JB2y
