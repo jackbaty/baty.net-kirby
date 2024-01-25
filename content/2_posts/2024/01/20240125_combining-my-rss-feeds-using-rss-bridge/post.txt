@@ -18,7 +18,7 @@ There are a few people who, oddly, follow several or all of them. For those who 
 
 At one point I used WordPress and some plugins for this, but I'd rather not *have* to run WordPress and the plugins were expensive if I wanted specific behaviors.
 
-There are a few services for this, rss.app, RSS Hub, but they're all either expensive or not what I'm looking for.
+There are a services for this like rss.app, RSS Hub, etc. but they're all either expensive or not what I'm looking for.
 
 I initially skipped [RSS-Bridge](https://rss-bridge.org/) because I didn't think it did what I needed. I received a nudge in that direction from [Christian Tietze](https://social.lol/@ctietze@mastodon.social) and he was right. It does what I'm looking for.
 
