@@ -1,0 +1,29 @@
+Title: Everything.rss
+
+----
+
+Text: I'm still looking for the best way to combine the RSS feeds from all my sites into a single MegaFeed. Currently, I'm self-hosting an instance of RSS-Bridge to create a combined feed. I am redirecting https://baty.net/everything.rss to that feed, in case you were subscribed and things just got weird.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2024-01-25
+
+----
+
+Tags: 
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: aHewAHJz4Y9cB4gY
