@@ -20,7 +20,7 @@ At one point I used WordPress and some plugins for this, but I'd rather not *hav
 
 There are a services for this like rss.app, RSS Hub, etc. but they're all either expensive or not what I'm looking for.
 
-I initially skipped [RSS-Bridge](https://rss-bridge.org/) because I didn't think it did what I needed. I received a nudge in that direction from [Christian Tietze](https://social.lol/@ctietze@mastodon.social) and he was right. It does what I'm looking for.
+I initially skipped [RSS-Bridge](https://rss-bridge.org/) because I assumed it wasn't what I needed. I received a nudge about it from [Christian Tietze](https://social.lol/@ctietze@mastodon.social) and he was right, along with a bunch of other things, it can fairly easily combine several feeds.
 
 The short version is that I dropped a bunch of PHP files (RSS-Bridge) onto my server and did some copy/paste/edit hacking to create a new "bridge" and now I have a combined feed. ([here's the new bridge](https://gist.github.com/jackbaty/aaba9bbadec4753f927e554cbaa5d381))
 
