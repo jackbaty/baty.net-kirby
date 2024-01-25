@@ -10,10 +10,11 @@ Text:
 
 A running list of changes I've made to this site. Most recent first. The source is at https://git.baty.net/jbaty/baty.net-kirby. Feel free to suggest improvements.
 
-- 2024-01-18: Back to Kirby
-- 2024-01-16: Centered welcome text on home page
-- 2024-01-16: Created Changelog page
-- 2024-01-15: Move to Hugo with PaperMod theme
+- 2024-01-25 Added /feeds page and link to it from navigation
+- 2024-01-18 Back to Kirby
+- 2024-01-16 Centered welcome text on home page
+- 2024-01-16 Created Changelog page
+- 2024-01-15 Move to Hugo with PaperMod theme
 - 2024-01-11 Increased content width of posts
 - 2024-01-01 Show individual notes on Journal listing page
 - 2023-12-25 Replaced Photography with More in nav.

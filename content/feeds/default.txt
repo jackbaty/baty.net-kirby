@@ -1,0 +1,17 @@
+Title: Feeds
+
+----
+
+Subheadline: How to follow my blog(s) using your favorite RSS reeder
+
+----
+
+Text:
+
+**https://baty.net/feed** - The feed for posts here at baty.net.
+
+**https://baty.net/everything.rss** - If you're a glutton for punishment, this is the feed for you. It aggregates the RSS feeds from all of the various blogs I tinker with.
+
+----
+
+Uuid: Ah7wGDcrp8DwqGKp

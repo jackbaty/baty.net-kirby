@@ -12,7 +12,7 @@
 */
 ?>
 <span class="social">
-  <a rel="me" href="/feed" aria-label="Subscribe to RSS feed">
+  <a rel="me" href="/feeds" aria-label="Subscribe to RSS feeds">
     <?= svg('assets/icons/rss.svg') ?>
   </a>
 </span>
