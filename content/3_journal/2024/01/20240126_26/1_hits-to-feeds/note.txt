@@ -2,11 +2,11 @@ Title: Hits to feeds
 
 ----
 
-Uuid: e1CBYpJgqJXJ8kT9
+Text:
 
-----
+I had to manually roll my Caddy logs today (for some reason that I'll figure out later) and was watching my GoAccess panel and it's becoming clear that a significant majority of my website visitors are via RSS readers. This isn't surprising, just interesting. 
 
-Text: 
+(image: hits.png)
 
 ----
 
@@ -27,3 +27,7 @@ Cover:
 ----
 
 Smallimage: 
+
+----
+
+Uuid: e1CBYpJgqJXJ8kT9
