@@ -6,7 +6,11 @@ Summary:
 
 ----
 
-Text: I have NotePlan, Logseq, Obsidian, and Emacs running. Cool, cool.
+Text:
+
+I have NotePlan, Logseq, Obsidian, and Emacs running. Cool, cool.
+
+Everything *could* go here. Just sayin'
 
 ----
 
