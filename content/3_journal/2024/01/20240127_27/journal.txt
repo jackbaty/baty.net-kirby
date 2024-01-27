@@ -1,0 +1,29 @@
+Title: Saturday, January 27, 2024
+
+----
+
+Summary: 
+
+----
+
+Text: Kirby is so nice but it requires PHP to run and it stores data in text files that aren't as portable as they could be. It's got me twitchy again (still?). Not going back to Hugo, though, that's for sure. But then why am I still blogging with Tinderbox over on daily.baty.net? That's about as software-dependent and non-standard as it gets.
+
+----
+
+Cover: 
+
+----
+
+Date: 2024-01-27 13:20:00
+
+----
+
+Weather: Fog 33.3. Low 31.3, High 35.6
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: 6OKSh17EP59s0BzD
