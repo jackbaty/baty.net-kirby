@@ -34,6 +34,10 @@
   <?php snippet('intro') ?>
 <?php endif ?>
 
+<div class="post text">
+    <?= $page->text()->kt() ?>
+</div><br>
+
 <ul class="post">
   <?php foreach ($journals as $journal): ?>
   <li>

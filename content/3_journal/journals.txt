@@ -6,4 +6,8 @@ Subheadline: My daily notes
 
 ----
 
+Text: See also: **[daily.baty.net](https://daily.baty.net)**
+
+----
+
 Uuid: ZWZVZSlNpA6VJzXZ
