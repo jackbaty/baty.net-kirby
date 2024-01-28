@@ -1,0 +1,45 @@
+Title: So many apps
+
+----
+
+Summary: 
+
+----
+
+Text:
+
+Dave Rogers (link: https://nice-marmot.net/Archives/2024/January_2024.html#note_1762 text: wrote this morning) about having (hoarding?) too many apps:
+
+> I have a lot of apps because I read about them, and I wanted to "see what it does." And then it would just sit there, taking up space. They're like cameras and calculators that way.
+
+Hooboy, do I know that feeling. Every Sunday I run MacUpdater. It updated 12 apps this morning. That's 12 updates in the last week. There's a little summary at the bottom. Today, mine reads:
+
+> Info: found 144 apps in total, 43 are ignored and 0 are hidden away. Displaying 101 apps, 100 are up-to-date and 1 have updates available.
+
+Cool. Cool.
+
+Yesterday, the (link: https://setapp.com text: SetApp) folks acknowledged my addiction by sending me this:
+
+(image: app-master.png caption: Yep, I am an App Master!)
+
+There are days when I convince myself I could live in a web browser, Emacs, a terminal, and a file manager. And I could probably do that, but there's too much good software out there and I love playing with all of it. The hoarding shall continue.
+
+----
+
+Cover: 
+
+----
+
+Date: 2024-01-28 13:10:00
+
+----
+
+Author: 
+
+----
+
+Tags: Software
+
+----
+
+Uuid: nclWgex54FaaxAi3
