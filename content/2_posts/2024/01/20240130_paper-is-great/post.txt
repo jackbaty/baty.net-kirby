@@ -2,6 +2,10 @@ Title: Paper is great
 
 ----
 
+Summary: 
+
+----
+
 Text:
 
 I'm really into paper-based tools lately. This is often a reaction to over-thinking my (digital) note-taking process. And oh my have I been over-thinking that process lately.
@@ -16,17 +20,21 @@ I love jotting quotes and observations onto index cards. I leave these cards lyi
 
 Have you ever tried flipping through pages on a Kindle? No? Right, because you can't. Or at least it's not worth the effort. I'm forgetful, and being able to quickly thumb back and answer things like, "Wait, who's kid is that again?" is necessary for me to enjoy reading books.
 
-I keep paper journals/scrapbooks in large Moleskine notebook. I print photos and glue or tape them into it. I write on and around them. I doodle in it. Doing this on an iPad with Pencil is cool, but unsatisfying. I like imperfections. I like not being able to Command-Z my way out of everything. I like pulling old ones off the self and flipping through them.
+I keep paper journals/scrapbooks in large Moleskine notebooks. I print photos and glue or tape them onto pages then I write on and around them. I doodle in them. Doing this on an iPad with Pencil is cool, but unsatisfying. I like imperfections. I like not being able to Command-Z my way out of everything. I like pulling old ones off the self and flipping through them.
 
-Anyway, digital tools are fine, but I prefer paper.
-
-----
-
-Showtitle: true
+Anyway, digital tools are great and all, but I often prefer paper.
 
 ----
 
-Date: 2024-01-30
+Cover: 
+
+----
+
+Date: 2024-01-30 00:00:00
+
+----
+
+Author: 
 
 ----
 
@@ -34,7 +42,7 @@ Tags: Analog
 
 ----
 
-Cover: 
+Showtitle: true
 
 ----
 
