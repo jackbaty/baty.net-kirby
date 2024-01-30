@@ -1,0 +1,29 @@
+Title: Tuesday, January 30, 2024
+
+----
+
+Summary: 
+
+----
+
+Text: Neat, I'm mentioned in the latest (link: https://newsletter.getkirby.com/app/vw/7vkwil9zg2b/700304 text: Kirby CMS newsletter). It's a link to my post about (link: https://baty.net/2023/12/implementing-daily-notes-in-kirby text: implementing my daily notes) here on the blog.
+
+----
+
+Cover: 
+
+----
+
+Date: 2024-01-30 16:15:00
+
+----
+
+Weather: Light drizzle 34.0. Low 31.6, High 38.4
+
+----
+
+Tags: Journal, Kirby
+
+----
+
+Uuid: cNMqZ5ZCljqSPCdy
