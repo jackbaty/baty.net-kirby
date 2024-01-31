@@ -27,14 +27,13 @@ if ($latestJournalDay == date('Y-m-d')) {
     $dayHeading = '';
 }
 
-$recentPosts = collection('posts')->limit(5);
+$recentPosts = collection('posts')->limit(10);
 ?>
 
 <?php snippet('header') ?>
   
 <?php snippet('welcome') ?>
 
-<!-- <h2 class="uppercase color-grey"><?= $dayHeading ?></h2> -->
 <article class="post home">
   <header class="post-header h1">
     <h2 class="post-title"><?= $dayHeading ?> <a href="<?= $latestJournal->url() ?>"><?= $latestJournal->title()->esc() ?></a></h2>
@@ -52,7 +51,7 @@ $recentPosts = collection('posts')->limit(5);
     <?= $latestJournal->text()->kt() ?>
   </div>
   <?php endif ?>
-  
+
 <ul class="note">
   <?php foreach($latestJournal->children() as $note): ?>
   <li>
@@ -61,7 +60,9 @@ $recentPosts = collection('posts')->limit(5);
   <?php endforeach ?>
 </ul>
 </article>
-  
+
+<?php if(false): ?>
+<!-- recent posts links -->
 <div class="recent-posts">
   <h2 class="uppercase color-grey">Recent blog posts</h2>
 
@@ -75,7 +76,37 @@ $recentPosts = collection('posts')->limit(5);
 
 <div class="more-posts"><a href="/posts">More posts &rarr;</a></div>
 </div>
+<!-- /recent posts links -->
+<?php endif ?>
 
+<!-- recent posts full text -->
+<ul>
+  <?php foreach ($recentPosts as $post): ?>
+	  <?php if ($post->url() != $latestJournal->url()): ?>
+
+<article class="post home">
+  <header class="post-header h1">
+    <h2 class="post-title"><a href="<?= $post->url() ?>"><?= $post->title()->esc() ?></a></h2>
+    <?php if ($post->subheading()->isNotEmpty()): ?>
+        <p class="post-subheading"><small><?= $post->subheading()->esc() ?></small></p>
+    <?php endif ?>
+  </header>
+  <?php if ($post->text()->isNotEmpty()): ?>
+  <div class="post text">
+    <?= $post->text()->kt() ?>
+    
+    <time class="post-excerpt-date" datetime="<?= $post->published('c') ?>"><?= $post->published() ?><?php if (!empty($post->tags())): ?><?php endif ?></time>
+  </div>
+  <?php endif ?>
+</article>
+    <?php endif ?>
+  <?php endforeach ?>
+</ul>
+<!-- /recent posts full text -->
+
+
+<?php if(false): ?>
+<!-- recent daily notes full text -->
 <ul>
   <?php foreach ($recentJournals as $journal): ?>
 	  <?php if ($journal->url() != $latestJournal->url()): ?>
@@ -105,6 +136,7 @@ $recentPosts = collection('posts')->limit(5);
     <?php endif ?>
   <?php endforeach ?>
 </ul>
-
+<!-- /recent daily notes full text -->
+<?php endif ?>
 
 <?php snippet('footer') ?>
