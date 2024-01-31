@@ -60,10 +60,10 @@ $recentPosts = collection('posts')->limit(10);
   </li>
   <?php endforeach ?>
 </ul>
+<div class="more-posts"><a href="/journal">Previous journal entries &rarr;</a></div>
 </article>
 <!-- /most recent daily post -->
 
-<hr>
 
 <?php if(false): ?>
 <!-- recent posts links -->
@@ -84,6 +84,8 @@ $recentPosts = collection('posts')->limit(10);
 <?php endif ?>
 
 <!-- recent posts full text -->
+<h2 class="recent">{ Recent posts }</h2>
+
 <ul>
   <?php foreach ($recentPosts as $post): ?>
 	  <?php if ($post->url() != $latestJournal->url()): ?>

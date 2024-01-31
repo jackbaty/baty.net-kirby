@@ -133,6 +133,37 @@ header.welcome {
   font-size: 1.5rem;
 }
 
+h2.recent {
+  font-size: 1.25rem;
+  color: var(--color-grey);
+  text-align: center;
+  margin: 2rem 0 2rem 0;
+  position: relative;
+}
+h2.recent:before {
+  content: "";
+  display: block;
+  width: 30%;
+  height: 2px;
+  background: var(--color-light);
+  color: var(--color-light);
+  left: 0;
+  top: 50%;
+  position: absolute;
+}
+
+h2.recent:after {
+  content: "";
+  display: block;
+  width: 30%;
+  height: 2px;
+  background: var(--color-light);
+  color: var(--color-light);
+  right: 0;
+  top: 50%;
+  position: absolute;
+}
+
 .post-header.h1 {
   margin-top: 0;
   padding: 1rem;
