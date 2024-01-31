@@ -6,7 +6,7 @@ Summary:
 
 ----
 
-Text: 
+Text: If Kirby formatted its content files using "normal" YAML front matter it would be perfect.
 
 ----
 

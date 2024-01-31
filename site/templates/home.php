@@ -34,6 +34,7 @@ $recentPosts = collection('posts')->limit(10);
   
 <?php snippet('welcome') ?>
 
+<!-- most recent daily post -->
 <article class="post home">
   <header class="post-header h1">
     <h2 class="post-title"><?= $dayHeading ?> <a href="<?= $latestJournal->url() ?>"><?= $latestJournal->title()->esc() ?></a></h2>
@@ -60,6 +61,9 @@ $recentPosts = collection('posts')->limit(10);
   <?php endforeach ?>
 </ul>
 </article>
+<!-- /most recent daily post -->
+
+<hr>
 
 <?php if(false): ?>
 <!-- recent posts links -->
