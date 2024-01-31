@@ -13,7 +13,7 @@ All posts from this blog at baty.net
 https://baty.net/feed
 
 **Everything!**
-If you're a glutton for punishment, this is the feed for you. It aggregates the RSS feeds from all of my various blogs.
+If you're a glutton for punishment, this is for you. It aggregates the RSS feeds from all of my various blogs.
 https://baty.net/everything.rss
 
 ----
