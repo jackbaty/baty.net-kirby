@@ -120,6 +120,9 @@ article.post.home {
   width: 95%;
   text-align: right;
 }
+.more-posts:hover {
+  text-decoration: underline;
+}
 
 header.welcome {
   margin-top: 2rem;

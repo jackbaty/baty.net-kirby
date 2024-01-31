@@ -30,7 +30,7 @@ if ($latestJournalDay == date('Y-m-d')) {
 $recentPosts = collection('posts')->limit(10);
 ?>
 
-<?php snippet('header') ?>
+<?php snippet('header',['extracss' => 'home.css']) ?>
   
 <?php snippet('welcome') ?>
 

@@ -32,12 +32,18 @@
      Kirby also provides the `js()` helper to include script file.
      More Kirby helpers: https://getkirby.com/docs/reference/templates/helpers
    */
+   
+   if (isset($extracss)) {
+   $extracssurl = '/assets/css/templates/' . $extracss . '?ver=' . filemtime("assets/css/templates/" . $extracss);
+   } else {
+   $extracssurl = '@auto';
+   }
   ?>
   <?= css([
     'assets/css/prism.css?v=20231109',
     'assets/css/lightbox.css',
     'assets/css/index.css?ver=' . filemtime("assets/css/index.css") . '',
-    '@auto'
+    $extracssurl
   ]) ?>
 
   <link rel="preconnect" href="https://fonts.googleapis.com">

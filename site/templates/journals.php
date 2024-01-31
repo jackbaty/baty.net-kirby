@@ -21,7 +21,7 @@
   More about templates: https://getkirby.com/docs/guide/templates/basics
 */
 ?>
-<?php snippet('header') ?>
+<?php snippet('header',['extracss' => 'journal.css']) ?>
 
 <?php if (empty($tag) === false): ?>
 <header class="h1">
