@@ -1,0 +1,21 @@
+Title: Feeds
+
+----
+
+Subheadline: Follow my blogs via RSS
+
+----
+
+Text:
+
+**Baty.net feed**
+All posts from this blog at baty.net
+https://baty.net/feed
+
+**Everything!**
+If you're a glutton for punishment, this is the feed for you. It aggregates the RSS feeds from all of my various blogs.
+https://baty.net/everything.rss
+
+----
+
+Uuid: Ah7wGDcrp8DwqGKp
