@@ -10,6 +10,7 @@ Text:
 
 A running list of changes I've made to this site. Most recent first. The source is at https://git.baty.net/jbaty/baty.net-kirby. Feel free to suggest improvements.
 
+- 2024-01-31 Added "extracss" attribute to header snippet
 - 2024-01-31 Added fancy separator between daily post and blog posts (home)
 - 2024-01-31 Changed home page to list blog posts instead of journals
 - 2024-01-31 Changed navigation from "Posts" to "Archives"
