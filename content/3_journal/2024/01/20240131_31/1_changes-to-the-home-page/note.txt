@@ -1,0 +1,29 @@
+Title: Changes to the home page
+
+----
+
+Text: I'm trying something different with the blog layout. Instead of listing recent journal entries on the home page, I'm listing only the most recent journal, followed by the 10 most recent full posts. This is mostly due to my renewed infatuation with posting daily notes on my Tinderbox blog at [daily.baty.net](https://daily.baty.net). Call it an experiment.
+
+----
+
+Showtitle: true
+
+----
+
+Date: 2024-01-31
+
+----
+
+Tags: Meta
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: kEd7MxWtwDCwgRGH
