@@ -1,0 +1,28 @@
+Title: Thursday, February 1, 2024
+
+----
+
+Summary: 
+
+----
+
+Text: This post was published using Tinderbox, just to see if I could. The Kirby content file is generated via an export template in Tinderbox. I have no idea what I might do with this, but it's a neat idea. I think.
+
+----
+
+Cover: 
+
+----
+
+Date: 2024-02-01T17:19:46-05:00
+
+----
+
+Weather: Overcast 42.1. Low 33.1, High 48.1
+
+----
+
+Tags: Journal
+
+----
+

@@ -27,7 +27,10 @@ if ($latestJournalDay == date('Y-m-d')) {
     $dayHeading = '';
 }
 
-$recentPosts = collection('posts')->limit(10);
+$allPosts = collection('posts');
+$allPostsCount = $allPosts->count();
+$recentPosts = $allPosts->limit(10);
+
 ?>
 
 <?php snippet('header',['extracss' => 'home.css']) ?>
@@ -144,5 +147,8 @@ $recentPosts = collection('posts')->limit(10);
 </ul>
 <!-- /recent daily notes full text -->
 <?php endif ?>
+
+
+<div class="more-posts"><a href="/posts">See all <?= $allPostsCount ?> posts in the archive &rarr;</a></div>
 
 <?php snippet('footer') ?>
