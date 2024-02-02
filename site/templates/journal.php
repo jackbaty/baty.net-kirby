@@ -1,11 +1,5 @@
 <?php
 /*
-  Templates render the content of your pages.
-
-  They contain the markup together with some control structures
-  like loops or if-statements. The `$page` variable always
-  refers to the currently active page.
-
   To fetch the content from each field we call the field name as a
   method on the `$page` object, e.g. `$page->title()`.
 
@@ -72,7 +66,23 @@
       
   </footer>
 
-  <?php snippet('prevnext') ?>
+  <?php /* snippet('prevnext') */ ?>
+  
+  <nav class="blog-prevnext">
+  <h2 class="h2">More journals</h2>
+
+  <div class="autogrid" style="--gutter: 1.5rem">
+  	<?php $journals = $kirby->collection("journals"); ?>
+    <?php if ($prev = $page->nextListed($journals)): ?>
+    <div>← <a href="<?= $prev->url() ?>"><?= $prev->title()  ?></a></div>
+    <?php endif ?>
+
+    <?php if ($next = $page->prevListed($journals)): ?>
+    <div style="text-align: right;"><a href="<?= $next->url() ?>"><?= $next->title()  ?></a> →</div>
+    <?php endif ?>
+  </div>
+</nav>
+
 </article>
 
 <?php snippet('footer') ?>

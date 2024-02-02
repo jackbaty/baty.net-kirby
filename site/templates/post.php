@@ -57,9 +57,23 @@
   </footer>
 
 </article>
-
+<footer class="post-footer">
 <?php snippet('reply-by-email') ?>
+</footer>
 
-<?php snippet('prevnext') ?>
+<?php /* snippet('prevnext') */ ?>
+ <nav class="blog-prevnext">
+  <h2 class="h2">More posts</h2>
+
+  <div class="autogrid" style="--gutter: 1.5rem">
+    <?php if ($prev = $page->nextListed()): ?>
+    <div>← <a href="<?= $prev->url() ?>"><?= $prev->title()  ?></a></div>
+    <?php endif ?>
+
+    <?php if ($next = $page->prevListed()): ?>
+    <div style="text-align: right;"><a href="<?= $next->url() ?>"><?= $next->title()  ?></a> →</div>
+    <?php endif ?>
+  </div>
+</nav>
 
 <?php snippet('footer') ?>

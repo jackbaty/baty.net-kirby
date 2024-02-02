@@ -10,7 +10,7 @@ Text:
 
 This is the second daily post I've generated using Tinderbox. It is such a terrible but compelling thing to do. I should stop now.
 
-When I become disenchanted with social media, I withdraw into posting places that don't "go anywhere". For example, the post text part of these journal entries is not included in the RSS feed, so it's like private notes to myself, even though they are technically public. Same with the wiki. Unless explicitly tagged as "Feed", wiki entries aren't sent anywhere. It's just me putting words on a website. Some days that's all I want.
+When I become disenchanted with social media, I withdraw into posting places that don't "go anywhere". For example, the post-text part of  journal entries are not included in the RSS feed, so it's like private notes to myself, even though they are technically public. Same with the wiki. Unless explicitly tagged as "Feed", wiki entries aren't sent anywhere. It's just me putting words on a website. Some days that's all I want.
 
 ----
 

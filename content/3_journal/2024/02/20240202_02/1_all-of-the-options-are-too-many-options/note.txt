@@ -1,0 +1,37 @@
+Title: All of the options are too many options
+
+----
+
+Text:
+
+Pulling up a chair at the computer this morning, I looked at all of the wonderful blogging options available to me and decided there are too many of them. Now what? 
+
+I love this stuff. My favorite pastime is to play with different ways of making words show up on the internet. Sometimes, today for example, I just want their to be One True Way™. I want to know where to go to post something. I want to know how to do it. I want to know what to change if I don't like something.
+
+This week has been an experiment in using *everything* all the time. It has been a blast, but I'm exhausted.
+
+So for the rest of the day I think I'll close everything but the Kirby control panel and reduce my options to one.
+
+----
+
+Showtitle: true
+
+----
+
+Date: 2024-02-02
+
+----
+
+Tags: Blogging
+
+----
+
+Cover: 
+
+----
+
+Smallimage: - file://Ys366r89gQfEEeuv
+
+----
+
+Uuid: ZKG2BXalAJmZ5IoM

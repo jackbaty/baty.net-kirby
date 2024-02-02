@@ -12,8 +12,8 @@
   </main>
 
   <footer class="footer">
-    <div class="grid">
-      <div class="column" style="--columns: 8">
+    <div class="autogrid">
+      <div class="column align-center" style="--columns: 1">
           <p>
               Copyright © 2000-2024 Jack Baty
           </p>

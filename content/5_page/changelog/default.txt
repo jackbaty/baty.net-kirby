@@ -10,6 +10,7 @@ Text:
 
 A running list of changes I've made to this site. Most recent first. The source is at https://git.baty.net/jbaty/baty.net-kirby. Feel free to suggest improvements.
 
+- 2024-02-02 Lots of CSS/layout tweaks
 - 2024-02-02 Added weather icon to journal pages
 - 2024-01-31 Added "extracss" attribute to header snippet
 - 2024-01-31 Added fancy separator between daily post and blog posts (home)

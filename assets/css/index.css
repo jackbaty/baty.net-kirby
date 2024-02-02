@@ -30,14 +30,6 @@
   --font-family-mono: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
 }
 
-/* @font-face { */
-/*   font-family: 'Oswald'; */
-/*   src: url('../fonts/oswald-variable.woff') format('woff'); */
-/*   font-display: swap; */
-/*   font-weight: 200 700; */
-/*   font-style: bold; */
-/* } */
-
 @font-face {
   font-family: 'GeneralSans';
   src: url('../fonts/GeneralSans-Variable.woff2') format('woff2'),
@@ -59,6 +51,12 @@ body {
   padding: var(--padding);
   /* max-width: 70rem; */
   margin: 0 auto;
+}
+
+/* Underline behavior for un-classed links */
+a:not([class]) {
+	text-underline-offset: 0.20em;
+	text-decoration-thickness: 1px;
 }
 
 .hero-image {
@@ -221,6 +219,7 @@ h1, h2, h3, h4, h5, h6 {
 .text a {
   color: var(--color-link);
   text-decoration: underline;
+  text-decoration-thickness: 1px;
 }
 .text a:visited {
   color: var(--color-link-visited);
@@ -316,14 +315,17 @@ h1, h2, h3, h4, h5, h6 {
 .text dt {
   font-weight: 600;
 }
+
+
+
 .text blockquote {
-  font-size: 1.25rem;
-  line-height: 1.325em;
-  border-left: 2px solid var(--color-black);
-  padding-left: 1rem;
-  margin: 1rem 0;
-  max-width: 35rem;
+    border-left: 2px solid var(--color-black);
+    padding: 1rem;
+    margin: 1rem 0 1rem 0;
+    border-radius: 0.25em;
+    background: var(--color-light);
 }
+
 .text blockquote footer {
   font-size: .875rem;
   font-style: italic;
@@ -432,13 +434,16 @@ hr {
 .footer {
   padding: 9rem 2rem 6rem;
   line-height: 1.5em;
+  margin-inline: auto;
+  width: fit-content;
 }
 .footer:before {
   content: "";
   display: block;
-  width: 1.5rem;
+  margin-inline: auto;
+  width: 2.5rem;
   height: 1px;
-  background: var(--color-black);
+  background: var(--color-grey);
   margin-bottom: 1.5rem;
 }
 
@@ -452,10 +457,11 @@ hr {
 }
 .footer p {
   max-width: 15rem;
-  font-size: 11px;
+  font-size: 12px;
 }
 .footer a:hover {
   color: var(--color-text);
+  text-decoration: underline;
 }
 .footer p a {
   padding: 5px;
@@ -563,6 +569,9 @@ ul.note li .note-excerpt {
 .post-title, .note-title {
   font-family: Oswald;
 }
+.post-title a:hover {
+  text-decoration: underline;
+}
 .post-excerpt, .note-excerpt {
   line-height: 1.5em;
   max-width: 45rem;
@@ -626,6 +635,9 @@ nav.blog-prevnext h2.post-excerpt-title,
  {
   font-size: 0.9em;
 }
+nav.blog-prevnext a:hover {
+  text-decoration: underline;
+}
 
 ul.grid > li {
   list-style: none;
@@ -646,9 +658,10 @@ ul.grid > li {
 #reply-by-email {
   padding: 5px;
   margin: 1rem;
+  width: fit-content;
+  margin-inline: auto;
 }
 a.reply-by-email {
-    display: block;
     margin: 1em auto;
     width: fit-content;
     background: var(--color-light);
