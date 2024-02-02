@@ -467,6 +467,11 @@ hr {
   padding: 5px;
 }
 
+.footer svg {
+  width: 16px;
+  height: 16px;
+}
+
 
 .map {
   --w: 2;

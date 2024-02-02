@@ -21,6 +21,14 @@
   <a rel="me" href="https://social.lol/@jbaty" aria-label="Follow me on Mastodon">
     <?= svg('assets/icons/mastodon.svg') ?>
   </a>
+  
+  <a rel="me" href="https://flickr.com/photos/jbaty" aria-label="Flickr">
+    <?= svg('assets/icons/flickr.svg') ?>
+  </a>
+  
+  <a rel="me" href="https://glass.photo/jbaty" aria-label="Glass">
+    <?= svg('assets/icons/glass.svg') ?>
+  </a>
 
   <a rel="me" href="https://instagram.com/jackbatyphoto" aria-label="Follow me on Instagram">
     <?= svg('assets/icons/instagram.svg') ?>
