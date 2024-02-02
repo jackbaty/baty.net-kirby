@@ -1,0 +1,29 @@
+Title: Attention grabbing
+
+----
+
+Text: I was walking the dog just now thinking about how hard it is to publish things on the internet while avoiding the urge to garner as much attention as possible. Then I got home to this: [RSS readers make me want to jump into a vat of acid!](https://gkeenan.co/avgb/rss-readers-make-me-want-to-jump-into-a-vat-of-acid) and I guess it's hard for Keenan, too. (Good post, though)
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2024-02-02
+
+----
+
+Tags: Blogging
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: EItywcKuAm56fwG9
