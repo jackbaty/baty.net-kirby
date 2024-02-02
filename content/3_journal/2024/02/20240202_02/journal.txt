@@ -1,0 +1,33 @@
+Title: Friday, February 2, 2024
+
+----
+
+Summary: 
+
+----
+
+Text:
+
+This is the second daily post I've generated using Tinderbox. It is such a terrible but compelling thing to do. I should stop now.
+
+When I become disenchanted with social media, I withdraw into posting places that don't "go anywhere". For example, the post text part of these journal entries is not included in the RSS feed, so it's like private notes to myself, even though they are technically public. Same with the wiki. Unless explicitly tagged as "Feed", wiki entries aren't sent anywhere. It's just me putting words on a website. Some days that's all I want.
+
+----
+
+Cover: 
+
+----
+
+Date: 2024-02-02 05:50:00
+
+----
+
+Weather: Partly cloudy 32.9. Low 28.3, High 39.7
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: wBbf1tMvJKbd16LO

@@ -6,7 +6,7 @@ Summary:
 
 ----
 
-Text: This post was published using Tinderbox, just to see if I could. The Kirby content file is generated via an export template in Tinderbox. I have no idea what I might do with this, but it's a neat idea. I think.
+Text: This post was published using Tinderbox, just to see if I could. The Kirby content file is generated via an export template in Tinderbox. I have no idea what I might do with this, but it's a neat idea. I think. If I update and republish, what happens?
 
 ----
 
@@ -26,3 +26,4 @@ Tags: Journal
 
 ----
 
+Uuid: UtlVeiHfPLi7LaWz
