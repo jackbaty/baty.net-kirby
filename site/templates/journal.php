@@ -38,7 +38,10 @@
   </header>
   	<?php if ($page->weather()->isNotEmpty()): ?>
     <div class="post-weather">
-    	Weather: <?= $page->weather() ?>
+    	<?php if ($page->weather_icon()->isNotEmpty()): ?>
+    	<img src="/assets/images/weather/day/<?= $page->weather_icon() ?>.png" width="32" height="32">
+    	<?php endif ?>
+    	<div><?= $page->weather() ?></div>
     </div>
     <?php endif ?>
 

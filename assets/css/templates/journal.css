@@ -44,4 +44,9 @@ p + p {
     position: relative;
     top: -3rem; /* snug it up to the header */
     left: 5px;
+    display: flex;
+}
+
+.post-weather div {
+  padding-top: 8px;
 }

@@ -26,6 +26,10 @@ Weather: Partly cloudy 32.9. Low 28.3, High 39.7
 
 ----
 
+Weather-icon: 116
+
+----
+
 Tags: Journal
 
 ----
