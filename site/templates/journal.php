@@ -21,7 +21,7 @@
   More about templates: https://getkirby.com/docs/guide/templates/basics
 */
 ?>
-<?php snippet('header') ?>
+<?php snippet('header',['extracss' => 'journal.css']) ?>
 
 <?php if ($cover = $page->assignedCover()): ?>
 <a href="<?= $cover->url() ?>" data-lightbox class="img" style="--w:2; --h:1">
