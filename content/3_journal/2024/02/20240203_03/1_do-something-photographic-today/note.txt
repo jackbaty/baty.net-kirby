@@ -1,0 +1,29 @@
+Title: do something photographic today
+
+----
+
+Text: Today's a good day to maybe stay away from social media and go do something related to my neglected hobby of photography.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2024-02-03
+
+----
+
+Tags: Photography
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: hINLNBQP6Gzyn5XN

@@ -1,0 +1,33 @@
+Title: Saturday, February 3, 2024
+
+----
+
+Summary: 
+
+----
+
+Text: 
+
+----
+
+Cover: 
+
+----
+
+Date: 2024-02-03 12:40:00
+
+----
+
+Weather: Overcast 27.5. Low 27.8, High 43.2
+
+----
+
+Weather-icon: 113
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: in7b1d3neQDCU0q7
