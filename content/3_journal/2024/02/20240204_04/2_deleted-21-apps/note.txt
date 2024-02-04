@@ -4,7 +4,7 @@ Title: Deleted 21 apps
 
 Text:
 
-I uninstalled 21 apps off my Mac this morning. This started because I had launched NotePlan, Obsidian, The Archive, and Logseq within an hour of each other. They're all great, is why, but using all of them is unsustainable. I launch each one because "oh, this feature is great" or "I love this behavior" or "it looks nice and is so easy". I enjoy each of them, but using *all of them** means I end up with chaos and confusion. I remembered my 2024 goal to "Reduce & Simplify" so I got rid of the following: 
+I uninstalled 21 apps off my Mac this morning. This happened because I had launched NotePlan, Obsidian, The Archive, and Logseq within an hour of each other. They're all great. I launch each one because "oh, this feature is great" or "I love this behavior" or "it looks nice and is so easy". I enjoy each of them, but using *all of them** means I end up with chaos and confusion. I remembered my 2024 goal to "Reduce & Simplify" so I got rid of the following: 
 
 WezTerm.app, Mini vMac.app, Retrobatch.app, Photomator.app, Ivory.app, The Archive.app, Mullvad VPN.app, Prompt.app, Obsidian.app, FSNotes.app, Dropover.app, MarsEdit.app, BusyCal.app, NotePlan.app, Spark Mail.app, Due.app, Bear.app, Arq.app, Mimestream.app, iA Writer.app, CC Troubleshooter.app
 
