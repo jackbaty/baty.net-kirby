@@ -1,0 +1,33 @@
+Title: Sunday, February 4, 2024
+
+----
+
+Summary: 
+
+----
+
+Text: 
+
+----
+
+Cover: 
+
+----
+
+Date: 2024-02-04 11:40:00
+
+----
+
+Weather: Mist 26.2. Low 29.2, High 44.9
+
+----
+
+Weather-icon: 113
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: u3KwvuCkFAXyZZgy
