@@ -23,7 +23,10 @@ return function ($page) {
     if (empty($tag) === false) {
         $posts = collection('posts-and-notes')->filterBy('tags', $tag, ',');
     } else {
+    	$notes = collection('notes')->filterBy('showtitle', true);
     	$posts = collection('posts');
+    	$posts = $posts->add($notes);
+    	$posts = $posts->sortBy('date', 'desc');
     }
 
     return [

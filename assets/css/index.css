@@ -695,3 +695,22 @@ ul.compact-note-list li {
 .compact-note-list a {
     text-decoration: underline;
 }
+
+ul.archivelist li {
+   list-style-type: none;
+   margin-bottom: 15px;
+   line-height: 0.9em;
+   font-size: 0.8em;
+   color: var(--color-grey);
+}
+ul.archivelist img {
+	margin: 0 0;
+}
+ul.archivelist p {
+	margin-top: 5px;
+  color: var(--color-text);
+}
+ul.archivelist a {
+	font-size: 1rem;
+	color: var(--color-link);
+}

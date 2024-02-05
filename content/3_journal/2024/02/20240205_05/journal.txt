@@ -1,0 +1,33 @@
+Title: Monday, February 5, 2024
+
+----
+
+Summary: 
+
+----
+
+Text: Blog note: I'm now including titled notes in the list of posts on the [Archives page](/posts). Hopefully this prevents things from getting "lost" in the daily shuffle. And speaking of the archives page, I've condensed the layout considerable. I'm worried that it's harder to read now, but the density is way up at least.
+
+----
+
+Cover: 
+
+----
+
+Date: 2024-02-05 10:50:00
+
+----
+
+Weather: Clear 27.5. Low 30.2, High 42.6
+
+----
+
+Weather-icon: 113
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: exHyfN77vN9sHgYI
