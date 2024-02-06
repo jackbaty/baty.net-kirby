@@ -1,0 +1,37 @@
+Title: Library card generator
+
+----
+
+Text:
+
+This is fun: [Library Card Generator](https://www.blyberg.net/card-generator/)
+
+Create an analog-looking library card with any text you like.
+
+(image: remember-card.png)
+
+(via [Chris Aldrich](https://boffosocko.com/?p=55821315))
+
+----
+
+Showtitle: true
+
+----
+
+Date: 2024-02-06
+
+----
+
+Tags: 
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: Vk6YQ4rUVHxneEaf
