@@ -6,7 +6,11 @@ Summary:
 
 ----
 
-Text: Now that I have the blog working how I wanted, it's become too complicated. Be careful what you wish for.
+Text:
+
+Now that I have the blog working how I wanted, it's become too complicated. Be careful what you wish for.
+
+I'm keeping this little rant out of the RSS feed because it's embarrassing. I still have no clue what I want to do about notes. Emacs and Org-mode are the answer, and yet today I was tinkering with nb and still testing Logseq and came *this* close to re-installing Obsidian. Emacs is, effectively, a silo. I don't want to have to live there, but once you're in...you're in. Breaking out has been a haphazard nightmare of tooling and testing. I hate it. Just use Emacs and be (stay) done with it all. And yet.
 
 ----
 
