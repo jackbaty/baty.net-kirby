@@ -1,0 +1,33 @@
+Title: Wednesday, February 7, 2024
+
+----
+
+Summary: 
+
+----
+
+Text: Meta note: I've switched local Kirby development from Caddy->php-fpm to [Laravel Herd](https://herd.laravel.com/). It seems like a newly-endorsed method and it also gets me on-demand PHP versions and easy management of multiple sites. So far, so good.
+
+----
+
+Cover: 
+
+----
+
+Date: 2024-02-07 11:05:00
+
+----
+
+Weather: Clear 29.3. Low 31.0, High 48.1
+
+----
+
+Weather-icon: 116
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: axe02YacDpAiWsI6

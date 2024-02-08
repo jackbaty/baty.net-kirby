@@ -14,7 +14,7 @@ I'm editing this via the Kirby panel in my local installation and I was right, I
 
 Still wondering if I should make more, small, individual posts rather than bunching things up in these daily posts.
 
-I posted my (link: page://BCgSkDFUqzKytSfW text: App defaults) and submitted a pull request for inclusion on (link: https://defaults.rknight.me/ text: Robb Knight's list).
+I posted my [app defaults](/2023/11/app-defaults) and submitted a pull request for inclusion on (link: https://defaults.rknight.me/ text: Robb Knight's list).
 
 ----
 

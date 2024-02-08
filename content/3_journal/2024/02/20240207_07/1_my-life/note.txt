@@ -1,0 +1,29 @@
+Title: My life
+
+----
+
+Text: (image: niche-hobby.png)
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2024-02-07
+
+----
+
+Tags: 
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: 7nRJ7iggLnuui5wj
