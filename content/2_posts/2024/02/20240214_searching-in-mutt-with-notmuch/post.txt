@@ -2,7 +2,7 @@ Title: Searching in Mutt with Notmuch
 
 ----
 
-Summary: 
+Summary: <p>Notmuch can be used as a search engine from within Mutt and it's super fast.</p>
 
 ----
 
