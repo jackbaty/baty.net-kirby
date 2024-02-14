@@ -714,3 +714,10 @@ ul.archivelist a {
 	font-size: 1rem;
 	color: var(--color-link);
 }
+
+kbd > kbd {
+  border-radius: 3px;
+  padding: 1px 2px 0;
+  border: 1px solid var(--color-text);
+  background-color: var(--color-light);
+}

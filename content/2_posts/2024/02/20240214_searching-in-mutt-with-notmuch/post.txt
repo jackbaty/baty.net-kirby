@@ -8,6 +8,8 @@ Summary:
 
 Text:
 
+(image: mutt.png class: right)
+
 I'm on a [Mutt](https://mutt.org) kick again lately. One thing I've never loved about Mutt is that searching large archives can be slow. I'm used to the nearly instantaneous response when using [Notmuch](https://notmuchmail.org/) for search. To help with this, I've switched to using [NeoMutt](https://neomutt.org/), which has some nice built-in support for Notmuch.
 
 Here is the relevant portion of my .muttrc file.
@@ -37,7 +39,7 @@ virtual-mailboxes "Flagged" "notmuch://?query=tag:flagged"
 virtual-mailboxes "Today" "notmuch://?query=date:today"
 ```
 
-So far it works a treat. Searches are so fast in Notmuch! I like that I can limit the initial results to a specific time window (via `nm_query_window_timebase'). I use "month". Then, I can page through a month of results at a time using <kbd><</kbd> and <kbd>></kbd>
+So far it works a treat. Searches are so fast in Notmuch! I like that I can limit the initial results to a specific time window (via `nm_query_window_timebase`). I use "month". Then, I can page through a month of results at a time using <kbd><kbd><</kbd></kbd> and <kbd><kbd>></kbd></kbd>.
 
 ----
 
