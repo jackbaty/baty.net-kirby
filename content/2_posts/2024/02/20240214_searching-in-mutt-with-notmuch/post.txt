@@ -26,8 +26,7 @@ set nm_query_window_or_terms="tag:unread and tag:flagged"
 # read entire thread of the current message
 bind index,pager + entire-thread
 # generate virtual folder from query
-bind index,pager \eX vfolder-from-query
-macro index \cf "<vfolder-from-query>"
+bind index,pager \cf vfolder-from-query
 bind index < vfolder-window-backward
 bind index > vfolder-window-forward
 ```
