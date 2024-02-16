@@ -6,7 +6,11 @@ Summary:
 
 ----
 
-Text: 
+Text:
+
+(image: moma.jpg)
+
+I've been experiencing Capture One fatigue I think, so I [almost went back to Lightroom](/2024/02/a-brief-flashback-into-lightroom).
 
 ----
 
