@@ -1,0 +1,33 @@
+Title: Friday, February 16, 2024
+
+----
+
+Summary: 
+
+----
+
+Text: 
+
+----
+
+Cover: 
+
+----
+
+Date: 2024-02-16 10:30:00
+
+----
+
+Weather: Partly cloudy 25.5. Low 23.8, High 30.4
+
+----
+
+Weather-icon: 311
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: K5DJ21v35nGVL2D3
