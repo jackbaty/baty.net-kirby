@@ -23,7 +23,7 @@
 <?php snippet('intro') ?>
 
 <div class="text">
-<div class="autogrid" style="--gutter: 1.5rem;--columns: 2;">
+<div class="autogrid" style="grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));">
     <?= $page->text()->kt() ?>
 </div>
 </div>
