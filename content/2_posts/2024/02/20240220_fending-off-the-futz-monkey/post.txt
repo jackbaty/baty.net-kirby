@@ -10,7 +10,7 @@ Text:
 
 Mike Hall's daily notes resonate with me again with a [post (mostly) about futzing with stuff](https://mike.puddingtime.org/posts/2024-02-19-daily-notes/). It's like he's in my head when he writes about "keeping the futz monkey off my back."
 
-I'm in my version of a similar place. For example, yesterday I posted to three different websites. Each of them managed using different and unconventional software. There's [Tinderbox](https://eastgate.com/Tinderbox), [TiddlyWiki](https://tiddlywiki.com), and [Kirby CMS](https://getkirby.com/). They all depend on a pile of custom templates, scripts, and sloppily-documented setup. They work, but what if they don't? I'm not always in the mood for fixing things that break when I touch them wrong.
+I'm in my version of a similar place. For example, yesterday I posted to or updated four different websites. Each of them managed using different and unconventional software. There's [Tinderbox](https://eastgate.com/Tinderbox), [TiddlyWiki](https://tiddlywiki.com), and [Kirby CMS](https://getkirby.com/). Another is just static HTML/CSS. They all depend on a pile of custom templates, scripts, and sloppily-documented setup. They work, but what if they don't? I'm not always in the mood for fixing things that break when I touch them wrong.
 
 Those three sites are run on two different servers. One Ubuntu, one OpenBSD. I had this idea of moving all of my stuff to the OpenBSD instance, but I spent hours trying to get Kirby/PHP running under the built-in httpd server and failed. Caddy is so much simpler, and I'm familiar with it, so I'm *this* close to dumping the BSD box and pulling everything back to Ubuntu. 
 
