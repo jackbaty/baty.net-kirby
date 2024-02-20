@@ -24,7 +24,7 @@ It's not Emacs' fault. I could move everything to Obsidian and then I'd just fut
 
 Ideally, I'd use tools with the lowest possible futz factor, but the futz monkey is a sneaky bastard, so the best I can hope for is something with just the right amount.
 
-Right now I don't have the energy for maintaining multiple blogs. I don't have the energy to figure out why <kbd><kbd>CTRL</kbd>-<kbd>e</kbd> doesn't do what it's supposed to in Emacs. I don't feel like running servers with different operating systems and web servers. I don't feel like futzing.
+Right now I don't have the energy for maintaining multiple blogs. I don't have the energy to figure out why <kbd><kbd>CTRL</kbd>-<kbd>e</kbd></kbd> doesn't do what it's supposed to in Emacs. I don't feel like running servers with different operating systems and web servers. I don't feel like futzing.
 
 So you'll probably see me writing on this blog at baty.net and putting notes about stuff into [the wiki](https://wiki.baty.net). I'll probably move the sites I've put on OpenBSD back to the Ubuntu server. I may even fire up Obsidian again. That may sound a lot like futzing, but I've convinced myself that it's the best way to *avoid* futzing. Take that, you stupid monkey!
 
