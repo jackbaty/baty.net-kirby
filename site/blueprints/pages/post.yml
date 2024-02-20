@@ -44,8 +44,8 @@ columns:
           - ul
           - ol
           - '|'
-          - link
-          - file
+          link: markdown
+          file: markdown
         size: large
 
 

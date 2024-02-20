@@ -1,0 +1,33 @@
+Title: Tuesday, February 20, 2024
+
+----
+
+Summary: 
+
+----
+
+Text: I'm in a mood. Stay tuned.
+
+----
+
+Cover: 
+
+----
+
+Date: 2024-02-20 11:15:00
+
+----
+
+Weather: Clear 23.5. Low 30.0, High 46.3
+
+----
+
+Weather-icon: 113
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: 5mNogRneu4pxdJnv

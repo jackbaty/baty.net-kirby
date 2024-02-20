@@ -1,0 +1,49 @@
+Title: Fending off the Futz Monkey
+
+----
+
+Summary: <p>When is trying to avoid futzing actually just more futzing?</p>
+
+----
+
+Text:
+
+Mike Hall gets in my head again with a [post about futzing with stuff](https://mike.puddingtime.org/posts/2024-02-19-daily-notes/). It's like he's in my head when he writes about "keeping the futz monkey off my back."
+
+I'm in my version of a similar place. For example, yesterday I posted to three different websites. Each of them managed using different and unconventional software. There's [Tinderbox](https://eastgate.com/Tinderbox), [TiddlyWiki](https://tiddlywiki.com), and [Kirby CMS](https://getkirby.com/). They all depend on a pile of custom templates, scripts, and sloppily-documented setup. They work, but what if they don't? I'm not always in the mood for futzing with them.
+
+Those three sites are run on two different servers. One Ubuntu, one OpenBSD. I had this idea of moving all of my stuff to the OpenBSD instance, but I spent hours trying to get Kirby/PHP running under the built-in httpd server and failed. Caddy is so much simpler, and I'm familiar with it, so I'm *this* close to dumping the BSD box and pulling everything back to Ubuntu. 
+
+Always choosing the clever option makes for so much extra work. Too much.
+
+Speaking of clever, Emacs and Org-mode are clever. Maybe too clever for my own good. I probably spend three or four hours a week futzing with my Emacs setup. It's fun, though, right? Yes, it's fun, but it's also unnecessary. I mean, it's notes, right? I could use *anything* for that, but I've chosen the clever option again.
+
+The draw of Emacs is that I have convinced myself that since I can do nearly everything in Emacs, the time spent making it look and act just the way I like it is worth the effort. Maybe it is, but it's still a lot of time spent.
+
+It's not Emacs' fault. I could move everything to Obsidian and then I'd just futz with that instead. Probably. But maybe not. I don't know. Sometimes I switch tools because I've convinced myself that I'm actually simplifying things. This is a convenient lie. On the other hand, the Futz Factor of even something as tweakable as Obsidian is lower than that of Emacs, so I try it every few months. It doesn't last, even though Obsidian is probably the correct answer. Or it would be if I actually enjoyed using it.
+
+Ideally, I'd use tools with the lowest possible futz factor, but the futz monkey is a sneaky bastard, so the best I can hope for is something with just the right amount.
+
+Right now I don't have the energy for maintaining multiple blogs. I don't have the energy to figure out why <kbd><kbd>CTRL</kbd>-<kbd>e</kbd> doesn't do what it's supposed to in Emacs. I don't feel like running servers with different operating systems and web servers. I don't feel like futzing.
+
+So you'll probably see me writing on this blog at baty.net and putting notes about stuff into [the wiki](https://wiki.baty.net). I'll probably move the sites I've put on OpenBSD back to the Ubuntu server. I may even fire up Obsidian again. That may sound a lot like futzing, but I've convinced myself that it's the best way to *avoid* futzing. Take that, you stupid monkey!
+
+----
+
+Cover: 
+
+----
+
+Date: 2024-02-20 11:20:00
+
+----
+
+Author: 
+
+----
+
+Tags: Workflow, Productivity, Emacs
+
+----
+
+Uuid: L6z5IuBuckcRPwqb
