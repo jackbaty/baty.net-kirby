@@ -1,0 +1,33 @@
+Title: Wednesday, February 21, 2024
+
+----
+
+Summary: 
+
+----
+
+Text: I kind of want to use handwritten notes for everything, but computers exist.
+
+----
+
+Cover: 
+
+----
+
+Date: 2024-02-21 11:05:00
+
+----
+
+Weather: Clear 39.0. Low 34.5, High 56.4
+
+----
+
+Weather-icon: 116
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: tFrZXy1ACxWrbJCM
