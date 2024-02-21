@@ -6,7 +6,11 @@ Summary:
 
 ----
 
-Text: I would like to use handwritten notes for everything, but computers exist.
+Text:
+
+(image: 20240221-r0003186-2048-web.jpg)
+
+I would like to use handwritten notes for everything, but computers exist.
 
 ----
 
