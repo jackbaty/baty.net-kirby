@@ -1,0 +1,29 @@
+Title: Using Denote wrong?
+
+----
+
+Text: I feel like I've been using [Denote](https://protesilaos.com/emacs/denote) wrong. Denote has a very specific and enforced file naming format. What this should mean is that I can easily find and open my notes based on this format. I don't do that, though. I use `consult-notes` and search by title. I hardly ever even see the filename. Now, I can also use the finder or whatever to browse my notes, but I rarely do that. Is this weird?
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2024-02-21
+
+----
+
+Tags: Emacs
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: sVGYEFWncxMqUBxS

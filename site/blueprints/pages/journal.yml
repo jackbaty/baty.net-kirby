@@ -48,8 +48,8 @@ columns:
               - ul
               - ol
               - '|'
-              - link
-              - file
+              link: markdown
+              file: markdown
             size: small
       daily-notes:
         type: pages

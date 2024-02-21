@@ -6,7 +6,7 @@ Summary:
 
 ----
 
-Text: I kind of want to use handwritten notes for everything, but computers exist.
+Text: I would like to use handwritten notes for everything, but computers exist.
 
 ----
 
