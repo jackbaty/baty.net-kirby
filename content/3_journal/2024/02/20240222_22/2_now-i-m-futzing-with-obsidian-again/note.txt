@@ -4,7 +4,7 @@ Title: Now I'm futzing with Obsidian (again)
 
 Text:
 
-Remember how [I suggested](/@/page/L6z5IuBuckcRPwqb) that Obsidian was less futz-able than Emacs? So, yeah, I spent about 5 hours yesterday futzing with Obsidian. I guess I'm feeling tool-sick[^sick] in Emacs and need a break. But I'm not kidding myself that somehow switching to Obsidian would be "simplifying" anything.
+Remember how [I suggested](/2024/02/fending-off-the-futz-monkey) that Obsidian was less futz-able than Emacs? So, yeah, I spent about 5 hours yesterday futzing with Obsidian. I guess I'm feeling tool-sick[^sick] in Emacs and need a break. But I'm not kidding myself that somehow switching to Obsidian would be "simplifying" anything.
 
 [^sick]: Thanks to Mike Hall for the phrase "tool-sick"
 
