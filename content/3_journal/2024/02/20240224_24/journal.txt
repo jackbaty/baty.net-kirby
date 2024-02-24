@@ -1,0 +1,33 @@
+Title: Saturday, February 24, 2024
+
+----
+
+Summary: 
+
+----
+
+Text: I wonder what I'd do if I didn't sit in front of a computer all day.
+
+----
+
+Cover: 
+
+----
+
+Date: 2024-02-24 10:00:00
+
+----
+
+Weather: Clear 17.1 | Low 21.8, High 32.8
+
+----
+
+Weather-icon: 113
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: LPIXRU6Y66SAyWnU
