@@ -10,22 +10,22 @@ Text:
 
 **Everything!**
 If you're a glutton for punishment, this is for you. It aggregates the RSS feeds from all of my various blogs including Baty.net, Baty.blog, Daily.baty.net, and wiki.baty.net
+
 https://baty.net/everything.rss
 
+---
+
 **Baty.net only**
-All posts from [baty.net](https://baty.net)
 https://baty.net/feed
 
 **Baty.blog only**
-All posts from my other blog at [baty.blog](https://baty.blog)
 https://baty.blog/feed.rss
 
+
 **Daily.baty.net only**
-Daily posts from [daily.baty.net](https://daily.baty.net)
 https://daily.baty.net/allposts.xml
 
 **Wiki.baty.net only**
-Wiki entries. (low volume)
 https://wiki.baty.net/rss.xml
 
 ----
