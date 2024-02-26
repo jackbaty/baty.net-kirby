@@ -1,0 +1,29 @@
+Title: Platform changes
+
+----
+
+Text: Once a blog gets to the point where the only thing remaining is for me to write stuff, it's time for a new platform.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2024-02-26
+
+----
+
+Tags: Blogging
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: Vk8H6u6CPMmBnHRL
