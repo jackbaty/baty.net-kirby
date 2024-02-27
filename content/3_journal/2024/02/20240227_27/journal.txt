@@ -1,0 +1,33 @@
+Title: Tuesday, February 27, 2024
+
+----
+
+Summary: 
+
+----
+
+Text: 
+
+----
+
+Cover: 
+
+----
+
+Date: 2024-02-27 11:50:00
+
+----
+
+Weather: Partly cloudy 52.7 | Low 50.2, High 68.5
+
+----
+
+Weather-icon: 302
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: kHWT0HHwUNV3OYcc
