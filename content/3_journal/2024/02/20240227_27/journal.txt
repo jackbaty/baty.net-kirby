@@ -6,7 +6,7 @@ Summary:
 
 ----
 
-Text: 
+Text: Some [feelings about baty.net](https://baty.net/2024/02/feelings-about-baty-net) today.
 
 ----
 
