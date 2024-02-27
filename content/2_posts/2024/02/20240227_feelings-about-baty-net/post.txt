@@ -8,7 +8,7 @@ Summary: <p>I want to use baty.net for something other than just my blog.</p>
 
 Text:
 
-I'm having those feelings again where I don't want baty.net to be my blog. I want it to be my "website"... a combination landing page and hub. I want it to be completely static. So basically I want to have a permanent place where I can dump anything and not worry about how it fits into whatever CMS I'm using. I'm kind of doing this with [jackbaty.com](https://jackbaty.com) already, but I prefer the short baty.net domain.
+I'm having those feelings again where I don't want baty.net to be my blog. I want it to be my "website"... a combination landing page and hub. I want it to be completely static. So basically I want to have a permanent place where I can dump anything and not worry about how it fits into whatever CMS I'm using this week. I'm kind of doing this with [jackbaty.com](https://jackbaty.com) already, but I prefer the short baty.net domain.
 
 Except I don't know what to do about all the broken links. I've already broken too many links lately. In the past I've used some server magic to guess the URL in a custom 404 document, but I'd like less magic if possible.
 
