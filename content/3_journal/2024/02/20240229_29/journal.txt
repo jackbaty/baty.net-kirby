@@ -1,0 +1,33 @@
+Title: Thursday, February 29, 2024
+
+----
+
+Summary: 
+
+----
+
+Text: 
+
+----
+
+Cover: 
+
+----
+
+Date: 2024-02-29 10:55:00
+
+----
+
+Weather: Overcast 21.0 | Low 21.1, High 33.7
+
+----
+
+Weather-icon: 113
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: 9eUOM7WFGySDFFtc
