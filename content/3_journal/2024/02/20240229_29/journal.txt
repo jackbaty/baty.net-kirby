@@ -6,7 +6,7 @@ Summary:
 
 ----
 
-Text: 
+Text: Here's something. Since where I'm writing this now on a Journal post does not get sent to RSS, maybe I'll put links to all my other posts here. That way people who don't use RSS can visit this site and find links to all my other posts on various blogs that I [can't seem to give up](https://daily.baty.net/posts/2024/02/29/Blogging-experiences.html). It's a thought.
 
 ----
 
