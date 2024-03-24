@@ -305,12 +305,16 @@ h1, h2, h3, h4, h5, h6 {
   color: inherit;
 }
 .text hr {
-  margin: 2rem 0;
+  width: 50%;
+  opacity: .1;
+  border: none;
+  border-bottom: 2px dotted #232323;
+  padding-bottom: 0;
+  text-align: center;
+  margin: 2rem auto;
   border: 0;
   background: currentColor;
   height: 1px;
-  width: 1.5rem;
-  color: var(--color-text-grey);
 }
 .text dt {
   font-weight: 600;
@@ -726,3 +730,34 @@ kbd > kbd {
     font-size: 0.8em;
 }
 
+
+tbody tr:nth-child(odd) {
+  background:var(--color-light);
+}
+
+table {
+  width: 90%;
+  margin: 10px auto;
+  border-collapse: collapse;
+  border: 1px solid var(--color-light);
+  border-bottom: 2px solid var(--color-light);
+  box-shadow: 0px 0px 20px rgba(0,0,0,0.10),
+     0px 10px 20px rgba(0,0,0,0.05),
+     0px 20px 20px rgba(0,0,0,0.05),
+     0px 30px 20px rgba(0,0,0,0.05);
+  th, td {
+    color: var(--color-text);
+    border: 1px solid var(--color-light);
+    padding: 2px 5px;
+    border-collapse: collapse;
+  }
+  th {
+    background: var(--color-grey);
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 12px;
+    &.last {
+      border-right: none;
+    }
+  }
+}
