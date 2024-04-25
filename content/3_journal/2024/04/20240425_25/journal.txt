@@ -6,7 +6,11 @@ Summary:
 
 ----
 
-Text: Some days I like writing in Tinderbox. Some in Emacs. Some in a textarea on a Kirby-managed website. Today, I'm starting with the latter. If I was "finished" with my Kirby setup, I might spend more time here. However, there are things that I want to change but I don't have the energy to figure out how. Maybe I don't want it badly enough, but I'm living with it for now. Or writing other places instead.
+Text:
+
+(image: 2024-roll-142_08.jpg)
+
+Some days I like writing in Tinderbox. Some in Emacs. Some in a textarea on a Kirby-managed website. Today, I'm starting with the latter. If I was "finished" with my Kirby setup, I might spend more time here. However, there are things that I want to change but I don't have the energy to figure out how. Maybe I don't want it badly enough, but I'm living with it for now. Or writing other places instead.
 
 ----
 
