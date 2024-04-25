@@ -2,7 +2,7 @@ Title: Kirby changes
 
 ----
 
-Summary: <p>Moving to local-first publishing</p>
+Summary: <p>Moving to local-first publishing for my Kirby CMS</p>
 
 ----
 
