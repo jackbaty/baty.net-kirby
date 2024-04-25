@@ -1,0 +1,39 @@
+Title: Kirby changes
+
+----
+
+Summary: <p>Moving to local-first publishing</p>
+
+----
+
+Text:
+
+A few months back I decided to use the Kirby CMS control panel right on the server. That way, I can edit a post, click Save, and it's out there. Also, managing the differences between local files and server files was getting confusing. For example, I had to be careful not to step on the redirect plugin's data, which meant adding exceptions to git and my Makefile. I became frustrated so gave up and went server-only.
+
+I've changed my mind again.
+
+I don't like having the canonical version of my site's files "out there" on the server. Kirby doesn't use a database, so backups are simple, but I still would rather have everything "here" and then push the finished product to the server for, well, serving.
+
+So I made the decision to rebuild my local copy, install PHP and Herd on the new Mac Mini, and go back to simply rsync-ing stuff from here to there. In the process, I removed the redirect plugin and put the redirects in the Caddyfile instead. I don't get fancy 404 logs in the panel this way, but I do get them via GoAccess directly on the server, so I'm ok with that trade-off.
+
+I'm writing this in a local instance of Kirby's panel, so if you're reading this, it worked.
+
+----
+
+Cover: 
+
+----
+
+Date: 2024-04-25 12:45:00
+
+----
+
+Author: 
+
+----
+
+Tags: meta, Kirby
+
+----
+
+Uuid: PnBfAXiS8tpV4PmV
