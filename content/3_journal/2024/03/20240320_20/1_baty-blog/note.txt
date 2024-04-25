@@ -1,0 +1,29 @@
+Title: Baty.blog
+
+----
+
+Text: In case it's gone unnoticed, I've been posting over at [baty.blog](https://baty.blog) for a few days. Sometimes I get on an Emacs/Static/Plaintext kick so this is what happens.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2024-03-20
+
+----
+
+Tags: 
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: ZbUGR8qWJec20w7l

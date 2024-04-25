@@ -1,0 +1,29 @@
+Title: RSS feed changes
+
+----
+
+Text: I've mucked around with the RSS feed so that it validates again. I don't know how long it hasn't been validating. Seems like forever, since I'm using the kirby3-feed plugin and haven't changed it. I opened it today so I could add the Reply by Email link into feed items, which is when I noticed it wasn't validating due to a non-full URL in the item->link element. I had to hardcode "https://baty.net" into the link, which is a total hack, but at least it validates.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2024-03-14
+
+----
+
+Tags: RSS
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: aTWnm3oixOotzacs

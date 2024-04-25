@@ -1,0 +1,33 @@
+Title: Sunday, March 17, 2024
+
+----
+
+Summary: 
+
+----
+
+Text: I should just make baty.net into a redirect to whichever blog I'm active on at the moment.
+
+----
+
+Cover: 
+
+----
+
+Date: 2024-03-17 20:15:00
+
+----
+
+Weather: Light snow showers 35.2 | Low 27.5, High 35.0
+
+----
+
+Weather-icon: 371
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: 1LKs8Af4bQpn935j

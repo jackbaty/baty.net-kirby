@@ -1,0 +1,35 @@
+Title: I keep posting over on baty.blog
+
+----
+
+Text:
+
+I can't seem to stop posting to my blot.im blog over on [baty.blog](https://baty.blog). This is probably because I'm usually *already* in Emacs so a quick `M-x jab/blot-new-post` means I'm off and running.
+
+Why it's so much different than visiting the Kirby panel in my browser and pushing the "+" button is a mystery. Both methods are easy. Both render to nice-looking, simple websites. Both have dependencies (Blot.im vs Kirby CMS). Honestly, I think it might be the content format in Kirby that nags me.
+
+Anyway, sorry for continuing to spread myself so thin. There's always [/everything.rss](https://baty.net/everything.rss).
+
+----
+
+Showtitle: true
+
+----
+
+Date: 2024-03-09
+
+----
+
+Tags: Blogging, Blot.im
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: Szv3FCdjdd3cvAUE

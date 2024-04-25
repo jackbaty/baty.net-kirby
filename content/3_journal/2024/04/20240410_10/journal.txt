@@ -1,0 +1,37 @@
+Title: Wednesday, April 10, 2024
+
+----
+
+Summary: 
+
+----
+
+Text:
+
+Upgraded Kirby to [4.2.0](https://github.com/getkirby/kirby/releases/tag/4.2.0). It's telling that when I saw an update to Kirby I thought, "Well crap, I don't feel like upgrading." Even though upgrading is pretty simple, I worry that something will break and I'll be spending my day dealing with it. So far, upgrades have been flawless, so I should relax.
+
+But I'm having one of those days.
+
+----
+
+Cover: 
+
+----
+
+Date: 2024-04-10 10:05:00
+
+----
+
+Weather: Clear 40.8 | Low 41.2, High 64.5
+
+----
+
+Weather-icon: 113
+
+----
+
+Tags: 
+
+----
+
+Uuid: MMh0SExuOc9BkI3Q

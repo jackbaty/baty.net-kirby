@@ -1,0 +1,43 @@
+Title: Tuesday, March 5, 2024
+
+----
+
+Summary: 
+
+----
+
+Text:
+
+Alluvasudden CTRL-e stopped moving the point to end of line in Emacs (Evil mode) and I really hate when stuff like this happens.
+
+Speaking of breakage, Python never works on my machine. Every single time I upgrade Python half of my scripts break. How do I nuke & pave Python?
+
+I hate the word "sublime"
+
+I'm trying hard not to be a downer today but I feel like a downer today. Maybe ignore me until tomorrow? I feel so buried in tech that it's hard to breath.
+
+It's been nice only posting to one place for a couple days. Takes the pressure off. I wish I didn't get bored, though.
+
+----
+
+Cover: 
+
+----
+
+Date: 2024-03-05 10:25:00
+
+----
+
+Weather: Light rain 55.0 | Low 43.2, High 50.6
+
+----
+
+Weather-icon: 308
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: VA5mqZyIjF55fgXj

@@ -1,0 +1,29 @@
+Title: Tinkering with Dave
+
+----
+
+Text: I've been happy following along with [Dave Rogers' recent dip](https://nice-marmot.net/Archives/2024/March_2024.html#note_1878) into Daybook/Daylog/Interstitial Journal -ing using [Tinderbox](https://eastgate.com/Tinderbox). I've kept a Daybook in Tinderbox (with a few Org-mode diversions) since 2008. One thing I've watched, but avoided, is how hard he's working to automate the process. Tinkering like that is fun, so I totally get it, but have been trying to do the opposite lately. I've been gutting any complicated workflows and avoiding the urge to "just tweak this one thing." I've failed at times, but at some point I've gotta just *use* the thing, right?
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2024-03-09
+
+----
+
+Tags: 
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: MSklRVQIgBC5cjWJ

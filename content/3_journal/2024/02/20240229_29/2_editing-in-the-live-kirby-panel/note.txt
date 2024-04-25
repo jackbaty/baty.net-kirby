@@ -1,0 +1,29 @@
+Title: Editing in the live Kirby panel
+
+----
+
+Text: I can't seem to find a comfortable workflow with Kirby. There's a really nice control panel, so editing on the server is how it *should* work. Except then I have to deal with updates to templates and blueprints etc. I've stepped on things before while trying to manage content on the server along with a dev environment locally, so I punted and started doing everything locally then pushing things live (via rsync) when ready. This is fine, but it adds a bit of friction that Kirby should be letting me avoid. So, I'm writing this in the production panel and will have to figure something out next time I have site/code updates to deploy.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2024-02-29
+
+----
+
+Tags: Kirby
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: yp7CrasMNXxPi3xh

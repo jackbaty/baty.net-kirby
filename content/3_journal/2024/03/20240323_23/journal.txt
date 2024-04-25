@@ -1,0 +1,33 @@
+Title: Saturday, March 23, 2024
+
+----
+
+Summary: 
+
+----
+
+Text: I'm finding that there's too much to think about when using Kirby. Should I edit content locally or on server? How should I handle upgrades? Routes? Kirbytext or Markdown? PHP? It's too much.
+
+----
+
+Cover: 
+
+----
+
+Date: 2024-03-23 10:00:00
+
+----
+
+Weather: Overcast 28.4 | Low 15.9, High 33.9
+
+----
+
+Weather-icon: 143
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: TOqEf8wYfOkwFRUu

@@ -1,0 +1,35 @@
+Title: Please stand by
+
+----
+
+Text:
+
+<div style="text-align:center;font-size: 1.5rem;">
+
+See (link:https://scribbles.baty.net text: scribbles.baty.net) for now.
+  
+</div>
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2024-03-26
+
+----
+
+Tags: Meta
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: XrjPqlGkd5rbLwd6

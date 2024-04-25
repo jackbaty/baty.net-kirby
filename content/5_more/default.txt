@@ -1,0 +1,18 @@
+Title: More
+
+----
+
+Subheadline: A few things I've left lying about
+
+----
+
+Text:
+
+- (link: page://zxyu49j46fglrkOS text: Subscriptions) - Things I pay for
+- (link: /photography text: Photography) (unfinished)
+- (link: /uses text: Things I use) - My life stack.
+- (link: /leica text: Leica) - My Leica camera timeline
+
+----
+
+Uuid: 7no1oEYUm2YOO06d

@@ -1,0 +1,29 @@
+Title: New music?
+
+----
+
+Text: I don't really pay attention to upcoming music releases. What usually happens is that I say, "Holy shit, Saxon has a new album out??!"
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2024-03-06
+
+----
+
+Tags: Music
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: vc7NYEvKEUKbtree

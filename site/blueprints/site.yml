@@ -10,7 +10,16 @@ columns:
   # It reuses the pages section defined in `/site/blueprints/sections/albums.yml`
   - width: 1/2
     sections:
-      albums: sections/albums
+      pages:
+        type: pages
+        create:
+          - default
+          - default.blocks
+        templates:
+          - about
+          - home
+          - default
+          - default.blocks
       header:
         label: Header Images
         type: files
@@ -31,13 +40,3 @@ columns:
       journals: sections/journals
       posts: sections/posts
 
-      pages:
-        type: pages
-        create:
-          - default
-          - default.blocks
-        templates:
-          - about
-          - home
-          - default
-          - default.blocks

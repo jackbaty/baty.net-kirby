@@ -1,0 +1,29 @@
+Title: Lonely blog
+
+----
+
+Text: You know, for having decided at one point that baty.net was to be my One True Blog™ I sure have been *not* doing that. Today feels like a good day to exercise all of my blogs, if only to blow the dust out. Remember, [everything.rss](https://baty.net/everything.rss) is an RSS feed which combines all my blogs into one feed. If you're so inclined.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2024-04-08
+
+----
+
+Tags: Blogging, Meta
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: D5pZigrgUKaDyu6x

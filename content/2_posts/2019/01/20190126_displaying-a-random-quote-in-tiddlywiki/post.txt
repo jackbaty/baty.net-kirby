@@ -32,3 +32,6 @@ That’s it! Now the Random Quote tiddler will display a single, (relatively) ra
 
 Tags: TiddlyWiki
 
+----
+
+Uuid: oPDCgoZmzzzQyjuX

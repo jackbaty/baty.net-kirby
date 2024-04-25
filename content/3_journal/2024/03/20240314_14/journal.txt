@@ -1,0 +1,39 @@
+Title: Thursday, March 14, 2024
+
+----
+
+Summary: 
+
+----
+
+Text:
+
+I'm impossible. I've been posting daily notes over on [daily.baty.net](https://daily.baty.net) for a couple of days, after swearing that I was going to focus my attention here. Sometimes I convince myself that this is just me playing with stuff, but I can't describe how frustrating I get with this whole enterprise. Why can't I just have a blog like everyone else?
+
+I've added the "Reply by Email" link to individual RSS feed items. (h/t [Dave Rogers](https://nice-marmot.net/Archives/2024/March_2024.html#note_1911))
+
+Joy, now the baty.net/feed doesn't validate and the changes I've made to the template don't show up. Caching? Who knows. I don't feel like looking into it right now.
+
+----
+
+Cover: 
+
+----
+
+Date: 2024-03-14 11:25:00
+
+----
+
+Weather: Overcast 48.9 | Low 40.7, High 48.4
+
+----
+
+Weather-icon: 308
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: NOfvDtrOPEECr7T6

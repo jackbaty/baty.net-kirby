@@ -1,0 +1,35 @@
+Title: What if I stopped worrying about [THING]?
+
+----
+
+Summary: 
+
+----
+
+Text:
+
+- Renaming photos on import
+- The app goes away
+- How will I find it later?
+- Whether my notes are in the right app or format?
+- Consistent file names
+
+----
+
+Cover: 
+
+----
+
+Date: 2024-03-09 21:10:00
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Uuid: PieNos0MiNpTszIx

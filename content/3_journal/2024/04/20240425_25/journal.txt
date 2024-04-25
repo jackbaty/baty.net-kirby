@@ -1,0 +1,33 @@
+Title: Thursday, April 25, 2024
+
+----
+
+Summary: 
+
+----
+
+Text: Some days I like writing in Tinderbox. Some in Emacs. Some in a textarea on a Kirby-managed website. Today, I'm starting with the latter. If I was "finished" with my Kirby setup, I might spend more time here. However, there are things that I want to change but I don't have the energy to figure out how. Maybe I don't want it badly enough, but I'm living with it for now. Or writing other places instead.
+
+----
+
+Cover: 
+
+----
+
+Date: 2024-04-25 09:35:00
+
+----
+
+Weather: Clear 28.4 | Low 28.4, High 54.3
+
+----
+
+Weather-icon: 113
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: 955WH8iF88KqryqJ

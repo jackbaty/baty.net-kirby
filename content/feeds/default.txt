@@ -25,8 +25,11 @@ https://baty.blog/feed.rss
 **Daily.baty.net only**
 https://daily.baty.net/allposts.xml
 
-**Wiki.baty.net only**
-https://wiki.baty.net/rss.xml
+**Scribbles.baty.net only** 🆕
+https://scribbles.baty.net/feed.atom
+
+**~~Wiki.baty.net only~~**
+(no longer maintained)
 
 ----
 

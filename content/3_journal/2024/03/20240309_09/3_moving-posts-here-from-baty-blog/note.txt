@@ -1,0 +1,29 @@
+Title: Moving posts here from baty.blog
+
+----
+
+Text: I've posted a few times over on [baty.blog](https://baty.blog) because...I guess I get bored. I'm now moving some of those posts over here to baty.net. I need to stick with my Reduce & Simplify plan and that means I should only have one blog. If I do that, it has to be here at [baty.net](https://baty.net) and that means it has to be Kirby. At least that's what the plan was, so I'm going back to the plan, even though it makes me twitchy. Sorry for the duplicate RSS items.
+
+----
+
+Showtitle: true
+
+----
+
+Date: 2024-03-09
+
+----
+
+Tags: Blogging
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: XCpTBvd6xzs7iwis

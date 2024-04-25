@@ -24,7 +24,10 @@ echo '<?xml version="1.0" encoding="utf-8"?>';
     </a>
   </figure>
 <?php endif ?>
-  <?= $item->{$textfield}()->kt() ?>]]></description>
+  <?= $item->{$textfield}()->kt() ?>
+  
+  <?= snippet('reply-by-email', ['page' => $item]) ?>
+  ]]></description>
       <?php elseif ($item->template() == 'post'): ?>
       <description><![CDATA[
   <?php  if($cover = $item->assignedCover()): ?>
@@ -36,6 +39,8 @@ echo '<?xml version="1.0" encoding="utf-8"?>';
 <?php endif ?>
   <?= $item->{$textfield}()->kt() ?>
 
+
+<?= snippet('reply-by-email', ['page' => $item]) ?>
 ]]></description>
       <?php endif ?>
     </item>

@@ -1,0 +1,29 @@
+Title: Easter egg on O'Reily Auto Parts website
+
+----
+
+Text: This is fun. Go to https://www.oreillyauto.com/ and search for 121G. I love when someone at a company takes the time to do stuff like this.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2024-03-01
+
+----
+
+Tags: 
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: G9IdtESMYuyNCezA

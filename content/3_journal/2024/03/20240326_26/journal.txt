@@ -1,0 +1,33 @@
+Title: Tuesday, March 26, 2024
+
+----
+
+Summary: <p>I'm elsewhere for a bit.</p>
+
+----
+
+Text: 
+
+----
+
+Cover: - file://LwAGSuNsjMNiyhKC
+
+----
+
+Date: 2024-03-26 15:50:00
+
+----
+
+Weather: Light rain 51.1 | Low 40.9, High 56.6
+
+----
+
+Weather-icon: 302
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: xeMHYKTkvnUs5gGf

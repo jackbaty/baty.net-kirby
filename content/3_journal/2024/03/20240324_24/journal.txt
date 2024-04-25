@@ -1,0 +1,37 @@
+Title: Sunday, March 24, 2024
+
+----
+
+Summary: <p>Please stand by</p>
+
+----
+
+Text:
+
+(image: 20240320-please-stand-by.jpg)
+
+See [baty.blog](https://baty.blog) or [scribbles.baty.net](https://scribbles.baty.net) for now.
+
+----
+
+Cover: 
+
+----
+
+Date: 2024-03-24 10:00:00
+
+----
+
+Weather: Partly cloudy 21.9 | Low 20.6, High 40.2
+
+----
+
+Weather-icon: 116
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: 35GrVV3Sh35opXHA

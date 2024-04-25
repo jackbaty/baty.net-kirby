@@ -37,11 +37,17 @@ Phone: (616) 822-5800
 Social:
 
 - 
-  platform: Instagram
-  url: https://instagram.com/jackbatyphoto
-- 
   platform: Mastodon
   url: https://social.lol/@jbaty
+- 
+  platform: Scribbles (Blog)
+  url: https://scribbles.baty.net
+- 
+  platform: Flickr
+  url: https://flickr.com/photos/jbaty
+- 
+  platform: Glass
+  url: https://glass.photo/jbaty
 
 ----
 

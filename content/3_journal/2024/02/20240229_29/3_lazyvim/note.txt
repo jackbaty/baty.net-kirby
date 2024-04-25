@@ -1,0 +1,33 @@
+Title: LazyVim
+
+----
+
+Text:
+
+This looks like fun. I think I'll play with it today. ([LazyVim](https://www.lazyvim.org/))
+
+(image: 20240229-nvim.png)
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2024-02-29
+
+----
+
+Tags: Vim, Editor
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: 8CBzgqlLqvzUxmkD
