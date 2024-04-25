@@ -1,6 +1,6 @@
 SERVER_HOST=server01.baty.net
 SERVER_DIR=/home/jbaty/apps/baty.net-kirby/public_html
-PUBLIC_DIR=/Users/jbaty/sites/blog-kirby/
+PUBLIC_DIR=/Users/jbaty/Sync/sites/blog-kirby/
 TARGET=Server01
 
 
