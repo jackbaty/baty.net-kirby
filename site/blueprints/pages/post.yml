@@ -9,7 +9,7 @@ num: date
 icon: 📖
 
 create:
-  status: draft
+  status: listed
 
 # Custom descriptions for each page status depending on use case
 # More about page status: https://getkirby.com/docs/reference/panel/blueprints/page#statuses
