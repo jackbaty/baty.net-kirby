@@ -13,6 +13,10 @@ If you're a glutton for punishment, this is for you. It aggregates the RSS feeds
 
 https://baty.net/everything.rss
 
+I also cross-post to an automated Mastodon account:
+
+<a href="https://mastodon.social/@batybot" rel="me">@batybot</a>
+
 ---
 
 **Baty.net only**
