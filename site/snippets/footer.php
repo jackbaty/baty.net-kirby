@@ -22,6 +22,10 @@
     <?= svg('assets/icons/mastodon.svg') ?>
   </a>
   
+    <a rel="me" href="https://mastodon.social/@batybot" aria-label="Posts syndicated to Mastodon">
+    <?= svg('assets/icons/mastodon.svg') ?>
+  </a>
+  
   <a rel="me" href="https://flickr.com/photos/jbaty" aria-label="Flickr">
     <?= svg('assets/icons/flickr.svg') ?>
   </a>
