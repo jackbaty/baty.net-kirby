@@ -2,7 +2,7 @@ Title: Cross-posting from baty.net
 
 ----
 
-Text: I am of two minds about automated cross-posting from a blog to social media. I like it because it makes things easy and it lets people see stuff that they might miss otherwise (assuming the *want* to see it). On the other hand, for the folks who follow me on social media *and* via RSS, it's duplicate content. I'm thinking about adding a flag for these mini posts and hooking those into EchoFeed for cross-posting to Mastodon. Still noodling on it.
+Text: I am of two minds about automated cross-posting from a blog to social media. I like it because it makes things easy and it lets people see stuff that they might miss otherwise (assuming they *want* to see it). On the other hand, for the folks who follow me on social media *and* via RSS, it's duplicate content. I'm thinking about adding a flag for these mini posts and hooking those into EchoFeed for cross-posting to Mastodon. Still noodling on it.
 
 ----
 

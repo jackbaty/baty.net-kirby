@@ -15,7 +15,7 @@ return [
     ],
     'routes' => [
         [
-            'pattern' => 'feed',
+            'pattern' => '/feed',
             'method' => 'GET',
             'action'  => function () {
                 $options = [
@@ -31,6 +31,17 @@ return [
                 return $feed;
             }
         ],
+				 // Setup the rss feed
+		 [
+		 'pattern' => ['kev/feed'],
+		 'action' => function () {
+		 $title = "Baty.net";
+		 $description = "Latest posts from Jack Baty";
+		 $posts = kirby()->collection('posts-and-notes')->limit(20);
+		 return new Response(snippet('rss', compact('title', 'description', 'posts') , true),
+		 'application/rss+xml');
+		 }
+		 ],
         [
             'pattern' => '(:num)/(:num)/(:any)',
             'action'  => function($year, $month, $slug) {
