@@ -1,0 +1,29 @@
+Title: Cross-posting to Mastodon
+
+----
+
+Text: I'm testing something. Every post from here (as well as my other sites) are to be cross-posted to a new Mastodon account I set up just for this purpose. [@batybot](https://mastodon.social/@batybot). Cross-posting is handled via [EchoFeed](https://echofeed.app). If you're reading this on Mastodon, it worked.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2024-04-26
+
+----
+
+Tags: Blogging
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: gyMa8p2ZFLg6tV9S
