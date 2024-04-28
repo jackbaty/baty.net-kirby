@@ -1,0 +1,29 @@
+Title: Moods
+
+----
+
+Text: It's amazing how quickly and dramatically my mood changes. The past few days have been neck-deep in keyboard-driven, plain-text everything. Today, I'm typing this blog post in a web control panel and using Hey.com for email and OmniFocus for tasks. I call this my "pointy-clicky" mood. I want to just sit back, grab the mouse, and drive. I tire of every single interaction requiring both hands on the home row of the keyboard. I'm not that serious this morning, and when I just want to fiddle, I tend to favor shiny buttons and easy UI manipulation.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2024-04-28
+
+----
+
+Tags: Workflow
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: CbzGYgiitfFcsUDe
