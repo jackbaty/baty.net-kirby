@@ -24,7 +24,7 @@
     site and the title of the current page
   */
   ?>
-  <title><?= $site->title()->esc() ?> | <?= $page->title()->esc() ?></title>
+  <title><?= $page->title()->esc() ?> | <?= $site->title()->esc() ?></title>
 
   <?php
   /*
