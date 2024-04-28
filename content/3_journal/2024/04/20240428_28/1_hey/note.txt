@@ -1,0 +1,29 @@
+Title: Hey
+
+----
+
+Text: I impulse subscribed to [Hey.com](https://hey.com) again. There was no need for this. There are better things to do with $99. I was bored, read a couple of positive recent forum posts, and pressed the button. Now I have a new email system for a year for some reason.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2024-04-28
+
+----
+
+Tags: Software, Email
+
+----
+
+Cover: 
+
+----
+
+Smallimage: - file://2il8p1UVkJueTZlS
+
+----
+
+Uuid: zzxdycp64cleR6ZK
