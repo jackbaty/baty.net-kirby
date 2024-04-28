@@ -1,0 +1,35 @@
+Title: Moods II
+
+----
+
+Text:
+
+I started this morning in a pointy-clicky mood. So much so, that I "settled" on Obsidian for today's notes. It's now 1:00pm and I've reverted to "Emacs is better for my life" so I copied what I'd written today over from Obsidian to Emacs and that's a relief. I need to remember how it always goes:
+
+Step 1 (6:00am): "Oh, wow, Obsidian is so much easier. I should use it for everything"
+
+Step 2 (1:00pm): "I almost forgot that Emacs is so much *better* at nearly everything. Forget about Obsidian!"
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2024-04-28
+
+----
+
+Tags: Emacs, Obsidian
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: Hpz1B9aBeMAakK85
