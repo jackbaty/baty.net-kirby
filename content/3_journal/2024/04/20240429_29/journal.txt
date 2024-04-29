@@ -6,7 +6,11 @@ Summary:
 
 ----
 
-Text: (image: 2024-roll-140_11.jpg)
+Text:
+
+(image: 2024-roll-140_11.jpg)
+
+Is it really a "walled garden"? Maybe it's actually a "gated community".
 
 ----
 
