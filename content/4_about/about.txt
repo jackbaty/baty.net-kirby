@@ -14,9 +14,10 @@ I love photography, writing, and tinkering with software and web technologies.
 
 Some other pages you can find around here:
 
-- (link: page://wdqweScwulK1ZXVe text: Changelog) of changes to the site
 - (link: page://kmj2uOxGImDx1pr9 text: Things I Use)
-- (link: https://books.baty.net text: Books I've Read)
+- (link: https://jackbaty.com/books text: Books I've Read)
+- What I'm doing (link: https://baty.net/now text: now)
+- (link: page://wdqweScwulK1ZXVe text: Changelog) of changes to the site
 
 This site is built using [Kirby CMS](https://getkirby.com/). All content is 100% LLM-free.
 
