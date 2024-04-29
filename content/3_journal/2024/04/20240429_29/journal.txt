@@ -12,6 +12,10 @@ Text:
 
 Is it really a "walled garden"? Maybe it's actually a "gated community".
 
+---
+
+I'm not even going to talk about the past couple of days with Emacs and Obsidian duking it out. It's exhausting. fwiw, Emacs is still the winner, but I've wasted so much time.
+
 ----
 
 Cover: 
