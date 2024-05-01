@@ -1,0 +1,33 @@
+Title: Wednesday, May 1, 2024
+
+----
+
+Summary: 
+
+----
+
+Text: 
+
+----
+
+Cover: 
+
+----
+
+Date: 2024-05-01 09:55:00
+
+----
+
+Weather: Overcast 54.5 | Low 48.2, High 66.1
+
+----
+
+Weather-icon: 176
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: HOBus0qUT5768Lsf

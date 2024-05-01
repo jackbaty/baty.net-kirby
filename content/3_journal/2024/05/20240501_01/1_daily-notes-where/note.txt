@@ -1,0 +1,29 @@
+Title: Daily notes, where?
+
+----
+
+Text: I would love to consolidate my blogs here at baty.net, using Kirgy, but for my daily notes I prefer writing in Tinderbox over on [daily.baty.net](https://daily.baty.net). I can't pin down why it makes enough of a difference that I feel I need to maintain two blogs, but here we are.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2024-05-01
+
+----
+
+Tags: Tinderbox, Blogging
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: SMGx6BDA9CILZVi4
