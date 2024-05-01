@@ -2,7 +2,7 @@ Title: Daily notes, where?
 
 ----
 
-Text: I would love to consolidate my blogs here at baty.net, using Kirgy, but for my daily notes I prefer writing in Tinderbox over on [daily.baty.net](https://daily.baty.net). I can't pin down why it makes enough of a difference that I feel I need to maintain two blogs, but here we are.
+Text: I would love to consolidate my blogs here at baty.net, using Kirby, but for my daily notes I prefer writing in Tinderbox over on [daily.baty.net](https://daily.baty.net). I can't pin down why it makes enough of a difference that I feel I need to maintain two blogs, but here we are.
 
 ----
 
