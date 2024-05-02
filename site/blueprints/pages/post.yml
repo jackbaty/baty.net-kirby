@@ -63,6 +63,8 @@ columns:
           date:
             type: date
             time: true
+              notation: 12
+              default: now
             default: now
           author:
             type: users
