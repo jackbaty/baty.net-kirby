@@ -1,0 +1,29 @@
+Title: BBEdit shell worksheets
+
+----
+
+Text: Emacs wouldn't launch this morning (don't ask) and I needed to do something so I fell back to using BBEdit and now I've spent an hour tinkering with BBEdit's Shell Worksheets, which are similar to a lightweight Babel feature from Emacs.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2024-05-05
+
+----
+
+Tags: BBEdit
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: rwM4dSqi0hK38N1X
