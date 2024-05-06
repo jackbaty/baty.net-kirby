@@ -29,6 +29,7 @@ Here is a list of things I don't want to do, in no particular order. I'll update
 - ...connect on LinkedIn
 - ...share my contacts
 - ...see what's trending
+- ...install another app
 - ...send anonymous usage data
 
 ----
