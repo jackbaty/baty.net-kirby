@@ -1,0 +1,33 @@
+Title: Nope
+
+----
+
+Subheadline: A list of things I don't like or don't want or don't care about.
+
+----
+
+Text:
+
+Here is a list of things I don't want to do, in no particular order.
+
+**I don't want to:**
+
+- ...decide where to put things
+- ...charge the battery
+- ...pair with my phone
+- ...update the firmware
+- ...pay to remove ads
+- ...upgrade to Premium
+- ...subscribe to receive updates
+- ...agree to your terms and conditions
+- ...allow notifications
+- ...review my contact information
+- ...add a Passkey
+- ...ask ChatGPT
+- ...share my contacts
+- ...see what's trending
+- ...send anonymous usage data
+
+----
+
+Uuid: qtDWGHfXKixcNRWH

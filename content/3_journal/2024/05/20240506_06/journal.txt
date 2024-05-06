@@ -6,7 +6,11 @@ Summary:
 
 ----
 
-Text: (image: r0003377.jpg)
+Text:
+
+(image: r0003377.jpg)
+
+I'm mad at the trend of creating giant social media (open graph) images for blog posts that don't otherwise have images. They're basically ads.
 
 ----
 
