@@ -10,6 +10,8 @@ Text:
 
 Here is a list of things I don't want to do, in no particular order. I'll update it as needed.
 
+(image: extra-tongue.png class:right)
+
 **I don't want to:**
 
 - ...decide where to put things
