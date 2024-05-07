@@ -12,6 +12,8 @@ Text:
 
 I just added notes about the new [Casual Dired](https://github.com/kickingvegas/casual-dired) Emacs package to the wiki, Obsidian, and as a Howm note in Emacs. It's going to be one of those days, I guess.
 
+What I'd like is my Baty.net blog and Emacs for notes and THAT'S IT!
+
 ----
 
 Cover: 
