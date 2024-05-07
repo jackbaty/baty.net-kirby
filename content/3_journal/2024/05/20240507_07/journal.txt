@@ -6,7 +6,11 @@ Summary:
 
 ----
 
-Text: (image: 2024-roll-139_05.jpg)
+Text:
+
+(image: 2024-roll-139_05.jpg)
+
+I just added notes about the new [Casual Dired](https://github.com/kickingvegas/casual-dired) Emacs package to the wiki, Obsidian, and as a Howm note in Emacs. It's going to be one of those days, I guess.
 
 ----
 
