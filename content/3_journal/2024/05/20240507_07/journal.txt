@@ -1,0 +1,33 @@
+Title: Tuesday, May 7, 2024
+
+----
+
+Summary: 
+
+----
+
+Text: (image: 2024-roll-139_05.jpg)
+
+----
+
+Cover: 
+
+----
+
+Date: 2024-05-07 05:45:00
+
+----
+
+Weather: Partly cloudy 47.3 | Low 42.2, High 70.2
+
+----
+
+Weather-icon: 308
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: 3RyRkxIgGRlaUnB1
