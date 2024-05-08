@@ -2,7 +2,7 @@ Title: Howm reminds me of TiddlyWiki
 
 ----
 
-Summary: 
+Summary: <p>Howm and TiddlyWiki share some features that I like</p>
 
 ----
 
@@ -18,7 +18,7 @@ This is fine:
 
 (image: howm-folder.png width: 500)
 
-I continue to be surprised by how quickly Howm has embedded itself in my workflow. I should write about how the combination of Howm and Denote fit into my process.
+I continue to be surprised by how quickly Howm has become an important part of my workflow. I should write about how the combination of Howm and Denote fit into my process.
 
 
 [^case]: I've decided to write it as "Howm" with an initial capital. Howm is an acronym, but I've never seen it capitalized as "HOWM". I don't like it all lowercase, since it feels like it should be treated as a proper noun, so I'm going with "Howm".
