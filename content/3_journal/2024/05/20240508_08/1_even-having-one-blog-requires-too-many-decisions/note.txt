@@ -1,0 +1,37 @@
+Title: Even having one blog requires too many decisions
+
+----
+
+Text:
+
+I wanted to write something here. So far, so good, since deciding which blog is "correct" for a post is usually where I end up derailed. The thing I was writing about wasn't worth an entire post, so I figured I'd put it here in the Journal section. I was then confronted with the following:
+
+(image: panel-png.png)
+
+Sigh. Is what I'm about to write useful enough to be worthy of a new "Note", which gives it its own URL and adds it to the RSS feed? Or is it just something I'm blurting out into the main journal text area? The way I've set things up here means I need to make these decisions every time I want to post something. It makes me wonder if I should get rid of something. I could force everything to be a Note or a Post, and remove the generic journal area. Or I could get rid of Notes and make the daily stuff non-RSS-ified and into a big wall of text. Or I could get rid of Posts and turn the site into a version of my daily blog.
+
+See what I mean?
+
+----
+
+Showtitle: true
+
+----
+
+Date: 2024-05-08
+
+----
+
+Tags: Blogging
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: ILpc8TZqlkMOdPBf
