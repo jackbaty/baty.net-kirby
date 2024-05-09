@@ -2,4 +2,8 @@ Title: Jack Baty
 
 ----
 
+Email: jack@baty.net
+
+----
+
 Header: header-blue.png

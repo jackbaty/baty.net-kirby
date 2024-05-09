@@ -25,6 +25,11 @@ columns:
         type: files
         uploads:
         template: image
+      info:
+        type: fields
+        fields:
+          email:
+            type: text
       smallimages:
         label: Small Images
         type: files

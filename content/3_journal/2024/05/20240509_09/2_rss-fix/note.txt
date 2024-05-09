@@ -1,0 +1,29 @@
+Title: RSS fix
+
+----
+
+Text: My RSS feed includes a link to "reply by email" but the generated link was broken because I had a missing site setting. This should be fixed now.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2024-05-09
+
+----
+
+Tags: meta
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: n4PutrXC8ihho9ou
