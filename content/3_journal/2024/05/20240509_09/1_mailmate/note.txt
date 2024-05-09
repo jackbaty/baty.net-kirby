@@ -1,0 +1,29 @@
+Title: MailMate
+
+----
+
+Text: After bailing on Hey.com today, I was feeling curious about email software, so I re-installed [MailMate](https://freron.com/). According to my notes, I last purchased a license for MailMate in 2014. It's still valid. I'm no fan of subscriptions, but using an app for 10 years after paying only once makes me feel guilty. If I'm still using it in a week, I'm buying a new license.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2024-05-09
+
+----
+
+Tags: Software, Email
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: gxEkWbUAk9hHnkba
