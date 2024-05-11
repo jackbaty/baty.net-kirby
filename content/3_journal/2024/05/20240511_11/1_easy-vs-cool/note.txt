@@ -1,0 +1,29 @@
+Title: Easy vs Cool
+
+----
+
+Text: Obsidian is easy but Emacs is cool. Some days I just want things to be easy. Other days I want to use something cool. And so it goes.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2024-05-11
+
+----
+
+Tags: Emacs, Obsidian
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: PLHmTFNz98r4KAY6

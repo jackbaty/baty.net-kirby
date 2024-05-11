@@ -1,0 +1,33 @@
+Title: Saturday, May 11, 2024
+
+----
+
+Summary: 
+
+----
+
+Text: 
+
+----
+
+Cover: 
+
+----
+
+Date: 2024-05-11 06:10:00
+
+----
+
+Weather: Partly cloudy 48.9 | Low 42.7, High 54.7
+
+----
+
+Weather-icon: 176
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: TutZr7Vvcz2zsKbR
