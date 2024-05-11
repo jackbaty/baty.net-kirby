@@ -8,7 +8,7 @@ Summary: <p>How about I stick QR codes on index cards as a way to quickly find t
 
 Text:
 
-When I write a quote or note on an index card, I try to record some version of a reference. Most often this is just a title, author, and date of the article or book. When I need to revisit the source, I then need to look it up based on what I'd written on the card. This is usually fine, but I had an idea today that could make it easier.
+When I write a quote or note on an index card, I try to record some version of a reference. Most often this is just a title, author, and date of the article or book. When I need to revisit the source, I then need to look it up based on what I'd written on the card. This is fine for physical books, but I had an idea today that could make it easier for digital sources.
 
 What if I put a QR code pointing to the source right on the index card?[^done]
 
