@@ -1,0 +1,33 @@
+Title: Monday, May 13, 2024
+
+----
+
+Summary: 
+
+----
+
+Text: 
+
+----
+
+Cover: 
+
+----
+
+Date: 2024-05-13 06:00:00
+
+----
+
+Weather: Clear 56.7 | Low 54.6, High 73.2
+
+----
+
+Weather-icon: 302
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: YDC3qgPubEskQs6Z
