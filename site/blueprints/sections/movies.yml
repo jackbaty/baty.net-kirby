@@ -1,0 +1,17 @@
+# This section blueprint defines a pages section that can be reused across multiple blueprints
+# or multiple times within the same blueprint, see `/site/blueprints/pages/posts.yml` and `/site/blueprints/site.yml`
+# Sections can have different layouts and display additional information or a preview image
+# More about pages sections: https://getkirby.com/docs/reference/panel/sections/pages
+type: pages
+label: Movies
+parent: kirby.page("movies")
+info: "{{ page.published }}"
+templates:
+  - movie
+empty: No movies yet
+sortBy: date desc
+limit: 10
+image:
+  query: page.cover
+  cover: true
+  ratio: 3/2

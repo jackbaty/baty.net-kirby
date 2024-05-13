@@ -1,0 +1,39 @@
+
+
+.post-header {
+    padding-top: 3rem;
+    margin-bottom: 3rem;
+}
+.post-footer {
+    clear: both;
+    padding: 3rem 0;
+}
+.post-date {
+    color: var(--color-text-grey);
+}
+.post-tags {
+    display: flex;
+    margin-bottom: 1.5rem;
+    font-size: 0.8rem;
+}
+.post-tags li {
+    margin-right: .5rem;
+}
+.post-tags a {
+    padding: .25rem .5rem;
+    display: block;
+    background: var(--color-light);
+    border-radius: 2px;
+}
+.post-tags a:hover {
+    background: var(--color-black);
+    color: var(--color-white);
+}
+
+.footnotes {
+    font-size: 0.8em;
+}
+
+.movieinfo {
+  margin-bottom: 20px;
+}

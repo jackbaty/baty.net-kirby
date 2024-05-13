@@ -369,6 +369,13 @@ figure.left {
   color: var(--color-text-grey);
 }
 
+.floatleft {
+  float: left;
+}
+.floatright {
+  float: right;
+}
+
 hr {
   border: 0;
   background: currentColor;

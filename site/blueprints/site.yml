@@ -38,10 +38,11 @@ columns:
         parent: page('small-images')
 
 
-  # The second column has two sections, `posts` and `pages`
+  # The second column has thre sections, `journals` and `posts` and `movies`
   - width: 1/2
     sections:
       # The `posts` section reuses the pages section defined in `/site/blueprints/sections/posts.yml`
       journals: sections/journals
       posts: sections/posts
+      movies: sections/movies
 

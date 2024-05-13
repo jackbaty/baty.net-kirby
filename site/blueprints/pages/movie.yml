@@ -1,0 +1,89 @@
+# Page Settings
+title: Movie
+num: '{{ page.published.toDate("Ymd") }}'
+icon : movie
+
+# Available Statuses for the page
+status:
+
+    # Draft
+    draft:
+        label : Draft
+        text  : The movie review is still in draft mode.
+
+    # Published Page
+    listed:
+        label : Published
+        text  : These movie reviews are published and available on the site.
+
+# Page Columns
+columns :
+
+    # Thoughts on the book...
+  - width    : 2/3
+    fields:
+        description:
+            label: Post Description
+            type: text
+        summary:
+            label : Movie synopsis
+            type  : markdown
+            size  : small
+        text:
+            label : My review
+            type  : markdown
+            size  : huge
+
+
+  - width  : 1/3
+    fields :
+        published:
+            label: Published Date
+            type: date
+            time: true
+            default: now
+        # Movie poster
+        cover:
+            label  : Movie poster
+            type   : files
+            layout : cards
+            size   : small
+            maxwidth : 400
+            max    : 1
+            image  :
+                ratio : 1/1
+
+        # The book details
+        info:
+            label  : Movie Details
+            type   : object
+            fields :
+                director :
+                    label : Director
+                    type  : text
+                    width : 1/2
+                year :
+                    label : Released year
+                    type  : text
+                    default: 2007
+                    icon: calendar
+                    width : 1/2
+                rating :
+                    label : Rating
+                    type    : select
+                    options :
+                        ★☆☆☆☆ (1 star) : ★☆☆☆☆ (1 star)
+                        ★★☆☆☆ (2 stars) : ★★☆☆☆ (2 stars)
+                        ★★★☆☆ (3 stars) : ★★★☆☆ (3 stars)
+                        ★★★★☆ (4 stars) : ★★★★☆ (4 stars)
+                        ★★★★★ (5 stars) : ★★★★★ (5 stars)
+
+        # links
+        letterboxd:
+            label    : Letterboxd
+            type     : url
+
+        tags:
+            label: Post Tags
+            type: tags
+            default: Movie
