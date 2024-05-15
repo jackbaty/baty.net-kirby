@@ -1,0 +1,33 @@
+Title: Wednesday, May 15, 2024
+
+----
+
+Summary: 
+
+----
+
+Text: 
+
+----
+
+Cover: 
+
+----
+
+Date: 2024-05-15 05:20:00
+
+----
+
+Weather: Overcast 49.5 | Low 46.1, High 66.4
+
+----
+
+Weather-icon: 113
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: qVYYvTahIgfVVO2y

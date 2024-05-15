@@ -1,0 +1,45 @@
+Title: Planet of the Apes
+
+----
+
+Description: 
+
+----
+
+Summary:
+
+SOMEWHERE IN THE UNIVERSE, THERE MUST BE SOMETHING BETTER THAN MAN!
+
+An U.S. Spaceship lands on a desolate planet, stranding astronaut Taylor in a world dominated by apes, 2000 years into the future, who use a primitive race of humans for experimentation and sport. Soon Taylor finds himself among the hunted, his life in the hands of a benevolent chimpanzee scientist.
+
+----
+
+Text: I don't remember so much talking. It's like a cultural lesson with a couple of fight scenes.
+
+----
+
+Published: 2024-05-15 05:00:00
+
+----
+
+Cover: - file://BWBKBp8zSGNx66qg
+
+----
+
+Info:
+
+director: Franklin J. Schaffner
+year: "1968"
+rating: ★★★★☆ (4 stars)
+
+----
+
+Letterboxd: https://letterboxd.com/film/planet-of-the-apes/
+
+----
+
+Tags: Movie
+
+----
+
+Uuid: GoQZTdZaXzjdfk9L
