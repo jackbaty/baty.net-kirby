@@ -2,7 +2,7 @@ Title: Separate blogs
 
 ----
 
-Text: Yesterday, I wrote a couple of posts over on my Blot blog at [baty.blog](https://baty.blog). One of the posts was titled [Taking a break from complicated blogs](https://baty.blog/2024/05/taking-a-break-from-complicated-blogs) and it was about not wanting to futz around in Kirby CMS here on baty.net. Then, as is my habit, I fired up a new journal post here and began writing. You see, I want contradictory things. First, I want all of my stuff to be in one place. One blog. Second, I want to use whichever blogging tool I'm in the mood for at the moment. These things are irreconcilable, and I'm not sure what to do about it.
+Text: Yesterday, I wrote a couple of posts over on my Blot blog at [baty.blog](https://baty.blog). One of the posts was titled [Taking a break from complicated blogs](https://baty.blog/2024/05/taking-a-break-from-complicated-blogs) and it was about not wanting to futz around in Kirby CMS here on baty.net. Then this morning, as is my habit, I fired up a new journal post here and began writing. You see, I want contradictory things. First, I want all of my stuff to be in one place. One blog. Second, I want to use whichever blogging tool I'm in the mood for at the moment. These things are irreconcilable, and I'm not sure what to do about it.
 
 ----
 
