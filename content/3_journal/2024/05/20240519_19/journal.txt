@@ -12,6 +12,8 @@ Text:
 
 It's been one of those weeks. Again. Now I'm here in Kirby and using Bear and Day One and Lightroom and anything else that doesn't require me to care about file organization and naming. See [File Management Fatigue](https://baty.blog/2024/05/file-management-fatigue).
 
+You know, technically, I don't _have_ to manage the content files here in Kirby. That's what the panel is for.
+
 ----
 
 Cover: 
