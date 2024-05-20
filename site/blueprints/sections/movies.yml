@@ -5,11 +5,11 @@
 type: pages
 label: Movies
 parent: kirby.page("movies")
-info: "{{ page.published }}"
+info: "{{ page.rating }}"
 templates:
   - movie
 empty: No movies yet
-sortBy: date desc
+sortBy: published desc
 limit: 10
 image:
   query: page.cover

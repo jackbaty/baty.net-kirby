@@ -26,11 +26,17 @@ Cover: - file://BWBKBp8zSGNx66qg
 
 ----
 
-Info:
+Director: Franklin J. Schaffner
 
-director: Franklin J. Schaffner
-year: "1968"
-rating: ★★★★☆ (4 stars)
+----
+
+Year: 1968
+
+----
+
+Rating:
+
+★★★★☆ (4 stars)
 
 ----
 

@@ -26,7 +26,7 @@ return function ($page) {
 
     return [
         'tag'   => $tag,
-        'movies' => $movies->paginate(20)
+        'movies' => $movies->paginate(25)
     ];
 
 };

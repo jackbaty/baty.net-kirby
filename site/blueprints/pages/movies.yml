@@ -1,0 +1,9 @@
+icon: 🍿
+sections:
+  movies:
+    type: pages
+    num: date
+    sortBy: published desc
+    create: movie
+    template: movie
+    info: "{{ page.rating }}"

@@ -2,15 +2,13 @@
         <img class="floatright" width="185px" src="<?= $image->url() ?>" alt="<?= $image->alt() ?>">
         <?php endif ?>
 <div class="text">
-        <?php if ($info = $page->info()->toObject()): ?>
         
         <div class="movieinfo">
-            🎬 <b>Directed by:</b> <?= $info->director() ?><br>
-            🗓️ <b>Released:</b> <?= $info->year() ?><br>
-            🧐 <b>My rating:</b> <?= $info->rating() ?><br>
+            🎬 <b>Directed by:</b> <?= $page->director() ?><br>
+            🗓️ <b>Released:</b> <?= $page->year() ?><br>
+            🧐 <b>My rating:</b> <?= $page->rating() ?><br>
             🍿 <b>URL:</b> <?php if($page->letterboxd()->isNotEmpty()): ?> <a href="<?= $page->letterboxd() ?>">Letterboxd</a> <?php endif ?>
         </div>
-        <?php endif ?> 
                 
         
 

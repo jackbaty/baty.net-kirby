@@ -25,12 +25,17 @@ Cover: - file://ye6wSRkCYTqPElXa
 
 ----
 
-Info:
+Director: Takashi Yamazaki
 
-director: Takashi Yamazaki
-year: "2023"
-rating: ★★★★★ (5 stars)
-author: Takashi Yamazaki
+----
+
+Year: 2023
+
+----
+
+Rating:
+
+★★★★☆ (4 stars)
 
 ----
 

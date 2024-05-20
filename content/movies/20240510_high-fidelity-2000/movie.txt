@@ -26,11 +26,17 @@ Cover: - file://uishqiNFxKnSseu7
 
 ----
 
-Info:
+Director: Stephen Frears
 
-director: Stephen Frears
-year: "2000"
-rating: ★★★☆☆ (3 stars)
+----
+
+Year: 2000
+
+----
+
+Rating:
+
+★★★☆☆ (3 stars)
 
 ----
 

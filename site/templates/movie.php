@@ -22,19 +22,20 @@
 */
 ?>
 <?php snippet('header') ?>
-<?php if ($info = $page->info()->toObject()): ?>
 <article class="post">
   <header class="post-header h1">
-    <h1 class="post-title"><?= $page->title()->esc() ?> (<?= $info->year() ?>)</h1>
+    <h1 class="post-title"><?= $page->title()->esc() ?> (<?= $page->year() ?>)</h1>
     <?php if ($page->subheading()->isNotEmpty()): ?>
     <p class="post-subheading"><small><?= $page->subheading()->esc() ?></small></p>
     <?php endif ?>
   </header>
-<?php endif ?>
+
 <?php snippet('movie') ?>
 
 </article>
 <footer class="post-footer">
+🍿 <a href="/movies">See all Movies</a>
+
 <?php snippet('reply-by-email') ?>
 </footer>
 

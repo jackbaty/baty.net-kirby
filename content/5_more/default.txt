@@ -13,6 +13,7 @@ Text:
 - (link: /uses text: Things I use) - My life stack.
 - (link: /leica text: Leica) - My Leica camera timeline
 - (link: /nope text: Nope) - Things I don't like or want to do.
+- (link: /movies text: Movies) - Brief movie reviews
 
 ----
 

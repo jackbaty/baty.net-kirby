@@ -1,19 +1,17 @@
 <?php
 /*
-  The post snippet renders an excerpt of a blog article.
+  The movie snippet renders an excerpt of a movie post.
 */
 ?>
 <article class="post-excerpt">
-<h2 class="post-excerpt-title"><a href="<?= $movie->url() ?>"><?= $movie->title()->esc() ?></a></h2>
-<time class="post-excerpt-date" datetime="<?= $movie->published('c') ?>"><?= $movie->published() ?>
-    <?php if (($excerpt ?? true) !== false): ?>
+<h2 class="post-excerpt-title"><a href="<?= $movie->url() ?>"><?= $movie->title()->esc() ?></a> (<?= $movie->year() ?>)</h2>
+<time class="post-excerpt-date" datetime="<?= $movie->published('c') ?>"><?= $movie->published()->toDate('M d, Y') ?></time>
+     <?php if($image = $movie->cover()->toFile()): ?>
+        <img class="floatleft" style="margin-right: 10px;" width="80px" src="<?= $image->url() ?>" alt="<?= $image->alt() ?>"><?php endif ?>
+<?= $movie->rating() ?>
     <div class="post-excerpt-text">
-      <?php if ($movie->summary()->isEmpty()): ?>
-      	<?= $movie->text()->kt()->excerpt(280) ?>
-      <?php else: ?>
-      	<?= $movie->summary()->text() ?>
-      <?php endif ?>
-      <div class="read-more"><a href="<?= $movie->url() ?>">Read more…</a></div>
+      	<?= $movie->text()->text() ?>
+      	<div class="read-more"><a href="<?= $movie->url() ?>">Read more…</a></div>
     </div>
-    <?php endif ?>
+
 </article>
