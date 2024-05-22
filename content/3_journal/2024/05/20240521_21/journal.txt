@@ -6,7 +6,11 @@ Summary:
 
 ----
 
-Text: There is a looming battle between [my TiddlyWiki](https://wiki.baty.net) and Kirby here for daily notes. I'm going to give [daily.baty.net](https://daily.baty.net) a break while these other two duke it out.
+Text:
+
+(image: 20211007-l1000126.jpg)
+
+There is a looming battle between [my TiddlyWiki](https://wiki.baty.net) and Kirby here for daily notes. I'm going to give [daily.baty.net](https://daily.baty.net) a break while these other two duke it out.
 
 ----
 

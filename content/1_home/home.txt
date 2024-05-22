@@ -6,7 +6,7 @@ Headline: Hi! I'm Jack 👋
 
 ----
 
-Subheadline: In which I mambo dogface to the banana patch
+Subheadline: Welcome to my blog about everything.
 
 ----
 
