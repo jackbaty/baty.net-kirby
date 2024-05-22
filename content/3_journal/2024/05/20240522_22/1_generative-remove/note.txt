@@ -1,0 +1,29 @@
+Title: Generative Remove
+
+----
+
+Text: The new Generative Remove feature in Lightroom reminds me of ChatGPT: I kind of hate that it exists, but there's no way I'm not going to use it myself.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2024-05-22
+
+----
+
+Tags: AI
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: qRDBkPFFlwmiDmlN
