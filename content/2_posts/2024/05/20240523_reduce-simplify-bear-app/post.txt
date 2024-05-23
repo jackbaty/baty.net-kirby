@@ -26,7 +26,7 @@ Another thing I like about using Bear is the lack of file names. After spending 
 
 "But is it future-proof?" Well, if Bear goes away tomorrow, my backups are just a bunch of Markdown files that I can continue to use however I choose. Plus, notes can be exported in many formats at any time. That's future-proof enough for me. 
 
-Using Bear feels great right now. It's beautiful to look at, pleasant to use, simple, and it syncs everywhere with no additional dependencies. I'm spending most of my time in Bear writing notes rather than playing with Bear.
+Using Bear feels great right now. It's beautiful to look at, pleasant to use, simple, and it syncs everywhere with no additional dependencies. I'm spending most of my time in Bear writing notes rather than playing with Bear. Will I become frustrated by Bear's constraints? Maybe, but right now I'm Reducing & Simplifying and that feels good.
 
 ----
 
