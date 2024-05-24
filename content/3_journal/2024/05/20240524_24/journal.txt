@@ -1,0 +1,33 @@
+Title: Friday, May 24, 2024
+
+----
+
+Summary: 
+
+----
+
+Text: (image: 2024-roll-150_12.jpg)
+
+----
+
+Cover: 
+
+----
+
+Date: 2024-05-24 07:00:00
+
+----
+
+Weather: Partly cloudy 52.0 | Low 51.4, High 77.6
+
+----
+
+Weather-icon: 176
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: VPOLhQzWxqOH3gMG
