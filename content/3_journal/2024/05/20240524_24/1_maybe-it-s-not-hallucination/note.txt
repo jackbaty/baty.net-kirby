@@ -1,0 +1,29 @@
+Title: Maybe it's not hallucination
+
+----
+
+Text: Maybe it's not that AI hallucinates. Maybe it's because AI slurps up "information" on the internet so indiscriminately. You know, Garbage In/Garbage Out and all that.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2024-05-24
+
+----
+
+Tags: AI
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: OMq3rLfZLY89Zfur
