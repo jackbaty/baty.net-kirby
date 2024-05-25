@@ -47,3 +47,50 @@ Tags: Workflow, Software, Bear
 ----
 
 Uuid: dusODa6lgDklAWmK
+
+----
+
+Kommentsinbox:
+
+- 
+  id: d7eeeb86898f96465591264e629a0522
+  avatar: >
+    https://www.gravatar.com/avatar/2a5d6ab98e53eb7aeca224f296b7abf8
+  author: Jack
+  authorUrl: null
+  authorEmail: null
+  source: >
+    https://blog-kirby.test/posts/2024/05/reduce-simplify-bear-app
+  target: >
+    https://blog-kirby.test/posts/2024/05/reduce-simplify-bear-app
+  mentionOf: >
+    https://blog-kirby.test/posts/2024/05/reduce-simplify-bear-app
+  property: KOMMENT
+  published: 2024-05-25T07:42:46-04:00
+  komment: This is a new comment
+  quote: ""
+  kommentType: KOMMENT
+  status: true
+  spamlevel: 0
+  verified: true
+- 
+  id: cf589138099ae06e40acc3f2792e9270
+  avatar: >
+    https://www.gravatar.com/avatar/2a5d6ab98e53eb7aeca224f296b7abf8
+  author: Jack
+  authorUrl: null
+  authorEmail: null
+  source: >
+    https://blog-kirby.test/posts/2024/05/reduce-simplify-bear-app
+  target: >
+    https://blog-kirby.test/posts/2024/05/reduce-simplify-bear-app
+  mentionOf: >
+    https://blog-kirby.test/posts/2024/05/reduce-simplify-bear-app
+  property: KOMMENT
+  published: 2024-05-25T07:44:47-04:00
+  komment: Another comment test. Hello?
+  quote: ""
+  kommentType: KOMMENT
+  status: true
+  spamlevel: 0
+  verified: true

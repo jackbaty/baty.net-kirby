@@ -53,7 +53,10 @@
     <time class="post-date" datetime="<?= $page->date()->toDate('c') ?>">Published on <?= $page->date()->esc() ?></time>
     
 
+
+    <?php snippet('komments/kommentform'); ?>
     
+    <?php snippet('komments/webmention-splitted'); ?>
   </footer>
 
 </article>
