@@ -1,0 +1,29 @@
+Title: A different blogging mood
+
+----
+
+Text: I woke up yesterday thinking that I no longer want to build/host/manage my own blog(s). Maybe it's time to spend my time differently. I thought the feeling would pass, but I woke up today feeling the same way. Uh oh.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2024-05-26
+
+----
+
+Tags: 
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: Vai7qmUdnYUXVf3G
