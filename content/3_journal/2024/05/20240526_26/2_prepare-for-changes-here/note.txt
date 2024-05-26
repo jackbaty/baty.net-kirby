@@ -1,0 +1,29 @@
+Title: Prepare for changes here
+
+----
+
+Text: I'm having feelings about maintaining my own blog(s). Those feelings are leading me toward something drastic. I don't know what that will be yet. It might mean I move my blogging somewhere else. It might mean that I gut baty.net and move it to Ghost or whatever. I apologize in advance for any future disruption.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2024-05-26
+
+----
+
+Tags: meta
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: jdWfzTTbgj9dCXZb
