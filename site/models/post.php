@@ -28,6 +28,18 @@ class PostPage extends Page
     {
     	return $this->content()->cover()->toFile();
     }
+    
+    public function postContent()
+    {
+    	if ($this->content()->useblocks()->isTrue())
+    	{
+    		return $this->content()->blocks()->toBlocks();
+    	}
+    	else
+    	{
+    		return $this->content()->text()->kt();
+    	}
+    }
 
     public function published($format = null)
     {

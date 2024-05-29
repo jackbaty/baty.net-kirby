@@ -9,7 +9,7 @@ num: date
 icon: 📖
 
 create:
-  status: listed
+  status: draft
 
 # Custom descriptions for each page status depending on use case
 # More about page status: https://getkirby.com/docs/reference/panel/blueprints/page#statuses
@@ -33,9 +33,17 @@ columns:
         label: Post Summary
         type: writer
         maxlength: 280
+      useblocks:
+        label: Use Blocks?
+        type: toggle
+        text:
+          - "no"
+          - "yes"
       text:
         label: Post Text
         type: markdown
+        when:
+          useblocks: false
         buttons:
           - headlines
           - italic
@@ -47,6 +55,20 @@ columns:
           link: markdown
           file: markdown
         size: large
+      blocks:
+        label: Post Text
+        type: blocks
+        when:
+          useblocks: true
+        fieldsets:
+          - markdown
+          - image
+          - gallery
+          - quote
+          - code
+          - list
+          - video
+          - text
 
 
 

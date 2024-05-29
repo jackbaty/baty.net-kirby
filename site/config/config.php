@@ -42,6 +42,7 @@ return [
 		 'application/rss+xml');
 		 }
 		 ],
+		 // for year/month/slug
         [
             'pattern' => '(:num)/(:num)/(:any)',
             'action'  => function($year, $month, $slug) {
@@ -58,7 +59,28 @@ return [
             	$uid = $year . '/' . $month . '/' . $slug;
                 go($uid);
             }
-        ]
+        ],
+        // For year/slug
+        [
+            'pattern' => '(:num)/(:any)',
+            'action'  => function($year, $slug) {
+                $uid = $year . '/' . $slug;
+                $page = page($uid);
+                if(!$page) $page = page('posts/'. $uid);
+                if(!$page) $page = site()->errorPage();
+                return site()->visit($page);
+            }
+        ],
+        [
+            'pattern' => 'posts/(:num)/(:any)',
+            'action'  => function($year, $slug) {
+            	$uid = $year . '/' . $slug;
+                go($uid);
+            }
+        ],
+        
+        
+        
     ],
 ];
 

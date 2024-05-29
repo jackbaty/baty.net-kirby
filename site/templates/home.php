@@ -100,13 +100,12 @@ $recentPosts = $allPosts->limit(10);
         <p class="post-subheading"><small><?= $post->subheading()->esc() ?></small></p>
     <?php endif ?>
   </header>
-  <?php if ($post->text()->isNotEmpty()): ?>
   <div class="post text">
-    <?= $post->text()->kt() ?>
+    <?= $post->postContent() ?>
     
     <time class="post-excerpt-date" datetime="<?= $post->published('c') ?>"><?= $post->published() ?><?php if (!empty($post->tags())): ?><?php endif ?></time>
   </div>
-  <?php endif ?>
+
 </article>
     <?php endif ?>
   <?php endforeach ?>

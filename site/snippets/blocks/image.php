@@ -15,6 +15,7 @@
 
 $alt      = $block->alt();
 $caption  = $block->caption();
+$camerainfo = $block->camerainfo();
 $contain  = $block->crop()->isFalse();
 $link     = $block->link();
 $ratio    = $block->ratio()->or('auto');
@@ -53,7 +54,7 @@ $attrs = attr([
 
   <?php if ($caption->isNotEmpty()): ?>
   <figcaption class="img-caption">
-    <?= $caption ?>
+    <?= $caption ?><?php if ($camerainfo->isNotEmpty()): ?><div style="font-size:0.8em;">(<?= $camerainfo ?>)</div><?php endif ?>
   </figcaption>
   <?php endif ?>
 </figure>
