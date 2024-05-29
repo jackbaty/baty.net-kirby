@@ -1,0 +1,25 @@
+Caption: Alice relaxing on the deck
+
+----
+
+Alt: 
+
+----
+
+Photographer: 
+
+----
+
+License: 
+
+----
+
+Link: 
+
+----
+
+Uuid: rsWagMLjK7q1D2DP
+
+----
+
+Template: blocks/image

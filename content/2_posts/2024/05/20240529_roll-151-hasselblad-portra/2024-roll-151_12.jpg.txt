@@ -1,0 +1,25 @@
+Caption: Dad and Lincoln
+
+----
+
+Alt: 
+
+----
+
+Photographer: 
+
+----
+
+License: 
+
+----
+
+Link: 
+
+----
+
+Uuid: 9OpELbYLZsyZ5sXA
+
+----
+
+Template: blocks/image

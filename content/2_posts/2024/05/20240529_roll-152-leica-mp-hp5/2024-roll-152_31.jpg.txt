@@ -1,0 +1,25 @@
+Caption: Self-portrait in mirror
+
+----
+
+Alt: 
+
+----
+
+Photographer: 
+
+----
+
+License: 
+
+----
+
+Link: 
+
+----
+
+Uuid: MQIgdf3TAA3yrdmY
+
+----
+
+Template: blocks/image

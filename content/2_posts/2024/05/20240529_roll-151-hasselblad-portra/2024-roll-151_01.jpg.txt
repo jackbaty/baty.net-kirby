@@ -1,0 +1,25 @@
+Caption: Ella shows off her new hat
+
+----
+
+Alt: 
+
+----
+
+Photographer: 
+
+----
+
+License: 
+
+----
+
+Link: 
+
+----
+
+Uuid: sAURVkBcSSsagJ3Z
+
+----
+
+Template: blocks/image

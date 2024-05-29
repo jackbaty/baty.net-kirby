@@ -1,0 +1,37 @@
+Title: Roll-151 (Hasselblad/Portra)
+
+----
+
+Summary: 
+
+----
+
+Useblocks: true
+
+----
+
+Text: 
+
+----
+
+Blocks: [{"content":{"text":"I am still working through the bag of expired film in the fridge. This is a roll of Portra 400 that expired in 2014. \n\nIt seems the Hasselblad has a couple of issues. First, both sides of each frame show a minor light leak. Second, my exposures seem underexposed by at least one stop. I've been pretty carefully metering, but I still can't get exposure right. This is a shame because I had both the lens (which contains the shutter) and the film back serviced a few years ago. They should still work fine, but they don't."},"id":"fe333295-6fa3-488f-8e46-369f428132a0","isHidden":false,"type":"markdown"},{"content":{"images":["file://sAURVkBcSSsagJ3Z","file://54v6bYypKYUxBXS5","file://rsWagMLjK7q1D2DP","file://9OpELbYLZsyZ5sXA"],"caption":"","ratio":"","crop":"false"},"id":"77c9535a-44d9-4e25-9068-cea934f45680","isHidden":false,"type":"gallery"}]
+
+----
+
+Cover: 
+
+----
+
+Date: 2024-05-29 07:30:00
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Uuid: sE5kU5yfG3oace3s
