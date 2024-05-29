@@ -2,7 +2,7 @@ Title: Welcome back, Kirby
 
 ----
 
-Text: Ghost is a very good blogging platform. Sometimes I want it to by my blogging platform. I tried again this week, but now I'm back on Kirby. Thanks for playing along, and sorry for the meta noise.
+Text: Ghost is a very good blogging platform. Sometimes I want it to be my blogging platform. I tried again this week, but now I'm back on Kirby. Thanks for playing along, and sorry for the meta noise.
 
 ----
 
