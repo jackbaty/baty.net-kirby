@@ -1,0 +1,41 @@
+Title: Tuesday, June 25, 2024
+
+----
+
+Summary: 
+
+----
+
+Text:
+
+Here we are again, in Kirby. Sorry for any disturbance.
+
+(link: https://baty.net/movies/furiosa-a-mad-max-saga-2024 text: Watched Furiosa) last night and when I told my daughter she should watch it she said, "I saw the other one and it was just a bunch of mumbo jumbo on a moving vehicle." I give up :).
+
+So, I'm editing this journal entry on the server via an Emacs Tramp session. I swore I wouldn't bother with doing that, but here we are.
+
+I experienced a bit of what I'm calling "Leica Guilt" recently. Walking the pier in Grand Haven, I heard someone say "Leica" a few times as people passed. I'll write a bit more later, but it bothered me.
+
+----
+
+Cover: 
+
+----
+
+Date: 2024-06-25 09:55:00
+
+----
+
+Weather: Light rain shower 64.0 | Low 61.3, High 82.5
+
+----
+
+Weather-icon: 308
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: IzUhsfTjKrErzcG0

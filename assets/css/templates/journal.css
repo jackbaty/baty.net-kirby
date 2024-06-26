@@ -3,7 +3,7 @@ ul.note {
     margin-top: 2rem;
 }
 .post-header {
-    padding-top: 3rem;
+    padding-top: 1rem;
     margin-bottom: 3rem;
 }
 .post-footer {
@@ -50,3 +50,10 @@ p + p {
 .post-weather div {
   padding-top: 8px;
 }
+
+figure.featured-image-container {
+  padding-top: 0;
+  margin-top: 0;
+  margin-bottom: 2rem;
+}
+

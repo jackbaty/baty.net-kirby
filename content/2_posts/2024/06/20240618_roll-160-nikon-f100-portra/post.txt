@@ -1,0 +1,37 @@
+Title: Roll-160 (Nikon F100/Portra)
+
+----
+
+Summary: 
+
+----
+
+Useblocks: true
+
+----
+
+Text: 
+
+----
+
+Blocks: [{"content":{"text":"<p>Sometimes a roll just doesn't work out. This was a roll of Portra 400 expired since 2012. I metered for ISO 200 to compensate. But then, when loading the reel into the JOBO, I didn't fasten the lid well enough. During rotary processing, most of the chemicals leaked out. At the same time, light was leaking in. About half the roll was completely ruined. The other half suffered from uneven development and light leaks. Live and learn, I guess.</p>"},"id":"3da3fd5d-638a-4346-a4d1-237941abfd9a","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://iReFt6rr9qIPKy9N"],"src":"","alt":"","caption":"Fumbled this one","camerainfo":"","link":"","ratio":"","crop":"false"},"id":"375dbd92-75c6-402f-b172-3a1a9083262c","isHidden":false,"type":"image"},{"content":{"images":["file://gjKPMnggFDeXp0f6","file://u0q4A7bkMyPUYZkN","file://RrMQc6AttKxlLwdY","file://TgebI6EaHmwDx5ra"],"caption":"","ratio":"","crop":"false"},"id":"e74659e2-9669-45bb-a334-4b2027e746fe","isHidden":false,"type":"gallery"}]
+
+----
+
+Cover: 
+
+----
+
+Date: 2024-06-18 07:45:00
+
+----
+
+Author: 
+
+----
+
+Tags: Photography, Film, Nikon, Color, Portra
+
+----
+
+Uuid: g4hOC9Kgxzk3PjH7

@@ -76,7 +76,6 @@
 
   <link rel=alternate type="application/rss+xml" href="/feed">
   
-  <?php echo css(['/media/plugins/mauricerenck/komments/komments.css']); ?>
 </head>
 <body>
   

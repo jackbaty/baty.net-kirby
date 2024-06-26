@@ -10,6 +10,7 @@ Text:
 
 A running list of changes I've made to this site. Most recent first. The source is at https://git.baty.net/jbaty/baty.net-kirby. Feel free to suggest improvements.
 
+- 2024-06-14 Upgraded to (link: https://github.com/getkirby/kirby/releases/tag/4.3.0 text: Kirby 4.3.0)
 - 2024-05-09 Fixed RSS template. Reply by Email link was missing the email address. Ooops.
 - 2024-05-06 Replaced RSS template with one from Kev Quirk (Thanks!)
 - 2024-04-25 Moved back to local-first development and publishing

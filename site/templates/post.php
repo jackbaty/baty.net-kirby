@@ -4,16 +4,19 @@
 <?php snippet('header') ?>
 
 <?php if ($cover = $page->assignedCover()): ?>
+<figure class="featured-image-container">
+<figcaption>My garage workbench. Canon AE-1 Program</figcaption></figure>
 <a href="<?= $cover->url() ?>" data-lightbox class="img" style="--w:2; --h:1">
   <img src="<?= $cover->crop(1200, 800)->url() ?>" alt="<?= $cover->alt()->esc() ?>">
 </a>
+</figure>
 <?php endif ?>
 
 <article class="post">
   <header class="post-header h1">
     <h1 class="post-title"><?= $page->title()->esc() ?></h1>
-    <?php if ($page->subheading()->isNotEmpty()): ?>
-    <p class="post-subheading"><small><?= $page->subheading()->esc() ?></small></p>
+    <?php if ($page->summary()->isNotEmpty()): ?>
+    <p class="post-subheading"><em><?= $page->summary()->esc() ?></em></p>
     <?php endif ?>
   </header>
   <div class="post text">

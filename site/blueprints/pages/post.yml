@@ -31,7 +31,7 @@ columns:
     fields:
       summary:
         label: Post Summary
-        type: writer
+        type: text
         maxlength: 280
       useblocks:
         label: Use Blocks?

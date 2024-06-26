@@ -1,0 +1,37 @@
+Title: Roll-158 (Hasseblad/HP5)
+
+----
+
+Summary: 
+
+----
+
+Useblocks: true
+
+----
+
+Text: A roll of HP5 from a picnic with my grandson.
+
+----
+
+Blocks: [{"content":{"text":"A roll of HP5 from a picnic with my grandson."},"id":"97a021ca-6d1a-4396-a833-4fdf6b79a6c8","isHidden":false,"type":"markdown"},{"content":{"images":["file://s22VJYetESgYhAW0","file://lnFL3kvZ4YfhLQug","file://Y6YUGzopqsM4069P","file://Uqa4exJpya2Ul8IG"],"caption":"","ratio":"","crop":"false"},"id":"6b5e24d1-4770-436d-85d2-8f05cfa33a3e","isHidden":false,"type":"gallery"}]
+
+----
+
+Cover: 
+
+----
+
+Date: 2024-06-18 06:50:00
+
+----
+
+Author: 
+
+----
+
+Tags: Photography, Film, Hasselblad
+
+----
+
+Uuid: HrBBV36SqUYThHgA

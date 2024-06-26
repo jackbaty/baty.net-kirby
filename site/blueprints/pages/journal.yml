@@ -9,7 +9,7 @@ num: date
 icon: 📖
 icon: 🗓️
 create:
-  status: listed
+  status: draft
   fields:
     - weather
     - weather_icon

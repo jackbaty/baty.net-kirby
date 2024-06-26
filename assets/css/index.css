@@ -266,7 +266,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.25em;
 }
 .h1 p {
-  font-size: 0.8em;
+  font-size: 0.6em;
 }
 
 .text h2,
@@ -367,6 +367,13 @@ figure.left {
   font-size: 0.9em;
   text-align: center;
   color: var(--color-text-grey);
+}
+
+.featured-image-container figcaption {
+    padding-top: 3px;
+    font-size: 0.9em;
+    text-align: center;
+    color: var(--color-text-grey);
 }
 
 .floatleft {
@@ -768,3 +775,10 @@ table {
     }
   }
 }
+
+.post-subheading {
+  color: var(--color-code-comment);
+  line-height: 1.2em;
+  font-weight: light;
+}
+

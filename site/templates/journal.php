@@ -17,12 +17,6 @@
 ?>
 <?php snippet('header',['extracss' => 'journal.css']) ?>
 
-<?php if ($cover = $page->assignedCover()): ?>
-<a href="<?= $cover->url() ?>" data-lightbox class="img" style="--w:2; --h:1">
-  <img src="<?= $cover->crop(1200, 800)->url() ?>" alt="<?= $cover->alt()->esc() ?>">
-</a>
-<?php endif ?>
-
 <article class="post">
   <header class="post-header h1">
     <h1 class="post-title"><?= $page->title()->esc() ?></h1>
@@ -38,7 +32,17 @@
     	<div><?= $page->weather() ?></div>
     </div>
     <?php endif ?>
-
+    
+<?php if ($cover = $page->assignedCover()): ?>
+<figure class="featured-image-container">
+<a href="<?= $cover->url() ?>" data-lightbox class="img featured-image" style="--w:2; --h:1">
+  <img src="<?= $cover->crop(1200, 800)->url() ?>" alt="<?= $cover->alt()->esc() ?>">
+</a>
+<?php if ($cover->caption()): ?>
+<figcaption><?= $cover->caption() ?>
+<?php endif ?>
+</figure>
+<?php endif ?>
   
   <div class="post text">
     <?= $page->text()->kt() ?>

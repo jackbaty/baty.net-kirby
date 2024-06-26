@@ -1,0 +1,47 @@
+Title: I thought for sure I could stick with Ghost this time
+
+----
+
+Summary: Turns out...nope
+
+----
+
+Useblocks: false
+
+----
+
+Text:
+
+It lasted almost a month. Using Ghost for baty.net, I mean. I was excited about it and looking forward to just typing and hitting "Publish" and not worrying about templates and hosting and tweaks. I found a very nice (and expensive) theme and was off and running.
+
+Except I was still self-hosting on a new server. And I was still tweaking the theme's templates. The theme was expensive. I wasn't just typing and hitting "Publish"  like I expected.
+
+Sure, I had access to the theme's templates, and I could do with them whatever I wanted, but I've never been comfortable tweaking Ghost themes. Although the theme I chose looks great, it felt like it belonged to someone else. It didn't fit my vibe, if you know what I mean.
+
+So, I've installed a fresh copy of PHP on the new Hetzner VPS, configured Caddy to run Kirby, copied my site there, pointed DNS at it, and viola! Here we are.
+
+I apologize for what's sure to be some noise in the RSS feeds.
+
+----
+
+Blocks: 
+
+----
+
+Cover: 
+
+----
+
+Date: 2024-06-25 11:10:00
+
+----
+
+Author: 
+
+----
+
+Tags: Blogging
+
+----
+
+Uuid: ZyQatkaKdU8t4weI

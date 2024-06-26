@@ -1,0 +1,33 @@
+Title: Monday, June 24, 2024
+
+----
+
+Summary: 
+
+----
+
+Text: To no one's surprise, I'm feeling twitchy about Ghost again. Every post is one more thing buried in Ghost's database. I know, exports blah blah, but still. My blog doesn't feel like mine, ya know?
+
+----
+
+Cover: 
+
+----
+
+Date: 2024-06-24 06:55:00
+
+----
+
+Weather: Fog 57.9 | Low 56.2, High 78.0
+
+----
+
+Weather-icon: 113
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: d2Vt6J1GftFnwj1w

@@ -8,9 +8,9 @@ $gallery = $block->images()->toFiles();
 
 
 <figure<?= Html::attr(['data-ratio' => $ratio, 'data-crop' => $crop], null, ' ') ?>>
-  <ul class="grid" style="--gutter: 1.5rem">
+  <ul class="grid" style="--gutter: 1.0rem">
     <?php foreach ($block->images()->toFiles() as $image): ?>
-    <li class="column" style="--columns: 3">
+    <li class="column" style="--columns: 6">
     	<figure>
       <a href="<?= $image->url() ?>" data-lightbox><img src="<?= $image->resize(800)->url() ?>" alt="<?= $image->alt()->esc() ?>"></a>
       <?php if ($image->caption()->isNotEmpty()): ?>

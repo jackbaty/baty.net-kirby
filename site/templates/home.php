@@ -46,9 +46,14 @@ $recentPosts = $allPosts->limit(10);
     <?php endif ?>
   </header>
   <?php if ($cover = $latestJournal->assignedCover()): ?>
+  <figure class="featured-image-container">
 <a href="<?= $cover->url() ?>" data-lightbox class="img" style="--w:2; --h:1">
   <img src="<?= $cover->crop(1200, 800)->url() ?>" alt="<?= $cover->alt()->esc() ?>">
 </a>
+  <?php if ($cover->caption()): ?>
+<figcaption><?= $cover->caption() ?>
+<?php endif ?>
+  </figure>
 <?php endif ?>
   <?php if ($latestJournal->text()->isNotEmpty()): ?>
   <div class="post text">
@@ -96,8 +101,8 @@ $recentPosts = $allPosts->limit(10);
 <article class="post home">
   <header class="post-header h1">
     <h2 class="post-title"><a href="<?= $post->url() ?>"><?= $post->title()->esc() ?></a></h2>
-    <?php if ($post->subheading()->isNotEmpty()): ?>
-        <p class="post-subheading"><small><?= $post->subheading()->esc() ?></small></p>
+    <?php if ($post->summary()->isNotEmpty()): ?>
+        <p class="post-subheading"><em><?= $post->summary()->esc() ?></em></p>
     <?php endif ?>
   </header>
   <div class="post text">
@@ -123,8 +128,8 @@ $recentPosts = $allPosts->limit(10);
 <article class="post home">
   <header class="post-header h1">
     <h2 class="post-title"><a href="<?= $journal->url() ?>"><?= $journal->title()->esc() ?></a></h2>
-    <?php if ($journal->subheading()->isNotEmpty()): ?>
-        <p class="post-subheading"><small><?= $journal->subheading()->esc() ?></small></p>
+    <?php if ($journal->summary()->isNotEmpty()): ?>
+        <p class="post-subheading"><em><?= $journal->summary()->esc() ?></em></p>
     <?php endif ?>
   </header>
   <?php if ($journal->text()->isNotEmpty()): ?>

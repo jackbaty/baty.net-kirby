@@ -42,8 +42,10 @@ columns:
               - "no"
               - "yes"
           date:
-            label: Date
             type: date
+            time: true
+              notation: 12
+              default: now
             default: now
           tags:
             label: Tags
