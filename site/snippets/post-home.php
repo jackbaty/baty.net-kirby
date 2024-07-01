@@ -5,28 +5,41 @@
   More about snippets:
   https://getkirby.com/docs/guide/templates/snippets
 */
+
+
+
 ?>
 
-<article class="post-excerpt">
-  <a href="<?= $post->url() ?>">
-    <header>
-
-<?php if ($cover = $post->cover()): ?>
-<figure>
-          <img src="<?= $cover->crop(320, 180)->url() ?>" alt="<?= $cover->alt()->esc() ?>">
-</figure>
-<?php endif ?>
-
-      <h2 class="post-excerpt-title"><?= $post->title()->esc() ?></h2>
-    </header>
-    <?php if (($excerpt ?? true) !== false): ?>
-    <div class="post-excerpt-text">
-      <?php if ($post->summary()->isEmpty()): ?>
-      	<?= $post->text()->excerpt(140) ?>
-      <?php else: ?>
-      	<?= $post->summary()->text() ?>
-      <?php endif ?>
-    </div>
+<article class="post home">
+  <header class="post-header h1">
+    <h2 class="post-title"><?= $slot ?><a href="<?= $journal->url() ?>"><?= $journal->title()->esc() ?></a></h2>
+    <?php if ($journal->summary()->isNotEmpty()): ?>
+        <p class="post-subheading"><em><?= $journal->summary()->esc() ?></em></p>
     <?php endif ?>
-  </a>
+  </header>
+  <?php if ($cover = $journal->assignedCover()): ?>
+  <figure class="featured-image-container">
+<a href="<?= $cover->url() ?>" data-lightbox class="img" style="--w:2; --h:1">
+  <img src="<?= $cover->crop(1200, 800)->url() ?>" alt="<?= $cover->alt()->esc() ?>">
+</a>
+  <?php if ($cover->caption()): ?>
+<figcaption><?= $cover->caption() ?>
+<?php endif ?>
+  </figure>
+<?php endif ?>
+  
+  
+  <?php if ($journal->text()->isNotEmpty()): ?>
+  <div class="post text">
+    <?= $journal->text()->kt() ?>
+  </div>
+  <?php endif ?>
+
+<ul class="note">
+  <?php foreach($journal->children() as $note): ?>
+  <li>
+    <?php snippet('note-list-item', ['note' => $note]) ?>
+  </li>
+  <?php endforeach ?>
+</ul>
 </article>

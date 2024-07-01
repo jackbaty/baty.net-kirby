@@ -22,14 +22,14 @@ $recentJournals = collection('journals')->limit(7);
 $latestJournalDay = $latestJournal->date()->toDate('Y-m-d');
 
 if ($latestJournalDay == date('Y-m-d')) {
-    $dayHeading = 'Today,';
+    $dayHeading = '☀️ ';
  } else {
     $dayHeading = '';
 }
 
 $allPosts = collection('posts');
 $allPostsCount = $allPosts->count();
-$recentPosts = $allPosts->limit(10);
+$recentPosts = $allPosts->limit(5);
 
 ?>
 
@@ -38,42 +38,15 @@ $recentPosts = $allPosts->limit(10);
 <?php snippet('welcome') ?>
 
 <!-- most recent daily post -->
-<article class="post home">
-  <header class="post-header h1">
-    <h2 class="post-title"><?= $dayHeading ?> <a href="<?= $latestJournal->url() ?>"><?= $latestJournal->title()->esc() ?></a></h2>
-    <?php if ($latestJournal->subheading()->isNotEmpty()): ?>
-        <p class="post-subheading"><small><?= $latestJournal->subheading()->esc() ?></small></p>
-    <?php endif ?>
-  </header>
-  <?php if ($cover = $latestJournal->assignedCover()): ?>
-  <figure class="featured-image-container">
-<a href="<?= $cover->url() ?>" data-lightbox class="img" style="--w:2; --h:1">
-  <img src="<?= $cover->crop(1200, 800)->url() ?>" alt="<?= $cover->alt()->esc() ?>">
-</a>
-  <?php if ($cover->caption()): ?>
-<figcaption><?= $cover->caption() ?>
-<?php endif ?>
-  </figure>
-<?php endif ?>
-  <?php if ($latestJournal->text()->isNotEmpty()): ?>
-  <div class="post text">
-    <?= $latestJournal->text()->kt() ?>
-  </div>
-  <?php endif ?>
+<?php snippet('post-home',['journal' => $latestJournal], slots: true) ?>
+	<?= $dayHeading ?>
+<?php endsnippet() ?>
 
-<ul class="note">
-  <?php foreach($latestJournal->children() as $note): ?>
-  <li>
-    <?php snippet('note-list-item', ['note' => $note]) ?>
-  </li>
-  <?php endforeach ?>
-</ul>
-<div class="more-posts"><a href="/journal">Previous journal entries &rarr;</a></div>
-</article>
+
 <!-- /most recent daily post -->
 
 
-<?php if(false): ?>
+<?php if(true): ?>
 <!-- recent posts links -->
 <div class="recent-posts">
   <h2 class="uppercase color-grey">Recent blog posts</h2>
@@ -92,6 +65,7 @@ $recentPosts = $allPosts->limit(10);
 <?php endif ?>
 
 <!-- recent posts full text -->
+<?php if(false): ?>
 <h2 class="recent">{ Recent posts }</h2>
 
 <ul>
@@ -115,37 +89,18 @@ $recentPosts = $allPosts->limit(10);
     <?php endif ?>
   <?php endforeach ?>
 </ul>
+<?php endif ?>
 <!-- /recent posts full text -->
 
 
-<?php if(false): ?>
+<?php if(true): ?>
 <!-- recent daily notes full text -->
 <ul>
   <?php foreach ($recentJournals as $journal): ?>
 	  <?php if ($journal->url() != $latestJournal->url()): ?>
 
+			<?php snippet('post-home',['journal' => $journal]) ?>
 
-<article class="post home">
-  <header class="post-header h1">
-    <h2 class="post-title"><a href="<?= $journal->url() ?>"><?= $journal->title()->esc() ?></a></h2>
-    <?php if ($journal->summary()->isNotEmpty()): ?>
-        <p class="post-subheading"><em><?= $journal->summary()->esc() ?></em></p>
-    <?php endif ?>
-  </header>
-  <?php if ($journal->text()->isNotEmpty()): ?>
-  <div class="post text">
-    <?= $journal->text()->kt() ?>
-  </div>
-  <?php endif ?>
-
-<ul class="note">
-  <?php foreach($journal->children() as $note): ?>
-  <li>
-    <?php snippet('note-list-item', ['note' => $note]) ?>
-  </li>
-  <?php endforeach ?>
-</ul>
-</article>
     <?php endif ?>
   <?php endforeach ?>
 </ul>

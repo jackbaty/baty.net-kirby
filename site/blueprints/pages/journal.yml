@@ -10,6 +10,8 @@ icon: 📖
 icon: 🗓️
 create:
   status: draft
+  title: "{{ site.pretty-date }}"
+  slug: "{{ site.daynum }}"
   fields:
     - weather
     - weather_icon
