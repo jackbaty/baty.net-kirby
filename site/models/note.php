@@ -31,6 +31,11 @@ class NotePage extends Page
     {
     	return $this->content()->cover()->toFile();
     }
-
+    
+    /* because I got fancy with real Posts */
+    public function postContent()
+    {
+    	return $this->content()->text()->kt();
+    }
     
 }
