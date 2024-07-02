@@ -1,0 +1,25 @@
+Caption: My mood today
+
+----
+
+Alt: 
+
+----
+
+Photographer: 
+
+----
+
+License: 
+
+----
+
+Link: 
+
+----
+
+Uuid: ZB2rR29YoSddhVqw
+
+----
+
+Template: image

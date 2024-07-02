@@ -1,0 +1,29 @@
+Title: AI hype is a different kind of hype
+
+----
+
+Text: People talk about "AI Hype" like it's going to just stop soon, like, say, NFTs did. The way I see it, almost no one wanted what blockchain promised, but almost everyone wants what AI promises. It's not the same kind of hype.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2024-07-01 11:30:00
+
+----
+
+Tags: AI
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: 1lRrOLflJEyFFfkl

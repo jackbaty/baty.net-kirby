@@ -1,0 +1,33 @@
+Title: Now that I'm back in my custom Kirby blog...
+
+----
+
+Text:
+
+I'm a week into moving this blog back to Kirby CMS and I want to change things. No, I have no urge to move to some other platform, for once. The change I want to make is to (mostly) use the daily journal and notes for everything. "Normal" blog posts feel like too much work right now. I'd rather post some short, spur-of-the-moment notes and give them a title if it makes sense. And for even less interesting notes, I love writing in the daily note field because those notes aren't included in the RSS feed. It feels like "private" journaling, even though it doesn't even resemble private.
+
+If I do this, it might mean that I'll change the home page to show a list of recent daily notes rather than the last 10 blog posts. I used to show Today, then links to the last 5 posts, then six more days of daily notes. I'm thinking about going back to that, since it's the daily stuff that gets updated frequently. This how daily.baty.net worked, but it's everything all in one place. Still noodling on it.
+
+----
+
+Showtitle: true
+
+----
+
+Date: 2024-06-30 16:00:00
+
+----
+
+Tags: Blogging
+
+----
+
+Cover: 
+
+----
+
+Smallimage: - file://Ys366r89gQfEEeuv
+
+----
+
+Uuid: boW44yqCh8JJw0mp

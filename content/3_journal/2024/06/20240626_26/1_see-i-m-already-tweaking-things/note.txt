@@ -1,0 +1,29 @@
+Title: See? I'm already tweaking things
+
+----
+
+Text: I spent an hour this morning futzing with Kirby. See? I knew this would happen. Part of me is happy about it, and part of me is chiding myself over going through all this again. The happy part is winning today. Kirby is, when doing certain things, quite pleasant to work with. I don't mind this kind of futzing.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2024-06-26 10:20:00
+
+----
+
+Tags: meta
+
+----
+
+Cover: 
+
+----
+
+Smallimage: - file://M9FEHMuXqFyOc6QD
+
+----
+
+Uuid: E04GE6LQxG1qtXwQ

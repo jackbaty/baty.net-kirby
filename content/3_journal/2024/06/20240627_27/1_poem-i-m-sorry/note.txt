@@ -1,0 +1,36 @@
+Title: Poem: I'm sorry
+
+----
+
+Text:
+
+I’m sorry
+...  
+what were you saying?  
+I was just noticing  
+how that tree  
+reminds me of something.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2024-06-27 11:55:00
+
+----
+
+Tags: Poem
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: NbiKcgPI5AYIHvf8

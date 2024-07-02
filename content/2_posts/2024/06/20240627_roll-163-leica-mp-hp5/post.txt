@@ -1,0 +1,37 @@
+Title: Roll-163 (Leica MP/HP5)
+
+----
+
+Summary: 
+
+----
+
+Useblocks: true
+
+----
+
+Text: 
+
+----
+
+Blocks: [{"content":{"text":"<p>There's almost nothing better than average from the latest roll of HP5 through the Leica MP. I shot it at 800 to give me better odds of usable indoor photos, but it didn't help much. Still, photos of my family are always worth keeping.</p>"},"id":"2145fab4-cc5f-43a4-88cd-381a54e61306","isHidden":false,"type":"text"},{"content":{"images":["file://Nvt11hYSEncRLSPO","file://7DzuyrF1nXQeZ5SU","file://0tqtndriRolGi9DT","file://yW5cLYKtsqflmNjZ","file://DiHgZebgBCHo8QWE","file://4Ci1YbDei4t7tVA5"],"caption":"","ratio":"","crop":"false"},"id":"fd14709e-9fd9-4536-bc52-24787ccce689","isHidden":false,"type":"gallery"}]
+
+----
+
+Cover: 
+
+----
+
+Date: 2024-06-27 09:55:00
+
+----
+
+Author: 
+
+----
+
+Tags: Photography, Leica, Film, HP5
+
+----
+
+Uuid: 5jA1pR9yrk9vBJ8x
