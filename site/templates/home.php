@@ -49,7 +49,7 @@ $recentPosts = $allPosts->limit(5);
 <?php if(true): ?>
 <!-- recent posts links -->
 <div class="recent-posts">
-  <h2 class="uppercase color-grey">Recent blog posts</h2>
+  <h2 class="uppercase color-grey">Latest blog posts</h2>
 
 <ul>
 <?php foreach ($recentPosts as $post): ?>
@@ -59,7 +59,7 @@ $recentPosts = $allPosts->limit(5);
   <?php endforeach ?>
 </ul>
 
-<div class="more-posts"><a href="/posts">More posts &rarr;</a></div>
+<div class="more-posts"><a href="/posts">See all <?= $allPostsCount ?> posts in the archive &rarr;</a></div>
 </div>
 <!-- /recent posts links -->
 <?php endif ?>
@@ -107,7 +107,7 @@ $recentPosts = $allPosts->limit(5);
 <!-- /recent daily notes full text -->
 <?php endif ?>
 
+<div class="more-posts"><a href="/journal">Previous journal entries &rarr;</a></div>
 
-<div class="more-posts"><a href="/posts">See all <?= $allPostsCount ?> posts in the archive &rarr;</a></div>
 
 <?php snippet('footer') ?>

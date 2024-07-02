@@ -10,4 +10,3 @@ Kirby::plugin('getkirby/date-to-slug', [
 	}
 	]
 ]);
-
