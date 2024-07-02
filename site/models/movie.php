@@ -20,13 +20,9 @@
 class MoviePage extends Page
 {
 
-    // public function published($format = null)
+// 	public function cover()
 //     {
-//         return parent::date()->toDate($format ?? 'd M, Y');
-//     }
-    // public function url($options = null): string
-//     {
-//         return '/' . $this->date()->toDate('Y/m') . '/' . $this->slug();
+//         return $this->content()->cover()->toFile() ?? $this->image();
 //     }
 
 }

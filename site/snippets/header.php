@@ -69,7 +69,7 @@
   <meta property="og:site_name" content="Baty.net">
   <meta property="og:url" content="<?= $page->url() ?>">
   <?php if ($image = $page->image()): ?>
-      <meta property="og:image" content="<?= $page->cover()->url() ?>">
+      <meta property="og:image" content="<?= $image->url() ?>">
   <?php else: ?>
       <meta property="og:image" content="<?= url('assets/images/pipeguy-og.png') ?>">
   <?php endif ?>

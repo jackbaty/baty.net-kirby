@@ -1,3 +1,4 @@
+       
         <?php if($image = $page->cover()->toFile()): ?>
         <img class="floatright" width="185px" src="<?= $image->url() ?>" alt="<?= $image->alt() ?>">
         <?php endif ?>
@@ -13,8 +14,9 @@
         
 
         <blockquote><?= $page->summary() ?></blockquote>  
-        
+        <br clear="all">
         <div style="margin-top: 30px;">
+        <h2>My Review</h2>
         <?= $page->text()->kt() ?>
         </div>
         
