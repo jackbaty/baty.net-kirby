@@ -27,9 +27,9 @@ if ($latestJournalDay == date('Y-m-d')) {
     $dayHeading = '';
 }
 
-$allPosts = collection('posts');
+$allPosts = collection('posts-and-journals');
 $allPostsCount = $allPosts->count();
-$recentPosts = $allPosts->limit(5);
+$recentPosts = $allPosts->limit(10);
 
 ?>
 
@@ -37,8 +37,8 @@ $recentPosts = $allPosts->limit(5);
   
 <?php snippet('welcome') ?>
 
-<!-- most recent daily post -->
-<?php snippet('post-home',['journal' => $latestJournal], slots: true) ?>
+<!-- most recent daily journal -->
+<?php snippet('journal-home',['journal' => $latestJournal], slots: true) ?>
 	<?= $dayHeading ?>
 <?php endsnippet() ?>
 
@@ -46,7 +46,7 @@ $recentPosts = $allPosts->limit(5);
 <!-- /most recent daily post -->
 
 
-<?php if(true): ?>
+<?php if(false): ?>
 <!-- recent posts links -->
 <div class="recent-posts">
   <h2 class="uppercase color-grey">Latest blog posts</h2>
@@ -64,28 +64,19 @@ $recentPosts = $allPosts->limit(5);
 <!-- /recent posts links -->
 <?php endif ?>
 
+
+
 <!-- recent posts full text -->
-<?php if(false): ?>
-<h2 class="recent">{ Recent posts }</h2>
+<?php if(true): ?>
+<h2 class="recent">{ Recent posts and journals }</h2>
 
 <ul>
   <?php foreach ($recentPosts as $post): ?>
 	  <?php if ($post->url() != $latestJournal->url()): ?>
-
-<article class="post home">
-  <header class="post-header h1">
-    <h2 class="post-title"><a href="<?= $post->url() ?>"><?= $post->title()->esc() ?></a></h2>
-    <?php if ($post->summary()->isNotEmpty()): ?>
-        <p class="post-subheading"><em><?= $post->summary()->esc() ?></em></p>
-    <?php endif ?>
-  </header>
-  <div class="post text">
-    <?= $post->postContent() ?>
-    
-    <time class="post-excerpt-date" datetime="<?= $post->published('c') ?>"><?= $post->published() ?><?php if (!empty($post->tags())): ?><?php endif ?></time>
-  </div>
-
-</article>
+	  
+		<!-- the post-home snippet decides how to render posts vs journals -->
+		<?php snippet('post-home',['post' => $post]) ?>
+		
     <?php endif ?>
   <?php endforeach ?>
 </ul>
@@ -93,13 +84,13 @@ $recentPosts = $allPosts->limit(5);
 <!-- /recent posts full text -->
 
 
-<?php if(true): ?>
+<?php if(false): ?>
 <!-- recent daily notes full text -->
 <ul>
   <?php foreach ($recentJournals as $journal): ?>
 	  <?php if ($journal->url() != $latestJournal->url()): ?>
 
-			<?php snippet('post-home',['journal' => $journal]) ?>
+			<?php snippet('journal-home',['journal' => $journal]) ?>
 
     <?php endif ?>
   <?php endforeach ?>

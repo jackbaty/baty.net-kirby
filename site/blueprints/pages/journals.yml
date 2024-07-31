@@ -4,12 +4,6 @@ title: Posts
 # Each page can have an icon that is shown in page listings when no preview image is available.
 icon: 📖
 
-# Define the form layout with two columns
-# More about columns: https://getkirby.com/docs/guide/blueprints/layout#defining-columns
-
-
-# In the first column, we reuse the `posts` section
-# (defined in `/site/blueprints/sections/posts.yml` twice with different page status and headline
 sections:
   drafts:
     extends: sections/journals

@@ -20,9 +20,9 @@
 class MoviePage extends Page
 {
 
-// 	public function cover()
-//     {
-//         return $this->content()->cover()->toFile() ?? $this->image();
-//     }
+	public function cover()
+    {
+        return $this->content()->cover()->toFile() ?? $this->image();
+    }
 
 }

@@ -6,8 +6,8 @@
 <article class="post-excerpt">
 <h2 class="post-excerpt-title"><a href="<?= $movie->url() ?>"><?= $movie->title()->esc() ?></a> (<?= $movie->year() ?>)</h2>
 <time class="post-excerpt-date" datetime="<?= $movie->published('c') ?>"><?= $movie->published()->toDate('M d, Y') ?></time>
-     <?php if($image = $movie->cover()->toFile()): ?>
-        <img class="floatleft" style="margin-right: 10px;" width="80px" src="<?= $image->url() ?>" alt="<?= $image->alt() ?>"><?php endif ?>
+     <?php if ($cover = $movie->cover()): ?>
+        <img class="floatleft" style="margin-right: 10px;" width="80px" src="<?= $cover->url() ?>" alt="<?= $cover->alt() ?>"><?php endif ?>
 <?= $movie->rating() ?>
     <div class="post-excerpt-text">
       	<?= $movie->text()->text() ?>

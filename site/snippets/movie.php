@@ -1,6 +1,6 @@
        
-        <?php if($image = $page->cover()->toFile()): ?>
-        <img class="floatright" width="185px" src="<?= $image->url() ?>" alt="<?= $image->alt() ?>">
+        <?php if ($cover = $page->cover()): ?>
+        <img class="floatright" width="185px" src="<?= $cover->url() ?>" alt="<?= $cover->alt() ?>">
         <?php endif ?>
 <div class="text">
         
