@@ -1,0 +1,33 @@
+Title: 29 December 2024 (Sunday)
+
+----
+
+Summary: 
+
+----
+
+Text: Who'd have thought I would dust off the Kirby version of the blog, upgrade to Kirby 4.5.0, and deploy it to the server? I would not have, in case you're wondering.
+
+----
+
+Cover: 
+
+----
+
+Date: 2024-12-29 12:00:00
+
+----
+
+Weather: Light rain 43.0 | Low 32.5, High 40.3
+
+----
+
+Weather-icon: 176
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: mRLJyry15NRoTScB

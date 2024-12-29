@@ -1,0 +1,35 @@
+Title: Making up with Emacs
+
+----
+
+Text:
+
+Leaving Emacs is something I frequently consider, and occasionally try. 
+
+I got mad at Emacs last weekend and swore off it, once and for all... again. Things that I need to always work stopped working for no reason I could fathom. That's not how I want to live, so I quit in a huff.
+
+After exploring Evernote this week, I was reminded that I kind of don't want to go without Emacs for any length of time. I spent time today fixing what I could. It might be enough. We're getting along again.
+
+----
+
+Showtitle: true
+
+----
+
+Date: 2024-07-04 12:45:00
+
+----
+
+Tags: Emacs
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: KLD77sTeFF2FELy1

@@ -1,0 +1,35 @@
+Title: 500 Social
+
+----
+
+Text:
+
+[Kev Quirk](http://kevquirk.com) has been talking about firing up a small-scale Mastodon instance as a sort of counter to the behemoth that [Fosstodon](https://fosstodon.org/) has become. Today, he introduced [500 Social](https://500.social/), "The deliberately small online community". I love the idea of smaller communities, so of course I signed up immediately.
+
+I'm [@jack](https://500.social/@jack) on 500.social. I went with @jack because I think it emphasizes the smallness of the instance. Like we're on first-name basis with each other. The handle is a little risky, because of that other @jack that no one likes any more, but he's faded a bit, and no one I want to follow uses his old platform now, anyway.
+
+I don't yet know how I'll use the new account. Maybe I'll migrate from [social.lol/@jbaty](https://social.lol/@jbaty) but that seems like more of the same. What I'm thinking is that I'll keep the new account separate and interact primarily with others on the instance. That feels a bit like going against the federation grain, so we'll see.
+
+----
+
+Showtitle: true
+
+----
+
+Date: 2024-07-28 11:30:00
+
+----
+
+Tags: Social
+
+----
+
+Cover: 
+
+----
+
+Smallimage: - file://oYyO0Nh54LeeOHNk
+
+----
+
+Uuid: 8xYLob6GOx1wi5ri

@@ -1,0 +1,37 @@
+Title: 27 July 2024 (Saturday)
+
+----
+
+Summary: 
+
+----
+
+Text:
+
+[SilverBullet](https://silverbullet.md) feels like a cross between TiddlyWiki and Obsidian with a dash of Emacs.
+
+We are heading up to the annual Family reunion in Newaygo today. Everyone normally gets along fine. I hope that continues this year.
+
+----
+
+Cover: 
+
+----
+
+Date: 2024-07-27 11:15:00
+
+----
+
+Weather: Sunny 58.8 | Low 54.8, High 79.6
+
+----
+
+Weather-icon: 113
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: NSf1gRtiURVJ4KJM

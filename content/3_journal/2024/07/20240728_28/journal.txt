@@ -1,0 +1,37 @@
+Title: 28 July 2024 (Sunday)
+
+----
+
+Summary: 
+
+----
+
+Text:
+
+Arc Browser is better than Safari in many ways, but Safari is quieter, somehow, and most of the time that's what I prefer.
+
+I decided to change how [jackbaty.com](https://jackbaty.com) is generated. It's no longer exported from an Org-mode file. It's now a Markdown file and I create the HTML via Pandoc. I also added Simple.css for some added purdiness.
+
+----
+
+Cover: - file://HC4wKA1C3OFGyxLU
+
+----
+
+Date: 2024-07-28 09:25:00
+
+----
+
+Weather: Clear 57.2 | Low 57.0, High 84.6
+
+----
+
+Weather-icon: 176
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: muKG7pEiWHHcTLuI

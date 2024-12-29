@@ -1,0 +1,37 @@
+Title: 25 July 2024 (Thursday)
+
+----
+
+Summary: 
+
+----
+
+Text:
+
+I'm once again thinking about decommissioning the Synology. It's something that will break and I don't want to deal with fixing it. I'm not seeing useful updates to the OS or apps (e.g. Photos) so right now it's just a Plex server. I'm running another Plex server on the 2014 Mac Mini, which handles things well enough.
+
+I may need to pause my SilverBullet testing. The index page keeps getting hosed. My templates disappear and the file gets renamed with extended characters. I've been hitting it pretty hard from various browsers/domains so this might just be me doing things I shouldn't, but still. I'd report it, but have no idea how to reproduce it. It's happened 3 times so far.
+
+----
+
+Cover: 
+
+----
+
+Date: 2024-07-25 10:10:00
+
+----
+
+Weather: Mist 54.9 | Low 54.6, High 76.5
+
+----
+
+Weather-icon: 113
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: ZlwZ65uvzeQYHrXk

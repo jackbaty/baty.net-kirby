@@ -1,0 +1,29 @@
+Title: Everything.rss is deprecated
+
+----
+
+Text: I am shutting down the Digital Ocean instance running RSSBridge, and I don't want to move or maintain it, which means https://baty.net/everything.rss will no longer contain aggregated RSS feeds for my sites. I'm redirecting to the Baty.net main feed. Sorry for the disruption.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2024-07-10 12:55:00
+
+----
+
+Tags: meta
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: yiBBRqa5r5v8aO9E

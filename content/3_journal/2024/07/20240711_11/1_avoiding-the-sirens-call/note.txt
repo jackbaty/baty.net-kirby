@@ -1,0 +1,33 @@
+Title: Avoiding the sirens' call
+
+----
+
+Text:
+
+(image: siren-emacs.jpeg)
+
+I should just use Emacs for everything, but I am often tempted away from it.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2024-07-11 16:20:00
+
+----
+
+Tags: Emacs
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: cehiYvtSOjNQk3zN

@@ -1,0 +1,29 @@
+Title: What if I didn't have "Posts"
+
+----
+
+Text: I prefer writing short, simple daily posts here in the Journal section of the blog. Longer posts have been in /posts, but those are becoming fewer and further between. I may combine everything into these daily notes and see how that goes. It would be nice not having to decide which goes where every time.
+
+----
+
+Showtitle: true
+
+----
+
+Date: 2024-07-16 13:25:00
+
+----
+
+Tags: meta
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: spklaFQ3ZFSA3yrz

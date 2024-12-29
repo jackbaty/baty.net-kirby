@@ -1,0 +1,33 @@
+Title: 15 July 2024 (Monday)
+
+----
+
+Summary: 
+
+----
+
+Text: Last week I deleted my old web/static server at Digital Ocean. I just realized that's where my Gitea instance lived. Oops.
+
+----
+
+Cover: 
+
+----
+
+Date: 2024-07-15 09:40:00
+
+----
+
+Weather: Mist 64.0 | Low 63.4, High 85.6
+
+----
+
+Weather-icon: 176
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: jwnnvUtBzyD0ONbf

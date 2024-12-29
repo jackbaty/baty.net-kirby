@@ -1,0 +1,33 @@
+Title: 1 August 2024 (Thursday)
+
+----
+
+Summary: 
+
+----
+
+Text: Kirby needs some manual code and folder changes at the start of each month and I don't enjoy that. Too lazy to figure out the right way to fix it, so I keep doing it. Update: [no I don't](https://baty.net/posts/2024/a-different-url-for-posts)
+
+----
+
+Cover: 
+
+----
+
+Date: 2024-08-01 08:45:00
+
+----
+
+Weather: Clear 66.0 | Low 65.1, High 84.1
+
+----
+
+Weather-icon: 176
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: BNEmqnI73aJJPhJa

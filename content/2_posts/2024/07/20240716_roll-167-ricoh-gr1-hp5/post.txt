@@ -1,0 +1,37 @@
+Title: Roll-167 (Ricoh GR1. HP5)
+
+----
+
+Summary: 
+
+----
+
+Useblocks: true
+
+----
+
+Text: 
+
+----
+
+Blocks: [{"content":{"text":"<p>Now that I know I can use the GR1, I want to use it all the time. I went through a roll quickly at my parents' house during a recent visit with my grandson. The 28mm is at least good for self-portraits :).</p>"},"id":"39b1fe5d-c392-42b4-aff8-d92a512f7663","isHidden":false,"type":"text"},{"content":{"images":["file://daRnelzicLjYAxqQ","file://YkhHlebs6Mz783Qu","file://45ZF1D01a6xHiyJF","file://78kpr8nG7GGXcv0W"],"caption":"","ratio":"","crop":"false"},"id":"fc165ead-733d-4960-a815-5f2114b96bc6","isHidden":false,"type":"gallery"}]
+
+----
+
+Cover: 
+
+----
+
+Date: 2024-07-16 09:40:00
+
+----
+
+Author: 
+
+----
+
+Tags: Photography, GR1, Film
+
+----
+
+Uuid: fqMpJ1CveUDaJUTt

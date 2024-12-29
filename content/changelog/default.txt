@@ -10,6 +10,9 @@ Text:
 
 A running list of changes I've made to this site. Most recent first. The source is at https://git.baty.net/jbaty/baty.net-kirby. Feel free to suggest improvements.
 
+- 2024-07-31 Changed font to system and bumped size
+- 2024-07-31 Another home page revamp. Shows recent posts and journals in full, intermingled.
+- 2024-07-01 Revamped home page. Shows 7 recent full journal posts.
 - 2024-06-26 Fixed missing content from Notes in RSS feed.
 - 2024-06-26 Added cover image and caption to journal entries. Tightened up CSS.
 - 2024-06-14 Upgraded to (link: https://github.com/getkirby/kirby/releases/tag/4.3.0 text: Kirby 4.3.0)

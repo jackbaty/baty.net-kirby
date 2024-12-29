@@ -1,0 +1,33 @@
+Title: My 20-year anniversary with Flickr
+
+----
+
+Text:
+
+(image: jess-on-tramp.jpg)
+
+I posted the [above photo to Flickr](https://www.flickr.com/photos/jbaty/62147/in/dateposted-public/) 20 years ago today. It was my first. Flickr remains the best place to upload photos. I just wish it was still the best option for _sharing_ them.
+
+----
+
+Showtitle: true
+
+----
+
+Date: 2024-07-05 14:50:00
+
+----
+
+Tags: 
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: Jpf77MNFYTFhG7li

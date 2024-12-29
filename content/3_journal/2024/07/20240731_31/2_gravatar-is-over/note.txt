@@ -1,0 +1,34 @@
+Title: Gravatar is over
+
+----
+
+Text:
+
+[Mastering Decentralized Identity for Business – Gravatar Blog](https://blog.gravatar.com/2024/07/30/decentralized-identity-management/)
+> Blockchain technology is fundamental to decentralized identity systems. Here’s why:
+
+I hate everything about this (I bet, since no way I'm reading that whole thing).
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2024-07-31 13:10:00
+
+----
+
+Tags: 
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: w8IcU5gB22OpLQZW

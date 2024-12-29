@@ -1,0 +1,66 @@
+Title: Where In the World is Jack? Ep. 4
+
+----
+
+Summary: 
+
+----
+
+Useblocks: false
+
+----
+
+Text:
+
+## No more giant walls of text
+
+I am an advocate of "plain text" notes. Plain text is resilient, malleable, lightweight, and universal. It's also, well, plain.
+
+Reading plain text notes often ends up feeling like I'm staring at a giant wall of text. It gets boring. Worse, it's not that _useful_.
+
+When I'm feeling plain-text fatigue, I turn to tools that are more visual. My favorites are Tinderbox[^2], Curio[^1], and TheBrain[^3].
+
+[image maybe?: tinderbox.jpg]
+The new Gaudi view in Tinderbox 10
+
+Each time I move to using a visual tool, I experience a sense of relief. Instead of using complex and arcane keyboard shortcuts to manipulate a wall of text (:cough:, Emacs), I can simply lean back in my chair and manage things with the mouse. One-handed computing is so pleasant!
+
+So, the answer to "Where in the World is Jack?" this month is: **Curio**. In fact, I'm using it to manage writing this article.
+
+[image: curio-this-project.png]
+
+Similar to Apple's new Freeform app, Curio is a "freeform notebook environment", but Curio is much more. It's furiously capable and powerful as a visual note-taking or project management tool. Curio has been around for more than 20 years, and its developer, George, remains friendly and responsive. It's a delightful bit of software.
+
+It's amazing how, when coming back to an old project in Curio, I can open it and immediately get a sense for the shape of the project, no matter how old. As a fan of the visual tool, [Kinopio](https://kinopio.club/hello-kinopio-6mKA1LxTWWVdAcZgq1QA0), the author of this newsletter, probably knows what I mean.
+
+
+
+So, right now, my projects are being managed in Curio. No more giant walls of text.
+
+[^1]: Curio, https://zengobi.com/curio/
+[^2]: Tinderbox, https://eastgate.com/Tinderbox
+[^3]: TheBrain, https://thebrain.com
+
+----
+
+Blocks: 
+
+----
+
+Cover: 
+
+----
+
+Date: 2024-07-16 11:15:00
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Uuid: 7Mu7r91tqBpCpaGu

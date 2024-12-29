@@ -1,0 +1,29 @@
+Title: Over on baty.blog for a minute
+
+----
+
+Text: Suddenly, using Kirby here feels overwrought and fragile. It's just a feeling, but you know how it goes. I think I'll post over on the [blot blog](https://baty.blog) for a bit.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2024-08-11 14:45:00
+
+----
+
+Tags: 
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: Sm0kXLiMYEtt6KXn

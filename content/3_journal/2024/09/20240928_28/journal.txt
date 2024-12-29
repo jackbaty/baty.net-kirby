@@ -1,0 +1,33 @@
+Title: 28 September 2024 (Saturday)
+
+----
+
+Summary: 
+
+----
+
+Text: This goes where, now?
+
+----
+
+Cover: 
+
+----
+
+Date: 2024-09-28 12:05:00
+
+----
+
+Weather: Overcast 68.5 | Low 62.1, High 66.9
+
+----
+
+Weather-icon: 122
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: F9DNsahjv0nTqj8c

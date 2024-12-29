@@ -1,0 +1,29 @@
+Title: Film and digital
+
+----
+
+Text: I'm not saying that film photographs are more interesting than digital photographs. I'm just saying that film photographs are more interesting than digital photographs.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2024-08-03 12:35:00
+
+----
+
+Tags: Photography, Film
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: EOVenQ9WOXmrYUo1

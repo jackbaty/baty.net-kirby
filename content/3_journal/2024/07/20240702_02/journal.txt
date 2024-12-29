@@ -1,0 +1,41 @@
+Title: 2 July 2024 (Tuesday)
+
+----
+
+Summary: 
+
+----
+
+Text:
+
+🍿 [The Fuzz](https://baty.net/movies/the-fuzz-2013) ★★
+
+Farted around with Kirby again this morning. I fixed the og:image and og:description metadata. Improved the layout of [movie](/movies) pages. This is the fun and useful sort of futzing that I don't mind doing.
+
+I saw that [Supacel](https://www.rottentomatoes.com/tv/supacell) was seeing 100% on Rotten Tomatoes. Should be worth a look, even though I said I was done with anything superhero related. I should have listened. I simply don't care about superhero stories anymore.
+
+Emacs made me so mad on Monday that I've not launched it since.
+
+----
+
+Cover: - file://vT5TjIYmKHj3iyDD
+
+----
+
+Date: 2024-07-02 09:50:00
+
+----
+
+Weather: Clear 57.0 | Low 49.0, High 72.3
+
+----
+
+Weather-icon: 176
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: sW5pE4L2o8mdhAVT

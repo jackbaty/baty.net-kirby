@@ -6,7 +6,11 @@ Headline: Hi! I'm Jack 👋
 
 ----
 
-Subheadline: Welcome to my blog about everything.
+Subheadline: This is my blog about everything
+
+----
+
+Summary: A blog about everything by Jack Baty
 
 ----
 

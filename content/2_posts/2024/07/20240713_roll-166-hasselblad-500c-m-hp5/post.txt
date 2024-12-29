@@ -1,0 +1,37 @@
+Title: Roll-166 (Hasselblad 500C/M. HP5)
+
+----
+
+Summary: 
+
+----
+
+Useblocks: true
+
+----
+
+Text: 
+
+----
+
+Blocks: [{"content":{"text":"<p>I brought the Hasselblad to my parents house while my daughter and grandson were visiting. I underexposed the roll a bit, but the hit rate was better than expected. I love this one of my sister and Lincoln.</p>"},"id":"77de45a5-85f2-42fc-b9af-9b668108e732","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://Sc3lfOZvzTcdZ0Lb"],"src":"","alt":"","caption":"Sister and grandson having a good laugh. (Hasselblad 500C/M. Zeiss Planar 80mm. HP5.)","camerainfo":"","link":"","ratio":"","crop":"false"},"id":"506dce31-a702-4e83-965a-f190d3c05ede","isHidden":false,"type":"image"},{"content":{"images":["file://L7ewEvH6ltUUMiCq","file://pwYdmPrcmV0DnCZB","file://XXWT7wTiQju0T85r","file://pffBuuyqoNJ7qQEe"],"caption":"","ratio":"","crop":"false"},"id":"0ac08de4-55fa-4a95-a433-e4f6c817c911","isHidden":false,"type":"gallery"}]
+
+----
+
+Cover: 
+
+----
+
+Date: 2024-07-13 10:30:00
+
+----
+
+Author: 
+
+----
+
+Tags: Photography, Film, Hasselblad
+
+----
+
+Uuid: ab1QT6CVlQHBomUo

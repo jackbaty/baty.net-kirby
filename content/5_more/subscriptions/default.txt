@@ -14,49 +14,55 @@ I keep my list of subscriptions in an Org-mode file so I'll just copy and paste 
 
 Not all of these are actually paid for monthly. Some I pay for annually, but have calculated the monthly costs here (in USD).
 
+Updated: July 11, 2024
+
 ```
 | Service           | Monthly Fee | Live without? |
-|-------------------|-------------|---------------|
+|-------------------|-------------|:-------------:|
+| Adobe             | 20          |               |
 | Amazon AWS        | 2           |               |
 | Amazon Prime      | 9           |               |
 | Apple One         | 37          |               |
+| Backblaze B2      | 15          |               |
 | Capture One       | 11          |               |
 | Day One           | 2           |               |
-| DigitalOcean      | 15          |               |
 | Fastmail          | 5           |               |
 | Flickr            | 6           |               |
-| Glass             | 3           | X             |
-| Hulu              | 12          | X             |
-| Max (HBO)         | 10          | X             |
+| Hetzner           | 15          |               |
+| Glass             | 3           |       X       |
+| Hulu              | 12          |       X       |
+| Max (HBO)         | 10          |       X       |
 | NYTimes           | 25          |               |
 | Neatnik (omg.lol) | 2           |               |
-| Netflix           | 17          | X             |
+| Netflix           | 17          |       X       |
 | Put.io            | 10          |               |
 | SetApp            | 10          |               |
-| Sourcehut         | 2           | X             |
 | Spotify           | 15          |               |
 | The Atlantic      | 6           |               |
 | TheBrain          | 14          |               |
 | Tinderbox         | 8           |               |
 | Tinylytics        | 5           |               |
-| Vultr             | 6           |               |
 | YouTube Premium   | 18          |               |
-| Total:            | 250         |               |
+| Total:            | 277         |               |
 
 Canceled subscriptions
 
-| Service    | Monthly Fee | Notes                      |
-|------------|-------------|----------------------------|
-| Adobe      | 11          |                            |
-| Photomator | 3           | X                          |
-| Photoscan  | 4           | I can use Google's version |
-| Qobuz      | 11          |                            |
-| Total:     | 29          |                            |
+| Service      | Monthly Fee | Notes                      |
+|--------------|-------------|----------------------------|
+| DigitalOcean | 15          |                            |
+| Sourcehut    | 2           | X                          |
+| Photomator   | 3           | X                          |
+| Photoscan    | 4           | I can use Google's version |
+| Qobuz        | 11          |                            |
+| Vultr        | 6           |                            |
+| Total:       | 41          |                            |
 
 ```
 
 ## Log
+- 2024-07-11 - Updated. Reinstated Adobe. Canceled Vultr
 - 2024-01-10 - Canceled Adobe, Photomator, Photoscan, and Qobuz
+-
 
 ----
 

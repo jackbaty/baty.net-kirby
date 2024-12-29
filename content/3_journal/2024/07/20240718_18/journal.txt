@@ -1,0 +1,37 @@
+Title: 18 July 2024 (Thursday)
+
+----
+
+Summary: 
+
+----
+
+Text:
+
+Posted using Tinderbox, Blot, TiddlyWiki, and now Kirby. All today. Cool
+
+My sites were down for a while this morning. I'd done some server updates and restarted. Caddy didn't start automatically because for some reason Apache was already started. I don't remember installing Apache so ¯\_(ツ)_/¯. Anyway, disabled Apache and started Caddy.
+
+----
+
+Cover: 
+
+----
+
+Date: 2024-07-18 14:20:00
+
+----
+
+Weather: Partly cloudy 64.9 | Low 49.8, High 72.2
+
+----
+
+Weather-icon: 113
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: TPKat436XkVAKB81

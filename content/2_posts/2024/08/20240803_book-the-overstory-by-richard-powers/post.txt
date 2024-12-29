@@ -1,0 +1,37 @@
+Title: Book: The Overstory by Richard Powers
+
+----
+
+Summary: 
+
+----
+
+Useblocks: true
+
+----
+
+Text: 
+
+----
+
+Blocks: [{"content":{"location":"kirby","image":["file://n4dWkvjjKh7jO97a"],"src":"","alt":"","caption":"","camerainfo":"","link":"","ratio":"","crop":"false"},"id":"366806bb-77bd-432e-8c5f-f4bfa3979310","isHidden":false,"type":"image"},{"content":{"text":"<em>The Overstory</em>, winner of the 2019 Pulitzer Prize in Fiction, is a sweeping, impassioned work of activism and resistance that is also a stunning evocation of—and paean to—the natural world. From the roots to the crown and back to the seeds, Richard Powers’s twelfth novel unfolds in concentric rings of interlocking fables that range from antebellum New York to the late twentieth-century Timber Wars of the Pacific Northwest and beyond. There is a world alongside ours—vast, slow, interconnected, resourceful, magnificently inventive, and almost invisible to us. This is the story of a handful of people who learn how to see that world and who are drawn up into its unfolding catastrophe.","citation":""},"id":"4ea5b477-58b8-40fc-90f1-0364dc7ebe5c","isHidden":false,"type":"quote"},{"content":{"text":"<p>I loved the initial short story-like introductions to each character in the first half of the book. I also enjoyed when their stories began to intersect at some point in the middle. But then it became a bit of a slog focusing on eco-terrorism. I admit to skimming the final third, which is too bad because it means I probably missed some really great sentences.</p><p>There's no way to read this book without falling completely in love with trees.</p>"},"id":"0177d8a6-9246-4c8f-830e-7149014e9bd8","isHidden":false,"type":"text"}]
+
+----
+
+Cover: 
+
+----
+
+Date: 2024-08-03 13:20:00
+
+----
+
+Author: 
+
+----
+
+Tags: Book
+
+----
+
+Uuid: b4gpJvNRbXm3fJJw

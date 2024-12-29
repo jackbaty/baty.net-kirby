@@ -1,0 +1,29 @@
+Title: Monday
+
+----
+
+Text: It's Monday. This morning I'm going with a simple setup. Emacs, Finder, Terminal, and Safari. Those are not the _only_ apps I'll use, but that's where I'm going to try focusing my attention. Also, I'm blogging here at baty.net with Kirby. I spent some time over the weekend with my other blogs. I love them, but need to Reduce & Simplify a bit. So, good morning!
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2024-07-22 10:50:00
+
+----
+
+Tags: Workflow
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: enIYK0XJtkekVgxo

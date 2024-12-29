@@ -1,0 +1,29 @@
+Title: Emacs vs and or SilverBullet
+
+----
+
+Text: You know what's weird? I've spent a couple hours today cleaning my Emacs init.el file and re-writing my [notmuch](https://notmuchmail.org) config (I'm switching back from Mu4e). That's not the weird part. The weird part is that nearly everything else I've typed today has been in a browser window via [SilverBullet](https://silverbullet.md).
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2024-07-24 17:40:00
+
+----
+
+Tags: Emacs, SilverBullet
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: cOdfjEbjLJOElS1g

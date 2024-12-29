@@ -1,0 +1,29 @@
+Title: Capture
+
+----
+
+Text: I'm beginning to think that it's a bad idea to optimize for quick and easy capture.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2024-07-21 11:45:00
+
+----
+
+Tags: 
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: IgtAGLkkt5kRAWIs

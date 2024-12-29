@@ -1,0 +1,33 @@
+Title: Pandoc to PDF issues
+
+----
+
+Text:
+
+I use (link: https://pandoc.org/ text: Pandoc) to convert markdown files to PDF for my journals and downloaded web content. Today, my usual script stopped working: something about `\pandocbounded`.
+
+The default.latex Pandoc template had recently been updated to include the new `\pandocbounded` macro used by Pandoc 3.2.1. [Here's the commit](https://github.com/jgm/pandoc-templates/commit/6c0e7b0a4f990debcd38b5c3bd8599193ae8f5a6). I integrated the diff with my personal template and all is well.
+
+----
+
+Showtitle: true
+
+----
+
+Date: 2024-07-07 13:25:00
+
+----
+
+Tags: 
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: 0S50tpCELfZDcEKp

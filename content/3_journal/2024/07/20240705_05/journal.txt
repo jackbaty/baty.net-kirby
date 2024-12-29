@@ -1,0 +1,33 @@
+Title: 5 July 2024 (Friday)
+
+----
+
+Summary: 
+
+----
+
+Text: I spent some time today moving my vanilla Emacs config aside and ramping back up with Doom Emacs. Now, I'm not sure why I did that.
+
+----
+
+Cover: 
+
+----
+
+Date: 2024-07-05 14:50:00
+
+----
+
+Weather: Partly cloudy 75.0 | Low 60.4, High 77.0
+
+----
+
+Weather-icon: 302
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: hIf0cgxR1Zv0Rz0k

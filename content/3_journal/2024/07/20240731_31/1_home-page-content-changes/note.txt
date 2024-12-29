@@ -1,0 +1,29 @@
+Title: Home page content changes
+
+----
+
+Text: I've modified the home page to render both full journal and full post entries. The latest journal post is on top, then the rest is shown below. No more separation of journal vs. post content on the home page. Worth a try!
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2024-07-31 12:20:00
+
+----
+
+Tags: meta
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: aR3Fsl3a2bJ6iHt6
