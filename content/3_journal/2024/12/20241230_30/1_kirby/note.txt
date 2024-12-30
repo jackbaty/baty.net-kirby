@@ -1,0 +1,29 @@
+Title: Kirby
+
+----
+
+Text: Ok fine, I'll switch the site back to Kirby. Are you happy now?
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2024-12-30 08:20:00
+
+----
+
+Tags: Blogging, Kirby
+
+----
+
+Cover: 
+
+----
+
+Smallimage: - file://M9FEHMuXqFyOc6QD
+
+----
+
+Uuid: kLNaqqIRNW9F8vWK

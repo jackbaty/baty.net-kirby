@@ -1,0 +1,33 @@
+Title: 30 December 2024 (Monday)
+
+----
+
+Summary: 
+
+----
+
+Text: Aaaaand....we're back to running the site using Kirby.
+
+----
+
+Cover: 
+
+----
+
+Date: 2024-12-30 07:55:00
+
+----
+
+Weather: Overcast 37.0 | Low 30.4, High 34.5
+
+----
+
+Weather-icon: 371
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: u6JiRT1jjoGNBXEL
