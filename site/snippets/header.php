@@ -61,8 +61,10 @@
 
   <?php if ($page->summary()->isEmpty()): ?>
       <meta property="og:description" content="<?= $page->text()->kt()->inline()->excerpt(140) ?>">
+      <meta name="description" content="<?= $page->text()->kt()->inline()->excerpt(140) ?>">
   <?php else: ?>
       <meta property="og:description" content="<?= $page->summary()->kt()->inline() ?>">
+      <meta name="description" content="<?= $page->summary()->kt()->inline() ?>">
   <?php endif ?>
   <meta property="og:title" content="<?= $page->title() ?>">
   <meta property="og:type" content="website">
