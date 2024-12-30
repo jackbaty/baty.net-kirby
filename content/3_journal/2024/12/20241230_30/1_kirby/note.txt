@@ -2,7 +2,11 @@ Title: Kirby
 
 ----
 
-Text: Ok fine, I'll switch the site back to Kirby. Are you happy now?
+Text:
+
+Ok fine, I'll switch the site back to Kirby. Are you happy now?
+
+The short version is that I was tired of moving images around and creating manual links, etc. I love a good drag-and-drop. Add to that my frustration with Hugo and my boredom with its theme, and here we are. Your RSS reader is probably a mess right now. Sorry about that.
 
 ----
 
