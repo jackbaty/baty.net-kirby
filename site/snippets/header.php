@@ -73,7 +73,8 @@
   <?php else: ?>
       <meta property="og:image" content="<?= url('assets/images/opengraph.jpg') ?>">
   <?php endif ?>
-
+  
+  <meta name="fediverse:creator" content="@jbaty@social.lol">
   <link rel=alternate type="application/rss+xml" href="/feed">
   
 </head>

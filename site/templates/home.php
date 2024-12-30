@@ -98,7 +98,7 @@ $recentPosts = $allPosts->limit(10);
 <!-- /recent daily notes full text -->
 <?php endif ?>
 
-<div class="more-posts"><a href="/journal">Previous journal entries &rarr;</a></div>
+<div class="more-posts"><a href="/journal">Previous entries &rarr;</a></div>
 
 
 <?php snippet('footer') ?>

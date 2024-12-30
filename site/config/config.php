@@ -17,7 +17,7 @@ return [
         
 				 // Setup the rss feed
 		 [
-		 'pattern' => ['/feed'],
+		 'pattern' => ['index.xml'],
 		 'action' => function () {
 		 $title = "Baty.net";
 		 $description = "Latest posts from Jack Baty";
