@@ -1,0 +1,29 @@
+Caption: Dired by default
+
+----
+
+Alt: 
+
+----
+
+Photographer: 
+
+----
+
+License: 
+
+----
+
+Link: 
+
+----
+
+Sort: 2
+
+----
+
+Uuid: 0VrIZYXW2Mqcs1dQ
+
+----
+
+Template: image

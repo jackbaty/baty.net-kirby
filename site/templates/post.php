@@ -5,10 +5,10 @@
 
 <?php if ($cover = $page->assignedCover()): ?>
 <figure class="featured-image-container">
-<figcaption>My garage workbench. Canon AE-1 Program</figcaption></figure>
 <a href="<?= $cover->url() ?>" data-lightbox class="img" style="--w:2; --h:1">
-  <img src="<?= $cover->crop(1200, 800)->url() ?>" alt="<?= $cover->alt()->esc() ?>">
+  <img src="<?= $cover->url() ?>" alt="<?= $cover->alt()->esc() ?>">
 </a>
+<figcaption><?= $cover->caption() ?></figcaption>
 </figure>
 <?php endif ?>
 

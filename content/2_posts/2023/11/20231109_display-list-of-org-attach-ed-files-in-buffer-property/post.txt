@@ -2,7 +2,11 @@ Title: Display list of org-attach'ed files in buffer property
 
 ----
 
-Summary: <p>I often want a list of attached files displayed <em>right in </em>the org-mode file.</p>
+Summary: I often want a list of attached files displayed _right in_ the org-mode file.
+
+----
+
+Useblocks: false
 
 ----
 
@@ -19,6 +23,10 @@ I use (link: https://orgmode.org/manual/Attachments.html text: org-attach) a lot
 ```
 
 Works great.
+
+----
+
+Blocks: 
 
 ----
 

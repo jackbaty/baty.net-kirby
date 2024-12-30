@@ -71,7 +71,7 @@
   <?php if ($image = $page->image()): ?>
       <meta property="og:image" content="<?= $image->url() ?>">
   <?php else: ?>
-      <meta property="og:image" content="<?= url('assets/images/pipeguy-og.png') ?>">
+      <meta property="og:image" content="<?= url('assets/images/opengraph.jpg') ?>">
   <?php endif ?>
 
   <link rel=alternate type="application/rss+xml" href="/feed">

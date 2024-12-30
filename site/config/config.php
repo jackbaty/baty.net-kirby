@@ -14,23 +14,7 @@ return [
     	'extra' => true
     ],
     'routes' => [
-        [
-            'pattern' => 'plugin/feed',
-            'method' => 'GET',
-            'action'  => function () {
-                $options = [
-                    'title'       => 'Baty.net',
-                    'description' => 'Jack Baty\'s blog',
-                    'link'        => 'posts',
-                    'snippet' => 'feed/rss', // 'feed/json'
-                ];
-                $feed = collection('posts-and-notes')
-						->index()
-						->listed()
-						->sortBy('date', 'desc')->limit(10)->feed($options);
-                return $feed;
-            }
-        ],
+        
 				 // Setup the rss feed
 		 [
 		 'pattern' => ['/feed'],

@@ -1,0 +1,37 @@
+Title: Roll-185 (Canon AE-1 Program HP5)
+
+----
+
+Summary: 
+
+----
+
+Useblocks: true
+
+----
+
+Text: 
+
+----
+
+Blocks: [{"content":{"text":"<p>The Canon AE-1 Program was my first real camera. Unfortunately, I no longer own that original from 1982, so I bought another one in 2013. It's not a great camera, but it works. I like to put a roll through it now and then.</p>"},"id":"912e16cf-ca63-4e49-8fdf-6ec426fc5b60","isHidden":false,"type":"text"},{"content":{"images":["file://bAZSBx4tOfRxTGd1","file://KfXDbEWB7hAdwny1","file://vhjzkIxDE0C3NbCH","file://bgF5hVWTl9ah6VLK","file://6zuAX0ncMNS1o8Aj","file://UkZL3ffdbK0hOrXD"],"caption":"","ratio":"","crop":"false"},"id":"6e6f1669-a06e-4291-bb65-0a5b9c8e0427","isHidden":false,"type":"gallery"}]
+
+----
+
+Cover: 
+
+----
+
+Date: 2024-11-08 05:55:00
+
+----
+
+Author: 
+
+----
+
+Tags: Photography, Film, Canon
+
+----
+
+Uuid: uCJTDPFYsVh8E4Yb

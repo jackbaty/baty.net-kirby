@@ -15,4 +15,4 @@ limit: 10
 image:
   query: page.cover
   cover: true
-  ratio: 3/2
+
