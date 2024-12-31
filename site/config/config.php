@@ -26,7 +26,7 @@ return [
 		 'application/rss+xml');
 		 }
 		 ],
-		 // for year/month/slug
+		 // for year/month/slug redirect
         [
             'pattern' => '(:num)/(:num)/(:any)',
             'action'  => function($year, $month, $slug) {
@@ -34,16 +34,17 @@ return [
                 $page = page($uid);
                 if(!$page) $page = page('posts/'. $uid);
                 if(!$page) $page = site()->errorPage();
-                return site()->visit($page);
+                //return site()->visit($page);
+                go($page);
             }
         ],
-        [
-            'pattern' => 'posts/(:num)/(:num)/(:any)',
-            'action'  => function($year, $month, $slug) {
-            	$uid = $year . '/' . $month . '/' . $slug;
-                go($uid);
-            }
-        ],
+        // [
+//             'pattern' => 'posts/(:num)/(:num)/(:any)',
+//             'action'  => function($year, $month, $slug) {
+//             	$uid = $year . '/' . $month . '/' . $slug;
+//                 go($uid);
+//             }
+//         ],
         // For year/slug
         [
             'pattern' => '(:num)/(:any)',
