@@ -14,7 +14,7 @@ I keep my list of subscriptions in an Org-mode file so I'll just copy and paste 
 
 Not all of these are actually paid for monthly. Some I pay for annually, but have calculated the monthly costs here (in USD).
 
-Updated: July 11, 2024
+Updated: **January 1, 2025**
 
 ```
 | Service           | Monthly Fee | Live without? |
@@ -23,39 +23,45 @@ Updated: July 11, 2024
 | Amazon AWS        | 2           |               |
 | Amazon Prime      | 9           |               |
 | Apple One         | 37          |               |
-| Backblaze B2      | 15          |               |
+| Backblaze         | 19          |               |
 | Capture One       | 11          |               |
 | Day One           | 2           |               |
 | Fastmail          | 5           |               |
 | Flickr            | 6           |               |
 | Hetzner           | 15          |               |
 | Glass             | 3           |       X       |
-| Hulu              | 12          |       X       |
 | Max (HBO)         | 10          |       X       |
 | NYTimes           | 25          |               |
 | Neatnik (omg.lol) | 2           |               |
 | Netflix           | 17          |       X       |
-| Put.io            | 10          |               |
+| Racknerd          | 2           |               |
 | SetApp            | 10          |               |
-| Spotify           | 15          |               |
 | The Atlantic      | 6           |               |
 | TheBrain          | 14          |               |
 | Tinderbox         | 8           |               |
-| Tinylytics        | 5           |               |
 | YouTube Premium   | 18          |               |
-| Total:            | 277         |               |
+| Total:            | 241         |               |
 
 Canceled subscriptions
 
-| Service      | Monthly Fee | Notes                      |
-|--------------|-------------|----------------------------|
-| DigitalOcean | 15          |                            |
-| Sourcehut    | 2           | X                          |
-| Photomator   | 3           | X                          |
-| Photoscan    | 4           | I can use Google's version |
-| Qobuz        | 11          |                            |
-| Vultr        | 6           |                            |
-| Total:       | 41          |                            |
+| Service          | Monthly Fee | Notes                      |
+|------------------|-------------|----------------------------|
+| 500.social       | 2           | Canceled December 4, 2024  |
+| Backblaze B2     | 15          | Deleted files 2024-12-08   |
+| DigitalOcean     | 15          |                            |
+| Hulu             | 12          | X                          |
+| Sourcehut        | 2           | X                          |
+| PikaPod Ghost    | 4           | X                          |
+| PikaPod Actual   | 3           | X                          |
+| PikaPod Linkding | 2           | X                          |
+| Photomator       | 3           | X                          |
+| Photoscan        | 4           | I can use Google's version |
+| Put.io           | 10          |                            |
+| Qobuz            | 11          |                            |
+| Spotify          | 15          |                            |
+| Tinylytics       | 5           |                            |
+| Vultr            | 6           |                            |
+| Total:           | 109         |                            |
 
 ```
 

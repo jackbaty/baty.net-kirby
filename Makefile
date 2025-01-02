@@ -11,8 +11,31 @@ TARGET=Server03 Hetzner
 checkpoint:
 	git add .
 	git diff-index --quiet HEAD || git commit -m "Publish checkpoint"
+	
+pull:
+	rsync -v -rz $(SERVER_HOST):$(SERVER_DIR)/content/ $(PUBLIC_DIR)content \
+			--delete \
+			--no-perms
 
 deploy: checkpoint
+# 	git push
+	@echo "\033[0;32mDeploying updates to $(TARGET)...\033[0m"
+	rsync   -v -rz \
+			--checksum \
+			--delete \
+			--no-perms \
+			--exclude /logs/ \
+			--exclude .git/ \
+			$(PUBLIC_DIR)site/ $(SERVER_HOST):$(SERVER_DIR)/site
+	rsync   -v -rz \
+			--checksum \
+			--delete \
+			--no-perms \
+			--exclude /logs/ \
+			--exclude .git/ \
+			$(PUBLIC_DIR)assets/ $(SERVER_HOST):$(SERVER_DIR)/assets
+
+deployall: checkpoint
 # 	git push
 	@echo "\033[0;32mDeploying updates to $(TARGET)...\033[0m"
 	rsync   -v -rz \

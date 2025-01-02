@@ -8,9 +8,11 @@ Ok fine, I'll switch the site back to Kirby. Are you happy now?
 
 The short version is that I was tired of moving images around and creating manual links, etc. I love a good drag-and-drop. Add to that my frustration with Hugo and my boredom with its theme, and here we are. Your RSS reader is probably a mess right now. Sorry about that.
 
+I would write one of those 5,000-word essays explaining why I changed blog platforms, but we all know it's because I was bored. I quite like Kirby, but I struggle to get past the fact that it's not a static website and the "static" content files don't use a more standard YAML front matter. Otherwise, it's a dream. PHP makes so much more sense to me than whatever nonsense Hugo uses :). Or  even JavaScript.
+
 ----
 
-Showtitle: false
+Showtitle: true
 
 ----
 

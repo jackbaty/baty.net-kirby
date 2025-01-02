@@ -1,0 +1,35 @@
+Title: Pete knows how it feels
+
+----
+
+Text:
+
+[Falling into the perfection trap - P. I. Moore](https://pimoore.ca/posts/falling-into-the-perfection-trap)
+
+> It’s all so needlessly stupid, and feels overwhelming; an easy trap to fall into every single time. As a proud and perpetual techie I’m a sucker for the new shiny, especially when apps or services gain traction and attention via the blogosphere.
+
+Pete knows.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2024-12-31 21:20:00
+
+----
+
+Tags: Workflow
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: Z2YpzGU989DwHNl5

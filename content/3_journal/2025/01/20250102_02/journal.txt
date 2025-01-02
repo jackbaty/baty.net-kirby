@@ -1,0 +1,33 @@
+Title: 2 January 2025 (Thursday)
+
+----
+
+Summary: 
+
+----
+
+Text: I feel much better today, after having a headache and achiness for the past couple of days. Maybe I'll actually get something done.
+
+----
+
+Cover: 
+
+----
+
+Date: 2025-01-02 10:25:00
+
+----
+
+Weather: Overcast +28°F
+
+----
+
+Weather-icon: 122
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: OO3CFcLEINNzKA8U

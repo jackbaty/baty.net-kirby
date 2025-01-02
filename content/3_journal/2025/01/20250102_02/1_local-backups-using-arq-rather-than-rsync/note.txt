@@ -1,0 +1,29 @@
+Title: Local backups using Arq rather than rsync
+
+----
+
+Text: I've been using a simple `rsync` command for keeping a remote backup of some of my important folders. This gives me a snapshot from whenever the command was last run, but doesn't include any history or encryption. I thought it was time to improve this, so I configured [Arq](http://arqbackup.com) to do it for me. It's probably an unnecessary step, since much of this is synced to iCloud and everything is backed up via local Time Machine and remote Backblaze backups, but you know, belts and braces and all that, right?
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2025-01-02 12:00:00
+
+----
+
+Tags: Workflow
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: 43HLcPhTq1RlKmzM

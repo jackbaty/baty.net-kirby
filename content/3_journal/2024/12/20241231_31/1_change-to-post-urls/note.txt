@@ -1,0 +1,29 @@
+Title: Change to post URLs
+
+----
+
+Text: I've used /YYYY/MM/slug for my URLs for as long as I can remember. In Kirby, it feels like a bit of a hack, so I've decided to abandon it. I'm now using native Kirby URLs for posts, e.g. "/posts/YYYY/MM/slug". No more magic. I do, however, redirect from /YYYY/MM/slug to /posts/YYYY/MM/slug so that old URLs should still work. Let me know if you notice anything broken
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2024-12-31 18:45:00
+
+----
+
+Tags: meta
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: c5O4aseklAoweKmc

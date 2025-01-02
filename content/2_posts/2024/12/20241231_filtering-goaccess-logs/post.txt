@@ -1,0 +1,59 @@
+Title: Filtering server logs for use with GoAccess
+
+----
+
+Summary: Cleaning up GoAccess reports to make them more relevant.
+
+----
+
+Useblocks: false
+
+----
+
+Text:
+
+I use [GoAccess](https://goaccess.io) for processing web server logs. It's free, and runs right on my server. Web server access logs can get pretty noisy, which makes it harder to find what I'm looking for. What I want to see is just actual web page hits, not crawlers or images or api calls, etc.
+
+The best way I've found to do this is by simply grep'ing the log file before piping the output to GoAccess. I made a quick script on the server for doing this.
+
+```sh
+#!/bin/bash
+
+# Default query, so we get something no matter what
+DEFAULT_QUERY='"\/journal\/'
+
+# Use the provided query or default to the default query
+QUERY="${1:-$DEFAULT_QUERY}"
+
+# Filer out /api/ and /assets/ hits, then pipe that to the query before
+# sending to GoAccess
+sudo grep -v '\/api\/' /var/log/caddy/baty.net.log |  \
+grep '\/assets\/' | \
+grep -i "$QUERY" | \
+goaccess - --log-format=CADDY --ignore-crawlers --unknowns-as-crawlers
+
+```
+
+----
+
+Blocks: 
+
+----
+
+Cover: 
+
+----
+
+Date: 2024-12-31 18:15:00
+
+----
+
+Author: 
+
+----
+
+Tags: Blogging, GoAccess
+
+----
+
+Uuid: iTV3jFwkg3kT0rgR

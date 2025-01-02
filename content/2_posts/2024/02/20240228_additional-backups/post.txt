@@ -6,6 +6,10 @@ Summary:
 
 ----
 
+Useblocks: false
+
+----
+
 Text:
 
 Derek Sivers posted about [how he handles backups](https://sive.rs/backup) and it got me thinking about how I handle backups.
@@ -19,6 +23,12 @@ For remote storage, I spun up a 5TB [Hetzner Storage Box](https://www.hetzner.co
 As an added measure, the script can also rsync to an attached thumb drive, so I'm doing that, too. The scripts back up slightly different things to the storage box vs the thumb drive, depending on "importance".
 
 Now I can type "bkremote" or "bkstick" and I have a complete snapshot of (most of) my stuff, one local and one offsite. The nice part is that I can easily get at all of it. No need to log in to a service or unpack weird backup files. It's an exact mirror. The down side is that it's an exact mirror. No history or versioning. If I delete something locally, then sync, it's gone everywhere. I'm ok with this since it's just an adjunct to my current system. But I'm happy to hear about anything that I might be missing.
+
+Update January 2, 2025: [Now using Arq for this](/@/page/43HLcPhTq1RlKmzM)
+
+----
+
+Blocks: 
 
 ----
 

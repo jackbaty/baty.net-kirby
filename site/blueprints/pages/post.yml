@@ -27,7 +27,6 @@ status:
 # Define the form layout with two columns
 columns:
   - width: 2/3
-    # This columns only has two fields
     fields:
       summary:
         label: Post Summary
@@ -46,12 +45,16 @@ columns:
           useblocks: false
         buttons:
           - headlines
+          - bold
           - italic
+          - blockquote
+          - strikethrough
           - '|'
           - code
           - ul
           - ol
           - '|'
+          pagelink: markdown
           link: markdown
           file: markdown
         size: large

@@ -6,7 +6,7 @@ Summary:
 
 ----
 
-Text: Aaaaand....we're back to running the site using Kirby.
+Text: Aaaaand....we're back to running the site using Kirby. I didn't bring any of the daily journal entries over (since September) because it would have put me off the whole project. I may go back and pick at migrating them later.
 
 ----
 
