@@ -33,6 +33,8 @@ deploy: checkpoint
 			--no-perms \
 			--exclude /logs/ \
 			--exclude .git/ \
+			--exclude /cache/ \
+			--exclude /sessions/ \
 			$(PUBLIC_DIR)assets/ $(SERVER_HOST):$(SERVER_DIR)/assets
 
 deployall: checkpoint
