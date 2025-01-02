@@ -26,6 +26,8 @@ deploy: checkpoint
 			--no-perms \
 			--exclude /logs/ \
 			--exclude .git/ \
+			--exclude /cache/ \
+			--exclude /sessions/ \
 			$(PUBLIC_DIR)site/ $(SERVER_HOST):$(SERVER_DIR)/site
 	rsync   -v -rz \
 			--checksum \
@@ -33,8 +35,6 @@ deploy: checkpoint
 			--no-perms \
 			--exclude /logs/ \
 			--exclude .git/ \
-			--exclude /cache/ \
-			--exclude /sessions/ \
 			$(PUBLIC_DIR)assets/ $(SERVER_HOST):$(SERVER_DIR)/assets
 
 deployall: checkpoint
