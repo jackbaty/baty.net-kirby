@@ -30,6 +30,7 @@ if ($latestJournalDay == date('Y-m-d')) {
     }
  } else {
     $dayHeading = '';
+    $dayWeatherIcon = $dayHeading;
 }
 
 $allPosts = collection('posts-and-journals');
