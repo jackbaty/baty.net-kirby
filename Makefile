@@ -26,6 +26,7 @@ deploy: checkpoint
 			--exclude /logs/ \
 			--exclude .git/ \
 			--exclude /cache/ \
+			--exclude /config/.license \
 			--exclude /sessions/ \
 			$(PUBLIC_DIR)site/ $(SERVER_HOST):$(SERVER_DIR)/site
 	rsync   -v -rz \
