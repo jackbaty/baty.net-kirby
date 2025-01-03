@@ -15,7 +15,7 @@
     <div class="autogrid">
       <div class="column align-center" style="--columns: 1">
           <p>
-              Copyright © 2000-2024 Jack Baty
+              Copyright © 2000-2025 Jack Baty
           </p>
   <p>
   <a rel="me" href="https://social.lol/@jbaty" aria-label="Follow me on Mastodon">

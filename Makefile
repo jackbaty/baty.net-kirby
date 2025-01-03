@@ -13,9 +13,8 @@ checkpoint:
 	git diff-index --quiet HEAD || git commit -m "Publish checkpoint"
 	
 pull:
-	rsync -v -rz $(SERVER_HOST):$(SERVER_DIR)/content/ $(PUBLIC_DIR)content \
-			--delete \
-			--no-perms
+	rsync -avz $(SERVER_HOST):$(SERVER_DIR)/content/ $(PUBLIC_DIR)content \
+			--delete
 
 deploy: checkpoint
 # 	git push
