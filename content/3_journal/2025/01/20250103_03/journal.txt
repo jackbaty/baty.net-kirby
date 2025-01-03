@@ -1,0 +1,33 @@
+Title: 3 January 2025 (Friday)
+
+----
+
+Summary: 
+
+----
+
+Text: I was just notified that my 3D printer is "Out for Delivery". I'm excited, even though I'm not sure what I'm going to make with it, yet.
+
+----
+
+Cover: 
+
+----
+
+Date: 2025-01-03 10:15:00
+
+----
+
+Weather: Light snow 23.2 | Low 21.9, High 26.6
+
+----
+
+Weather-icon: 326
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: 0I4OWyvUj1PcAWlt

@@ -1,0 +1,34 @@
+Title: Links for January 2, 2025
+
+----
+
+Text:
+
+- [Occasionally Misses Expectations](https://docs.google.com/document/d/1RAYCCeZau426Cih_J4aFMc0-Qx3gMHCbph_KCgM2rIg/edit?tab=t.0#heading=h.o5r840a7ko0) Fun technical recollections from Scott Knaster
+- [Brett's Favorites 2024: Behind The Scenes](https://brettterpstra.com/2025/01/02/bretts-favorites-2024-behind-the-scenes/) I'd forgotten about [searchlink](https://brettterpstra.com/projects/searchlink/). So handy (you're soaking in it)
+- [Return to the planet of man pages](https://leancrew.com/all-this/2025/01/return-to-the-planet-of-man-pages/) Dr. Drang adapts Brett Terpstras man page tips to Terminal. I love this.
+- [Your App Should Have Been A Website (And Probably Your Game Too) - Rogue Engine](https://rogueengine.io/blog/your-app-should-have-been-a-website) For tools that aren't all about my personal stuff, I'm down with this.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2025-01-02 14:25:00
+
+----
+
+Tags: Links
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: tXDjnUNsA9rqtl8k

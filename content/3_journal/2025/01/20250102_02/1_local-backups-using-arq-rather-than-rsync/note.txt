@@ -1,4 +1,4 @@
-Title: Local backups using Arq rather than rsync
+Title: Backups using Arq rather than rsync
 
 ----
 
