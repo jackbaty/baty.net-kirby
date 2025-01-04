@@ -1,0 +1,33 @@
+Title: Links for January 3, 2025
+
+----
+
+Text:
+
+- [Never Have Outdated Footer Dates Again](https://getfullyear.com/) is hilarious (via [Phil Calcado](https://social.lol/@pcalcado@mastodon.social))
+- [Re: loneliness and meaningful work | Protesilaos Stavrou](https://protesilaos.com/commentary/2025-01-03-re-loneliness-meaningful-work/) is Prot waxing philosophical about loneliness in response to an email.
+- [usb-dos](https://github.com/lproven/usb-dos) is a fun way to run some simple word processors in DOS. (h/t [@ianb](https://social.lol/@ianb@well.com))
+
+----
+
+Showtitle: true
+
+----
+
+Date: 2025-01-03 15:30:00
+
+----
+
+Tags: Links
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: gPuvVTEfEmDTZVjc

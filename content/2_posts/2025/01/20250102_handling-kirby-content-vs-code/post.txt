@@ -51,6 +51,7 @@ deploy: checkpoint
 			--no-perms \
 			--exclude /logs/ \
 			--exclude /cache/ \
+            --exclude /config/.license \
 			--exclude /sessions/ \
 			$(PUBLIC_DIR)site/ $(SERVER_HOST):$(SERVER_DIR)/site
 	rsync   -v -rz \

@@ -11,7 +11,7 @@ TARGET=Server03 Hetzner
 checkpoint:
 	git add .
 	git diff-index --quiet HEAD || git commit -m "Publish checkpoint"
-	
+
 pull:
 	rsync -avz $(SERVER_HOST):$(SERVER_DIR)/content/ $(PUBLIC_DIR)content \
 			--delete
