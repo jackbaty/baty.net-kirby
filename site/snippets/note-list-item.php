@@ -11,7 +11,7 @@
 ?>
 <article class="note-excerpt">
 	<?php if ($note->Showtitle()->toBool() === true): ?>
-		<h3 class="note-excerpt-title h3"><a href="<?= $note->url() ?>"><?= $note->title()->esc() ?></a></h3>
+		<h3 class="note-excerpt-title h3"><a class="dummy" href="<?= $note->url() ?>"><?= $note->title()->esc() ?></a></h3>
 	<?php endif ?>
 	<?php snippet('small-image',['note' => $note]) ?>
   <div class="note text">
