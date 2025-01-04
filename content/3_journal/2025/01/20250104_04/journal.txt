@@ -6,7 +6,13 @@ Summary:
 
 ----
 
-Text: I feel like I'm being a dick when I tell people that I don't care what's on their phone's home screen.
+Text:
+
+I feel like I'm being a dick when I tell people that I don't care what's on their phone's home screen.
+
+\----
+
+Don't put "BREAKING: " in your headline unless it's actually breaking news and not just something you personally think is important.
 
 ----
 
