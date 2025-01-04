@@ -70,7 +70,8 @@
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Baty.net">
   <meta property="og:url" content="<?= $page->url() ?>">
-  <?php if ($image = $page->image()): ?>
+  <?php if (($page->image()) && ($page->image()->width() > 200)): ?>
+  			<?php $image = $page->image() ?>
       <meta property="og:image" content="<?= $image->url() ?>">
   <?php else: ?>
       <meta property="og:image" content="<?= url('assets/images/opengraph.jpg') ?>">
