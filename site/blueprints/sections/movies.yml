@@ -12,6 +12,6 @@ empty: No movies yet
 sortBy: published desc
 limit: 10
 image:
-  query: page.cover
+  query: page.poster
   cover: true
   ratio: 3/2
