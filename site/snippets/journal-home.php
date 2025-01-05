@@ -19,8 +19,8 @@
   </header>
   <?php if ($cover = $journal->assignedCover()): ?>
   <figure class="featured-image-container">
-<a href="<?= $cover->url() ?>" data-lightbox class="img" style="--w:2; --h:1">
-  <img src="<?= $cover->crop(1200, 800)->url() ?>" alt="<?= $cover->alt()->esc() ?>">
+<a href="<?= $cover->url() ?>" data-lightbox>
+  <img src="<?= $cover->url() ?>" alt="<?= $cover->alt()->esc() ?>">
 </a>
   <?php if ($cover->caption()): ?>
 <figcaption><?= $cover->caption() ?>

@@ -17,7 +17,7 @@
     
     	<?php if ($cover = $post->cover()): ?>
 				<figure class="img" style="--w: 16; --h:9">       
-						<img src="<?= $cover->crop(640, 360)->url() ?>" alt="<?= $cover->alt()->esc() ?>">
+						<img src="<?= $cover->url() ?>" alt="<?= $cover->alt()->esc() ?>">
 				</figure>
       <?php else: ?>
         	

@@ -35,8 +35,8 @@
     
 <?php if ($cover = $page->assignedCover()): ?>
 <figure class="featured-image-container">
-<a href="<?= $cover->url() ?>" data-lightbox class="img featured-image" style="--w:2; --h:1">
-  <img src="<?= $cover->crop(1200, 800)->url() ?>" alt="<?= $cover->alt()->esc() ?>">
+<a href="<?= $cover->url() ?>" data-lightbox class="featured-image">
+  <img src="<?= $cover->url() ?>" alt="<?= $cover->alt()->esc() ?>">
 </a>
 <?php if ($cover->caption()): ?>
 <figcaption><?= $cover->caption() ?>
