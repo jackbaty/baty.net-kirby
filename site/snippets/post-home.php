@@ -28,8 +28,8 @@
   </figure>
 <?php endif ?>
   
-  
 
+  
   
   <?php if($post->template() == 'post'): ?>
   	<div class="post text">
@@ -43,8 +43,6 @@
   		<?php endif ?>
   <?php endif ?>
 
- 
-  
 
 <ul class="note">
   <?php foreach($post->children() as $note): ?>

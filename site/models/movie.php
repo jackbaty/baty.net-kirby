@@ -20,9 +20,25 @@
 class MoviePage extends Page
 {
 
-	public function cover()
+	public function poster()
     {
-        return $this->content()->cover()->toFile() ?? $this->image();
+        return $this->content()->poster()->toFile() ?? $this->image();
     }
+    public function published($format = null)
+    {
+        return parent::date()->toDate($format ?? 'd M, Y');
+    }
+    public function postContent()
+    {
+    	$content = $this->content()->poster()->tofile() ?? $this-image();
+    	
+    	$content .= '<p>Rating: ' . $this->content()->rating() . '</p>';
+    	return $content . $this->content()->text()->kt();
+    }
+    public function postTitle()
+    {
+    	return $this->content()->title() . " (" . $this->content()->year() . ")";
+    }
+
 
 }

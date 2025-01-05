@@ -1,11 +1,11 @@
 <?php
 /**
- * Collections help with keeping your code DRY 
+ * Everything on home page
  */
 return function () {
     return site()
         ->index()
         ->listed()
-        ->filterBy('template', 'in', ['post','note','movie'])
+        ->filterBy('template', 'in', ['post', 'journal', 'movie'])
         ->sortBy('date', 'desc');
 };

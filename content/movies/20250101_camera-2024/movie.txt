@@ -18,11 +18,11 @@ Text: I saw it as a story about the transformative nature of photography, but co
 
 ----
 
-Published: 2025-01-01 15:05:00
+Date: 2025-01-01 15:05:00
 
 ----
 
-Cover: - file://WOJi6r7SqUHvwBk2
+Poster: - file://WOJi6r7SqUHvwBk2
 
 ----
 

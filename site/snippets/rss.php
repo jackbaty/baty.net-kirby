@@ -16,7 +16,11 @@ echo '<?xml version="1.0" encoding="utf-8"?>';
 
     <?php foreach ($posts as $item): ?>
     <item>
+    	<?php if($item->template() == 'movie'): ?>
+      <title><?= Xml::encode($item->postTitle()) ?></title>
+      <?php else: ?>
       <title><?= Xml::encode($item->title()) ?></title>
+      <?php endif ?>
       <link><?= Xml::encode($item->url()) ?></link>
       <guid isPermaLink="false"><?= Xml::encode($item->id()) ?></guid>
       <pubDate><?= $item->Date()->toDate('r') ?></pubDate>

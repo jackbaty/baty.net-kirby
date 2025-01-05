@@ -17,11 +17,11 @@ Text: I've never cared about anyone in a Godzilla movie, but I cared about every
 
 ----
 
-Published: 2024-05-03 12:25:00
+Date: 2024-05-03 07:50:00
 
 ----
 
-Cover: - file://ye6wSRkCYTqPElXa
+Poster: 
 
 ----
 
@@ -44,6 +44,14 @@ Letterboxd: https://letterboxd.com/film/godzilla-minus-one/
 ----
 
 Tags: Movie
+
+----
+
+Date: 2024-05-03 12:25:00
+
+----
+
+Poster: - file://ye6wSRkCYTqPElXa
 
 ----
 

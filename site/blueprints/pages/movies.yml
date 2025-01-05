@@ -3,7 +3,7 @@ sections:
   movies:
     type: pages
     num: date
-    sortBy: published desc
+    sortBy: date desc
     create: movie
     template: movie
     info: "{{ page.rating }}"

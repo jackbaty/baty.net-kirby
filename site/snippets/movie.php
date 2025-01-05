@@ -1,5 +1,5 @@
        
-        <?php if ($cover = $page->cover()): ?>
+        <?php if ($cover = $page->poster()): ?>
         <img class="floatright" width="185px" src="<?= $cover->url() ?>" alt="<?= $cover->alt() ?>">
         <?php endif ?>
 <div class="text">
@@ -7,6 +7,7 @@
         <div class="movieinfo">
             🎬 <b>Directed by:</b> <?= $page->director() ?><br>
             🗓️ <b>Released:</b> <?= $page->year() ?><br>
+            👀 <b>Watched:</b> <?= $page->date()->toDate('M d, Y') ?><br>
             🧐 <b>My rating:</b> <?= $page->rating() ?><br>
             🍿 <b>URL:</b> <?php if($page->letterboxd()->isNotEmpty()): ?> <a href="<?= $page->letterboxd() ?>">Letterboxd</a> <?php endif ?>
         </div>

@@ -1,6 +1,6 @@
 # Page Settings
 title: Movie
-num: '{{ page.published.toDate("Ymd") }}'
+num: '{{ page.date.toDate("Ymd") }}'
 icon : movie
 
 # Available Statuses for the page
@@ -37,13 +37,15 @@ columns :
 
   - width  : 1/3
     fields :
-        published:
-            label: Published Date
+        date:
+            label: Date watched
             type: date
             time: true
+              notation: 12
+              default: now
             default: now
         # Movie poster
-        cover:
+        poster:
             label  : Movie poster
             type   : files
             layout : cards

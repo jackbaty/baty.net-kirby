@@ -33,7 +33,7 @@ if ($latestJournalDay == date('Y-m-d')) {
     $dayWeatherIcon = $dayHeading;
 }
 
-$allPosts = collection('posts-and-journals');
+$allPosts = collection('posts-journals-movies');
 $allPostsCount = $allPosts->count();
 $recentPosts = $allPosts->limit(10);
 
@@ -50,7 +50,6 @@ $recentPosts = $allPosts->limit(10);
 
 
 <!-- /most recent daily post -->
-
 
 <?php if(false): ?>
 <!-- recent posts links -->
@@ -80,8 +79,15 @@ $recentPosts = $allPosts->limit(10);
   <?php foreach ($recentPosts as $post): ?>
 	  <?php if ($post->url() != $latestJournal->url()): ?>
 	  
+	  <?php if($post->template() == 'movie'): ?>
+	  
+  		<?php snippet('movie-home', ['post' => $post]) ?>
+
+		<?php else: ?>
 		<!-- the post-home snippet decides how to render posts vs journals -->
+		<!-- TODO: split these into separate snippets -->
 		<?php snippet('post-home',['post' => $post]) ?>
+		<?php endif ?>
 		
     <?php endif ?>
   <?php endforeach ?>

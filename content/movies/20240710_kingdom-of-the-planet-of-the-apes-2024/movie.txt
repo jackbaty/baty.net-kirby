@@ -18,11 +18,11 @@ Text: I like the Apes movies. This was one of them.
 
 ----
 
-Published: 2024-07-10 19:50:00
+Date: 2024-07-10 19:50:00
 
 ----
 
-Cover: - file://ott2qWmTbwi9MEQs
+Poster: - file://ott2qWmTbwi9MEQs
 
 ----
 

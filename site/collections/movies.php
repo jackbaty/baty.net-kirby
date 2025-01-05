@@ -11,5 +11,5 @@ return function () {
         ->index()
         ->listed()
         ->filterBy('template', 'in', ['movie'])
-        ->sortBy('published', 'desc');
+        ->sortBy('date', 'desc');
 };

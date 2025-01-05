@@ -18,11 +18,11 @@ Text: I love a good noir and this is a good noir.
 
 ----
 
-Published: 2024-05-20 14:45:00
+Date: 2024-05-20 14:45:00
 
 ----
 
-Cover: - file://05YGn5pMmJO1lQMd
+Poster: - file://05YGn5pMmJO1lQMd
 
 ----
 
