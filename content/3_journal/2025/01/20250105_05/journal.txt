@@ -1,0 +1,33 @@
+Title: 5 January 2025 (Sunday)
+
+----
+
+Summary: 
+
+----
+
+Text: I'm really messing with things around here this morning. Sorry for any disruption.
+
+----
+
+Cover: - file://jGIQuYGDmmNpOd1e
+
+----
+
+Date: 2025-01-05 14:35:00
+
+----
+
+Weather: Partly cloudy 17.1 | Low 16.9, High 24.6
+
+----
+
+Weather-icon: 116
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: s99LzmKfhJ5yUhUK
