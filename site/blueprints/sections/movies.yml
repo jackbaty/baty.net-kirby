@@ -9,7 +9,7 @@ info: "{{ page.rating }}"
 templates:
   - movie
 empty: No movies yet
-sortBy: published desc
+sortBy: date desc
 limit: 10
 image:
   query: page.poster
