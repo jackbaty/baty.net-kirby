@@ -6,7 +6,13 @@ Summary:
 
 ----
 
-Text: I'm really messing with things around here this morning. Sorry for any disruption.
+Text:
+
+I'm really messing with things around here this morning. Sorry for any disruption.
+
+\----
+
+Still waiting for filament for the Bambu. My order from Amazon was delayed until the 7th, so I placed another order, and that one is so far still scheduled to arrive today.
 
 ----
 

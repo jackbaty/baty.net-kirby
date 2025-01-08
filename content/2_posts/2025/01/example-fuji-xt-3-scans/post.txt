@@ -1,0 +1,53 @@
+Title: Example Fuji XT-3 Scans
+
+----
+
+Summary: 
+
+----
+
+Useblocks: false
+
+----
+
+Text:
+
+I only scanned a few rolls using the Fuji XT-3, and most were just test rolls taking while messing around my house. I don't have any examples that really demonstrate the results, but here are a few scans that I could find.
+
+Low-res versions:
+
+(image: 2020-roll-013-023-alice_1.jpg)
+
+(image: 2020-roll-016-005-wista-field-camera_1.jpg)
+
+(image: 2020-roll-017-004-alice_1.jpg)
+
+Here's a zip of the original scans (converted to JPG): (file: samples-xt3.zip)
+
+Hope this helps.
+
+Honestly, I never got on with scanning with digital cameras, so I'm back to using an Epson V850 flatbed with SilverFast. The new SilverFast has a quick-scan feature that speeds things up quite a bit. I never really perfected the digital scan process.
+
+----
+
+Blocks: 
+
+----
+
+Cover: 
+
+----
+
+Date: 2025-01-08 11:50:00
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Uuid: oABbSYMUyzKqPV8z

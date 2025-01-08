@@ -10,6 +10,7 @@ Text:
 
 A running list of changes I've made to this site. Most recent first.
 
+- 2025-01-05 Movies are now included on home page and RSS feed
 - 2025-01-04 Fixed double underline under note's title H3 element.
 - 2024-12-31 Don't hide /posts/ in URLs. Still redirect from /YYYY/MM/ though.
 - 2024-12-31 Kirby again :)

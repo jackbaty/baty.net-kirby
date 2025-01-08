@@ -1,0 +1,29 @@
+Title: Not doing
+
+----
+
+Text: I don't have a problem keeping track of my todos. My problem is that I don't actually do any of them.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2025-01-08 11:05:00
+
+----
+
+Tags: Workflow
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: iZZni5fOy7SbwyNL

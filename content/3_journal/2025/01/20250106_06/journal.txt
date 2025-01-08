@@ -1,0 +1,33 @@
+Title: 6 January 2025 (Monday)
+
+----
+
+Summary: 
+
+----
+
+Text: I was just looking through previous posts about using Kirby for this site. There was a flurry of activity about a year ago, during which I moved my editing process from the server to my local machine and back again. I also switched back and forth between Kirby and Hugo. And back again. I would love to spend the entirety of 2025 using Kirby, but my MTBF (Mean Time Between Formats) has averaged 30-60 days. We'll see.
+
+----
+
+Cover: - file://2xKHsB6x36mZgMLg
+
+----
+
+Date: 2025-01-06 10:50:00
+
+----
+
+Weather: Overcast 21.0 | Low 22.1, High 27.3
+
+----
+
+Weather-icon: 122
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: 9mvnABCIidVK6TVB
