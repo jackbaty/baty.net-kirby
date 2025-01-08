@@ -48,14 +48,16 @@ columns :
         poster:
             label  : Movie poster
             type   : files
+            uploads: poster
             layout : cards
             size   : small
             maxwidth : 400
             max    : 1
             image  :
                 ratio : 1/1
-
-
+            create:
+              width: 400
+              format: webp
         director :
             label : Director
             type  : text
