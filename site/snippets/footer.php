@@ -34,10 +34,6 @@
     <?= svg('assets/icons/glass.svg') ?>
   </a>
 
-  <a rel="me" href="https://instagram.com/jackbatyphoto" aria-label="Follow me on Instagram">
-    <?= svg('assets/icons/instagram.svg') ?>
-  </a>
-
   <a rel="me" href="/feed" aria-label="Subscribe to RSS feed">
       <?= svg('assets/icons/rss.svg') ?>
   </a>
