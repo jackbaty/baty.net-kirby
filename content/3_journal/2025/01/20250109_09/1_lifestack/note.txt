@@ -1,0 +1,29 @@
+Title: Lifestack
+
+----
+
+Text: I (intermittently) maintain a page containing a list of things I use. Most people seem to call theirs "Uses" at a /uses slash page. I have gone back to calling mine my "Lifestack" and it is now at [/lifestack](/lifestack). (/uses will redirect). I dunno, "Lifestack" is more fun.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2025-01-09 11:10:00
+
+----
+
+Tags: Blogging
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: oKQjo8h2fVtpyqDG

@@ -1,0 +1,32 @@
+Title: Links for January 12, 2025
+
+----
+
+Text:
+
+- [Treemap visualization of an Org Mode file :: Sacha Chua](https://sachachua.com/blog/2025/01/treemap-visualization-of-an-org-mode-file/) Fancy!
+- [Finding Sacred Blocks – Curtis McHale](https://curtismchale.ca/2025/01/11/finding-sacred-blocks/) Some tips for making/finding time for whatever your creative work is.
+
+----
+
+Showtitle: true
+
+----
+
+Date: 2025-01-12 13:50:00
+
+----
+
+Tags: Links
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: 2rWCmSJzNPRAlRP5

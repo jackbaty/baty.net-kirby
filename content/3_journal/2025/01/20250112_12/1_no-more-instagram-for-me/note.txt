@@ -1,0 +1,33 @@
+Title: No more Instagram for me
+
+----
+
+Text:
+
+(image: thats-all-insta.jpg)
+
+I've disliked Instagram for years, mostly due to UI issues, ads, algorithms, etc. It's been a terrible experience for photographers and photography for a while. I've limped along, posting rarely, and scrolling occasionally. Lately, though, I feel dirty giving Meta any of my attention, so I'm out.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2025-01-12 14:05:00
+
+----
+
+Tags: Social
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: WvIpA2O6JRecETEN

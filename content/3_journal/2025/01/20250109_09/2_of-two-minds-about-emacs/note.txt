@@ -1,0 +1,39 @@
+Title: Of two minds about Emacs
+
+----
+
+Text:
+
+I tend to operate in two modes, alternating between them at regular intervals.
+
+Mode One is "I live on the computer". This is the mode in which I do everything digitally, and plan to stay that way. Emacs is great for this mode, since it requires that one pays attention. One doesn't cruise by one's desk and do stuff in Emacs. It wants both hands on the keyboard at all times.
+
+Mode Two is "The computer is an occasional tool". This mode is more about living away from computers as much as possible. I dip in to check mail, look something up, write blog posts, or catch up on my feeds. It's a drive by situation. This mode hates Emacs. I want to have one hand on the mouse and click stuff. I don't want to hit 14 keys in order to see my unread email.
+
+When I'm in Mode One, Emacs is my life partner. In Mode Two, I'd rather use something else.
+
+This is why I sometimes "decide" I'm going to quit Emacs. And also why I come back.
+
+----
+
+Showtitle: true
+
+----
+
+Date: 2025-01-09 16:20:00
+
+----
+
+Tags: Emacs
+
+----
+
+Cover: 
+
+----
+
+Smallimage: - file://Rv09xVIL8dhprI5j
+
+----
+
+Uuid: wjTcHdt55csmx3f8

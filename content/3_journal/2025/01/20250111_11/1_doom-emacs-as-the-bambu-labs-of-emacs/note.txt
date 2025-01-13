@@ -1,0 +1,37 @@
+Title: Doom as the Bambu Labs of Emacs
+
+----
+
+Text:
+
+OK, the title is dumb, but hang with me a second.
+
+I've wanted a 3D printer for years, but I was afraid of the work involved in setup and maintenance. I didn't want to learn how 3D printing works, I wanted to make things with a 3D printer. So, I recently bought a [Bambu Labs A1](https://bambulab.com/en/a1). I was printing within an hour of unboxing the A1. Since then, I've printed a half-dozen items and haven't thought much about the actual printer.
+
+Most of the time, what Bambu has done for 3D printing is what I want done for Emacs. I want to write my notes or read my email or create a PDF. I don't always want to decide which completion framework is best or to customize where windows are placed or which system of keybindings I should come up with. I just want to "print".
+
+This is why I'm back in [Doom Emacs](https://github.com/doomemacs/doomemacs) yet again. As Bambu Labs did with printers, Doom does with Emacs; it makes doing things with it easy and pleasant. I don't have to spend my time thinking about it. I'm not in the mood to muck about with the mechanism right now.
+
+----
+
+Showtitle: true
+
+----
+
+Date: 2025-01-11 11:05:00
+
+----
+
+Tags: Emacs
+
+----
+
+Cover: 
+
+----
+
+Smallimage: - file://Rv09xVIL8dhprI5j
+
+----
+
+Uuid: 1psmROZTcgXmXWGf

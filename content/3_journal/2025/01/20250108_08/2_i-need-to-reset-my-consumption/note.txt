@@ -1,0 +1,35 @@
+Title: I need to reset my consumption
+
+----
+
+Text:
+
+My goodness, reading my feeds today has been such a demotivating experience. It's not because the articles were depressing, because they were, but rather that everyone is talking about the same things all the time. AI is bad, Meta is evil, Smart-something is leaking data, Some Co. has further enshittified Smart-something, you are being tracked, Google sucks, Apple is bending the knee, and on and on.
+
+It's not that this news isn't important, it is, but I don't need 75 takes on Meta's content moderation changes. I don't need to hear, for the umpteenth time, why Bluesky isn't really federated. All this mostly by people like me, who don't really know much about any of it, but find themselves compelled to give us all their takes. I don't want them, thanks anyway.
+
+I think tomorrow I'll review my RSS feeds and start culling. Maybe add more artists or poets or people who just make and do fun things.
+
+----
+
+Showtitle: true
+
+----
+
+Date: 2025-01-08 23:00:00
+
+----
+
+Tags: Media
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: LSGdpMsPvrj7KMcS
