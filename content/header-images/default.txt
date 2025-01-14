@@ -1,17 +1,1 @@
-Title: Now
-
-----
-
-Subheadline: What I'm doing now
-
-----
-
-Text:
-
-I do the same things over and over, so I don't know if maintaining this /now page is a good idea. Let's take a break and see if we miss it.
-
-Last updated: Monday, December 30, 2024.
-
-----
-
-Uuid: W8nCy5x9LE2JqtiL
+Uuid: nMJXICMLwa1kVEPt
