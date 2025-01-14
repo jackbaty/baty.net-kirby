@@ -83,12 +83,12 @@
 </head>
 <body>
   
-	<div class="hero-image"<?php if($header = $site->image('header.png')): ?> style="background-image: url(<?= $header->url() ?>);" <?php endif ?>>
+	<div class="hero-image"<?php if($header = $site->header()): ?> style="background-image: url(/header-images/<?= $site->header() ?>);" <?php endif ?>>
   <div class="hero-text">
     <h1><a href="<?= $site->url() ?>"><?= $site->title()->esc() ?></a></h1>
     <h3>Director of Unspecified Services</h3>
   </div>
-  <?php if($extraImg = $site->image('extra.png')): ?><img id="extra-image" src="<?= $extraImg->url() ?>"><?php endif ?>
+  <?php if($extraImg = $site->extra()): ?><img id="extra-image" src="/header-images/<?= $site->extra() ?>"><?php endif ?>
 </div>
   <header class="header">
     <nav class="menu">

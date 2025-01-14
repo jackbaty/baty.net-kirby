@@ -20,11 +20,19 @@ columns:
           - home
           - default
           - default.blocks
-      header:
-        label: Header Images
+      fields:
+        label: Selected Header Image
+        fields:
+          header:
+            type: text
+          extra:
+            type: text
+      headers:
+        label: Header Image Options
         type: files
         uploads:
         template: image
+        query: page('header-images').images
       info:
         type: fields
         fields:
