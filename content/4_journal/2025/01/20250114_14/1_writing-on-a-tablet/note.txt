@@ -1,0 +1,37 @@
+Title: Writing on a tablet
+
+----
+
+Text:
+
+I've been writing on my reMarkable tablet a bit more lately and my fancy pens and notebooks are not pleased. I don't know if a writing tablet is the best of both worlds or the worst of both worlds.
+
+Since I can never decide which type of paper (lined, plain, grid) I prefer, the rM2 is great, since every "page" can have its own style. It's also great having all of my notes synced to the computer, just in case. It's nice for reading and marking up PDFs. Every notebook is with me always. Cut and paste and undo can be very handy.
+
+On the other hand, there's nothing that can replace the feel of writing with a nice fountain pen in a paper notebook. Real paper is permanent and immutable. Put it in a box and it'll last (effectively) forever. No battery to worry about. Flipping through pages is a joy. I can paste small photos or tickets or quotes onto pages. Real notebooks are infinitely cooler.
+
+So here I am, confused about which approach makes more sense for me. My head says to use the reMarkable for everything. My heart says to ink up my favorite fountain pen and set to writing.
+
+----
+
+Showtitle: true
+
+----
+
+Date: 2025-01-14 11:00:00
+
+----
+
+Tags: Workflow, Analog
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: 1kdxQfB0bwCaK714

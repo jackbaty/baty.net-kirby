@@ -1,0 +1,44 @@
+Title: System status: January, 2025
+
+----
+
+Text:
+
+This changes almost daily, but here's what's happening at the moment:
+
+- Camera: Leica MP and Olympus OM-2n
+- Film: Ilford HP5
+- Photo editing: [Capture One](https://www.captureone.com)
+- Notes: Emacs via [Org-roam](https://www.orgroam.com/)
+- Email: Emacs via [Notmuch](https://wiki.archlinux.org/title/Notmuch)
+- RSS: Emacs via [Elfeed](https://github.com/skeeto/elfeed)
+- Todos: Emacs via Org-mode
+- Emacs config: [Doom Emacs](https://github.com/doomemacs/doomemacs)
+- Terminal: [Ghostty](https://ghostty.org/)
+- Read-later: [Zotero](https://www.zotero.org/) or Emacs/Org
+- Music: [Roon](https://roon.app/)
+- Blog: [Kirby CMS](https://getkirby.com/)
+
+----
+
+Showtitle: true
+
+----
+
+Date: 2025-01-14 14:40:00
+
+----
+
+Tags: Workflow
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: f06hyRqLDDmADUA1
