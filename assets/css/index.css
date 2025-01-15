@@ -240,7 +240,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .text ul,
 .text ol {
-  margin-left: 1rem;
+  margin-left: 2rem;
 }
 .text ul p,
 .text ol p {
