@@ -646,7 +646,7 @@ ul.note li .note-excerpt {
 .permalink-hash a {
   float: left;
   margin-left: -1.0em;
-  opacity: 0.3;
+  opacity: 0.8;
   font-weight: normal;
   font-size: 14px;
   cursor: pointer;
