@@ -12,7 +12,7 @@
 <?php endif ?>
 <article class="post">
 <header class="post-header h1"><h1 class="post-title"><?= $page->title()->esc() ?></h1>
-    <time class="note-excerpt-date">Daily Note: <a href="<?= $page->parent()->url() ?>"><?= html($page->parent()->title()) ?></a></time>
+    <time class="note-excerpt-date">Journal entry on: <a href="<?= $page->parent()->url() ?>"><?= html($page->parent()->title()) ?></a></time>
 </header>
   <div class="post text">
   	<?php snippet('small-image',['note' => $page]) ?>
