@@ -16,6 +16,12 @@ Learning to want less is proving difficult. Some days I'm content with what I ha
 
 \----
 
+I've rearranged the Kirby panel so it's easier to change header graphics. Now I just type the name of the image I want into the Site panel and I'm done. Previously, I'd tried getting fancy. This was when I knew even *less* about how Kirby works, so I made it more complicated than necessary. Now it's not as cool, but easier and simpler.
+
+\----
+
+Hiring a bunch of unqualified boobs for top government positions will definitely backfire. Won't it?
+
 ----
 
 Cover: - file://LW5fn41Zrpi1zOao
