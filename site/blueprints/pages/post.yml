@@ -99,7 +99,7 @@ columns:
             label: Tags
             type: tags
             options: query
-            query: page.siblings.pluck("tags", ",", true)
+            query: site.index.filterBy("template", "in", ["post"]).pluck("tags", ",", true)
       files:
         type: files
         template: image
