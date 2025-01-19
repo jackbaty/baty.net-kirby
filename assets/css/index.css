@@ -11,7 +11,8 @@
   --color-link-visited: #08769b;
   --color-grey: #777;
   --color-light: #efefef;
-  --color-text: #415462;
+  /* --color-text: #415462; */
+  --color-text: rgb(15, 20, 26);
   --color-text-grey: var(--color-grey);
   --color-background: var(--color-white);
   --color-code-light-grey:  #cacbd1;
