@@ -1,0 +1,9 @@
+Caption: 
+
+----
+
+Uuid: UsbDLeLxvxzz7nCK
+
+----
+
+Template: blocks/image

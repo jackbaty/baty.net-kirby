@@ -1,0 +1,37 @@
+Title: 2025 Roll 195 (Hasselblad 500C/M)
+
+----
+
+Summary: 
+
+----
+
+Useblocks: true
+
+----
+
+Text: 
+
+----
+
+Blocks: [{"content":{"text":"<p>Sometimes I just need to blow through a roll when I'm bored. This is from the Hasselblad 500C/M and 80mm Planar on HP5 developed with HC-110(b). Thankfully, Alice was handy. These were all handheld at 1/30th, which is a terrible idea. The one of me is underexposed and full of dust. ¯\\<em>(ツ)</em>/¯</p>"},"id":"9f200757-bbba-4a78-9f94-1be69c724657","isHidden":false,"type":"text"},{"content":{"images":["file://UsbDLeLxvxzz7nCK","file://BRQb9Fx1e2YcCDUf","file://v2r1ZRKYrEVPKJB6","file://PHm3K13w56lR6Y6b"],"caption":"","ratio":"","crop":"false"},"id":"5dcc3d1b-8f74-4de6-adfc-6f35795dd768","isHidden":false,"type":"gallery"}]
+
+----
+
+Cover: 
+
+----
+
+Date: 2025-01-17 00:05:00
+
+----
+
+Author: 
+
+----
+
+Tags: Photography, Hasselblad, Film
+
+----
+
+Uuid: v7mZlew1XerP6xEu

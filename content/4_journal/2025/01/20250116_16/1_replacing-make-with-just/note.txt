@@ -1,0 +1,29 @@
+Title: Replacing make with just
+
+----
+
+Text: I've been slowly working on migrating my Makefiles to [just](https://github.com/casey/just). Just is a command runner and doesn't try to be a decades-old build system. I just need a command runner :). The syntax is similar enough that converting them is pretty trivial.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2025-01-16 13:00:00
+
+----
+
+Tags: 
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: 3UjVTGPTJ33SfIad

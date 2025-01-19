@@ -1,0 +1,29 @@
+Title: 17 January 2025 (Friday)
+
+----
+
+Text: 
+
+----
+
+Cover: 
+
+----
+
+Date: 2025-01-17 10:00:00
+
+----
+
+Weather: Mist 21.7 | Low 21.2, High 34.5
+
+----
+
+Weather-icon: 143
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: 119L4AvOwVRclDrj

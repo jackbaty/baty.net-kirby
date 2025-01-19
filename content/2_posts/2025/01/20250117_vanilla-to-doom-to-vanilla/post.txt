@@ -1,0 +1,49 @@
+Title: Vanilla to Doom to Vanilla
+
+----
+
+Summary: No one will be surprised to learn that I've changed my Emacs config again
+
+----
+
+Useblocks: false
+
+----
+
+Text:
+
+I'd been happily using Doom Emacs until just over a month ago, when I decided to [start from scratch again](https://baty.net/posts/2024/12/emacs-from-scratch-once-again). 
+
+It didn't take long before I started missing some of the niceties of Doom. I'm faster when using Doom/Evil, and sometimes it's good having things taken care of for me.
+
+So, at the beginning of January, I switched back to Doom.
+
+After a week using Doom, I was feeling pretty comfy. Too comfy, in fact. I couldn't shake the feeling that every Doom keybinding I internalized brought me closer to *depending* on Doom. It made me twitchy. Every time I typed something like `SPC m a a` or put a Doom macro like `after!` or `map!` in my configuration, I felt like I was spending time learning *someone else's tool*.
+
+So, this morning I switched back to my vanilla config.
+
+Now I feel better. I'm a little clumsier, and sometimes I wish I didn't have to do *everything*, but dammit it's MINE! 😄.
+
+----
+
+Blocks: 
+
+----
+
+Cover: 
+
+----
+
+Date: 2025-01-17 09:00:00
+
+----
+
+Author: 
+
+----
+
+Tags: Emacs
+
+----
+
+Uuid: 5ARsk5T8jb7zLsWf
