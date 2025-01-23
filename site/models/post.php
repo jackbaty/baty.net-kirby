@@ -43,7 +43,7 @@ class PostPage extends Page
 
     public function published($format = null)
     {
-        return parent::date()->toDate($format ?? 'd M, Y');
+        return parent::date()->toDate($format ?? 'M d, Y');
     }
     // public function url($options = null): string
 //     {

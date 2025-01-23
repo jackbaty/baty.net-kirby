@@ -33,7 +33,7 @@
     </ul>
     <?php endif ?>
 
-    <time class="post-date" datetime="<?= $page->date()->toDate('c') ?>">Published on <?= $page->date()->esc() ?></time>
+    <time class="post-date" datetime="<?= $page->date()->toDate('c') ?>">Published on <?= $page->published() ?></time>
     
 
   </footer>
