@@ -1,0 +1,29 @@
+Title: The hours I've spent in and around Emacs
+
+----
+
+Text: I don't even want to think about how many hours I've spent over the past week or two in and around Emacs. I can't decide if it's fine, because I love Emacs and I'm just having fun with it. Or, am I wasting too much of my life dicking around with my editor, when I could be _doing stuff_ instead. Today, I'm mad at Emacs because of the whole [email fiasco](https://baty.net/posts/2025/01/an-email-fiasco). I came close to burning it all down this afternoon. Cooler heads prevailed, but there remains a low-grade ache around the whole thing.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2025-01-20 18:30:00
+
+----
+
+Tags: Emacs
+
+----
+
+Cover: 
+
+----
+
+Smallimage: - file://Rv09xVIL8dhprI5j
+
+----
+
+Uuid: 9jrXzVHOWSH3cl1n

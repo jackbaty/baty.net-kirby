@@ -6,7 +6,7 @@ Headline: Hi! I'm Jack 👋
 
 ----
 
-Subheadline: This is my blog about everything
+Subheadline: Punch a higher floor.
 
 ----
 

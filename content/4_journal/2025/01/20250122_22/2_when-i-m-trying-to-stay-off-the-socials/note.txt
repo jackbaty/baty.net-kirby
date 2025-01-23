@@ -1,0 +1,29 @@
+Title: When I'm trying to stay off the socials
+
+----
+
+Text: When I'm trying to stay off social media, I need something to distract me. Today, I'm feeling like playing with [Tinderbox](https://eastgate.com/Tinderbox) and [TiddlyWiki](https://tiddlywiki.com/). One side effect is that I'm blogging over at [daily.baty.net](https://daily.baty.net), instead. I'll also be tinkering with [the wiki](https://wiki.baty.net). Sorry to scatter stuff around, but it's fun!
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2025-01-22 06:45:00
+
+----
+
+Tags: Blogging, Social
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: 5HRF5sLdfDMruWFS

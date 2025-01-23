@@ -1,0 +1,33 @@
+Title: 19 January 2025 (Sunday)
+
+----
+
+Summary: 
+
+----
+
+Text: I suppose today is the last day that things will be at their least terrible.
+
+----
+
+Cover: 
+
+----
+
+Date: 2025-01-19 00:00:00
+
+----
+
+Weather: Partly cloudy 21.9 | Low 19.8, High 31.1
+
+----
+
+Weather-icon: 116
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: 8KXVb5WTz6JBkPdh

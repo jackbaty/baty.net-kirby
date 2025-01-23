@@ -1,0 +1,33 @@
+Title: Emacs churn
+
+----
+
+Text:
+
+At the beginning of the year I wanted to try Emacs Easy Mode™. Yeah, I know, there's no such thing, but I thought I'd *try*. I ditched my vanilla configuration for Doom and I switched my convoluted Denote/Howm combo for Org-roam.
+
+This morning, I reverted all those changes.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2025-01-17 14:45:00
+
+----
+
+Tags: Emacs
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: s1S2PCeH94ODHcEO

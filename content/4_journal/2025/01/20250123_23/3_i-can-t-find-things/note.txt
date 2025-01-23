@@ -1,0 +1,29 @@
+Title: I can't find things
+
+----
+
+Text: It happened again. I was looking for a quote that I _know_ I saved...Somewhere. I can't find it. Spotlight doesn't find it. DEVONthink doesn't find it. I can't find it in the wiki or here in the blog. I wonder where I put it? Probably depends on what day I saved it, because I change that just about every day and it's crazy-making.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2025-01-23 09:40:00
+
+----
+
+Tags: Workflow
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: XANiAscb0m4nG9pw

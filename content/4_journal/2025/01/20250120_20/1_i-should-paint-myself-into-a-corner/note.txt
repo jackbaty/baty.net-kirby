@@ -1,0 +1,29 @@
+Title: I should paint myself into a corner
+
+----
+
+Text: For a year or so, I've been working to wean myself from as much macOS-only software as possible. The idea lurking behind this move has been, "What if I move to Linux?". I can't shake the thought, even though it would be a terrible idea. As a counter, now I'm wondering if I should use _nothing but_ macOS-only software. That way it would simply be too much work to switch, so maybe I'll stop thinking about it. Yeah right.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2025-01-20 17:05:00
+
+----
+
+Tags: Software
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: ObJ4SKxloxziHgAE
