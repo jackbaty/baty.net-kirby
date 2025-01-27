@@ -20,6 +20,19 @@
     <?= $page->text()->kt() ?>
 </div><br>
 
+<h2><strong>My rating system:</strong></h2>
+<div style="margin:30px;">
+
+
+⭐️⭐️⭐️⭐️⭐️ Loved it!  <br>
+⭐️⭐️⭐️⭐️ It was good  <br>
+⭐️⭐️⭐️ It was OK  <br>
+⭐️⭐️ I didn’t like it  <br>
+⭐️ Hated it  <br>
+</div>
+
+<hr>
+
 <ul class="post">
   <?php foreach ($movies as $movie): ?>
   <li>
