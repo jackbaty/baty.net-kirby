@@ -1,0 +1,33 @@
+Title: The "I'm Back" digital film roll
+
+----
+
+Text:
+
+(image: im-back.jpg class: right)
+
+[I'm Back® digital back](https://imback.eu/home/product/ibfilm-im-back-film/) is a 3D-printed film cassette with an attached m4/3 sensor. Some day this could be really cool. <br clear="all">
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2025-01-26 09:10:00
+
+----
+
+Tags: Film, Analog, Photography
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: JvRgF3s19J29x9Bf

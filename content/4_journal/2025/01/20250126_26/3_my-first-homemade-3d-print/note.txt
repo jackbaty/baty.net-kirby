@@ -1,0 +1,39 @@
+Title: My first homemade 3D print
+
+----
+
+Text:
+
+I have no useful experience with 3D modeling software, so I figured it was time to jump in. My first project was to stop the Baron Fig Squire pen from rolling off my desk 30 times a day.
+
+I thought about making a clip, but that felt too complicated, so I made a simple ring with a couple of flat sides. The problem was that it still rolled. The flat bits weren't enough to stop it, given any momentum.
+
+Instead of a fancy solution, I just added a tiny nubbin to the ring. It's not pretty or elegant, but it works. 
+
+Crude but effective.
+
+(image: baron-fig-bumper.jpg)
+
+----
+
+Showtitle: true
+
+----
+
+Date: 2025-01-26 15:05:00
+
+----
+
+Tags: 3DPrinting
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: pETy3uMHqRqgMzjB

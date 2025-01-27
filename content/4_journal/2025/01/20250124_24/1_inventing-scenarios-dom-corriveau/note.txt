@@ -1,0 +1,34 @@
+Title: Inventing scenarios (Dom Corriveau)
+
+----
+
+Text:
+
+[Offgrid internet-in-a-box project - Part one - Dom Corriveau](https://blog.ctms.me/posts/2025-01-17-offgrid-internet-in-a-box-kickoff/):
+> For fun, I like to invent scenarios and then build a tech setup for it.
+
+That line really stuck out. It's what so many of us do with everything. I know I do.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2025-01-24 05:15:00
+
+----
+
+Tags: Workflow
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: Uki9wzyEZxmZ2jkk

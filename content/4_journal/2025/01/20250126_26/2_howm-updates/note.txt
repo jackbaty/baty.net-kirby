@@ -1,0 +1,29 @@
+Title: Howm updates
+
+----
+
+Text: During the first 6 months using (link: https://kaorahi.github.io/howm/ text: Howm), I kept changing the format I used. I started with plain .txt files then moved to Markdown, then to org and back again a few times. What a mess. I'm an Org mode person, so  I spent rather too long this morning converting and renaming everything to .org. I need to stick with this, now.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2025-01-26 09:20:00
+
+----
+
+Tags: Emacs, Howm
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: tZXCgujI3ZF1FIlq
