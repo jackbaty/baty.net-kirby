@@ -33,6 +33,7 @@ columns:
         uploads:
         template: image
         query: page('header-images').images
+        parent: page('header-images')
       info:
         type: fields
         fields:
