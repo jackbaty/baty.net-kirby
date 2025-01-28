@@ -20,6 +20,7 @@ publish: checkpoint
 		--checksum \
 		--delete \
 		--no-perms \
+		--exclude .DS_Store \
 		{{PUBLIC_DIR}}content/ {{SERVER_HOST}}:{{SERVER_DIR}}/content
 
 deploy: checkpoint
