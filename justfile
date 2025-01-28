@@ -14,6 +14,13 @@ checkpoint:
 pull:
 	rsync -avz {{SERVER_HOST}}:{{SERVER_DIR}}/content/ {{PUBLIC_DIR}}content \
 			--delete
+publish: checkpoint
+	@echo "\033[0;32mDeploying content to {{TARGET}}...\033[0m"
+	rsync -v -rz \
+		--checksum \
+		--delete \
+		--no-perms \
+		{{PUBLIC_DIR}}content/ {{SERVER_HOST}}:{{SERVER_DIR}}/content
 
 deploy: checkpoint
 	git push
