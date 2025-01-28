@@ -6,7 +6,13 @@ Summary:
 
 ----
 
-Text: I'm now writing everything here locally and deploying it using rsync (via just). This way makes it easier to edit posts using Emacs. If you're reading this, it worked.
+Text:
+
+I'm now writing everything here locally and deploying it using rsync (via just). This way makes it easier to edit posts using Emacs. If you're reading this, it worked.
+
+\----
+
+They're going to need a new acronym for DOGE. DOLTPALS, maybe (Department Of Lining Trump's Pockets And Lost Scruples).
 
 ----
 
