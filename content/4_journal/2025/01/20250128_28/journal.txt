@@ -1,0 +1,33 @@
+Title: 28 January 2025 (Tuesday)
+
+----
+
+Summary: 
+
+----
+
+Text: I'm now writing everything here locally and deploying it using rsync (via just). This way makes it easier to edit posts using Emacs. If you're reading this, it worked.
+
+----
+
+Cover: 
+
+----
+
+Date: 2025-01-28 07:30:00
+
+----
+
+Weather: Partly cloudy 25.0 | Low 23.0, High 32.4
+
+----
+
+Weather-icon: 116
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: fiKLIOh7s2gVeMXO
