@@ -1,20 +1,26 @@
 title: Posts go here
-
 icon: 📖
 
-
 sections:
-  drafts:
-    extends: sections/posts
-    label: Drafts
-    status: draft
-  listed:
-    extends: sections/posts
-    label: Published
-    status: listed
-    size: small
-    layout: list
-    limit: 50
-    query: kirby.collection("posts")
+  years:
+    type: pages
+    label: Years
+    parent: kirby.page("posts/")
+    template: year
+
+
+# sections:
+#   drafts:
+#     extends: sections/posts
+#     label: Drafts
+#     status: draft
+#   listed:
+#     extends: sections/posts
+#     label: Published
+#     status: listed
+#     size: small
+#     layout: list
+#     limit: 50
+#     query: kirby.collection("posts")
 
 # More about pages sections: https://getkirby.com/docs/reference/panel/sections/pages

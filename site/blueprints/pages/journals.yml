@@ -1,23 +1,30 @@
 # Each page blueprint must have a title, the title may be different from the file name
-title: Posts
-
-# Each page can have an icon that is shown in page listings when no preview image is available.
+title: Journals
 icon: 📖
 
+
+# We list years (folders) here
 sections:
-  drafts:
-    extends: sections/journals
-    label: Drafts
-    status: draft
+  years:
+    type: pages
+    label: Years
+    parent: kirby.page("journal/")
+    template: year
 
-
-# In the second column, we reuse the same section, this time for listed pages and with a different headline
-sections:
-  listed:
-    extends: sections/journals
-    label: Published
-    status: listed
-    layout: list
-    query: kirby.collection("journals")
-
-# More about pages sections: https://getkirby.com/docs/reference/panel/sections/pages
+# sections:
+#   drafts:
+#     extends: sections/journals
+#     label: Drafts
+#     status: draft
+#
+#
+# # In the second column, we reuse the same section, this time for listed pages and with a different headline
+# sections:
+#   listed:
+#     extends: sections/journals
+#     label: Published
+#     status: listed
+#     layout: list
+#     query: kirby.collection("journals")
+#
+# # More about pages sections: https://getkirby.com/docs/reference/panel/sections/pages

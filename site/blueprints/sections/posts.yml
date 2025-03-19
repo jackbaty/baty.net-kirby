@@ -4,11 +4,11 @@
 # More about pages sections: https://getkirby.com/docs/reference/panel/sections/pages
 type: pages
 label: Posts
-parent: kirby.page("posts/2025/")
+query: site.index.filterBy("template", "in", ["post"])
+parent: kirby.page("posts")
 info: "{{ page.published }}"
 templates:
   - post
-  - journal
 empty: No posts yet
 sortBy: date desc
 limit: 10

@@ -51,11 +51,12 @@ $recentPosts = $allPosts->limit(10);
 
 <!-- /most recent daily post -->
 
-<?php if(false): ?>
+<?php if(true): ?>
 <!-- recent posts links -->
+<h2 class="recent">{ Recent posts }</h2>
 <div class="recent-posts">
   <h2 class="uppercase color-grey">Latest blog posts</h2>
-
+  
 <ul>
 <?php foreach ($recentPosts as $post): ?>
 	<?php if ($post->url() != $latestJournal->url()): ?>
@@ -72,7 +73,7 @@ $recentPosts = $allPosts->limit(10);
 
 
 <!-- recent posts full text -->
-<?php if(true): ?>
+<?php if(false): ?>
 <h2 class="recent">{ Recent posts and journals }</h2>
 
 <ul>
@@ -96,8 +97,9 @@ $recentPosts = $allPosts->limit(10);
 <!-- /recent posts full text -->
 
 
-<?php if(false): ?>
+<?php if(true): ?>
 <!-- recent daily notes full text -->
+<h2 class="recent">{ Recent journals }</h2>
 <ul>
   <?php foreach ($recentJournals as $journal): ?>
 	  <?php if ($journal->url() != $latestJournal->url()): ?>

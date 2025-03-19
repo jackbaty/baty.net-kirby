@@ -1,0 +1,11 @@
+Title: Year
+type: pages
+
+create:
+  status: listed
+
+sections:
+  years:
+    type: pages
+    label: Months
+    template: month

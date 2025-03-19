@@ -359,8 +359,16 @@ figure.small-image {
 
 figure.right {
   float: right;
-    margin: 0 10px;
+  margin: 0 10px;
+  max-width: 50%;
 }
+@media (min-width:40rem)
+  figure.right {
+    float: right;
+    max-width: 50%;
+    margin: 0 0 1rem 1rem;
+}
+
 figure.left {
   float: left;
 }

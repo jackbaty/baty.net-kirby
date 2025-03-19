@@ -1,0 +1,33 @@
+Title: 19 March 2025 (Wednesday)
+
+----
+
+Summary: 
+
+----
+
+Text: Well would you look at that. We're using Kirby again.
+
+----
+
+Cover: 
+
+----
+
+Date: 2025-03-19 07:25:00
+
+----
+
+Weather: Overcast 53.1 | Low 51.4, High 57.0
+
+----
+
+Weather-icon: 122
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: R4of3ch8YOlUzXN9

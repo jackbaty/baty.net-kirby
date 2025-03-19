@@ -33,7 +33,9 @@
   
   <?php if($post->template() == 'post'): ?>
   	<div class="post text">
-    	<?= $post->postContent() ?>
+
+    	<p><?= $post->postContent() ?></p>
+    	<a href="<?= $post->url() ?>">Read more…</a>
     </div>
   <?php else: ?>
   	 <?php if ($post->text()->isNotEmpty()): ?>

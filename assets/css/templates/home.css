@@ -90,8 +90,10 @@ article.post.home {
 .recent-posts {
   margin-top: 2rem;
   padding: 1rem;
-  border: 1px solid var(--color-grey);
+ /*
+ border: 1px solid var(--color-grey);
   background-color: var(--color-light);
+ */
 
 }
 
@@ -100,6 +102,12 @@ article.post.home {
   font-size: 1rem;
 }
 
+.recent-posts a {
+  color: var(--color-link);
+}
+.recent-posts a:visited {
+  color: var(--color-link-visited);
+}
 .recent-posts h2 a:hover {
   text-decoration: underline;
 }

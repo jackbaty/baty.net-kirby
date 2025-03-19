@@ -1,0 +1,37 @@
+Title: Roll 202 (Nikon F100)
+
+----
+
+Summary: 
+
+----
+
+Useblocks: true
+
+----
+
+Text: 
+
+----
+
+Blocks: [{"content":{"text":"<p>I was so bored today that I grabbed the first camera I saw with a partially used roll (the Nikon F100) and walked around the house snapping anything at all.</p>"},"id":"9488f7c5-e9f1-4c06-9917-25a6cbcd7e8e","isHidden":false,"type":"text"},{"content":{"images":["file://qv0m7NUKzl0JT15K","file://wls8nW3LuBfWOtq5","file://adpizXPgal6eUPbH","file://ENEpF3JKNZkrx5UQ","file://gWMONnk4tybhXbH8","file://3KWOmkOwxsO2Zcrj"],"caption":"","ratio":"","crop":"false"},"id":"42682efc-669c-4e25-a50b-6f8ab9ddb5db","isHidden":false,"type":"gallery"}]
+
+----
+
+Cover: 
+
+----
+
+Date: 2025-02-10 15:35:00
+
+----
+
+Author: 
+
+----
+
+Tags: Photography, Nikon, Film, FilmRoll
+
+----
+
+Uuid: yrWYxrDWqfRTZ7hv

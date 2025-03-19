@@ -1,0 +1,49 @@
+Title: Month
+type: pages
+
+create:
+  title:
+    label: Month name (e.g. 02-February)
+  status: listed
+
+# sections:
+#   drafts:
+#     type: pages
+#     label: Drafts
+#     template: post
+#     status: draft
+#   published:
+#     type: pages
+#     label: Published
+#     template: post
+#     status: listed
+
+sections:
+  drafts:
+    type: pages
+    label: Drafts
+    info: "{{ page.published }}"
+    templates:
+      - post
+      - journal
+    empty: No posts yet
+    sortBy: date desc
+    limit: 40
+    status: draft
+    image:
+      query: page.cover
+      cover: true
+  published:
+    type: pages
+    label: Published
+    info: "{{ page.published }}"
+    templates:
+      - post
+      - journal
+    empty: No posts yet
+    sortBy: date desc
+    status: listed
+    limit: 40
+    image:
+      query: page.cover
+      cover: true

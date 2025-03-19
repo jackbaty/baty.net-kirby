@@ -6,7 +6,7 @@ Header: header.png
 
 ----
 
-Extra: extra-jack-trigger.jpg
+Extra: extra-tongue.png
 
 ----
 

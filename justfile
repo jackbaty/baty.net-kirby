@@ -1,6 +1,6 @@
 SERVER_HOST := "server03.baty.net"
 SERVER_DIR := "/srv/baty.net-kirby/public_html"
-PUBLIC_DIR := "/Users/jbaty/Sync/sites/baty.net/"
+PUBLIC_DIR := "/Users/jbaty/Sync/sites/baty.net-kirby/"
 TARGET := "Server03 Hetzner"
 
 default:
@@ -34,6 +34,7 @@ deploy: checkpoint
 			--exclude .git/ \
 			--exclude /cache/ \
 			--exclude /config/.license \
+			--exclude /accounts/.logins \
 			--exclude /sessions/ \
 			{{PUBLIC_DIR}}site/ {{SERVER_HOST}}:{{SERVER_DIR}}/site
 	rsync   -v -rz \
@@ -58,6 +59,7 @@ deployall: checkpoint
 			--exclude Makefile \
 			--filter=':- .gitignore' \
 			--exclude .gitignore.swp \
+			--exclude /accounts/.logins \
 			--exclude /config/.license \
 			{{PUBLIC_DIR}} {{SERVER_HOST}}:{{SERVER_DIR}}
 	open raycast://confetti

@@ -1,0 +1,29 @@
+Title: Overthinking everything again
+
+----
+
+Text: I went to bed last night exhausted by overthinking everything I do. Correction, what’s exhausting is overthinking the minutiae and underthinking the important stuff. I'm overthinking things that are mostly solved problems with proper, simple solutions: email, RSS reading, blogging, taking notes, etc. I spend an inordinate amount of time playing with things when I should be using them to, you know, _do things_.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2025-03-19 07:30:00
+
+----
+
+Tags: Workflow
+
+----
+
+Cover: 
+
+----
+
+Smallimage: - file://1ch5eawxV40hBrts
+
+----
+
+Uuid: rKXH4EqQC2dZgmEg

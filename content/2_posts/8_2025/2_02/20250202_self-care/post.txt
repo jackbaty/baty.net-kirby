@@ -1,0 +1,41 @@
+Title: Self care
+
+----
+
+Summary: 
+
+----
+
+Useblocks: false
+
+----
+
+Text:
+
+(image: ostrich.jpg class: right)
+
+Sometimes what looks like selfishness is really just self care.
+
+----
+
+Blocks: 
+
+----
+
+Cover: 
+
+----
+
+Date: 2025-02-02 15:20:00
+
+----
+
+Author: 
+
+----
+
+Tags: Life
+
+----
+
+Uuid: 0ILAQJPTT93ckINV
