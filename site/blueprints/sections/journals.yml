@@ -7,7 +7,7 @@ label: Journals
 templates:
   - journal
 empty: No journals yet
-parent: kirby.page("journal/2025/01")
+parent: kirby.page("journal/2025/03")
 query: site.index.filterBy("template", "in", ["journal"])
 sortBy: date desc
 limit: 10
