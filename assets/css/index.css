@@ -11,6 +11,7 @@
   --color-link-visited: #08769b;
   --color-grey: #777;
   --color-light: #efefef;
+  --color-header: rgb(0, 0, 55);
   /* --color-text: #415462; */
   --color-text: rgb(15, 20, 26);
   --color-text-grey: var(--color-grey);
@@ -63,7 +64,7 @@ a:not([class]) {
 
 .hero-image {
 
-    background-color: var(--primary);
+    background-color: var(--color-header);
     height: 150px;
     background-position: center;
     background-repeat: no-repeat;
