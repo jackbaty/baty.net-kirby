@@ -1,0 +1,29 @@
+Title: Kirby revived
+
+----
+
+Text: I was in a mood for change this afternoon, so I dusted off the Kirby version of my blog, cleaned things up, refactored the blueprints, and migrated the content from Hugo (since last time). I spent like 4 hours on this, and now I've forgotten why I started it. I suppose I should deploy it and enjoy my sunk cost fallacy.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2025-03-19 20:55:00
+
+----
+
+Tags: Kirby, Blogging
+
+----
+
+Cover: 
+
+----
+
+Smallimage: - file://M9FEHMuXqFyOc6QD
+
+----
+
+Uuid: Bl4a1T6dDXiByFEV

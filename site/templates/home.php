@@ -33,7 +33,7 @@ if ($latestJournalDay == date('Y-m-d')) {
     $dayWeatherIcon = $dayHeading;
 }
 
-$allPosts = collection('posts-journals-movies');
+$allPosts = collection('posts-and-movies');
 $allPostsCount = $allPosts->count();
 $recentPosts = $allPosts->limit(10);
 
@@ -51,8 +51,8 @@ $recentPosts = $allPosts->limit(10);
 
 <!-- /most recent daily post -->
 
-<?php if(true): ?>
 <!-- recent posts links -->
+<?php if(true): ?>
 <h2 class="recent">{ Recent posts }</h2>
 <div class="recent-posts">
   <h2 class="uppercase color-grey">Latest blog posts</h2>
@@ -67,9 +67,8 @@ $recentPosts = $allPosts->limit(10);
 
 <div class="more-posts"><a href="/posts">See all <?= $allPostsCount ?> posts in the archive &rarr;</a></div>
 </div>
-<!-- /recent posts links -->
 <?php endif ?>
-
+<!-- /recent posts links -->
 
 
 <!-- recent posts full text -->

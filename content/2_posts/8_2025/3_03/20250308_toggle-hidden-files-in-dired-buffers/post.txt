@@ -28,7 +28,7 @@ I poked around the Emacs documentation and a handful of Reddit posts and cobbled
 	("s->" . dired-omit-mode)) ;; toggle using Command-Shift-.  same as macOS Finder
 
   :hook
-  (dired-mode . (lambda () (dired-omit-mode))) ;; hide .dot files by default
+  (dired-mode . (dired-omit-mode)) ;; hide .dot files by default
 
   :config
   (setq dired-omit-files   ;; hide .dot files when in dired-omit-mode

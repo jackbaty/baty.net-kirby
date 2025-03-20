@@ -10,6 +10,13 @@ Text:
 
 A running list of changes I've made to this site. Most recent first.
 
+
+- 2025-03-19 Back with Kirby
+- 2025-03-14 Updated theme colors
+- 2025-03-07 Changed theme from Anubis2 to PaperMod
+- 2025-02-12 Rejiggered the navigation. Not sure it’s an improvement.
+- 2025-02-12 Split journal posts into separate RSS feed
+- 2025-02-03 Back to Hugo
 - 2025-01-13 Removed link to Instagram. See [this](https://baty.net/journal/2025/01/12/no-more-instagram-for-me)
 - 2025-01-05 Movies are now included on home page and RSS feed
 - 2025-01-04 Fixed double underline under note's title H3 element.
