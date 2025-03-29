@@ -8,7 +8,7 @@ Subheadline: Follow my blogs via RSS
 
 Text:
 
-Baty.net RSS Feed:
+The main daily RSS Feed:
 
 👉 **https://daily.baty.net/feed** (RSS)
 
