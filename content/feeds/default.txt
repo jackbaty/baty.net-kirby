@@ -10,15 +10,13 @@ Text:
 
 Baty.net RSS Feed:
 
-👉 **https://baty.net/feed** (RSS)
+👉 **https://daily.baty.net/feed** (RSS)
 
 For those who want everything, I cross-post to an automated Mastodon account:
 
 <a href="https://mastodon.social/@batybot" rel="me">**@batybot**</a> (on Mastodon)
 
 ---
-
-**NOTE** The "Everything Feed" is no longer supported and will be removed soon. I'll be redirecting  https://baty.net/everything.rss to https://baty.net/feed.
 
 ----
 
