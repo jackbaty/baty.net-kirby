@@ -1,0 +1,37 @@
+Title: A useful application of LLMs
+
+----
+
+Text:
+
+One of the things I'm finding useful about LLMs is having them summarize my own writing. For example, I threw this month's Org journal at ChatGPT and asked for a summary:
+
+> Jack Baty's journal entries from early March 2025 reflect his daily life, thoughts on photography, and personal observations. He struggles with sleep due to being woken early, enjoys organizing his journals and photos, and contemplates selling his cameras, particularly the Leica SL2 or Nikon Zf. He describes his experiences shopping with friends and family, expresses concerns about aging, and shares his mixed feelings about current events, especially regarding political figures. His reflections reveal a sense of nostalgia, motivation issues, and a desire for connection, particularly with his partner, Gail. He also documents mundane tasks, like grocery shopping and website building, while dealing with the ups and downs of daily life, including caring for his dog, Alice.
+
+It's as if my journaling is raw material for a new set of documents summarizing my life. It's readable, accurate[^1], and like seeing it this way.
+
+[^1]: Well OK, my feelings about current events and "political figures" are not at all "mixed".
+
+----
+
+Showtitle: true
+
+----
+
+Date: 2025-03-29 12:05:00
+
+----
+
+Tags: AI
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: 5s10LNarJrshcmNc

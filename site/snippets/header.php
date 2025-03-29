@@ -74,7 +74,7 @@
   			<?php $image = $page->image() ?>
       <meta property="og:image" content="<?= $image->url() ?>">
   <?php else: ?>
-      <meta property="og:image" content="<?= url('assets/images/opengraph.jpg') ?>">
+      <meta property="og:image" content="<?= url('assets/images/pipeguy-og.png') ?>">
   <?php endif ?>
   
   <meta name="fediverse:creator" content="@jbaty@social.lol">
