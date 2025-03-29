@@ -1,4 +1,4 @@
-Title: Baty.net
+Title: Home
 
 ----
 
@@ -6,7 +6,7 @@ Headline: Hi! I'm Jack 👋
 
 ----
 
-Subheadline: Welcome to my blog about everything.
+Subheadline: I'm glad you're here!
 
 ----
 

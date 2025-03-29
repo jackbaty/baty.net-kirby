@@ -1,0 +1,33 @@
+Title: We're running on Kirby now
+
+----
+
+Text:
+
+I've migrated this daily.baty.net site to Kirby CMS. It has been a static site managed by [Tinderbox](https://eastgate.com/Tinderbox) for a long time. I love Tinderbox, but now that baty.net is back on Hugo, I really wanted a playground for learning more about Kirby. So, here we are.
+
+Your RSS feed is probably complaining right now. Sorry about that.
+
+----
+
+Showtitle: true
+
+----
+
+Date: 2025-03-29 11:40:00
+
+----
+
+Tags: Blogging, Kirby
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: WgldlmaVNoHVylaJ

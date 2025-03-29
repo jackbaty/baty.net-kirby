@@ -1,0 +1,33 @@
+Title: Post-its
+
+----
+
+Text:
+
+Sometimes, when I can't think of anything to print on the 3D printer, I browse around the web and find something to print that I don't really need. For example:
+
+(image: r0003995.jpg)
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2025-03-29 10:35:00
+
+----
+
+Tags: 3DPrinting
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: eXCpPSf9LWQO0Ab6

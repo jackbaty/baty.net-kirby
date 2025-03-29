@@ -6,13 +6,7 @@ Subheadline: A few things I've left lying about
 
 ----
 
-Text:
-
-- (link: page://zxyu49j46fglrkOS text: Subscriptions) - Things I pay for
-- (link: /lifestack text: Lifestack) - Things I use.
-- (link: /leica text: Leica) - My Leica camera timeline
-- (link: /nope text: Nope) - Things I don't like or want to do.
-- (link: /movies text: Movies) - Brief movie reviews
+Text: See my main blog at [baty.net](https://baty.net)
 
 ----
 

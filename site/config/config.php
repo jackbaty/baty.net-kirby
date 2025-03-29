@@ -19,8 +19,8 @@ return [
 		 [
 		 'pattern' => ['index.xml', 'feed'],
 		 'action' => function () {
-		 $title = "Baty.net";
-		 $description = "Latest posts from Jack Baty";
+		 $title = "Jack Baty Daily";
+		 $description = "Latest journals from Jack Baty";
 		 $posts = kirby()->collection('posts-and-notes')->limit(10);
 		 return new Response(snippet('rss', compact('title', 'description', 'posts') , true),
 		 'application/rss+xml');
@@ -38,32 +38,6 @@ return [
                 go($page);
             }
         ],
-        // [
-//             'pattern' => 'posts/(:num)/(:num)/(:any)',
-//             'action'  => function($year, $month, $slug) {
-//             	$uid = $year . '/' . $month . '/' . $slug;
-//                 go($uid);
-//             }
-//         ],
-        // For year/slug
-        [
-            'pattern' => '(:num)/(:any)',
-            'action'  => function($year, $slug) {
-                $uid = $year . '/' . $slug;
-                $page = page($uid);
-                if(!$page) $page = page('posts/'. $uid);
-                if(!$page) $page = site()->errorPage();
-                return site()->visit($page);
-            }
-        ],
-        [
-            'pattern' => 'posts/(:num)/(:any)',
-            'action'  => function($year, $slug) {
-            	$uid = $year . '/' . $slug;
-                go($uid);
-            }
-        ],
-        
         
         
     ],

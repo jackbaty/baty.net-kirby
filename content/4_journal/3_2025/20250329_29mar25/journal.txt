@@ -1,0 +1,33 @@
+Title: 29 March 2025 (Saturday)
+
+----
+
+Summary: 
+
+----
+
+Text: I had an idea. What if I used Kirby for the daily notes blog? That way, I wouldn't need to keep switching the main blog back and forth between Kirby and Hugo. I'm a genius! But I am sorry about the broken links. I'm not going to fix them, probably.
+
+----
+
+Cover: - file://ysYDg5bxltVuT0RM
+
+----
+
+Date: 2025-03-29 09:05:00
+
+----
+
+Weather: Low 55.0, High 64.8
+
+----
+
+Weather-icon: 122
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: Atz1G01prYEiu4Cx

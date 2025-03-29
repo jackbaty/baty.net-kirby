@@ -10,10 +10,10 @@
   <?php else: ?>
 <time class="post-excerpt-date" datetime="<?= $post->published('c') ?>"><?= $post->published() ?><?php if (!empty($post->tags())): ?> | Tags: <?= $post->tags() ?><?php endif ?></time>
 <?php endif ?>
-    <?php if (($excerpt ?? true) !== false): ?>
+  <?php if (($excerpt ?? true) !== false): ?>
 	<div class="post-excerpt-text">
 	    <?php if ($post->summary()->isEmpty()): ?>
-      		<?= $post->text()->kt()->excerpt(280) ?>
+      		<?= $post->text()->kt() ?>
 	    <?php else: ?>
       		<?= $post->summary()->text() ?>
 	    <?php endif ?>

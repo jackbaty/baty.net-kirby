@@ -5,6 +5,9 @@ Kirby::plugin('getkirby/date-to-slug', [
 	'daynum' => function() {
 		return date('d');
 	},
+	'dayslug' => function() {
+		return date('dMy');
+	},
 	'pretty-date' => function() {
 		return date('j F Y \(l\)');
 	}

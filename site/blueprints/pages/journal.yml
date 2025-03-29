@@ -1,23 +1,17 @@
 # Each page blueprint must have a title, the title may be different from the file name
 title: Journal Post
 
-# Sorting number scheme that is applied when page status is changed to `listed`
-# More about page sorting: https://getkirby.com/docs/reference/panel/blueprints/page#sorting
 num: date
 
-# Each page can have an icon that is shown in page listings when no preview image is available.
-icon: 📖
 icon: 🗓️
 create:
-  status: draft
+  status: listed
   title: "{{ site.pretty-date }}"
-  slug: "{{ site.daynum }}"
+  slug: "{{ site.dayslug }}"
   fields:
     - weather
     - weather_icon
 
-# Custom descriptions for each page status depending on use case
-# More about page status: https://getkirby.com/docs/reference/panel/blueprints/page#statuses
 status:
   draft:
     label: Draft

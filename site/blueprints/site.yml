@@ -52,6 +52,5 @@ columns:
     sections:
       # The `posts` section reuses the pages section defined in `/site/blueprints/sections/posts.yml`
       journals: sections/journals
-      posts: sections/posts
       movies: sections/movies
 

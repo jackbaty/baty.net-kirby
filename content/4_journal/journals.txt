@@ -1,8 +1,8 @@
-Title: Journal
+Title: Archives
 
 ----
 
-Subheadline: My daily notes
+Subheadline: All of my journal entries, together on one giant page
 
 ----
 

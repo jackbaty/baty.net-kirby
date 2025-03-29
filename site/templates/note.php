@@ -23,7 +23,7 @@
     <ul class="post-tags">
       <?php foreach ($tags as $tag): ?>
       <li>
-        <a href="<?= $site->find('posts')->url(['params' => ['tag' => $tag]]) ?>"><?= esc($tag) ?></a>
+        <a href="<?= $site->find('journal')->url(['params' => ['tag' => $tag]]) ?>"><?= esc($tag) ?></a>
       </li>
       <?php endforeach ?>
     </ul>

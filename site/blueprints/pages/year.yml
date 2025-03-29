@@ -5,7 +5,9 @@ create:
   status: listed
 
 sections:
-  years:
+  journals:
     type: pages
-    label: Months
-    template: month
+    label: Journals
+    template: journal
+    sortBy: date desc
+    limit: 32

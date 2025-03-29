@@ -1,6 +1,6 @@
 SERVER_HOST := "server03.baty.net"
-SERVER_DIR := "/srv/baty.net-kirby/public_html"
-PUBLIC_DIR := "/Users/jbaty/Sync/sites/baty.net-kirby/"
+SERVER_DIR := "/srv/daily.baty.net/public_html"
+PUBLIC_DIR := "/Users/jbaty/Sync/sites/daily.baty.net/"
 TARGET := "Server03 Hetzner"
 
 default:

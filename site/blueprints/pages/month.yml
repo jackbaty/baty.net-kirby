@@ -38,7 +38,6 @@ sections:
     label: Published
     info: "{{ page.published }}"
     templates:
-      - post
       - journal
     empty: No posts yet
     sortBy: date desc
