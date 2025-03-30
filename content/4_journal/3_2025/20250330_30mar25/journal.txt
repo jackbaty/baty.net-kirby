@@ -10,7 +10,7 @@ Text: 5:15 am At least it wasn't raining during our walk. I still cut it a bit s
 
 ----
 
-Cover: 
+Cover: - file://V9thDFGmuswaI04u
 
 ----
 
