@@ -1,0 +1,29 @@
+Title: 31 March 2025 (Monday)
+
+----
+
+Text: 
+
+----
+
+Cover: 
+
+----
+
+Date: 2025-03-31 05:25:00
+
+----
+
+Weather: Overcast 35.1 | Low 29.5, High 38.7
+
+----
+
+Weather-icon: 122
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: voWcGd9MPmD2EkMa
