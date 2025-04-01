@@ -1,0 +1,33 @@
+Title: 1 April 2025 (Tuesday)
+
+----
+
+Summary: 
+
+----
+
+Text: I spent several hours yesterday playing with Neovim and, while it's quite nice these days, I would like my time back. I'm an Emacs person, duh.
+
+----
+
+Cover: - file://L2PZOCUlgxZvMEiN
+
+----
+
+Date: 2025-04-01 06:10:00
+
+----
+
+Weather: Clear 25.0 | Low 27.3, High 43.0
+
+----
+
+Weather-icon: 113
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: PDQPayKcExjKY0r1
