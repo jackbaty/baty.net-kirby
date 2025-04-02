@@ -83,13 +83,15 @@
 </head>
 <body>
   
-	<div class="hero-image"<?php if($header = $site->header()): ?> style="background-image: url(/header-images/<?= $site->header() ?>);" <?php endif ?>>
+<!-- 	<div class="hero-image"<?php if($header = $site->header()): ?> style="background-image: url(/header-images/<?= $site->header() ?>);" <?php endif ?>> -->
+	
+	<div class="hero-container">
   <div class="hero-text">
     <h1><a href="<?= $site->url() ?>"><?= $site->title()->esc() ?></a></h1>
     <h3>Daily notes from Jack about everything</h3>
   </div>
   <?php if($extraImg = $site->extra()): ?><img id="extra-image" src="/header-images/<?= $site->extra() ?>"><?php endif ?>
-</div>
+  </div>
   <header class="header">
     <nav class="menu">
       <?php foreach ($site->children()->listed() as $item): ?>

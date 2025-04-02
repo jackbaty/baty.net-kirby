@@ -12,6 +12,7 @@
   --color-grey: #777;
   --color-light: #efefef;
   --color-header: rgb(0, 0, 55);
+  --color-header-bg: #213A49;
   /* --color-text: #415462; */
   --color-text: rgb(15, 20, 26);
   --color-text-grey: var(--color-grey);
@@ -62,6 +63,7 @@ a:not([class]) {
 	text-decoration-thickness: 1px;
 }
 
+/*
 .hero-image {
 
     background-color: var(--color-header);
@@ -71,6 +73,18 @@ a:not([class]) {
     background-size: cover;
     position: relative;
 }
+ */
+
+.hero-container {
+
+    background-color: var(--color-header-bg);
+    height: 150px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
 
 .hero-text {
     font-family: Oswald;
