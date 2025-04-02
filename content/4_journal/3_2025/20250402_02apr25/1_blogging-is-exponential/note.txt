@@ -1,0 +1,29 @@
+Title: Blogging is exponential
+
+----
+
+Text: I can't tell you how many new blogs are springing up recently, but it's starting to feel like _a lot_ of new blogs. And the more feeds I add to my reader, the more new blogs I discover. It's feeling exponential and I love it.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2025-04-02 11:40:00
+
+----
+
+Tags: Blogging
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: zHrqWpWGOfdEcZ1v
