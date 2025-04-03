@@ -6,7 +6,15 @@ Summary:
 
 ----
 
-Text: 5:12 am. The weather has been interesting. This week so far it's been  clear and 30°, or raining and 60°. We've had snow and we've had 80MPH wind gusts. Today is mild, 50° and quite windy.
+Text:
+
+5:12 am. The weather has been interesting. This week so far it's been  clear and 30°, or raining and 60°. We've had snow, lightning, and we've had 80MPH wind gusts. Today is mild, 50° and quite windy.
+
+---
+
+Oh good, I have a dentist appointment today.
+
+---
 
 ----
 
