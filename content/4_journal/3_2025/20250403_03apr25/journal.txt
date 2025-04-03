@@ -1,0 +1,33 @@
+Title: 3 April 2025 (Thursday)
+
+----
+
+Summary: 
+
+----
+
+Text: 5:12 am. The weather has been interesting. This week so far it's been  clear and 30°, or raining and 60°. We've had snow and we've had 80MPH wind gusts. Today is mild, 50° and quite windy.
+
+----
+
+Cover: - file://s9Ju48bKOlD0wh64
+
+----
+
+Date: 2025-04-03 05:10:00
+
+----
+
+Weather: Partly cloudy 54.0 | Low 39.6, High 50.4
+
+----
+
+Weather-icon: 116
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: Nhchrcnc5CoGZolV
