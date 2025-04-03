@@ -43,6 +43,8 @@
       
     </div>
   </footer>
+  
+  <script src="https://tinylytics.app/embed/_J95xZgyF9gfJjQW5kAF.js" defer></script>
 
   <?= js([
       'assets/js/prism.js?v=20231109',
