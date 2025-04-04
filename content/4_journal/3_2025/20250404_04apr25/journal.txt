@@ -1,0 +1,33 @@
+Title: 4 April 2025 (Friday)
+
+----
+
+Summary: 
+
+----
+
+Text: You know what I need? Fewer dependencies. Less infrastructure. This blog, for example, shouldn't be necessary.
+
+----
+
+Cover: - file://6jly3fsjb8zz7fJF
+
+----
+
+Date: 2025-04-04 04:50:00
+
+----
+
+Weather: Clear 33.1 | Low 34.0, High 52.7
+
+----
+
+Weather-icon: 113
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: 83xv2NQIxMwioPCe
