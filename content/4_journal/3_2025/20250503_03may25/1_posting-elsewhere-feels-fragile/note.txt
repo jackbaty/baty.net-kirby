@@ -1,0 +1,29 @@
+Title: Posting elsewhere feels fragile
+
+----
+
+Text: I assume it's possible, because most people who blog do it, but I struggle to get comfortable posting to a personal blog using a CMS (e.g. Ghost). I can't seem to get over knowing that it's all "out there". It's probably irrational, but still makes me twitchy. My blog is like a journal. I don't like the idea of my journal being at all fragile. Anything other than local-first static HTML feels fragile.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2025-05-03 12:10:00
+
+----
+
+Tags: Blogging
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: y5k9FL6sQ8rQPk7R

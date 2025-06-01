@@ -1,0 +1,33 @@
+Title: 3 May 2025 (Saturday)
+
+----
+
+Summary: 
+
+----
+
+Text: I am flirting with the idea of splitting off the daily notes again.
+
+----
+
+Cover: - file://5S4j0dl0ArcENHqq
+
+----
+
+Date: 2025-05-03 06:00:00
+
+----
+
+Weather: Overcast 43.0 | Low 45.7, High 55.4
+
+----
+
+Weather-icon: 122
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: 7Z8uazEmcnKWErNE
