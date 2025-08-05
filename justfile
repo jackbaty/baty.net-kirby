@@ -1,6 +1,6 @@
 SERVER_HOST := "bsd01.baty.net"
 SERVER_DIR := "/usr/local/www/daily.baty.net/public_html"
-PUBLIC_DIR := "/Users/jbaty/Sync/sites/daily.baty.net/"
+PUBLIC_DIR := "/Users/jbaty/sites/daily.baty.net/"
 TARGET := "Vultr FreeBSD"
 
 default:
