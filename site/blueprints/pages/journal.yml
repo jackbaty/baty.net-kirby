@@ -5,7 +5,7 @@ num: date
 
 icon: 🗓️
 create:
-  status: listed
+  status: draft
   title: "{{ site.pretty-date }}"
   slug: "{{ site.dayslug }}"
   fields:

@@ -62,4 +62,3 @@ deployall: checkpoint
 			--exclude /accounts/.logins \
 			--exclude /config/.license \
 			{{PUBLIC_DIR}} {{SERVER_HOST}}:{{SERVER_DIR}}
-	open raycast://confetti

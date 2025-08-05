@@ -1,0 +1,29 @@
+Title: Kirby on FreeBSD
+
+----
+
+Text: daily.baty.net has been a static website, rendered using Tinderbox, for a while now. I love Tinderbox, but it's not really a blogging tool. It can do it, but there's work involved. Anyway, I had a hankering to tinker with Kirby CMS again, so I dug out my old Kirby version of this site, upgraded to Kirby 5, and installed it on my VPS running FreeBSD. It didn't work at first, but after installing some missing PHP packages, things seem to be running well. If you're reading this, it worked.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2025-08-05 14:10:00
+
+----
+
+Tags: FreeBSD, Blogging, Kirby
+
+----
+
+Cover: 
+
+----
+
+Smallimage: - file://M9FEHMuXqFyOc6QD
+
+----
+
+Uuid: c6uksphda3y3wdki

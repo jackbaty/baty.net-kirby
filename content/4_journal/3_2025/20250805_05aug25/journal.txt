@@ -1,0 +1,33 @@
+Title: 5 August 2025 (Tuesday)
+
+----
+
+Summary: 
+
+----
+
+Text: I can't believe this Kirby CMS thing still works. Not entirely true. I tried installing PHP/PHP-FPM and Co. on the FreeBSD server, but it threw errors I couldn't fix, so I put it up on the old Ubuntu server and that worked straight away. Then, I got mad that I'd given up, so I tried again and figured out that I'd missed a package or two when installing php. Works now. You're soaking in it.
+
+----
+
+Cover: 
+
+----
+
+Date: 2025-08-05 14:05:00
+
+----
+
+Weather: Sunny 80.1 | Low 58.8, High 86.9
+
+----
+
+Weather-icon: 113
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: irmd7snwxiprxdl7
