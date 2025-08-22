@@ -1,5 +1,7 @@
-SERVER_HOST := "bsd01.baty.net"
-SERVER_DIR := "/usr/local/www/daily.baty.net/public_html"
+#SERVER_HOST := "bsd01.baty.net"
+#SERVER_DIR := "/usr/local/www/daily.baty.net/public_html"
+SERVER_HOST := "server03.baty.net"
+SERVER_DIR := "/srv/daily.baty.net/public_html"
 PUBLIC_DIR := "/Users/jbaty/sites/daily.baty.net/"
 TARGET := "Vultr FreeBSD"
 
