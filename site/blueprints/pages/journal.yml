@@ -8,9 +8,6 @@ create:
   status: draft
   title: "{{ site.pretty-date }}"
   slug: "{{ site.dayslug }}"
-  fields:
-    - weather
-    - weather_icon
 
 status:
   draft:
@@ -69,11 +66,6 @@ columns:
             type: date
             time: true
             default: now
-          weather:
-            type: text
-          weather_icon:
-            label: Weather Icon No.
-            type: text
           # Fields types can be added using the shortcut `fieldname: true`
           # (however, you can only use a fieldname once per page and this only makes sense for simple fields without configuration)
           tags:

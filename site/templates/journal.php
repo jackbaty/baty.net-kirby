@@ -24,14 +24,7 @@
     <p class="post-subheading"><small><?= $page->subheading()->esc() ?></small></p>
     <?php endif ?>
   </header>
-  	<?php if ($page->weather()->isNotEmpty()): ?>
-    <div class="post-weather">
-    	<?php if ($page->weather_icon()->isNotEmpty()): ?>
-    	<img src="/assets/images/weather/day/<?= $page->weather_icon() ?>.png" width="32" height="32">
-    	<?php endif ?>
-    	<div><?= $page->weather() ?></div>
-    </div>
-    <?php endif ?>
+
     
 <?php if ($cover = $page->assignedCover()): ?>
 <figure class="featured-image-container">

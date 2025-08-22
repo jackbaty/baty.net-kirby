@@ -1,0 +1,29 @@
+Caption: 
+
+----
+
+Alt: 
+
+----
+
+Photographer: 
+
+----
+
+License: 
+
+----
+
+Link: 
+
+----
+
+Sort: 1
+
+----
+
+Uuid: ttxjzmyg2mwiak7k
+
+----
+
+Template: image

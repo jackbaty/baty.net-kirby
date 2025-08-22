@@ -1,0 +1,33 @@
+Title: 22 August 2025 (Friday)
+
+----
+
+Summary: 
+
+----
+
+Text: I have little interest in maintaining a custom build of _anything_. For example, this blog is managed using Kirby. I had to make all the templates myself so that it works the way I like. Now, I barely remember how anything works and heaven help me if I need to fix or change something. Maybe I'll just use it until it breaks.
+
+----
+
+Cover: - file://ykvwsveeirqs8ecd
+
+----
+
+Date: 2025-08-22 08:00:00
+
+----
+
+Weather: Fog 57.9 | Low 54.9, High 85.3
+
+----
+
+Weather-icon: 248
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: zqg1fhw48oposcze

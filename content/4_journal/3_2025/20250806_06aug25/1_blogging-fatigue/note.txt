@@ -1,0 +1,29 @@
+Title: Blogging fatigue
+
+----
+
+Text: I wrote [How much more is there to say?](https://baty.net/posts/2025/08/how-much-more-is-there-to-say/) this morning, because I haven't felt like writing blog posts. I'm more inclined to jot things here and not worry about structure or length or the appropriateness of topics. It's all I have the energy for, right now.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2025-08-06 06:55:00
+
+----
+
+Tags: Blogging
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: lvn2lnm2dsdrhtkh

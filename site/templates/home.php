@@ -8,11 +8,6 @@ $latestJournalDay = $latestJournal->date()->toDate('Y-m-d');
 
 if ($latestJournalDay == date('Y-m-d')) {
     $dayHeading = '☀️ ';
-    if ($latestJournal->weather_icon()->isNotEmpty()) {
-    	$dayWeatherIcon = '<img src="/assets/images/weather/day/' . $latestJournal->weather_icon() . '.png" width="32" height="32"> ';
-    } else {
-      $dayWeatherIcon = $dayHeading;
-    }
  } else {
     $dayHeading = '';
     $dayWeatherIcon = $dayHeading;
@@ -30,7 +25,7 @@ $recentPosts = $allPosts->limit(10);
 
 <!-- most recent daily journal -->
 <?php snippet('journal-home',['journal' => $latestJournal], slots: true) ?>
-	<?= $dayWeatherIcon ?>
+	
 <?php endsnippet() ?>
 <!-- /most recent daily post -->
 

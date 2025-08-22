@@ -1,0 +1,33 @@
+Title: 7 August 2025 (Thursday)
+
+----
+
+Summary: 
+
+----
+
+Text: I just noticed that the tag searches don't work here, for some reason. I don't feel like debugging, so this fits with the theme this week, I guess. Oh wait, the search works, but not at the individual Note level. Sigh, I forgot this used to be for both posts and journal entries, but I gutted it when making it just for the journal bits. Why do I do this to myself?
+
+----
+
+Cover: - file://v3cgzbjcjzwlmoiv
+
+----
+
+Date: 2025-08-07 05:55:00
+
+----
+
+Weather: Cloudy 69.1 | Low 65.7, High 90.5
+
+----
+
+Weather-icon: 119
+
+----
+
+Tags: Journal, Blogging
+
+----
+
+Uuid: y5mjbvcvnuh0lwe0

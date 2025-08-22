@@ -6,7 +6,7 @@
 <article class="post-excerpt">
 <h2 class="post-excerpt-title"><a href="<?= $post->url() ?>"><?= $post->title()->esc() ?></a></h2>
 <?php if ($post->template() == 'journal'): ?>
-  <div class="post-excerpt-date"><?= $post->weather() ?></div>
+  <div class="post-excerpt-date"></div>
   <?php else: ?>
 <time class="post-excerpt-date" datetime="<?= $post->published('c') ?>"><?= $post->published() ?><?php if (!empty($post->tags())): ?> | Tags: <?= $post->tags() ?><?php endif ?></time>
 <?php endif ?>

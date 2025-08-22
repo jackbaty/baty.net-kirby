@@ -1,0 +1,43 @@
+Title: Still conflicted about blogging approach and platforms
+
+----
+
+Text:
+
+I continue to overthink everything related to my blog(s). I want specific things for specific posts, depending on my mood that day. It’s exhausting. The dream of course is to have One Blog. I have 4 active sites right now. That’s more than one, for those who are counting.
+
+The new [baty.photo](https://baty.photo/) blog I’ve set up for posts about photography feels like the right move. That one stays. I like using Ghost for that.
+
+It’s the [daily.baty.net](https://daily.baty.net/) thing that has me conflicted. I like how both the Tinderbox and (currently) Kirby versions work. They’re good for showing a rolling set of random stuff, separated by day. [baty.net](https://baty.net), running Hugo, is less suited for it. It’s a combination of long posts, short posts, and these daily notes. The daily notes don’t feel like they belong there, which is why I keep trying to move them elsewhere. Except I don’t much feel like maintaining two places. Both the Kirby and Tinderbox versions are custom and fairly complex to use and maintain. Do I really need more of that?
+
+Thing is, none of this matters. Most folks visit via RSS anyway. And those who do actually come here, well, they don’t really care how it works. They just want to read the latest stuff (for some reason).
+
+OK, it just happened again. I’m reading this and realizing it doesn’t belong in a daily note. It should be a separate post. In Hugo that means moving a file on disk and renaming it and modifying the front matter. Ugh, right? Using Kirby, I just toggle “Show title” and it does the right thing. Now what? Kirby isn’t static. It’s not *difficult* to host, but it’s not simple, either.
+
+See how I am? Like I said, it’s exhausting.
+
+_(Originally posted on [baty.net](https://baty.net/journal/2025/08/07/today/))_
+
+----
+
+Showtitle: true
+
+----
+
+Date: 2025-08-07 05:55:00
+
+----
+
+Tags: Blogging
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: ahdgtbzqydz82ap8

@@ -1,0 +1,34 @@
+Title: At the park
+
+----
+
+Text:
+
+(image: file://xqmhv9cmjpwr2zhc class:right)
+
+Spent the morning hanging out with my daughter and grandson at a local park. Good times had by all. I knew the park was there, but I had no idea it was so nice. The beach is huge, and super clean. There's a trio of awesome playgrounds and a water "splash pad". So cool.
+<br clear="all">
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2025-08-06 14:10:00
+
+----
+
+Tags: Life
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: xfxgdj4n4kwdwop1

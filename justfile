@@ -6,7 +6,9 @@ TARGET := "Vultr FreeBSD"
 default:
         just --list
 
-
+serve:
+	php -S localhost:8000 kirby/router.php
+	
 checkpoint:
 	git add .
 	git diff-index --quiet HEAD || git commit -m "Publish checkpoint"

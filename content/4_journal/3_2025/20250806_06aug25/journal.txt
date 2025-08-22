@@ -1,0 +1,39 @@
+Title: 6 August 2025 (Wednesday)
+
+----
+
+Summary: 
+
+----
+
+Text:
+
+Today I'm visiting a local park with my daughter and grandson. Can't wait. After that it's mostly yard work in anticipation of in-laws visiting this weekend.
+
+\----
+
+There's a broken image in the header here and I don't know why it's not working. Must be a Kirby thing, but I don't feel like fixing it just yet.
+
+----
+
+Cover: - file://a7bmndz7poomgbkh
+
+----
+
+Date: 2025-08-06 05:25:00
+
+----
+
+Weather: Mist 63.0 | Low 63.9, High 87.8
+
+----
+
+Weather-icon: 143
+
+----
+
+Tags: Journal
+
+----
+
+Uuid: k2xsb5ftkjbbou5o
