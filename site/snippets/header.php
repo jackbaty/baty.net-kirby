@@ -90,7 +90,7 @@
     <h1><a href="<?= $site->url() ?>"><?= $site->title()->esc() ?></a></h1>
     <h3>Daily notes from Jack about everything</h3>
   </div>
-  <?php if($extraImg = $site->extra()): ?><img id="extra-image" src="/header-images/<?= $site->extra() ?>"><?php endif ?>
+  <?php if($extraImg = $site->extra()): ?><img id="extra-image" src="<?= $site->image('/header-images/' . $extraImg)->url() ?>"><?php endif ?>
   </div>
   <header class="header">
     <nav class="menu">
