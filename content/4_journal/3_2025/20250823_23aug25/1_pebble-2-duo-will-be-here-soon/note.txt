@@ -1,0 +1,29 @@
+Title: Pebble 2 Duo will be here soon
+
+----
+
+Text: I almost forgot that I'd pre-ordered a [Pebble 2 Duo](https://store.repebble.com)! It should [ship in September](https://ericmigi.com/blog/pebble-2-duo-is-in-mass-production). Pretty cool. I keep finding novel ways to avoid wearing my Apple Watch.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2025-08-23 07:00:00
+
+----
+
+Tags: Hardware
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: i1pxuymvb9vefy38

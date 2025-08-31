@@ -1,0 +1,35 @@
+Title: Post: The Mylio Conundrum
+
+----
+
+Text:
+
+[The Mylio conundrum | Baty.net](http://localhost:1313/posts/2025/08/the-mylio-conundrum/)
+
+> First, Mylio is a $240/year subscription. Many of you will shrug and walk away right there. I did too, but when I think about how much time and energy I spend dealing with all this, it feels more reasonable. It should be $10/month but I can’t control that.
+> 
+> Second, do I really want more software in the loop? I don’t, but Mylio adds a lot of value.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2025-08-28 08:15:00
+
+----
+
+Tags: Photography, Software
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: imxxsudsg1vqizpc

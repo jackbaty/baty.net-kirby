@@ -1,0 +1,29 @@
+Title: Exhausted by software
+
+----
+
+Text: Honestly, I'm exhausted by software right now. I've been trying too much at once. If you'll excuse me I'm going to go rub sticks together to make a fire.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2025-08-27 19:50:00
+
+----
+
+Tags: Software
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: wwhymcu1eqkpwug2

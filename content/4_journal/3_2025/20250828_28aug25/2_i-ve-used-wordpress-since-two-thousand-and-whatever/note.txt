@@ -1,0 +1,29 @@
+Title: "I've used WordPress since two thousand and whatever"
+
+----
+
+Text: I was asked what I might do differently if I had a chance to start over, with blogging. I said that I sometimes wish that I'd started using WordPress in the noughts and never changed anything. Is it too late to be that guy? :)
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2025-08-28 12:30:00
+
+----
+
+Tags: Blogging, WordPress
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: 4cgy4xftf2esnanb

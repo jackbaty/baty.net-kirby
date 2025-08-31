@@ -1,0 +1,29 @@
+Title: Couldn't stand the weather
+
+----
+
+Text: I removed the weather information from journal posts here. I'll likely do it on the other blog, too. It's only a little work to maintain, but it's work that doesn't get me anything. No one, not even me, cares what the weather was on a given day, so why bother with it? If it's important to the "story", I'll add it to the post.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2025-08-24 06:30:00
+
+----
+
+Tags: Blogging
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: 0zye8jud2dh3sx7a

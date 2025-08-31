@@ -1,0 +1,29 @@
+Title: Dealing with Kirby
+
+----
+
+Text: I'm _this_ close to liking [Kirby](https://getkirby.com) for the daily blog. I like how it works, and I don't mind using the panel for composing. What I don't like is managing the site vs the content. Everything feels intertwingled so that it's not just a matter of syncing ./site vs /content. For example, one shouldn't sync ./site/cache or ./site/accounts but should sync ./site/blueprints, etc. I post directly to the server via the panel, so that means I don't have recent content locally. I have a justfile that works around this, but it feels too fragile. For now I'm leaving things alone and ignoring the icky feeling it gives me. One day something will break and I'll have no clue how to fix it. That'll be fun.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2025-08-22 11:20:00
+
+----
+
+Tags: Blogging, Kirby
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: tv6b0uduqoj0hnjj

@@ -1,0 +1,35 @@
+Title: How to choose an app
+
+----
+
+Text:
+
+I wrote this in 2019.
+
+> I'm thinking that the apps you should use are the ones you tend to grab in an emergency, not the ones you tinker with all day on a Saturday just because they're neato.
+
+It's true.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2025-08-27 19:05:00
+
+----
+
+Tags: Software
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: sj9tqu8d6mz2ey3k

@@ -1,7 +1,7 @@
 SERVER_HOST := "server03.baty.net"
 SERVER_DIR := "/srv/daily.baty.net/public_html"
 PUBLIC_DIR := "/Users/jbaty/sites/daily.baty.net/"
-TARGET := "Vultr FreeBSD"
+TARGET := "Hetzner"
 
 default:
         just --list
@@ -16,7 +16,7 @@ checkpoint:
 pull:
 	rsync -avz {{SERVER_HOST}}:{{SERVER_DIR}}/content/ {{PUBLIC_DIR}}content \
 			--delete
-publish: checkpoint
+publish-disabled: checkpoint
 	@echo "\033[0;32mDeploying content to {{TARGET}}...\033[0m"
 	rsync -v -rz \
 		--checksum \
@@ -32,20 +32,15 @@ deploy: checkpoint
 			--checksum \
 			--delete \
 			--no-perms \
-			--exclude /logs/ \
 			--exclude .git/ \
-			--exclude /cache/ \
+			--exclude /storage/ \
+			--exclude /content/ \
+			--exclude /public/media/ \
 			--exclude /config/.license \
-			--exclude /accounts/.logins \
-			--exclude /sessions/ \
+			--exclude Caddyfile \
+			--exclude justfile \
+			--filter=':- .gitignore' \
 			{{PUBLIC_DIR}}site/ {{SERVER_HOST}}:{{SERVER_DIR}}/site
-	rsync   -v -rz \
-			--checksum \
-			--delete \
-			--no-perms \
-			--exclude /logs/ \
-			--exclude .git/ \
-			{{PUBLIC_DIR}}assets/ {{SERVER_HOST}}:{{SERVER_DIR}}/assets
 
 deployall: checkpoint
 	@echo "\033[0;32mDeploying updates to {{TARGET}}...\033[0m"
@@ -61,6 +56,6 @@ deployall: checkpoint
 			--exclude Makefile \
 			--filter=':- .gitignore' \
 			--exclude .gitignore.swp \
-			--exclude /accounts/.logins \
+			--exclude /storage/ \
 			--exclude /config/.license \
 			{{PUBLIC_DIR}} {{SERVER_HOST}}:{{SERVER_DIR}}

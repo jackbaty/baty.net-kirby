@@ -10,7 +10,8 @@ Text:
 
 A running list of changes I've made to this site. Most recent first.
 
-
+- 2025-08-22 Moved site back to Hetzner/Ubuntu
+- 2025-08-22 Removed weather from journals
 - 2025-03-19 Back with Kirby
 - 2025-03-14 Updated theme colors
 - 2025-03-07 Changed theme from Anubis2 to PaperMod

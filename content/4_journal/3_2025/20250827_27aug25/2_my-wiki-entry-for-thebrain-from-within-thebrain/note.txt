@@ -1,0 +1,35 @@
+Title: My wiki entry for TheBrain from within TheBrain
+
+----
+
+Text:
+
+In case you didn't think I could get any weirder.
+
+Here's a screenshot of [TheBrain](http://thebrain.com) rendering the page from my (link: https://rudimentarylathe.org/#TheBrain text: wiki entry for TheBrain) right in TheBrain's Notes pane...hahahaha.
+
+(image: file://q7zfo6vlnvnysuys)
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2025-08-27 19:15:00
+
+----
+
+Tags: Software
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: lb3w7ayogoz3zqw5

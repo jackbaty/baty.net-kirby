@@ -1,0 +1,29 @@
+Title: OmniFocus 4.7
+
+----
+
+Text: If you want to know which TODO app I use, just look for the one that's had the most recent updates. e.g. [OmniFocus 4.7](https://learnomnifocus.com/omnifocus-4-7-planned-dates-mutually-exclusive-tags-repeat-limits/).
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2025-08-26 15:15:00
+
+----
+
+Tags: Workflow, Software
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: d1ph2pmohmtv3ra1

@@ -1,0 +1,33 @@
+Title: Photo processing options
+
+----
+
+Text:
+
+Having a bit of a photo processing software showdown this week. I want something that works well with [Mylio](https://mylio.com) as a standalone editor or possibly a Photoshop plugin. So far I'm testing [Nik Collection by DxO](http://nikcollection.dxo.com) and [Radiant Photo](http://radiantimaginglabs.com). I wish I could buy just [Silver Efex](https://nikcollection.dxo.com/nik-silver-efex/) from the Nik Collection for like $69 or something, but they don't offer that. I may end up buying both packages, which seems like overkill.
+
+Well guess what, I canceled my Mylio order. Difficult decision, but probably for the best.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2025-08-30 08:15:00
+
+----
+
+Tags: Photography, Software
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: u8qaj489ajb12hes
