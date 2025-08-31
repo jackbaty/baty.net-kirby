@@ -9,6 +9,7 @@
  */
 return [
     'debug' => false,
+    'panel.install' => true,
     'home' => 'home',
     'markdown' => [
     	'extra' => true
