@@ -7,8 +7,8 @@ Icon
 # Temporary files
 # ---------------
 
-/media/*
-!/media/index.html
+/public/media/*
+!/public/media/index.html
 
 # Lock files
 # ---------------
@@ -26,32 +26,17 @@ Icon
 # NEVER publish these files via Git!
 # -------------SECURITY-------------
 
-# Cache Files
+# Cache/Accounts/Sessions Files
 # ---------------
 
-/site/cache/*
-!/site/cache/index.html
-
-# Accounts
-# ---------------
-
-/site/accounts/*
-!/site/accounts/index.html
-
-# Sessions
-# ---------------
-
-/site/sessions/*
-!/site/sessions/index.html
+/storage/*
+!/storage/cache/index.html
+!/storage/accounts/index.html
+!/storage/sessions/index.html
 
 # License
 # ---------------
 
 /site/config/.license
-
-/site/config/retour.yml
-/site/plugins/retour/assets/*
-/site/plugins/retour/assets/retour.sqlite
-/site/logs/*
 
 /Kirby.bbprojectd
