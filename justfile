@@ -40,7 +40,7 @@ deploy: checkpoint
 			--exclude Caddyfile \
 			--exclude justfile \
 			--filter=':- .gitignore' \
-			{{PUBLIC_DIR}}site/ {{SERVER_HOST}}:{{SERVER_DIR}}/site
+			{{PUBLIC_DIR}} {{SERVER_HOST}}:{{SERVER_DIR}}
 
 deployall: checkpoint
 	@echo "\033[0;32mDeploying updates to {{TARGET}}...\033[0m"
