@@ -34,7 +34,7 @@
    */
    
    if (isset($extracss)) {
-   $extracssurl = '/assets/css/templates/' . $extracss . '?ver=' . filemtime("assets/css/templates/" . $extracss);
+   $extracssurl = 'assets/css/templates/' . $extracss . '?ver=' . filemtime("assets/css/templates/" . $extracss);
    } else {
    $extracssurl = '@auto';
    }
