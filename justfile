@@ -7,7 +7,7 @@ default:
         just --list
 
 serve:
-	php -S localhost:8000 kirby/router.php
+	cd public/ && php -S localhost:8000 ../kirby/router.php
 	
 checkpoint:
 	git add .
