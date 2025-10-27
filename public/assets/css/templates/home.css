@@ -186,3 +186,12 @@ h2.recent:after {
 ul.note, div.post.text {
   margin: 2rem;
 }
+
+.post .status {
+  font-size: 0.8rem;
+  padding: 10px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  border-top: 1px solid var(--color-light);
+  border-bottom: 1px solid var(--color-light);
+}

@@ -45,6 +45,11 @@ columns:
               link: markdown
               file: markdown
             size: small
+          daily_status:
+            label: Status
+            type: textarea
+            size: small
+            default: "**STATUS**: \n **TODO**: \n"
       daily-notes:
         type: pages
         label: Notes for today

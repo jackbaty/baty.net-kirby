@@ -37,6 +37,11 @@
 </figure>
 <?php endif ?>
   
+  <?php if ($page->daily_status()->isNotEmpty()): ?>
+  <div class="post status">
+    <?= $page->daily_status()->kt() ?>
+  </div>
+  <?php endif ?>
   <div class="post text">
     <?= $page->text()->kt() ?>
   </div>
