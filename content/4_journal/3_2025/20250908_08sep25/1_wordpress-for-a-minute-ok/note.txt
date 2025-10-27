@@ -1,0 +1,34 @@
+Title: WordPress for a minute, ok?
+
+----
+
+Text:
+
+You're not going to believe this[^1], but I've been tinkering with WordPress again. [WordPress? WTF!? – Baty.blog](https://baty.blog/2025/09/wordpress-wtf/) So, yeah, another blog. I don't have a plan or a goal. I just wanted to see how it felt at this point in our lives. [What happens when I quit WordPress again?](https://baty.blog/2025/09/what-happens-when-i-quit-wordpress-again/). 
+
+
+[^1]: Narrator: "You're totally going to believe this"
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2025-09-08 19:30:00
+
+----
+
+Tags: Blogging, WordPress
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: zbqnoip4ytke5ut9

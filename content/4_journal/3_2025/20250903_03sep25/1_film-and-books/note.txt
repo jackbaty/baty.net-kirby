@@ -1,0 +1,29 @@
+Title: Film and books
+
+----
+
+Text: I'd like to buy film and photo books and that's it.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2025-09-03 10:25:00
+
+----
+
+Tags: Photography
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: mtwqgzxxm0iu57ax

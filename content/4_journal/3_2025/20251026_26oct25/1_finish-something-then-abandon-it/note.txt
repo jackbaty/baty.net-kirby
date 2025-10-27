@@ -1,0 +1,29 @@
+Title: Finish something, then abandon it
+
+----
+
+Text: You know what's dumb? I work on things for days and days and use them for months or years and tweak everything until it's all just so. Then I decide to use something else, so I have to start over. Told you it was dumb.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2025-10-26 21:00:00
+
+----
+
+Tags: 
+
+----
+
+Cover: 
+
+----
+
+Smallimage: - file://TKdqG2BZqWI74Amc
+
+----
+
+Uuid: rn87ose7i34b0p8d

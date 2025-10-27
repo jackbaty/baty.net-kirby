@@ -1,0 +1,33 @@
+Title: ...and that's all I need!
+
+----
+
+Text:
+
+(image: file://9jxss7pz2ffkswlk)
+
+Just the wiki and the blog and the other blog and that's it. That's all I need!
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2025-09-05 19:50:00
+
+----
+
+Tags: Blogging
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: taapgolkkmvaedfn

@@ -10,6 +10,8 @@ Text:
 
 A running list of changes I've made to this site. Most recent first.
 
+- 2025-08-31 Fixed header image
+- 2025-08-31 Reorganized site file layout
 - 2025-08-22 Moved site back to Hetzner/Ubuntu
 - 2025-08-22 Removed weather from journals
 - 2025-03-19 Back with Kirby

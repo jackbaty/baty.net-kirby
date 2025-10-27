@@ -27,6 +27,13 @@
 <?php endif ?>
   </figure>
 <?php endif ?>
+
+
+  <?php if ($journal->daily_status()->isNotEmpty()): ?>
+  <div class="post status">
+    <?= $journal->daily_status()->kt() ?>
+  </div>
+  <?php endif ?>
   
   <?php if ($journal->text()->isNotEmpty()): ?>
   <div class="post text">

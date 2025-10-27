@@ -1,0 +1,35 @@
+Title: A flower
+
+----
+
+Text:
+
+(image: file://s8fry9sxzmygbc6m class:right)
+
+I snapped a photo of this flower using the iPhone during my walk with Alice yesterday. I'm not normally one for flower macros, but this one jumped out at me, so I thought I'd (figuratively) bring it home with me. Noticing things is good.
+
+<br clear="all">
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2025-09-03 15:25:00
+
+----
+
+Tags: 
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: d5buedfcqpqghack

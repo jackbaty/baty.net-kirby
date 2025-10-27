@@ -1,0 +1,29 @@
+Title: I've been in Linux land, sorry
+
+----
+
+Text: For the past week or so I've been neck deep moving most of my "stuff" to Linux. Specifically [Omarchy](https://omarchy.org). It's consumed me, so I haven't been as interested in posting. This will subside at some point and things will be back to whatever the new normal is.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2025-09-18 00:30:00
+
+----
+
+Tags: Linux
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: onhnpdzdwahnsveb

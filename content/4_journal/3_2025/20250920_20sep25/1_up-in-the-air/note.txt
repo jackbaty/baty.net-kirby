@@ -1,0 +1,29 @@
+Title: Up in the air
+
+----
+
+Text: Everything is up in the air right now for me, process wise. Linux is messing with my head and making me think about every single component. This includes my blogs.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2025-09-20 12:30:00
+
+----
+
+Tags: Workflow, Linux
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: wjozfpb2neqtelnb

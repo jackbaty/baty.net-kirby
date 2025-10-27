@@ -1,0 +1,29 @@
+Title: Lightroom and Immich
+
+----
+
+Text: I spent time today working on a decent workflow between Lightroom (Classic) and [Immich](https://immich.app). After wrangling Mylio for a few days, I decided it was a nice-but-unnecessary part of my process. Also, it's too expensive. There's an [Immich plugin for Lightroom](https://github.com/bmachek/lrc-immich-plugin) and it seems to work well. I'm still tweaking things, but I'll try and write up a summary once I've gotten it all dialed in.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2025-09-01 18:30:00
+
+----
+
+Tags: Photography, Workflow
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: qg5fkn5ev8bskztk

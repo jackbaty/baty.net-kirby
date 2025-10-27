@@ -1,0 +1,29 @@
+Title: Feedspool
+
+----
+
+Text: [Les Orchard](https://lmorchard.com) made a thing, [Feedspool](https://github.com/lmorchard/feedspool-go), that works as a CLI interface for managing/reading RSS feeds. It uses sqlite and has a bunch of fun things built in. I'm pretty content with Elfeed in Emacs, but Feedspool is an interesting take.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2025-09-05 11:35:00
+
+----
+
+Tags: RSS
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: dtio9wlu1jt0v5sx

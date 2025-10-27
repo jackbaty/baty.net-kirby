@@ -1,0 +1,33 @@
+Title: Now Playing: Antidepressants by Suede
+
+----
+
+Text:
+
+(image: file://ppahbexbl6iqcro4)
+
+Not normally my style, but it's moody and I'm moody today, so.
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2025-09-05 13:45:00
+
+----
+
+Tags: Music
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: a6b6zxp49mnxril8

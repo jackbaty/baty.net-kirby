@@ -1,0 +1,51 @@
+Title: 27 October 2025 (Monday)
+
+----
+
+Summary: 
+
+----
+
+Text:
+
+I've started adding weather and date info to the daily images. Originally, I used Darktable's export options but have since discovered that the Batch Queue in digiKam can do it as well, and can be saved as a Workflow, which is what I'm using now.
+
+---
+
+----
+
+Daily-status:
+
+- **STATUS**: Futzing with Kirby for some reason.
+- **TODO**: Lawn work.
+- **READING**: 
+- **LISTENING**: Black Sabbath, "Paranoid" (on cassette)
+
+----
+
+Cover: - file://n0qwmyozmehvka0k
+
+----
+
+Date: 2025-10-27 09:15:00
+
+----
+
+Tags: - Journal
+
+----
+
+Status:
+
+- STATUS: 
+- TODO: 
+- READING: 
+- LISTENING:
+
+----
+
+Uuid: kewqu99yk6ylqug4
+
+----
+
+Subheadline: 

@@ -1,0 +1,29 @@
+Title: Moving things around in Kirby
+
+----
+
+Text: I've never liked how things are organized in the Kirby starter kit. For example, the /site folder contains stuff that needs to be specific to each environment (e.g. local dev vs production). Things like sessions/, accounts/, and cache/ can't be included when deploying the rest of the site/ folder. It requires a convoluted deploy script. Today, I reorganized the Kirby config (per [this](https://getkirby.com/docs/guide/configuration/custom-folder-setup)) so that the transient or environment-specific stuff is now in a root-level /storage folder. Everything needing access by the web server is now in a new ./public folder. This has a nice side effect of keeping everything else (like templates, code, etc.) outside of the web root. It really helped clean up my deployment script. (h/t [Kev](https://kevquirk.com))
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2025-08-31 13:00:00
+
+----
+
+Tags: Kirby
+
+----
+
+Cover: 
+
+----
+
+Smallimage: - file://M9FEHMuXqFyOc6QD
+
+----
+
+Uuid: qw5ifd8myjtyrl6q

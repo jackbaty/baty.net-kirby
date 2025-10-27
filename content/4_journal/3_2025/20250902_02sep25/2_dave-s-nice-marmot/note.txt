@@ -1,0 +1,29 @@
+Title: Dave's Nice Marmot
+
+----
+
+Text: I like bloggers who narrate their lives the way Dave Rogers does at [Nice Marmot](https://nice-marmot.net/About.html#note_3129).
+
+----
+
+Showtitle: false
+
+----
+
+Date: 2025-09-02 20:50:00
+
+----
+
+Tags: Blogging
+
+----
+
+Cover: 
+
+----
+
+Smallimage: 
+
+----
+
+Uuid: 1m3uqm8org1fe8cg
