@@ -49,7 +49,7 @@ columns:
             label: Status
             type: textarea
             size: small
-            default: "**STATUS**: \n **TODO**: \n"
+            default: "**STATUS**: \n **PLANS**: \n"
       daily-notes:
         type: pages
         label: Notes for today
