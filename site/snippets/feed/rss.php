@@ -25,8 +25,6 @@ echo '<?xml version="1.0" encoding="utf-8"?>';
   </figure>
 <?php endif ?>
   <?= $item->{$textfield}()->kt() ?>
-  
-  <?= snippet('reply-by-email', ['page' => $item]) ?>
   ]]></description>
       <?php elseif ($item->template() == 'post'): ?>
       <description><![CDATA[
