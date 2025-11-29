@@ -28,7 +28,6 @@ echo '<?xml version="1.0" encoding="utf-8"?>';
 
         <![CDATA[<?= $item->postContent(); ?>]]>
 
-        <![CDATA[<p style="font-size:1.3rem;" class="feed-email-link"><a href="mailto:<?= Xml::encode(site()->email()) ?>?subject=<?= Xml::encode($item->title()) ?>">Reply to this post by email</a></p>]]>
       </description>
     </item>
     <?php endforeach; ?>
