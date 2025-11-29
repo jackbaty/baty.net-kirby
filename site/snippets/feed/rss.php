@@ -37,8 +37,6 @@ echo '<?xml version="1.0" encoding="utf-8"?>';
 <?php endif ?>
   <?= $item->{$textfield}()->kt() ?>
 
-
-<?= snippet('reply-by-email', ['page' => $item]) ?>
 ]]></description>
       <?php endif ?>
     </item>
